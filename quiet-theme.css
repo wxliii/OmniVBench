@@ -1,0 +1,51 @@
+/* Restrained academic palette: warm paper, ink blue-gray, muted copper. */
+:root {
+  --bg: #f4f1eb;
+  --panel: #ebe7df;
+  --panel2: #e1ddd4;
+  --ink: #1c292e;
+  --muted: #69747a;
+  --line: rgba(28, 41, 46, .16);
+  --accent: #9b6d5b;
+}
+
+html, body { background: var(--bg); color: var(--ink); }
+.site-header { border-color: var(--line); }
+.site-header nav { color: #59666b; }
+.site-header nav a:hover { color: var(--accent); }
+.preview-tag { color: #59666b; border-color: var(--line); }
+.site-header nav.open { background: rgba(244, 241, 235, .97); }
+.results-table thead { background: var(--panel2); color: var(--muted); }
+.results-table tbody tr:hover { background: var(--panel2); }
+.benchmark-console { background: var(--panel); border-color: var(--line); }
+.reference-rail { background: var(--panel2); }
+.criterion { background: var(--panel); }
+.resource-section { background: radial-gradient(ellipse at 80% 40%, #9b6d5b12, transparent 60%), var(--bg); }
+.dialog { background: var(--panel); border-color: var(--line); }
+.dialog-close { background: var(--panel); }
+.dialog::backdrop { background: rgba(28, 41, 46, .55); }
+
+/* The cover keeps the media wall, while the light veil makes the first screen calmer. */
+.dataset-page .site-header { background: linear-gradient(#f4f1ebd9, transparent); color: var(--ink); }
+.dataset-page .site-header nav { color: #59666b; }
+.immersive-cover { background: #d9d5cc; }
+.wall-tile { background: #343b3d; }
+.cover-shade {
+  background: radial-gradient(ellipse at 50% 44%, rgba(244, 241, 235, .90) 0%, rgba(244, 241, 235, .72) 34%, rgba(244, 241, 235, .14) 73%),
+    linear-gradient(0deg, #d9d5cc 0%, rgba(217, 213, 204, .10) 28%, rgba(244, 241, 235, .24) 100%);
+}
+.cover-content h1 { color: #1c292e; text-shadow: 0 4px 35px rgba(255, 255, 255, .45); }
+.cover-kicker { color: #896050; }
+.cover-content h1 span { color: #9b6d5b; }
+.cover-description { color: #3d4b51; text-shadow: 0 2px 12px rgba(255, 255, 255, .55); }
+.cover-benchmark { color: #26363b; border-color: rgba(38, 54, 59, .35); }
+.cover-bottom, .cover-bottom button { color: #4b595e; }
+.wall-ref-extra { background: rgba(28, 41, 46, .74); }
+.composition-workbench, .inline-prompt, .all-model-card { background: var(--panel); }
+.inline-prompt > p { color: #425158; }
+.single-input img, .single-input video, .composition-assets img { background: #d8d5ce; }
+.citation-code { background: #e7e3dc; color: #334249; }
+
+@media (max-width: 760px) {
+  .site-header nav { background: rgba(244, 241, 235, .97); }
+}
