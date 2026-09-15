@@ -277,4 +277,18 @@
     $$('.reveal').forEach(e => observer.observe(e));
   }
 
+  const citationCopy = $('[data-copy-citation]');
+  if (citationCopy) {
+    const citationCode = $('.citation-code code');
+    const citationStatus = $('[data-citation-status]');
+    citationCopy.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(citationCode.textContent);
+        citationStatus.textContent = 'BibTeX copied to clipboard.';
+      } catch {
+        citationStatus.textContent = 'Select and copy the BibTeX above.';
+      }
+    });
+  }
+
 })();
