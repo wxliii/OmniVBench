@@ -16,93 +16,125 @@
     const total = Math.max(0, Math.floor(value || 0));
     return `${String(Math.floor(total / 60)).padStart(2, '0')}:${String(total % 60).padStart(2, '0')}`;
   };
-  // Play a reference video and the target together, scrubbing by the same fraction.
+  // One control bar for the target and every video reference in a sample.
   function createSyncBar(selector, collect) {
     const bar = $(selector);
-    const nothing = { stop() {}, refresh() {}, show() {} };
-    if (!bar) return nothing;
     const button = $('.transport-play', bar), seek = $('input[type=range]', bar);
     const time = $('.mono', bar), reset = $('.subtle-button', bar);
-    let playing = false, frame = 0;
+    let playing = false, frame = 0, pending = null;
     const stop = () => {
-      playing = false; cancelAnimationFrame(frame);
-      button.innerHTML = '▶ <span>Play together</span>';
-      button.setAttribute('aria-label', 'Play reference and target together');
+      playing = false;
+      cancelAnimationFrame(frame);
+      pending?.abort();
+      pending = null;
+      button.innerHTML = '▶ <span>Play</span>';
+      button.setAttribute('aria-label', 'Play sample');
       collect().forEach(v => v.pause());
     };
-    // Wait until every clip can actually play: starting straight away makes them drift apart.
-    const ready = video => new Promise(resolve => {
+    const ready = (video, signal) => new Promise((resolve, reject) => {
+      if (signal.aborted) return reject(new Error('Playback cancelled'));
+      if (video.error) return reject(video.error);
       if (video.readyState >= 2) return resolve();
-      video.addEventListener('loadeddata', resolve, { once: true });
-      video.addEventListener('error', resolve, { once: true });
+      const clean = () => {
+        video.removeEventListener('loadeddata', loaded);
+        video.removeEventListener('error', failed);
+        signal.removeEventListener('abort', failed);
+      };
+      const loaded = () => { clean(); resolve(); };
+      const failed = () => { clean(); reject(new Error('Video unavailable or playback cancelled')); };
+      video.addEventListener('loadeddata', loaded);
+      video.addEventListener('error', failed);
+      signal.addEventListener('abort', failed);
+      video.preload = 'auto';
+      if (video.networkState !== 2) video.load();
     });
-    const align = () => {
-      const [lead, ...rest] = collect();
-      if (!lead || !Number.isFinite(lead.duration) || !lead.duration) return;
-      const fraction = lead.currentTime / lead.duration;
-      rest.forEach(v => {
-        if (!Number.isFinite(v.duration)) return;
-        const wanted = fraction * v.duration;
-        if (Math.abs(v.currentTime - wanted) > 0.1) v.currentTime = wanted;
+    const seekTo = fraction => {
+      collect().forEach(v => {
+        if (Number.isFinite(v.duration)) v.currentTime = fraction * v.duration;
       });
-      seek.value = Math.round(fraction * 1000);
-      time.textContent = fmtTime(lead.currentTime);
+      const lead = collect()[0];
+      time.textContent = fmtTime(Number.isFinite(lead?.duration) ? fraction * lead.duration : 0);
     };
     const tick = () => {
       if (!playing) return;
-      align();
+      const [lead, ...rest] = collect();
+      if (lead && Number.isFinite(lead.duration) && lead.duration) {
+        const fraction = lead.currentTime / lead.duration;
+        rest.forEach(v => {
+          if (Number.isFinite(v.duration) && Math.abs(v.currentTime - fraction * v.duration) > 0.15)
+            v.currentTime = fraction * v.duration;
+        });
+        seek.value = Math.round(fraction * 1000);
+        time.textContent = fmtTime(lead.currentTime);
+      }
       frame = requestAnimationFrame(tick);
     };
     button.addEventListener('click', async () => {
       if (playing) return stop();
-      const videos = collect();
-      if (videos.length < 2) return;
       stopEverything();
-      videos.forEach(v => { if (!v.src) v.src = v.dataset.src; });
+      const videos = collect();
+      const request = new AbortController();
+      pending = request;
       playing = true;
-      button.innerHTML = 'Ⅱ <span>Pause together</span>';
-      button.setAttribute('aria-label', 'Pause reference and target');
-      await Promise.all(videos.map(ready));
-      if (!playing) return;
-      videos.forEach(v => { v.currentTime = 0; });
+      button.innerHTML = '❚❚ <span>Pause</span>';
+      button.setAttribute('aria-label', 'Pause sample');
       try {
+        await Promise.all(videos.map(v => ready(v, request.signal)));
+        if (request.signal.aborted) return;
+        if (videos[0].ended || Number(seek.value) >= 1000) seek.value = 0;
+        seekTo(Number(seek.value) / 1000);
+        videos.forEach(v => {
+          const rate = v.duration / videos[0].duration;
+          v.playbackRate = Number.isFinite(rate) ? Math.max(0.0625, Math.min(16, rate)) : 1;
+        });
         await Promise.all(videos.map(v => v.play()));
-      } catch (error) {
-        stop();
-        return;
+        if (request.signal.aborted) return;
+        frame = requestAnimationFrame(tick);
+      } catch {
+        if (!request.signal.aborted) stop();
       }
-      frame = requestAnimationFrame(tick);
     });
     reset.addEventListener('click', () => {
       stop();
-      collect().forEach(v => { if (v.readyState) v.currentTime = 0; });
-      seek.value = 0; time.textContent = '00:00';
+      seek.value = 0;
+      seekTo(0);
     });
-    seek.addEventListener('input', () => {
-      const fraction = Number(seek.value) / 1000;
-      collect().forEach(v => { if (Number.isFinite(v.duration)) v.currentTime = fraction * v.duration; });
-    });
+    seek.addEventListener('input', () => seekTo(Number(seek.value) / 1000));
+    const ended = () => {
+      stop();
+      seek.value = 1000;
+      seekTo(1);
+    };
     return {
       stop,
       refresh() {
         stop();
-        collect().forEach(v => v.addEventListener('ended', stop));
-        seek.value = 0; time.textContent = '00:00';
+        collect().forEach(v => { v.controls = false; });
+        collect()[0]?.addEventListener('ended', ended);
+        seek.value = 0;
+        time.textContent = '00:00';
+        bar.hidden = false;
       },
-      show(flag) { bar.hidden = !flag; },
     };
   }
   const singleSync = createSyncBar('#single-transport',
-    () => [...$$('#single-media video'), $('#single-target')].filter(Boolean));
+    () => [$('#single-target'), ...$$('#single-media video')].filter(Boolean));
   const compositionSync = createSyncBar('#composition-transport',
-    () => [...$$('#composition-refs video'), $('#composition-target')].filter(Boolean));
+    () => [$('#composition-target'), ...$$('#composition-refs video')].filter(Boolean));
+  let dialogSync = null;
+  function stopEverything() {
+    singleSync.stop();
+    compositionSync.stop();
+    dialogSync?.stop();
+  }
   const dialog = $('#sample-dialog');
   const showDialog = html => {
+    stopEverything();
     if (dialog.open) dialog.close();
     $('#dialog-content').innerHTML = html;
     dialog.showModal(); dialog.scrollTop = 0;
   };
-  const stopDialogMedia = () => $$('video', dialog).forEach(v => v.pause());
+  const stopDialogMedia = () => { dialogSync?.stop(); $$('video', dialog).forEach(v => v.pause()); };
   $('#dialog-close').addEventListener('click', () => dialog.close());
   dialog.addEventListener('close', stopDialogMedia);
   dialog.addEventListener('click', e => {
@@ -119,7 +151,9 @@
 
   let sampleLanguage = 'en';
   function openSample(sample) {
-    showDialog(`<div class="dialog-heading"><span class="eyebrow">OMNI-R2V DATASET / ${esc(sample.family).toUpperCase()}</span><h2 id="dialog-title">${esc(sample.title)}</h2><p>${esc(sample.id)}</p></div><div class="dialog-view"><div class="dialog-refs">${sample.references.map((r, i) => `<div>${r.modality === 'video' ? `<video src="${esc(r.src)}" poster="${esc(r.poster)}" muted playsinline controls preload="none" aria-label="${esc(r.label)} reference"></video>` : `<img src="${esc(r.src)}" alt="${esc(r.label)} reference ${i + 1}">`}<span>${String(i + 1).padStart(2, '0')} / INPUT ${r.group || '—'} · ${esc(r.label).replaceAll('_',' ').toUpperCase()}</span></div>`).join('')}</div><div class="dialog-target"><span class="mono">THE TRAINING TARGET</span><video src="${esc(sample.target.src)}" poster="${esc(sample.target.poster)}" muted playsinline controls preload="metadata" aria-label="Training target video"></video></div></div><div class="dialog-prompt"><div class="prompt-header"><span class="eyebrow">ORIGINAL INSTRUCTION</span><div class="language-toggle"><button data-sample-lang="en">EN</button><button data-sample-lang="cn">中文</button></div></div><p id="sample-prompt"></p></div>`);
+    showDialog(`<div class="dialog-heading"><span class="eyebrow">OMNI-R2V DATASET / ${esc(sample.family).toUpperCase()}</span><h2 id="dialog-title">${esc(sample.title)}</h2><p>${esc(sample.id)}</p></div><div class="dialog-view"><div class="dialog-refs">${sample.references.map((r, i) => `<div>${r.modality === 'video' ? `<video src="${esc(r.src)}" poster="${esc(r.poster)}" muted playsinline preload="none" aria-label="${esc(r.label)} reference"></video>` : `<img src="${esc(r.src)}" alt="${esc(r.label)} reference ${i + 1}">`}<span>${String(i + 1).padStart(2, '0')} / INPUT ${r.group || '—'} · ${esc(r.label).replaceAll('_',' ').toUpperCase()}</span></div>`).join('')}</div><div class="dialog-target"><span class="mono">THE TRAINING TARGET</span><video src="${esc(sample.target.src)}" poster="${esc(sample.target.poster)}" muted playsinline preload="metadata" aria-label="Training target video"></video></div></div><div class="transport sync-bar" id="dialog-transport"><button class="transport-play" aria-label="Play sample">▶ <span>Play</span></button><button class="subtle-button" aria-label="Restart sample">↺</button><input type="range" min="0" max="1000" value="0" aria-label="Sample playback position"><span class="mono">00:00</span></div><div class="dialog-prompt"><div class="prompt-header"><span class="eyebrow">ORIGINAL INSTRUCTION</span><div class="language-toggle"><button data-sample-lang="en">EN</button><button data-sample-lang="cn">中文</button></div></div><p id="sample-prompt"></p></div>`);
+    dialogSync = createSyncBar('#dialog-transport', () => [...$$('.dialog-target video', dialog), ...$$('.dialog-refs video', dialog)]);
+    dialogSync.refresh();
     const setLanguage = lang => {
       sampleLanguage = lang; $('#sample-prompt').textContent = sample['prompt_' + lang];
       $$('[data-sample-lang]').forEach(b => { b.classList.toggle('active', b.dataset.sampleLang === lang); b.setAttribute('aria-pressed', b.dataset.sampleLang === lang); });
@@ -129,6 +163,8 @@
   }
   const wall = $('#dataset-wall');
   const roleLabel = r => r.label.replaceAll('_',' ');
+  const referenceCandidateNote = 'Multiple images within an input group are reference candidates for the same subject. Select or filter them to suit your training setup.';
+  const hasSubjectCandidates = refs => refs.filter(r => r.modality === 'image' && r.label === 'subject').length > 1;
   const coverRefs = d => {
     const selected=[], groups=new Set(), roles=new Set();
     d.references.forEach(ref=>{if(!roles.has(ref.label)){roles.add(ref.label);groups.add(ref.group||ref.label);selected.push(ref);}});
@@ -171,17 +207,17 @@
     const d=items[position], ref=d.references[0];
     $('#single-position').textContent=`${position+1} / ${items.length}`;
     $('#single-prev').disabled=$('#single-next').disabled=items.length<2;
-    $('#single-role').textContent=`${ref.modality.toUpperCase()} REFERENCE / ${roleLabel(ref)}`;
+    $('#single-role').textContent=`${ref.modality === 'video' ? 'Video' : 'Image'} reference · ${roleLabel(ref)}`;
+    $('#single-reference-note').textContent = referenceCandidateNote;
+    $('#single-reference-note').hidden = !hasSubjectCandidates(d.references);
     // One input group can hold several assets of the same reference.
     $('#single-media').innerHTML=d.references.map(r=>r.modality==='video'
-      ? `<video src="${esc(r.src)}" poster="${esc(r.poster)}" controls muted playsinline preload="none" aria-label="${esc(roleLabel(r))} input reference"></video>`
+      ? `<video src="${esc(r.src)}" poster="${esc(r.poster)}" muted playsinline preload="none" aria-label="${esc(roleLabel(r))} input reference"></video>`
       : `<img src="${esc(r.src)}" alt="${esc(roleLabel(r))} input reference" loading="lazy">`).join('');
     setMedia($('#single-target'),d.target);
     const refVideos=$$('#single-media video');
     refVideos.forEach(v=>v.muted=true);
-    singleSync.show(refVideos.length>0);
     singleSync.refresh();
-    $('#single-caption').textContent=`${d.references.length} reference asset${d.references.length>1?'s':''} · 1 input group · ${d.id}`;
     singlePrompt();
     $('#single-open').onclick=()=>openSample(d);
     renderSingleTabs();
@@ -195,7 +231,15 @@
 
   // Reference groups come directly from inputs[]; semantic subject indices are not inferred.
   const compositionTasks=['multi_content','content_style','content_lineart','content_storyboard'];
-  const examples=compositionTasks.map(task=>data.datasets.filter(d=>d.subtask===task)).filter(items=>items.length);
+  const examples=compositionTasks.map(task=>{
+    const items=data.datasets.filter(d=>d.subtask===task);
+    if(task==='multi_content'){
+      // Lead with the selected showcase; preserve the order of the remaining cases.
+      const featured=items.findIndex(d=>d.id==='r2v_multi_content_012231');
+      if(featured>0)items.unshift(...items.splice(featured,1));
+    }
+    return items;
+  }).filter(items=>items.length);
   let compositionTask=0,compositionPosition=0,compositionLanguage='en';
   function compositionPrompt(){
     $('#composition-instruction').textContent=examples[compositionTask][compositionPosition]['prompt_'+compositionLanguage];
@@ -211,19 +255,24 @@
     $$('[data-composition]').forEach(b=>b.onclick=()=>renderComposition(Number(b.dataset.composition)));
   }
   function renderComposition(index,position=0){
+    compositionSync.stop();
     compositionTask=index;compositionPosition=position;
     const items=examples[index], d=items[position];
     $('#composition-position').textContent=`${position+1} / ${items.length}`;
     $('#composition-prev').disabled=$('#composition-next').disabled=items.length<2;
     const groups=new Map();
     d.references.forEach(ref=>{const key=ref.group||ref.label;if(!groups.has(key))groups.set(key,[]);groups.get(key).push(ref);});
-    $('#composition-refs').innerHTML=[...groups.entries()].map(([key,refs],i)=>`<div class="composition-group"><span class="eyebrow">INPUT ${i+1} / ${esc(roleLabel(refs[0]))}</span><div class="composition-assets">${refs.map(ref=>ref.modality==='video'
-      ? `<figure><video src="${esc(ref.src)}" poster="${esc(ref.poster)}" muted playsinline controls preload="none" aria-label="${esc(roleLabel(ref))} video reference"></video><figcaption>VIDEO REFERENCE</figcaption></figure>`
-      : `<figure><img src="${esc(ref.poster)}" alt="${esc(roleLabel(ref))} reference" loading="lazy"><figcaption>IMAGE REFERENCE</figcaption></figure>`).join('')}</div></div>`).join('');
+    $('#composition-refs').innerHTML=[...groups.entries()].map(([key,refs],i)=>`<div class="composition-group"><span class="eyebrow">Input ${i+1} · ${esc(roleLabel(refs[0]))}</span><div class="composition-assets">${refs.map(ref=>ref.modality==='video'
+      ? `<figure><video src="${esc(ref.src)}" poster="${esc(ref.poster)}" muted playsinline preload="none" aria-label="${esc(roleLabel(ref))} video reference"></video><figcaption>Video reference</figcaption></figure>`
+      : `<figure><img src="${esc(ref.poster)}" alt="${esc(roleLabel(ref))} reference" loading="lazy"><figcaption>Image reference</figcaption></figure>`).join('')}</div></div>`).join('');
+    if ([...groups.values()].some(hasSubjectCandidates)) {
+      const note = document.createElement('p');
+      note.className = 'reference-candidate-note';
+      note.textContent = referenceCandidateNote;
+      $('#composition-refs').prepend(note);
+    }
     setMedia($('#composition-target'),d.target);
-    compositionSync.show($$('#composition-refs video').length>0);
     compositionSync.refresh();
-    $('#composition-caption').textContent=`${d.references.length} reference assets · ${groups.size} input groups · ${d.id}`;
     compositionPrompt();
     $('#composition-open').onclick=()=>openSample(d);
     renderCompositionTabs();
@@ -232,7 +281,7 @@
   $('#composition-next').onclick=()=>renderComposition(compositionTask,(compositionPosition+1)%examples[compositionTask].length);
   $$('[data-composition-lang]').forEach(b=>b.onclick=()=>{compositionLanguage=b.dataset.compositionLang;compositionPrompt();});
   if(examples.length)renderComposition(0);
-  new IntersectionObserver(entries=>{if(!entries[0].isIntersecting)$('#composition-target').pause();}).observe($('#composition-target'));
+  new IntersectionObserver(entries=>{if(!entries[0].isIntersecting)compositionSync.stop();}).observe($('#composition-target'));
   let motion = !reduceMotion, coverVisible = true;
   const videos = $$('[data-wall-video]');
   // Play only six previews at once; all other tiles retain their real target posters.
@@ -241,7 +290,7 @@
     const running = motion && coverVisible && !document.hidden;
     document.body.classList.toggle('wall-paused', !running);
     videos.forEach(v=>{if(running && active.includes(v)) playSafely(v);else v.pause();});
-    $('#wall-motion').textContent=motion?'Pause motion Ⅱ':'Play motion ▶';
+    $('#wall-motion').textContent=motion?'Pause motion':'Play motion';
     $('#wall-motion').setAttribute('aria-pressed',String(motion));
   }
   $('#wall-motion').addEventListener('click',()=>{motion=!motion;updateMotion();});
@@ -259,7 +308,7 @@
       wall.style.setProperty('--pointer-y',`${(e.clientY/innerHeight-.5)*12}px`);
     });
   }
-  document.addEventListener('visibilitychange',()=>{updateMotion();if(document.hidden) {stopDialogMedia();$('#composition-target').pause();}});
+  document.addEventListener('visibilitychange',()=>{updateMotion();if(document.hidden) {stopEverything();stopDialogMedia();}});
   updateMotion();
 
   $('.menu-toggle').addEventListener('click', () => {

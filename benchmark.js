@@ -72,20 +72,18 @@
   }
   function renderBenchmark(index) {
     benchIndex = index; const b = bench();
-    $('#case-example-label').textContent=`Example ${visibleCases.indexOf(index)+1}`;
     $('#case-position').textContent=`${visibleCases.indexOf(index)+1} / ${visibleCases.length}`;
-    $('#case-id').textContent = taxonomy[selectedFamily].tasks[selectedTask][1];
-    $('#bench-references').innerHTML = b.references.map((r, i) => `<button class="bench-ref" data-reference="${i}" aria-label="Inspect ${esc(r.label)} reference ${i + 1}"><img src="${esc(r.poster)}" alt="${esc(r.label)} reference" loading="lazy">${r.modality === 'video' ? '<i>▶</i>' : ''}<span>${String(i + 1).padStart(2, '0')} / ${esc(r.label)}</span></button>`).join('');
+    $('#bench-references').innerHTML = b.references.map((r, i) => `<button class="bench-ref" data-reference="${i}" aria-label="Inspect ${esc(r.label)} reference ${i + 1}"><img src="${esc(r.poster)}" alt="${esc(r.label)} reference" loading="lazy">${r.modality === 'video' ? '<i>▶</i>' : ''}<span>${esc(r.label)}</span></button>`).join('');
     $$('[data-reference]').forEach(button => button.addEventListener('click', () => {
       const r = b.references[Number(button.dataset.reference)]; openAsset(r, r.label + ' reference', r.role_cn || '');
     }));
     const available = Object.keys(b.outputs).filter(k => b.outputs[k]);
     resultPosterObserver.disconnect();
     $$('#all-model-outputs video').forEach(v=>{v.pause();v.removeAttribute('src');v.load();});
-    $('#all-model-outputs').innerHTML=Object.entries(data.models).map(([key,label])=>`<article class="all-model-card"><h4>${esc(label)}</h4>${b.outputs[key]?`<video src="${esc(b.outputs[key].src)}" data-poster="${esc(b.outputs[key].poster)}" muted playsinline controls preload="none" aria-label="${esc(label)} output for ${esc(b.id)}"></video><a href="${esc(b.outputs[key].src)}" target="_blank" rel="noopener" class="text-link">Open web video ↗</a>`:'<p class="unavailable-output">Output unavailable for this case.</p>'}</article>`).join('');
+    $('#all-model-outputs').innerHTML=Object.entries(data.models).map(([key,label])=>`<article class="all-model-card"><h4>${esc(label)}</h4>${b.outputs[key]?`<video src="${esc(b.outputs[key].src)}" data-poster="${esc(b.outputs[key].poster)}" muted playsinline controls preload="none" aria-label="${esc(label)} output for ${esc(b.id)}"></video><a href="${esc(b.outputs[key].src)}" target="_blank" rel="noopener" class="text-link">Open video ↗</a>`:'<p class="unavailable-output">Output unavailable for this case.</p>'}</article>`).join('');
     $$('#all-model-outputs video').forEach(v=>resultPosterObserver.observe(v));
-    $('#all-models-count').textContent=`${available.length} / ${Object.keys(data.models).length} model outputs available · ${taxonomy[selectedFamily].tasks[selectedTask][1]} · Example ${visibleCases.indexOf(index)+1}`;
-    $$('#all-model-outputs video').forEach(v=>v.addEventListener('error',()=>{v.insertAdjacentHTML('afterend','<p class="evidence-note">Browser playback unavailable. Use the original video link.</p>');},{once:true}));
+    $('#all-models-count').textContent=available.length===Object.keys(data.models).length ? `${available.length} model outputs` : `${available.length} of ${Object.keys(data.models).length} model outputs available`;
+    $$('#all-model-outputs video').forEach(v=>v.addEventListener('error',()=>{v.insertAdjacentHTML('afterend','<p class="evidence-note">Browser playback unavailable. Use the Open video link.</p>');},{once:true}));
     $('#bench-prompt').classList.remove('expanded'); $('#expand-prompt').setAttribute('aria-expanded', 'false'); $('#expand-prompt').textContent = 'Read full instruction +';
     renderInstruction();
   }
