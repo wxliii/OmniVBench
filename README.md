@@ -18,13 +18,13 @@
 
 </div>
 
-## 🔥 News
-
-- **[2026.09]** The OmniVBench project page and Omni-R2V Dataset are now available.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/wxliii/OmniVBench/gh-pages/img/teaser-paper.webp" width="100%" alt="Overview of the OmniVBench task taxonomy and Omni-R2V Dataset statistics">
 </p>
+
+## 🔥 News
+
+- **[2026.09]** The OmniVBench project page and Omni-R2V Dataset are now available.
 
 ## ✨ Highlights
 
