@@ -74,6 +74,18 @@ a.cover-resource[href]:hover{background:#35454c;border-color:#35454c}
 .highlight-icon svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
 .dataset-highlights h3,.benchmark-highlights h3{font-size:19px;font-weight:600;line-height:1.35;letter-spacing:-.2px;margin-bottom:10px}
 .dataset-highlights p,.benchmark-highlights p{font-size:14px;line-height:1.7;color:#536168}
+.paper-figure{margin:16px 0 36px;padding:22px 24px 26px;border:1px solid var(--line);border-radius:6px;background:#fbfaf7;isolation:isolate}
+.paper-figure figcaption{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:22px}
+.paper-figure h3{font-size:19px;line-height:1.35;letter-spacing:-.2px;font-weight:600}
+.paper-figure-link{flex-shrink:0;font-size:12px;color:#536168;text-underline-offset:4px}
+.paper-figure-link:hover{text-decoration:underline;color:var(--accent)}
+.paper-figure-image{max-width:680px;margin:0 auto;mix-blend-mode:multiply}
+.paper-figure-image a{display:block;cursor:zoom-in}
+.paper-figure img{display:block;width:100%;height:auto}
+.section.dataset-statistics-section{padding-top:0}
+.dataset-statistics-section .dataset-profile{margin:0}
+.benchmark-paper-figure{margin-top:32px}
+.benchmark-paper-figure .paper-figure-image{max-width:900px}
 
 /* Benchmark page hero */
 .benchmark-page .benchmark-section{padding-top:56px}
@@ -101,11 +113,11 @@ a.cover-resource[href]:hover{background:#35454c;border-color:#35454c}
 .benchmark-page .all-model-card h4{font-weight:600}
 
 /* Benchmark taxonomy */
-.benchmark-taxonomy{margin:36px 0 44px}
-.benchmark-taxonomy figure{margin:0;display:grid;grid-template-columns:minmax(0,.95fr) minmax(0,1fr);gap:clamp(30px,5vw,76px);align-items:center;padding:32px 40px;border:1px solid var(--line);background:var(--panel);border-radius:10px}
-.benchmark-taxonomy figure>img{width:100%;height:auto;max-width:430px;justify-self:center;border-radius:6px}
+.benchmark-taxonomy{margin:16px 0 36px}
+.benchmark-taxonomy figure{margin:0;display:grid;grid-template-columns:minmax(0,.95fr) minmax(0,1fr);gap:clamp(24px,4vw,56px);align-items:center;padding:24px;border:1px solid var(--line);background:#fbfaf7;border-radius:6px;isolation:isolate}
+.benchmark-taxonomy figure>img{width:100%;height:auto;max-width:350px;justify-self:center;mix-blend-mode:multiply}
 .benchmark-taxonomy figcaption{min-width:0;padding:8px 0}
-.benchmark-taxonomy h2{font-size:clamp(24px,2.4vw,30px);line-height:1.25;letter-spacing:-.4px;margin:17px 0}
+.benchmark-taxonomy h2{font-size:21px;line-height:1.35;letter-spacing:-.2px;margin:12px 0}
 .benchmark-taxonomy figcaption>p{color:#536168;font-size:14px;line-height:1.8;max-width:410px}
 .taxonomy-caption-group{margin-top:25px}
 .taxonomy-caption-group h3{font:600 14px/1.5 var(--sans);color:var(--ink);margin:0 0 7px}
@@ -231,6 +243,12 @@ a.cover-resource[href]:hover{background:#35454c;border-color:#35454c}
 .dataset-highlights .highlight-icon{margin-bottom:14px}
 .dataset-highlights h3{font-size:18px}
 .dataset-highlights p,.benchmark-highlights p{font-size:14px;line-height:1.7}
+.paper-figure{margin:12px 0 30px;padding:18px 14px}
+.paper-figure figcaption{gap:10px;margin-bottom:16px}
+.paper-figure h3{font-size:17px}
+.paper-figure-link{font-size:11px}
+.benchmark-paper-figure{margin-top:26px}
+.benchmark-paper-figure figcaption{flex-wrap:wrap}
 .benchmark-page #benchmark-title{font-size:34px;letter-spacing:-.5px}
 .benchmark-page .benchmark-section{padding-top:40px}
 .benchmark-highlights{display:grid;grid-template-columns:1fr;gap:12px}
@@ -246,11 +264,11 @@ a.cover-resource[href]:hover{background:#35454c;border-color:#35454c}
 .benchmark-page .bench-ref i{top:35px;left:38px}
 .benchmark-page .all-models-heading{flex-wrap:wrap;gap:6px}
 .benchmark-page .all-models-heading h3{font-size:19px}
-.benchmark-taxonomy{margin:26px 0 32px}
+.benchmark-taxonomy{margin:12px 0 30px}
 .benchmark-taxonomy figure{grid-template-columns:1fr;padding:20px;gap:24px}
-.benchmark-taxonomy figure>img{max-width:370px}
+.benchmark-taxonomy figure>img{max-width:300px}
 .benchmark-taxonomy figcaption{border-top:1px solid var(--line);padding-top:25px}
-.benchmark-taxonomy h2{font-size:24px}
+.benchmark-taxonomy h2{font-size:19px}
 .benchmark-taxonomy figcaption>p{font-size:13px}
 .taxonomy-caption-group{margin-top:20px}
 .taxonomy-caption-group li{font-size:13px}
