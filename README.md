@@ -34,6 +34,10 @@ Explore the complete task definitions, model comparison, and qualitative example
 
 Omni-R2V is a large-scale public R2V training dataset covering heterogeneous image and video references as well as multi-reference compositions. It contains live-action, 2D animation, and 3D animation videos across all seven task families. Each processed sample pairs reference input(s) with a training instruction and target video.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wxliii/OmniVBench/gh-pages/img/data_show.webp" width="100%" alt="Representative reference-target pairs from the Omni-R2V Dataset">
+</p>
+
 <div align="center">
   <a href="https://huggingface.co/datasets/wxli318/Omni-R2V"><strong>Download on Hugging Face</strong></a>
   &nbsp;·&nbsp;
