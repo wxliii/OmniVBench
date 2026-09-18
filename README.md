@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://wxliii.github.io/OmniVBench/"><img src="https://img.shields.io/badge/Project_Page-4B4395?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Project page"></a>
-  <a href="https://wxliii.github.io/OmniVBench/benchmark.html"><img src="https://img.shields.io/badge/Benchmark-DE7933?style=for-the-badge&amp;logo=chartdotjs&amp;logoColor=white" alt="Benchmark"></a>
+  <img src="https://img.shields.io/badge/arXiv-Paper-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="arXiv paper">
   <a href="https://huggingface.co/datasets/wxli318/Omni-R2V"><img src="https://img.shields.io/badge/Dataset-Omni--R2V-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Omni-R2V dataset"></a>
 </p>
 
