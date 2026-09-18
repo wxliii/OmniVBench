@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wxliii/OmniVBench/gh-pages/img/show_case.webp" width="100%" alt="Representative examples from the Omni-R2V Dataset">
+  <img src="https://raw.githubusercontent.com/wxliii/OmniVBench/gh-pages/img/teaser.webp" width="100%" alt="Overview of the OmniVBench task taxonomy and Omni-R2V Dataset statistics">
 </p>
 
 ## Overview
@@ -28,19 +28,11 @@ Reference-to-video generation is moving from single-reference conditioning towar
 
 OmniVBench evaluates R2V models from single-reference factor transfer to multi-reference composition. Its taxonomy separates the visual factor supplied by each reference and the control objective required by the instruction.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wxliii/OmniVBench/gh-pages/img/omnivbench.webp" width="600" alt="OmniVBench task taxonomy">
-</p>
-
 Explore the complete task definitions, model comparison, and qualitative examples on the [benchmark page](https://wxliii.github.io/OmniVBench/benchmark.html).
 
 ## Omni-R2V Dataset
 
 Omni-R2V is a large-scale public R2V training dataset covering heterogeneous image and video references as well as multi-reference compositions. It contains live-action, 2D animation, and 3D animation videos across all seven task families. Each processed sample pairs reference input(s) with a training instruction and target video.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wxliii/OmniVBench/gh-pages/img/statistic.webp" width="820" alt="Omni-R2V Dataset statistics">
-</p>
 
 <div align="center">
   <a href="https://huggingface.co/datasets/wxli318/Omni-R2V"><strong>Download on Hugging Face</strong></a>
