@@ -1,6 +1,6 @@
 <div align="center">
 
-# OmniVBench
+# OmniVBench & Omni-R2V Dataset
 
 ### A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation
 
