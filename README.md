@@ -5,32 +5,6 @@
 ### A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation
 
 <p>
-  <a href="https://github.com/wxliii">Wenxue Li</a><sup>2,*</sup> ·
-  Peiyan Guan<sup>1,*</sup> ·
-  Haoyang Jiang ·
-  Junxian Cai<sup>1</sup> ·
-  Hualuo Liu<sup>1</sup> ·
-  Chunjie Zhang<sup>1</sup> ·
-  Chong Guan<sup>1</sup> ·
-  Kai Huang<sup>1</sup> ·
-  Songlian Li<sup>1</sup><br>
-  Taiyi Wu<sup>1</sup> ·
-  Yongjian Yu<sup>1</sup> ·
-  Xiaotong Zhao<sup>1</sup> ·
-  Alan Zhao<sup>1</sup> ·
-  Eric Liu<sup>1,†</sup> ·
-  Xi Chen<sup>1,†</sup> ·
-  Yu Liu<sup>1</sup> ·
-  Lei Zhu<sup>2,†</sup>
-</p>
-
-<p>
-  <sup>1</sup>Online Video BU, Tencent &nbsp;&nbsp;
-  <sup>2</sup>The Hong Kong University of Science and Technology (Guangzhou)<br>
-  <sup>*</sup>Core Contributor &nbsp;&nbsp; <sup>†</sup>Corresponding Author
-</p>
-
-<p>
   <a href="https://wxliii.github.io/OmniVBench/"><img src="https://img.shields.io/badge/Project_Page-4B4395?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Project page"></a>
   <a href="https://wxliii.github.io/OmniVBench/benchmark.html"><img src="https://img.shields.io/badge/Benchmark-DE7933?style=for-the-badge&amp;logo=chartdotjs&amp;logoColor=white" alt="Benchmark"></a>
   <a href="https://huggingface.co/datasets/wxli318/Omni-R2V"><img src="https://img.shields.io/badge/Dataset-Omni--R2V-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Omni-R2V dataset"></a>
