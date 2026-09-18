@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wxliii/OmniVBench/gh-pages/img/teaser.webp" width="100%" alt="Overview of the OmniVBench task taxonomy and Omni-R2V Dataset statistics">
+  <img src="https://raw.githubusercontent.com/wxliii/OmniVBench/gh-pages/img/teaser-paper.webp" width="100%" alt="Overview of the OmniVBench task taxonomy and Omni-R2V Dataset statistics">
 </p>
 
 ## Overview
