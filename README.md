@@ -5,6 +5,12 @@
 ### A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation
 
 <p>
+  🎬 Heterogeneous References &nbsp;·&nbsp;
+  🧩 Compositional Control &nbsp;·&nbsp;
+  ✅ Factor-Grounded Evaluation
+</p>
+
+<p>
   <a href="https://wxliii.github.io/OmniVBench/"><img src="https://img.shields.io/badge/Project_Page-4B4395?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Project page"></a>
   <a href="https://wxliii.github.io/OmniVBench/benchmark.html"><img src="https://img.shields.io/badge/Benchmark-DE7933?style=for-the-badge&amp;logo=chartdotjs&amp;logoColor=white" alt="Benchmark"></a>
   <a href="https://huggingface.co/datasets/wxli318/Omni-R2V"><img src="https://img.shields.io/badge/Dataset-Omni--R2V-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Omni-R2V dataset"></a>
@@ -16,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/wxliii/OmniVBench/gh-pages/img/teaser-paper.webp" width="100%" alt="Overview of the OmniVBench task taxonomy and Omni-R2V Dataset statistics">
 </p>
 
-## Overview
+## ✨ Highlights
 
 Reference-to-video generation is moving from single-reference conditioning toward heterogeneous and compositional references. **OmniVBench** and the **Omni-R2V Dataset** provide a shared foundation for evaluating and training models in this broader setting.
 
@@ -24,13 +30,13 @@ Reference-to-video generation is moving from single-reference conditioning towar
 - **Factor-grounded evaluation.** OmniVBench contains **813 evaluation cases**, **18 fine-grained tasks**, and **12,172 case-specific checklist items** for assessing reference preservation, factor disentanglement, target binding, and instruction realization.
 - **Large-scale training data.** Omni-R2V provides **340K processed samples**, built primarily from professional video footage through reusable, task-specific construction pipelines.
 
-## OmniVBench
+## 🧭 OmniVBench
 
 OmniVBench evaluates R2V models from single-reference factor transfer to multi-reference composition. Its taxonomy separates the visual factor supplied by each reference and the control objective required by the instruction.
 
 Explore the complete task definitions, model comparison, and qualitative examples on the [benchmark page](https://wxliii.github.io/OmniVBench/benchmark.html).
 
-## Omni-R2V Dataset
+## 🎞️ Omni-R2V Dataset
 
 Omni-R2V is a large-scale public R2V training dataset covering heterogeneous image and video references as well as multi-reference compositions. It contains live-action, 2D animation, and 3D animation videos across all seven task families. Each processed sample pairs reference input(s) with a training instruction and target video.
 
@@ -44,7 +50,7 @@ Omni-R2V is a large-scale public R2V training dataset covering heterogeneous ima
   <a href="https://wxliii.github.io/OmniVBench/#single-reference"><strong>Browse dataset examples</strong></a>
 </div>
 
-## Citation
+## 📝 Citation
 
 ```bibtex
 @article{omnivbench2026,
