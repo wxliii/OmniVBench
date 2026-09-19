@@ -20,6 +20,8 @@ In Settings → Pages, choose Deploy from a branch, `gh-pages`, and `/ (root)`. 
 
 Benchmark: selected examples with all available model outputs. Videos retain their full duration, resized to a maximum dimension of 720px, encoded as silent H.264 up to 24fps. Reference images use WebP up to 1280px. Dataset media retain the current preview versions. Original research media and paper scores are unchanged.
 
+Benchmark dataset: [OmniVBench on Hugging Face](https://huggingface.co/datasets/wxli318/OmniVBench).
+
 ## Editing
 
 `index.html` / `dataset.js` control the dataset page. `benchmark.html` / `benchmark.js` control the benchmark page. `styles.css` and `immersive.css` define the presentation. `data.js` and `benchmark-data.js` contain the current sample selection and relative asset paths.
