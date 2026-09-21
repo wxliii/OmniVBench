@@ -8,6 +8,7 @@
   <a href="https://wxliii.github.io/OmniVBench/"><img src="https://img.shields.io/badge/Project_Page-4B4395?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Project page"></a>
   <a href="https://arxiv.org/abs/2609.22069"><img src="https://img.shields.io/badge/arXiv-Paper-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="arXiv paper"></a>
   <a href="https://huggingface.co/datasets/wxli318/Omni-R2V"><img src="https://img.shields.io/badge/Dataset-Omni--R2V-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Omni-R2V dataset"></a>
+  <a href="https://www.modelscope.cn/datasets/wli318/OmniR2V"><img src="https://img.shields.io/badge/ModelScope-Omni--R2V-624AFF?style=for-the-badge" alt="Omni-R2V dataset on ModelScope"></a>
   <a href="https://huggingface.co/datasets/wxli318/OmniVBench"><img src="https://img.shields.io/badge/Benchmark-OmniVBench-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="OmniVBench benchmark dataset"></a>
 </p>
 
@@ -47,6 +48,8 @@ Omni-R2V is a large-scale public R2V training dataset covering heterogeneous ima
 
 <div align="center">
   <a href="https://huggingface.co/datasets/wxli318/Omni-R2V"><strong>Download on Hugging Face</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.modelscope.cn/datasets/wli318/OmniR2V"><strong>Download on ModelScope</strong></a>
   &nbsp;·&nbsp;
   <a href="https://wxliii.github.io/OmniVBench/#single-reference"><strong>Browse dataset examples</strong></a>
 </div>
