@@ -33,6 +33,7 @@
 .cover-project{white-space:nowrap}
 .cover-content h1 .cover-amp{font-size:.65em;font-weight:400;letter-spacing:0;color:var(--muted)}
 .cover-description{font-size:19px;line-height:1.6;color:#425158;max-width:620px;margin:24px 0 0}
+.cover-affiliation{margin:12px 0 0;font-size:14px;line-height:1.5;font-weight:500;color:#425158}
 .cover-resources{display:flex;align-items:center;gap:10px;margin-top:28px;flex-wrap:wrap;justify-content:center;pointer-events:auto}
 .cover-resource{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:44px;padding:10px 18px;font-size:14px;font-weight:500;line-height:1.4;color:var(--bg);background:var(--ink);border:1px solid var(--ink);border-radius:6px;transition:background .2s,border-color .2s}
 .cover-resource svg{width:18px;height:18px;flex-shrink:0;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
