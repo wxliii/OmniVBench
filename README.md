@@ -29,6 +29,7 @@ Reference-to-video generation is moving from single-reference conditioning towar
 - **Comprehensive R2V task coverage.** Seven task families span content, motion, style, structure, narrative, multi-content, and cross-aspect references.
 - **Factor-grounded evaluation.** OmniVBench contains **813 evaluation cases**, **18 fine-grained tasks**, and **12,172 case-specific checklist items** for assessing reference preservation, factor disentanglement, target binding, and instruction realization.
 - **Large-scale training data.** Omni-R2V provides **340K processed samples**, built primarily from professional video footage through reusable, task-specific construction pipelines.
+- **Audio-enabled target videos.** Audio tracks are retained where available, enabling audio-bearing samples to support reference-to-audiovisual (R2AV) training alongside R2V.
 
 ## 🧭 OmniVBench
 
