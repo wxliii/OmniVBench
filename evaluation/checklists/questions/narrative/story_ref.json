@@ -1,0 +1,1274 @@
+{
+  "story_ref/001": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the scene and characters with new settings while keeping the plot?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an adult character appear in the video?"
+      },
+      {
+        "en": "Do multiple child characters appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the characters wearing light space gardening suits in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a futuristic space greenhouse?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/002": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace characters with robots and reconstruct scenes while retaining the reference plot?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Are all the characters appearing in the video robots?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/003": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the scene to a cyberpunk city while retaining the reference's plotline?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a cyberpunk city?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/004": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the scene to a desert while retaining the co-riding plot?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video set in a desert?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/005": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the protagonist to an elderly woman while keeping the mopping action?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an elderly woman appear in the video?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/006": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the scene with a forest cabin while retaining the seeking and finding plot?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set in a secluded wooden cabin in a forest?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/007": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the character to an elderly man while retaining the embracing plot?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an elderly man appear as the specified character in the video?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/008": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video use firefighting robots and small drones as the new subjects while preserving the reference’s key events and their order?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a firefighting robot appear in the video?"
+      },
+      {
+        "en": "Does a small drone appear in the video?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/009": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the scene to an Arctic ice field while retaining the plotline?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video's scene set in an Arctic ice field?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/010": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the scene to a bustling city street while retaining the plot of two people walking in tandem?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video a bustling city street?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/011": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change to an ancient setting while keeping the standing and fallen plot?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Do the scene, costumes, and props in the video match the ancient setting?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/012": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the protagonist's gender while retaining the crying plot?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the protagonist in the video female?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/013": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the scene to an underwater research station while retaining the character walking away?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video an underwater research station?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/014": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace characters with children while retaining the watching plot?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do children characters appear in the video?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/015": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the original plot while switching to the sci-fi red carpet and drones?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do hovering interview drones appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set at a red carpet entrance outside a sci-fi award ceremony?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the hovering drones conduct an interview with the subject in the video?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/016": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the era to modern while retaining the original plot?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Do the scene and setting in the video fit the modern era background?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/017": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the setting to ancient times while retaining the passing-by plot?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Do the scene and character costumes in the video match the ancient historical setting?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/018": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the scene to a snowy mountain while retaining the arm-grasping action?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a snowy mountain?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/019": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the scene to a future tech studio while retaining the plot of two characters interacting?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set in a future tech studio?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/020": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject with a drone while retaining the action logic of weaving through a group?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a drone appear in the video?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/021": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the protagonist to male while keeping the smiling and seeing-off plot?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a male protagonist appear in the video?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/022": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the scene to a space capsule while retaining the dining and food-picking plot?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video inside a space capsule?"
+      },
+      {
+        "en": "Does the dining table float inside the space capsule?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/023": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the scene to underwater ruins while retaining the narrative flow?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do shattered glass towers appear in the video?"
+      },
+      {
+        "en": "Does floating debris appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video an abandoned underwater city ruin?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video show the camera sweeping across the scene?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a deep blue watery lighting tone?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's narrative progression and key events?"
+      }
+    ]
+  },
+  "story_ref/024": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the scene to a desert while retaining the plot of the team moving forward?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a desert?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/025": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the protagonist's gender to female while retaining the actions of pondering and gathering an energy ball?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the protagonist in the video female?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/026": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video redesign characters, scenes, and styles while retaining the reference's plot outline?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/027": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Did the video replace characters, environment, and style with new designs while retaining the plot?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/028": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the characters and scenes while retaining the reference's plot outline?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/029": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change to new characters, environment, and style while retaining the riding plot?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/030": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video successfully replace the scene, character appearance, and clothing while retaining the plot?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/031": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video redesign characters and scenes while retaining the plot of the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/032": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace characters, environments, and styles with new designs while retaining the reference plot?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/033": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Did the video redesign visual elements while retaining the reference's plot outline?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/034": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace characters and environments with new designs while preserving the reference's narrative flow?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/035": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video redesign characters and scenes while retaining the narrative plot?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/036": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video use new characters and scenes while preserving the plot outline?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/037": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video redesign the characters, environment, and visual style while retaining the plot of the reference video?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/038": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video redesign the character and scene while keeping the action logic?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/039": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video redesign characters, scenes, and styles while retaining the plot outline?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/040": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the scene, characters, and visual style with new designs while retaining the plotline?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/041": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video redesign characters, environment, and style while preserving the reference's plot outline?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/042": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video use new characters, environments, and visual styles while retaining the plot?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/043": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the original characters and scene while preserving the arm-grasping action?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/044": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the characters, environment, and style while retaining the plotline?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/045": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video redesign visual elements while retaining the narrative plot?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/046": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video redesign characters, environment, and style while retaining the plot outline?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/047": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video redesign the characters, environment, and style while retaining the plot of multiple people picking up food?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/048": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video reimagine the reference's visual setting while preserving its story logic?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's narrative progression and key events?"
+      }
+    ]
+  },
+  "story_ref/049": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video redesign the characters, environment, and visual style while retaining the reference's plot?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  },
+  "story_ref/050": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating the reference video's specific setting, character appearance, costume and prop designs, colour palette, and camera composition?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid copying or closely imitating the subtitles, logos, or timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the plot of pondering and forming an object while using new characters, environments, and styles?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ]
+  }
+}

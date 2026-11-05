@@ -1,0 +1,3538 @@
+{
+  "rough_storyboard/001": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video have brown hair?"
+      },
+      {
+        "en": "Is the woman in the video wearing a red top?"
+      },
+      {
+        "en": "Is the woman in the video carrying a blue shoulder bag?"
+      },
+      {
+        "en": "Does the man in the video have black hair?"
+      },
+      {
+        "en": "Is the man in the video wearing a light blue suit?"
+      },
+      {
+        "en": "Is the man in the video wearing a dark red T-shirt?"
+      },
+      {
+        "en": "Does the woman's red shirt have long sleeves?"
+      },
+      {
+        "en": "Is the woman's brown hair short?"
+      },
+      {
+        "en": "Does the man have messy hair?"
+      },
+      {
+        "en": "Are the white window panes opaque?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Are the hallway walls in the video light blue?"
+      },
+      {
+        "en": "Are the windows in the video white?"
+      },
+      {
+        "en": "Is the door in the video dark green?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a classic 80s 2D animation style?"
+      },
+      {
+        "en": "Is the lighting in the video bright?"
+      },
+      {
+        "en": "Does the scene use flat lighting?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the grayscale sketch line appearance from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a hallway scene appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/002": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the muscular man in the video the same character as the muscular man in the reference storyboards?"
+      },
+      {
+        "en": "Is the old man in the video the same character as the person wearing a hat in the reference storyboards?"
+      },
+      {
+        "en": "Are the muscular man’s recognizable facial and hairstyle shapes consistent with the storyboard, while following the explicitly requested blonde hair and rendered appearance?"
+      },
+      {
+        "en": "Are the older man’s recognizable facial and hairstyle shapes consistent with the storyboard, while following the explicitly requested white hair and rendered appearance?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the muscular man in the video have blonde hair?"
+      },
+      {
+        "en": "Is the muscular man wearing a brown jacket with a white fur collar?"
+      },
+      {
+        "en": "Does the old man have white hair and a pale complexion?"
+      },
+      {
+        "en": "Is the old man wearing a light gray uniform jacket and a matching peaked cap?"
+      },
+      {
+        "en": "Does the muscular man wear a dark cross-body strap?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a dark brown wooden door?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a 2D anime style?"
+      },
+      {
+        "en": "Is the lighting in the video smooth?"
+      },
+      {
+        "en": "Does the video use a soft brown-gray color tone?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid carrying over the gray sketch lines and draft texture from the reference storyboards?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a muscular man appear in the video?"
+      },
+      {
+        "en": "Does an old man appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/003": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video not show the perspective guide lines from the reference?"
+      },
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is one of the two young men black-haired?"
+      },
+      {
+        "en": "Is the black-haired young man wearing an olive-green fur-lined coat?"
+      },
+      {
+        "en": "Is the black-haired young man's messenger bag gray?"
+      },
+      {
+        "en": "Is the other young man blond?"
+      },
+      {
+        "en": "Is the blond young man wearing a white trench coat?"
+      },
+      {
+        "en": "Is the blond young man's briefcase dark-colored?"
+      },
+      {
+        "en": "Is the walkway made of brick?"
+      },
+      {
+        "en": "Are the light spots circular?"
+      },
+      {
+        "en": "Does the black-haired young man carry a messenger bag?"
+      },
+      {
+        "en": "Is the black-haired young man's hair messy?"
+      },
+      {
+        "en": "Is the blond young man's hair neat?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set at night?"
+      },
+      {
+        "en": "Is the video scene set in a park?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video in a 2D anime style?"
+      },
+      {
+        "en": "Does the video have a cold color tone?"
+      },
+      {
+        "en": "Is the park dimly lit?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes and sketch texture, while retaining any clean linework or painterly rendering required by the requested final style?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do streetlights appear in the video?"
+      },
+      {
+        "en": "Do wooden benches appear in the video?"
+      },
+      {
+        "en": "Do bushes appear in the video?"
+      },
+      {
+        "en": "Do two men appear in the video?"
+      },
+      {
+        "en": "Does a messenger bag appear in the video?"
+      },
+      {
+        "en": "Does a briefcase appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do the streetlights cast light spots on the walkway?"
+      },
+      {
+        "en": "Are the wooden benches and bushes located next to the walkway?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the blond young man have a briefcase?"
+      }
+    ]
+  },
+  "rough_storyboard/004": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have short black hair?"
+      },
+      {
+        "en": "Does the man in the video wear round glasses?"
+      },
+      {
+        "en": "Does the man wear a dark suit, white shirt, and dark blue tie?"
+      },
+      {
+        "en": "Does the woman have dark hair pulled back?"
+      },
+      {
+        "en": "Does the woman in the video wear a dark striped suit?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Are indoor wooden walls visible in the video scene?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Does the video feature soft lighting, cool tones, and warm wood accents?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the grayscale sketch line appearance from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a woman appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/005": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have short black hair?"
+      },
+      {
+        "en": "Is the man in the video wearing a pink T-shirt?"
+      },
+      {
+        "en": "Does the woman in the video have black hair?"
+      },
+      {
+        "en": "Is the woman in the video wearing a light blue shirt?"
+      },
+      {
+        "en": "Is the headboard in the video dark brown?"
+      },
+      {
+        "en": "Does the bedspread in the video have purple patterns?"
+      },
+      {
+        "en": "Is the desk lamp in the video white?"
+      },
+      {
+        "en": "Is the gift bag in the video red?"
+      },
+      {
+        "en": "Is the woman's black hair shoulder-length?"
+      },
+      {
+        "en": "Does the white lamp have a pleated appearance?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a bedroom?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Is the indoor lighting in the video soft and warm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes and sketch texture, while retaining any clean linework or painterly rendering required by the requested final style?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is there a man in the video?"
+      },
+      {
+        "en": "Is there a woman in the video?"
+      },
+      {
+        "en": "Is there a headboard in the video?"
+      },
+      {
+        "en": "Is there a bedspread in the video?"
+      },
+      {
+        "en": "Is there a desk lamp in the video?"
+      },
+      {
+        "en": "Is there a gift bag in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/006": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the character have fair skin?"
+      },
+      {
+        "en": "Does the character have purplish-red eyes?"
+      },
+      {
+        "en": "Does the character have green hair tied in a high ponytail?"
+      },
+      {
+        "en": "Is the character wearing purple clothes with gold trim?"
+      },
+      {
+        "en": "Is the character's high ponytail secured by a gold band?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the background feature a dark, smoky sky?"
+      },
+      {
+        "en": "Is there fiery orange light in the background?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video in a 2D anime style?"
+      },
+      {
+        "en": "Does warm rim light illuminate the character’s left side of the face while the right side remains in deep shadow?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the grayscale sketch line appearance and texture from the reference?"
+      }
+    ]
+  },
+  "rough_storyboard/007": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is one of the men wearing a white robe with purple borders?"
+      },
+      {
+        "en": "Is the white-robed man wearing the specified white hair ribbon?"
+      },
+      {
+        "en": "Is the other man wearing yellow clothes?"
+      },
+      {
+        "en": "Does the man in yellow have a high ponytail?"
+      },
+      {
+        "en": "Is the man in yellow carrying a long sword on his back?"
+      },
+      {
+        "en": "Does the man in yellow wear a blue shirt beneath his tunic?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene a dense forest covered with trees and moss?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a 3D martial arts CG style?"
+      },
+      {
+        "en": "Does the video show warm golden light shining through the canopy?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude the gray-and-white sketch line appearance of the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two men appear in the video?"
+      },
+      {
+        "en": "Does a long sword appear in the video?"
+      },
+      {
+        "en": "Do ferns appear in the forest?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "At the corresponding storyboard key moments, does the video show the back views of the two men?"
+      }
+    ]
+  },
+  "rough_storyboard/008": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have messy black hair?"
+      },
+      {
+        "en": "Does the man in the video have stubble?"
+      },
+      {
+        "en": "Does the man in the video have a scar on his cheek?"
+      },
+      {
+        "en": "Is the man in the video wearing a dark gray jacket?"
+      },
+      {
+        "en": "Is the man in the video wearing a light gray shirt?"
+      },
+      {
+        "en": "Does the man have dark eyes?"
+      },
+      {
+        "en": "Does the man's dark grey coat have a collar?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background feature blurred light blue and white colors?"
+      },
+      {
+        "en": "Is the video presented in a 2D anime style?"
+      },
+      {
+        "en": "Is the lighting in the video soft?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the background suggest a foggy or snowy environment?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes and sketch texture, while retaining any clean linework or painterly rendering required by the requested final style?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/009": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video contain no text, subtitles, or watermarks?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the girl have pink hair?"
+      },
+      {
+        "en": "Does the girl have green eyes?"
+      },
+      {
+        "en": "Is the uniform black?"
+      },
+      {
+        "en": "Does the uniform have gold trim?"
+      },
+      {
+        "en": "Is the bow tie red?"
+      },
+      {
+        "en": "Is the beret black?"
+      },
+      {
+        "en": "Does the girl's uniform have a white collar?"
+      },
+      {
+        "en": "Does the paneled wall have decorative wallpaper?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is a light-colored wooden floor visible in the background?"
+      },
+      {
+        "en": "Is a paneled wall visible in the background?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a 2D anime style?"
+      },
+      {
+        "en": "Is the lighting in the video bright?"
+      },
+      {
+        "en": "Does the video have a warm color tone?"
+      },
+      {
+        "en": "Is the scene lit evenly?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a girl appear in the video?"
+      },
+      {
+        "en": "Is the girl wearing horn-shaped hair ornaments?"
+      },
+      {
+        "en": "Is the girl wearing a uniform?"
+      },
+      {
+        "en": "Is there a bow tie on the uniform?"
+      },
+      {
+        "en": "Is the girl wearing a beret?"
+      }
+    ]
+  },
+  "rough_storyboard/010": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video have blonde hair?"
+      },
+      {
+        "en": "Does the woman have fair skin?"
+      },
+      {
+        "en": "Does the woman have green eyes?"
+      },
+      {
+        "en": "Does the woman have a side braid?"
+      },
+      {
+        "en": "Do the woman’s long bangs cover her right eye?"
+      },
+      {
+        "en": "Is the woman wearing a black maid outfit?"
+      },
+      {
+        "en": "Does the maid outfit have a white ruffled collar?"
+      },
+      {
+        "en": "Does the maid outfit have a black ribbon?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set indoors?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video in a 2D anime style?"
+      },
+      {
+        "en": "Is the background lighting bright in the video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a wooden shelf appear in the video?"
+      },
+      {
+        "en": "Does a white wall appear in the video?"
+      },
+      {
+        "en": "Is the edge of a black monitor visible in the background?"
+      }
+    ]
+  },
+  "rough_storyboard/011": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the character have dark blue hair?"
+      },
+      {
+        "en": "Does the character have fair skin?"
+      },
+      {
+        "en": "Does the character have bright blue eyes?"
+      },
+      {
+        "en": "Are there noticeable white highlights in the character's eyes?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background a dark, textured purple surface?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a 2D cel-shaded anime style?"
+      },
+      {
+        "en": "Does the lighting cast purplish-red shadows on the character's face and neck?"
+      },
+      {
+        "en": "Does the video use a cool color palette to create a moody and intense atmosphere?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a side profile of a young male character appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/012": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the hand in the video fair-skinned?"
+      },
+      {
+        "en": "Is the table in the video made of wood?"
+      },
+      {
+        "en": "Is the picture frame in the video light pink?"
+      },
+      {
+        "en": "Does the boy in the photo have black hair?"
+      },
+      {
+        "en": "Is the boy in the photo wearing white clothes?"
+      },
+      {
+        "en": "Is the finish line in the photo red?"
+      },
+      {
+        "en": "Is the cabinet in the background light blue?"
+      },
+      {
+        "en": "Are the knobs of the cabinet purple?"
+      },
+      {
+        "en": "Is the wall in the background made of wood?"
+      },
+      {
+        "en": "Does the boy in the photograph have spiky hair?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the photo a sports field?"
+      },
+      {
+        "en": "Does the scene in the photo appear sunny?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a 2D anime style?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a hand appear in the video?"
+      },
+      {
+        "en": "Does a table appear in the video?"
+      },
+      {
+        "en": "Does a picture frame appear in the video?"
+      },
+      {
+        "en": "Does a boy appear in the photo within the video?"
+      },
+      {
+        "en": "Does a finish line appear in the photo within the video?"
+      },
+      {
+        "en": "Does a cabinet appear in the background of the video?"
+      },
+      {
+        "en": "Does a wall appear in the background of the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the hand holding the picture frame over the wooden desk?"
+      },
+      {
+        "en": "Is the boy positioned at the finish line in the photo?"
+      }
+    ]
+  },
+  "rough_storyboard/013": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man in the video fair-skinned?"
+      },
+      {
+        "en": "Does the man in the video have a brown ponytail?"
+      },
+      {
+        "en": "Does the man in the video have purple eyes with yellow pupils?"
+      },
+      {
+        "en": "Is the man in the video wearing a blue high-necked shirt?"
+      },
+      {
+        "en": "Is the man in the video wearing a yellow and orange jacket?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the background made of blurred grayish-blue lines?"
+      },
+      {
+        "en": "Is the video presented in a 2D anime style?"
+      },
+      {
+        "en": "Does the lighting cast a shadow on the left side of the character’s face?"
+      },
+      {
+        "en": "Are the colors in the video vibrant?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude the grayscale sketch line appearance of the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/014": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps, except for the requested red jersey numbers?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the players in the video wearing white jerseys?"
+      },
+      {
+        "en": "Do the jerseys in the video have red numbers on them?"
+      },
+      {
+        "en": "Does the man in the video have black hair?"
+      },
+      {
+        "en": "Is the man in the video wearing glasses?"
+      },
+      {
+        "en": "Is the basketball in the video orange?"
+      },
+      {
+        "en": "Does the background in the video feature a yellow-orange-cyan gradient?"
+      },
+      {
+        "en": "Does the background in the video have diagonal textures?"
+      },
+      {
+        "en": "Do the white uniforms have red trim?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video an abstract background?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a retro 2D animation style?"
+      },
+      {
+        "en": "Does the video feature cel-shaded lighting?"
+      },
+      {
+        "en": "Is the color tone of the video warm and nostalgic?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do players appear in the video?"
+      },
+      {
+        "en": "Does a basketball appear in the video?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the man in the video holding a basketball?"
+      }
+    ]
+  },
+  "rough_storyboard/015": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out the hand-drawn lines and grayscale sketch textures from the reference?"
+      },
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the girl have pink hair?"
+      },
+      {
+        "en": "Is the girl wearing a brown hood?"
+      },
+      {
+        "en": "Is the girl wearing large dark sunglasses with red frames?"
+      },
+      {
+        "en": "Is the girl wearing a red jacket?"
+      },
+      {
+        "en": "Is the adult's hand wearing a black glove?"
+      },
+      {
+        "en": "Is the cloak tied beneath the girl's chin?"
+      },
+      {
+        "en": "Do the sunglasses have thick frames?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in an indoor scene?"
+      },
+      {
+        "en": "Is a red carpet visible in the indoor background?"
+      },
+      {
+        "en": "Are wooden wall panels visible in the indoor background?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video in a 2D animation style?"
+      },
+      {
+        "en": "Is the overall lighting of the video warm and soft?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a girl appear in the video?"
+      },
+      {
+        "en": "Does an adult's gloved hand appear in the video?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the girl holding the adult's gloved hand?"
+      }
+    ]
+  },
+  "rough_storyboard/016": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man have dark short hair?"
+      },
+      {
+        "en": "Is the man wearing a light beige suit?"
+      },
+      {
+        "en": "Is the man wearing a white shirt?"
+      },
+      {
+        "en": "Is the man's hair neatly styled?"
+      },
+      {
+        "en": "Does the white shirt have a collar?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Are glass windows visible in the background?"
+      },
+      {
+        "en": "Is a blurred cityscape presented outside the windows?"
+      },
+      {
+        "en": "Is the indoor setting modern?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video in a realistic live-action style?"
+      },
+      {
+        "en": "Does the video feature soft, diffused lighting?"
+      },
+      {
+        "en": "Does the video have a cool color tone?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a middle-aged Asian man appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/017": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of hand-drawn sketch lines from the reference?"
+      },
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the wooden chopsticks dark-colored?"
+      },
+      {
+        "en": "Is the round food golden-brown?"
+      },
+      {
+        "en": "Does the round food have a porous surface?"
+      },
+      {
+        "en": "Are the seasonings red-orange?"
+      },
+      {
+        "en": "Is the sauce reddish-orange?"
+      },
+      {
+        "en": "Is the sauce thick and glossy?"
+      },
+      {
+        "en": "Are the flames red-yellow?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video background emit warm firelight?"
+      },
+      {
+        "en": "Does the video present a 2D anime style?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Are there wooden chopsticks in the video?"
+      },
+      {
+        "en": "Is there round food in the video?"
+      },
+      {
+        "en": "Are there seasonings in the video?"
+      },
+      {
+        "en": "Is there sauce in the video?"
+      },
+      {
+        "en": "Are there flames in the video?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Are the chopsticks holding the round food?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the seasonings distributed on the food's surface?"
+      },
+      {
+        "en": "Is the sauce hanging at the bottom of the food?"
+      },
+      {
+        "en": "Are the flames located in the background?"
+      }
+    ]
+  },
+  "rough_storyboard/018": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does one man in the video wear a purple-and-gold robe and a silver headpiece?"
+      },
+      {
+        "en": "Does the other person in the video wear a flowing white robe?"
+      },
+      {
+        "en": "Does the tea table in the video appear to be made of stone?"
+      },
+      {
+        "en": "Does the forest background in the video present a dark blue tone?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a twilight forest?"
+      },
+      {
+        "en": "Does a rustic wooden pavilion appear in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a stylized 3D animation visual style?"
+      },
+      {
+        "en": "Is the tea table illuminated by warm yellow light in the video?"
+      },
+      {
+        "en": "Does the video show a warm-cold contrast between the yellow light and blue background?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the grayscale sketch and hand-drawn line appearance from the references?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two characters appear in the video?"
+      },
+      {
+        "en": "Do paper lanterns appear in the video?"
+      },
+      {
+        "en": "Does a tea table appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/019": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video contain no text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman on the left side of the screen have long dark hair?"
+      },
+      {
+        "en": "Is the woman on the left side of the screen wearing a dark suit?"
+      },
+      {
+        "en": "Is the mobile phone held by the woman on the left side pink?"
+      },
+      {
+        "en": "Does the woman on the right side of the screen have short brown hair?"
+      },
+      {
+        "en": "Is the woman on the right side of the screen wearing a green jacket?"
+      },
+      {
+        "en": "Is the background wall in the video gray?"
+      },
+      {
+        "en": "Is the woman on the left side of the screen wearing glasses?"
+      },
+      {
+        "en": "Does the woman with glasses wear a teal ribbon?"
+      },
+      {
+        "en": "Does the gray wall have a tiled surface?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video present a night scene setting?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a 2D anime style?"
+      },
+      {
+        "en": "Does the video present the warm yellow light of a cafe?"
+      },
+      {
+        "en": "Does the video present the cold white light of a vending machine?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free from the grayscale sketch lines and base texture of the reference storyboards?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two women appear in the video?"
+      },
+      {
+        "en": "Does a poster appear in the video?"
+      },
+      {
+        "en": "Does a vending machine appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the poster attached to the background wall in the video?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman on the left side of the screen holding a mobile phone?"
+      }
+    ]
+  },
+  "rough_storyboard/020": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the bald man heavy-set?"
+      },
+      {
+        "en": "Is the man wearing a high-necked cream tunic?"
+      },
+      {
+        "en": "Is the man's tunic adorned with red, green, and blue gems?"
+      },
+      {
+        "en": "Does the young man have dark hair?"
+      },
+      {
+        "en": "Is the young man wearing a burgundy jacket with gold trim?"
+      },
+      {
+        "en": "Is the young man wearing a white ruffled cravat?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a stone amphitheater?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented as a stylized 3D CG animation?"
+      },
+      {
+        "en": "Does the video feature dramatic lighting and deep shadows?"
+      },
+      {
+        "en": "Does the video highlight rich tones of brown, gold, and crimson?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the grayscale sketch line appearance from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a bald man appear in the video?"
+      },
+      {
+        "en": "Does a young man appear in the video?"
+      },
+      {
+        "en": "Do other nobles or figures appear in the background?"
+      }
+    ]
+  },
+  "rough_storyboard/021": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main man balding?"
+      },
+      {
+        "en": "Does the main man in the video have a beard?"
+      },
+      {
+        "en": "Is the main man wearing a black stand-collar shirt?"
+      },
+      {
+        "en": "Does the other person in the video have light blue-silver hair?"
+      },
+      {
+        "en": "Is the other person in the video wearing a light-colored shirt?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a laboratory?"
+      },
+      {
+        "en": "Do glass vessels appear in the background of the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a realistic live-action style?"
+      },
+      {
+        "en": "Is the indoor lighting in the video on the cooler side?"
+      },
+      {
+        "en": "Does the background have a blurred yellow-green tone?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the gray sketch line appearance from the reference into the output?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a main man appear in the video?"
+      },
+      {
+        "en": "Does another person appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/022": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man on the left side of the screen have a beard?"
+      },
+      {
+        "en": "Does the man on the left side of the screen have a hair bun?"
+      },
+      {
+        "en": "Is the older man wearing a dark textured tunic?"
+      },
+      {
+        "en": "Is the younger man wearing an ornate metal hairpiece?"
+      },
+      {
+        "en": "Is the young man on the right side wearing a light gray embroidered robe?"
+      },
+      {
+        "en": "Is the younger man clean-shaven?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a realistic ancient costume scene?"
+      },
+      {
+        "en": "Is a wooden lattice screen visible in the scene?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the lighting in the video dim?"
+      },
+      {
+        "en": "Is there warm lighting in the video?"
+      },
+      {
+        "en": "Does the video feature earth brown and warm yellow tones?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the gray sketch line appearance from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two male characters appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the two males located on the left and right sides of the screen respectively?"
+      }
+    ]
+  },
+  "rough_storyboard/023": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the foreground characters wearing white robes?"
+      },
+      {
+        "en": "Do the foreground characters have gold ornaments?"
+      },
+      {
+        "en": "Do the foreground characters have hair buns?"
+      },
+      {
+        "en": "Is the distant character surrounded by an orange halo?"
+      },
+      {
+        "en": "Are the buildings in the video in warm colors?"
+      },
+      {
+        "en": "Are the stones in the video gray?"
+      },
+      {
+        "en": "Are the trees in the video green?"
+      },
+      {
+        "en": "Do the wooden buildings have tiled roofs?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a Chinese courtyard?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the lighting of the video scene bright?"
+      },
+      {
+        "en": "Is the video presented in a 3D animation style?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the gray sketch line appearance of the reference storyboard removed?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do wooden buildings appear in the video?"
+      },
+      {
+        "en": "Do stone steps appear in the video?"
+      },
+      {
+        "en": "Do bronze cranes appear in the video?"
+      },
+      {
+        "en": "Do foreground characters appear in the video?"
+      },
+      {
+        "en": "Does a distant character appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/024": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video exclude the black borders from the reference?"
+      },
+      {
+        "en": "Is the video free of text, subtitles, logos, or watermarks?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the walls in the video cyan?"
+      },
+      {
+        "en": "Is the carpet in the video light blue?"
+      },
+      {
+        "en": "Is the tea table white and made of wood?"
+      },
+      {
+        "en": "Is one character wearing a white Hanfu?"
+      },
+      {
+        "en": "Does the white-robed man wear a silver headpiece?"
+      },
+      {
+        "en": "Is one character wearing dark robes with red accents and a red hair ribbon?"
+      },
+      {
+        "en": "Are the candles lit?"
+      },
+      {
+        "en": "Does the light blue carpet have a pattern?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a Chinese-style room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video in a realistic style?"
+      },
+      {
+        "en": "Does the video have a soft cool color tone?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a tea table appear in the video?"
+      },
+      {
+        "en": "Does a folding screen appear in the video?"
+      },
+      {
+        "en": "Do candlesticks appear in the video?"
+      },
+      {
+        "en": "Do two characters appear in the video?"
+      },
+      {
+        "en": "Do bookshelves appear in the room?"
+      }
+    ]
+  },
+  "rough_storyboard/025": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the subtitles from the reference storyboards?"
+      },
+      {
+        "en": "Is the video free of text, logos, watermarks, or timestamps?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man in the video wearing a gold hairpiece?"
+      },
+      {
+        "en": "Is the man wearing a black robe with gold embroidery?"
+      },
+      {
+        "en": "Is the woman in the video wearing a light blue robe?"
+      },
+      {
+        "en": "Is the woman's hair dark and arranged in a bun?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a dim Chinese-style room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action realistic style?"
+      },
+      {
+        "en": "Does the video feature a golden tone created by warm candlelight?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a wooden folding screen appear in the video?"
+      },
+      {
+        "en": "Do scrolls appear in the video?"
+      },
+      {
+        "en": "Does dark furniture appear in the video?"
+      },
+      {
+        "en": "Do green teacups appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/026": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid carrying over the hand-drawn sketch line appearance from the reference storyboards?"
+      },
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the elderly man have wavy silver hair?"
+      },
+      {
+        "en": "Does the elderly man have a grayish-white goatee?"
+      },
+      {
+        "en": "Is the elderly man wearing a printed white T-shirt?"
+      },
+      {
+        "en": "Is the paneled door white?"
+      },
+      {
+        "en": "Does the decorative wall hanging combine copper and wood?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video present an indoor scene?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video in a realistic live-action style?"
+      },
+      {
+        "en": "Does the video feature soft lighting?"
+      },
+      {
+        "en": "Does the video feature a bright tone dominated by pure white and light gray?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an elderly man appear in the video?"
+      },
+      {
+        "en": "Does a paneled door appear in the video?"
+      },
+      {
+        "en": "Does a wall hanging appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/027": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the girl in the video have rosy cheeks?"
+      },
+      {
+        "en": "Does the girl in the video have jagged black short hair?"
+      },
+      {
+        "en": "Is the girl in the video wearing a white shirt?"
+      },
+      {
+        "en": "Is the girl in the video wearing a red suspender skirt?"
+      },
+      {
+        "en": "Is the pedometer in the video round and made of metal?"
+      },
+      {
+        "en": "Does the girl have pale skin?"
+      },
+      {
+        "en": "Does the pedometer have a digital screen?"
+      },
+      {
+        "en": "Does the girl's white shirt have a collar?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background a yellow wall with a horizontal black stripe?"
+      },
+      {
+        "en": "Does a brown wooden table appear in the scene of the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a classic 2D animation style?"
+      },
+      {
+        "en": "Is the lighting in the video bright?"
+      },
+      {
+        "en": "Are the colors in the video flat-shaded?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes and sketch texture, while retaining any clean linework or painterly rendering required by the requested final style?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a girl appear in the video?"
+      },
+      {
+        "en": "Does a pedometer appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/028": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the grid lines from the reference images?"
+      },
+      {
+        "en": "Is the video free of text, subtitles, logos, or watermarks?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the boy have messy dark hair and large brown eyes?"
+      },
+      {
+        "en": "Is the boy wearing purplish-black combat armor?"
+      },
+      {
+        "en": "Does the armor have a transparent visor?"
+      },
+      {
+        "en": "Does the armor have a red badge?"
+      },
+      {
+        "en": "Is the surface of the armor slightly worn?"
+      },
+      {
+        "en": "Does the boy have pale skin?"
+      },
+      {
+        "en": "Is the red emblem on the armour circular?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background composed of shattered concrete and metal ruins?"
+      },
+      {
+        "en": "Does the background have a blue-gray tone?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a 3D CG animation style?"
+      },
+      {
+        "en": "Is the scene lighting bright and soft?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the hand-drawn sketch lines and grayscale texture from the references?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a boy appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/029": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are both men in the video wearing black suits?"
+      },
+      {
+        "en": "Is one of the men in the video wearing glasses?"
+      },
+      {
+        "en": "Is one of the men in the video wearing an ID badge?"
+      },
+      {
+        "en": "Is the wall in the video made of gray marble?"
+      },
+      {
+        "en": "Is the table in the video black?"
+      },
+      {
+        "en": "Is the sculpture in the video made of transparent glass?"
+      },
+      {
+        "en": "Do both men wear white shirts?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in an office?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Does the video feature soft natural lighting?"
+      },
+      {
+        "en": "Does the video feature a predominantly gray, black, and white color palette?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes and sketch texture, while retaining any clean linework or painterly rendering required by the requested final style?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two men appear in the video?"
+      },
+      {
+        "en": "Does a wall appear in the video?"
+      },
+      {
+        "en": "Does a table appear in the video?"
+      },
+      {
+        "en": "Does a sculpture appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the sculpture placed on the table in the video?"
+      },
+      {
+        "en": "Is the table located in front of the wall in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/030": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man have pale skin and sharp facial features?"
+      },
+      {
+        "en": "Does the man have dark brown hair?"
+      },
+      {
+        "en": "Is the man wearing a bright orange hoodie?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene depicted as a dim indoor environment?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 3D animation style?"
+      },
+      {
+        "en": "Is the man's face illuminated by warm side lighting?"
+      },
+      {
+        "en": "Does the video feature a high-contrast color tone?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young man appear in the video?"
+      },
+      {
+        "en": "Does a wooden structure appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the wooden structure located on the left side of the video?"
+      },
+      {
+        "en": "Is there a dark background on the right side of the video?"
+      }
+    ]
+  },
+  "rough_storyboard/031": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid bringing in the hand-drawn sketch line appearance from the reference?"
+      },
+      {
+        "en": "Does the video contain no text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the three men in the video wear white robes?"
+      },
+      {
+        "en": "Does the middle man in the video have dark long hair?"
+      },
+      {
+        "en": "Do the men on both sides in the video wear white headscarves?"
+      },
+      {
+        "en": "Do the two men on either side have olive skin?"
+      },
+      {
+        "en": "Do the two men on either side have dark facial hair?"
+      },
+      {
+        "en": "Is the central man's long dark hair wavy?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in desert ruins?"
+      },
+      {
+        "en": "Does the video show an environment with strong sunlight?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video in a realistic live-action movie style?"
+      },
+      {
+        "en": "Is the video mainly in white and sand-beige colors?"
+      },
+      {
+        "en": "Does the video present a low-saturation color tone?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Are there exactly three men in the video, no more and no less?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the three men arranged with one in the middle and one on each side?"
+      }
+    ]
+  },
+  "rough_storyboard/032": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man in the video wearing a light blue short-sleeved shirt?"
+      },
+      {
+        "en": "Is the man in the video wearing dark trousers?"
+      },
+      {
+        "en": "Is the pigeon cage in the video made of wire?"
+      },
+      {
+        "en": "Are the plastic crates in the video green?"
+      },
+      {
+        "en": "Is the roof in the video made of concrete?"
+      },
+      {
+        "en": "Does the park vegetation in the video show autumn colors?"
+      },
+      {
+        "en": "Does the city skyline in the video appear hazy?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set on a roof overlooking a park and city skyline?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video in a realistic style?"
+      },
+      {
+        "en": "Does the video feature soft sunlight lighting?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the gray sketch line appearance from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a pigeon cage appear in the video?"
+      },
+      {
+        "en": "Do plastic crates appear in the video?"
+      },
+      {
+        "en": "Do cardboard boxes appear in the video?"
+      },
+      {
+        "en": "Does a patterned mattress appear on the rooftop?"
+      },
+      {
+        "en": "Does a smokestack appear in the distant cityscape?"
+      }
+    ]
+  },
+  "rough_storyboard/033": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video contain no text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man wearing a futuristic high-collared jacket with silver mesh armor and red accents?"
+      },
+      {
+        "en": "Does the woman have a brown hair bun?"
+      },
+      {
+        "en": "Is the woman wearing a dark gray sleeveless top with orange piping?"
+      },
+      {
+        "en": "Does the man have short dark hair?"
+      },
+      {
+        "en": "Does the woman have fair skin?"
+      },
+      {
+        "en": "Does the room have a patterned ceiling?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background a luxurious interior with golden columns and blue mesh windows?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a 3DCG animation style?"
+      },
+      {
+        "en": "Is the lighting in the video warm golden?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the grayscale sketch line appearance from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a woman appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/034": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video have fair skin?"
+      },
+      {
+        "en": "Does the woman in the video have slightly braided brown hair?"
+      },
+      {
+        "en": "Is the woman in the video wearing a black shirt with white polka dots?"
+      },
+      {
+        "en": "Is the woman in the video wearing a silver necklace and earrings?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set indoors?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a realistic live-action style?"
+      },
+      {
+        "en": "Is the lighting in the video soft?"
+      },
+      {
+        "en": "Is the overall color tone of the video warm and cozy?"
+      },
+      {
+        "en": "Is the background blurred?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      },
+      {
+        "en": "Do a red-and-yellow abstract painting and a bed with pink pillows appear in the background?"
+      },
+      {
+        "en": "Do green plants appear in the background of the video?"
+      },
+      {
+        "en": "Does a warm glowing lamp appear in the background?"
+      }
+    ]
+  },
+  "rough_storyboard/035": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video contain no text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the old man have a gray hair bun?"
+      },
+      {
+        "en": "Is the old man wearing a dark blue robe over a brown tunic?"
+      },
+      {
+        "en": "Does the girl have black double hair buns?"
+      },
+      {
+        "en": "Is the girl wearing orange clothes?"
+      },
+      {
+        "en": "Does the older man have a goatee?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set indoors?"
+      },
+      {
+        "en": "Does a wooden lattice door appear in the background?"
+      },
+      {
+        "en": "Does a dark blue curtain appear in the background?"
+      },
+      {
+        "en": "Do ceramic jars appear in the background?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video in a 3D animation style?"
+      },
+      {
+        "en": "Does the video feature soft lighting?"
+      },
+      {
+        "en": "Does the video have a predominantly blue and brown color tone?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the gray-and-white sketch line appearance from the reference removed?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an old man appear in the video?"
+      },
+      {
+        "en": "Does a girl appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/036": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid bringing the perspective guide lines from the reference into the final output?"
+      },
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character pale and bald?"
+      },
+      {
+        "en": "Does the character's skin have a translucent, sparkling ice-crystal texture?"
+      },
+      {
+        "en": "Is the character wearing a sheer, iridescent light blue dress?"
+      },
+      {
+        "en": "Is the character wearing crystal earrings?"
+      },
+      {
+        "en": "Is the character wearing a large pendant necklace?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the background show a surreal wasteland coastal landscape?"
+      },
+      {
+        "en": "Are shell-shaped ruined buildings visible in the scene?"
+      },
+      {
+        "en": "Are emerald green palm trees visible in the scene?"
+      },
+      {
+        "en": "Is there a gloomy sky with rising black smoke plumes?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic 3D CG style?"
+      },
+      {
+        "en": "Does the video use muted earthy tones?"
+      },
+      {
+        "en": "Does the character have an ethereal glow?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes and sketch texture, while retaining any clean linework or painterly rendering required by the requested final style?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a humanoid creature appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/037": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man have pale skin and sharp facial features?"
+      },
+      {
+        "en": "Does the man have long dark hair?"
+      },
+      {
+        "en": "Does the man in the video have hair falling over his cheeks?"
+      },
+      {
+        "en": "Is the man in the video wearing dark clothing?"
+      },
+      {
+        "en": "Does the man's dark garment have a textured collar?"
+      },
+      {
+        "en": "Does the man's dark garment include a hint of red?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a natural environment?"
+      },
+      {
+        "en": "Does the background feature dark green and blue colors?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background have a blurred effect?"
+      },
+      {
+        "en": "Does the video feature a stylized 3D CG animation visual style?"
+      },
+      {
+        "en": "Does the video have soft lighting that highlights the character's silhouette?"
+      },
+      {
+        "en": "Is the overall color tone of the video dark?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes and sketch texture, while retaining any clean linework or painterly rendering required by the requested final style?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/038": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have a black buzz cut?"
+      },
+      {
+        "en": "Is the man's face covered in sweat in the video?"
+      },
+      {
+        "en": "Is there fresh red blood on the man’s right forehead and cheek?"
+      },
+      {
+        "en": "Is the man wearing a dark blue corduroy jacket?"
+      },
+      {
+        "en": "Is the man wearing a gray shirt?"
+      },
+      {
+        "en": "Does the man have a pale face?"
+      },
+      {
+        "en": "Are small cuts visible on the man’s face?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video made of light brown wooden boards?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video appear as live-action footage?"
+      },
+      {
+        "en": "Is the lighting dim with deep shadows in the video?"
+      },
+      {
+        "en": "Does the video feature a cinematic teal color tone?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/039": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the monkey man have red hair?"
+      },
+      {
+        "en": "Is the monkey man wearing a golden headband?"
+      },
+      {
+        "en": "Is the pig-eared humanoid pale?"
+      },
+      {
+        "en": "Is the pig man wearing a red robe?"
+      },
+      {
+        "en": "Is the monk wearing a silver crown?"
+      },
+      {
+        "en": "Is the monk wearing a cyan robe?"
+      },
+      {
+        "en": "Does the dark-bearded humanoid have blue skin?"
+      },
+      {
+        "en": "Is the blue-skinned humanoid wearing beaded necklaces?"
+      },
+      {
+        "en": "Does the monk have fair skin?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene show an overcast sky?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic fantasy style?"
+      },
+      {
+        "en": "Is the lighting in the video soft?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a monkey man appear in the video?"
+      },
+      {
+        "en": "Does a pig man appear in the video?"
+      },
+      {
+        "en": "Does a monk appear in the video?"
+      },
+      {
+        "en": "Are there exactly four characters in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the characters arranged from frame-left to frame-right as monkey-like humanoid, pig-eared humanoid, monk, and blue-skinned humanoid with a dark beard?"
+      }
+    ]
+  },
+  "rough_storyboard/040": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the room have black hair?"
+      },
+      {
+        "en": "Is the man in the room wearing a dark jacket?"
+      },
+      {
+        "en": "Is the monitor in the video black?"
+      },
+      {
+        "en": "Does the man on the monitor have a heavily bandaged head?"
+      },
+      {
+        "en": "Is the man in the monitor wearing a striped hospital gown?"
+      },
+      {
+        "en": "Is the patient's striped gown blue and white?"
+      },
+      {
+        "en": "Do the portable monitors have illuminated colourful buttons?"
+      },
+      {
+        "en": "Is the man's hair short?"
+      },
+      {
+        "en": "Is the desk wooden?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the room environment in the video dimly lit?"
+      },
+      {
+        "en": "Is the background a bright white hospital ward?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a realistic live-action style?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the grayscale sketch line appearance from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man (in the room) appear in the video?"
+      },
+      {
+        "en": "Do two portable monitors appear on the desk?"
+      },
+      {
+        "en": "Does another man (the patient) appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the monitor placed on a desk in the video?"
+      },
+      {
+        "en": "Is the other man shown on the monitor in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/041": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, and timestamps?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the middle-aged man wearing a brown textured blazer?"
+      },
+      {
+        "en": "Is the middle-aged man wearing a dark blue sweater?"
+      },
+      {
+        "en": "Is the young man wearing a black suit?"
+      },
+      {
+        "en": "Is the young man wearing glasses?"
+      },
+      {
+        "en": "Is the cup brush white?"
+      },
+      {
+        "en": "Is the thermos cup dark gray?"
+      },
+      {
+        "en": "Is the paper bag brown and does it contain red and green items?"
+      },
+      {
+        "en": "Does the whiteboard have charts on it?"
+      },
+      {
+        "en": "Is the cabinet coral-colored?"
+      },
+      {
+        "en": "Does the middle-aged man wear a lanyard?"
+      },
+      {
+        "en": "Does the younger man wear a white shirt?"
+      },
+      {
+        "en": "Does the office have light wood-slatted walls?"
+      },
+      {
+        "en": "Do the younger man's glasses have wire rims?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in an office?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video have a realistic style?"
+      },
+      {
+        "en": "Is the lighting in the video bright?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a middle-aged man appear in the video?"
+      },
+      {
+        "en": "Does a young man appear in the video?"
+      },
+      {
+        "en": "Does a cup brush appear in the video?"
+      },
+      {
+        "en": "Does a thermos cup appear in the video?"
+      },
+      {
+        "en": "Does a paper bag appear in the video?"
+      },
+      {
+        "en": "Does a whiteboard appear in the video?"
+      },
+      {
+        "en": "Does a cabinet appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/042": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      },
+      {
+        "en": "Is the final video free of the reference’s unfinished draft strokes, guide marks, and sketch texture?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is one character wearing a black cloak?"
+      },
+      {
+        "en": "Is this character wearing a red hat with gold trim?"
+      },
+      {
+        "en": "Does the other character have blue hair?"
+      },
+      {
+        "en": "Is this blue-haired character wearing a red and gold coat?"
+      },
+      {
+        "en": "Do the black-cloaked, red-hatted figures wear metallic bodices?"
+      },
+      {
+        "en": "Is the blue-haired character's hair messy?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene depicted in a dark environment?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 3D animation style?"
+      },
+      {
+        "en": "Is there volumetric lighting illuminating the altar?"
+      },
+      {
+        "en": "Does the visual feature deep shadows and strong contrast with red, white, and gold accents?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is an altar present in the video?"
+      },
+      {
+        "en": "Are white lilies present in the video?"
+      },
+      {
+        "en": "Are stone steps present in the video?"
+      },
+      {
+        "en": "Do multiple black-cloaked figures and a separate blue-haired figure appear in the video?"
+      }
+    ]
+  },
+  "rough_storyboard/043": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have fair skin?"
+      },
+      {
+        "en": "Is the man wearing a white uniform with dark red accents and gold epaulets?"
+      },
+      {
+        "en": "Does the woman in the video have dark skin?"
+      },
+      {
+        "en": "Is the woman wearing a gold hair accessory?"
+      },
+      {
+        "en": "Is the woman wearing a white dress with gold shoulder armor?"
+      },
+      {
+        "en": "Does the man have dark hair?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the indoor scene feature cyan-gold geometric walls?"
+      },
+      {
+        "en": "Is there soft sunlight shining through high windows?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a stylized 3D CG animation style with a painterly surface texture?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the grayscale sketch line appearance and texture from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a woman appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman sitting behind the man?"
+      }
+    ]
+  },
+  "rough_storyboard/044": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free from text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the character have fair skin?"
+      },
+      {
+        "en": "Does the character have brown hair?"
+      },
+      {
+        "en": "Is the character wearing steampunk goggles with brass gear edges?"
+      },
+      {
+        "en": "Is the character wearing a white shirt with gold embroidery on the collar?"
+      },
+      {
+        "en": "Does the character have soft pink lips?"
+      },
+      {
+        "en": "Do the goggles have thick, reflective glass lenses?"
+      },
+      {
+        "en": "Do the goggles have dark leather straps?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background feature warm orange-yellow bokeh?"
+      },
+      {
+        "en": "Does the video feature a 3D CG style?"
+      },
+      {
+        "en": "Does the video have a cinematic quality?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free from the grayscale sketch line appearance of the reference?"
+      }
+    ]
+  },
+  "rough_storyboard/045": {
+    "RF-S01": [
+      {
+        "en": "Does the video sequentially pass through the compositions of the reference storyboards, with the subject's general position and shot scale roughly consistent?"
+      }
+    ],
+    "RF-S02": [
+      {
+        "en": "Within each shot, does the video generate continuous, natural motion between the reference anchors instead of freezing or skipping required action stages, while preserving any shot changes specified by the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and character relationships presented in the video roughly consistent with the reference storyboards?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Did the video filter out the hand-drawn sketch lines and grayscale texture from the reference?"
+      },
+      {
+        "en": "Is the video free of text, subtitles, logos, watermarks, or timestamps?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have long dark hair?"
+      },
+      {
+        "en": "Is the robe in the video white and blue?"
+      },
+      {
+        "en": "Does the robe in the video have silver decorations?"
+      },
+      {
+        "en": "Is the ruined roof covered with broken clay tiles?"
+      },
+      {
+        "en": "Do the glowing ethereal figures wear garments in blue, yellow, pink, and green?"
+      },
+      {
+        "en": "Is the magical artifact in the video purple?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene enveloped in hazy red clouds?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video a stylized 3D CG animation?"
+      },
+      {
+        "en": "Does the scene have dramatic deep red ambient lighting?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a traditional fantasy robe appear in the video?"
+      },
+      {
+        "en": "Does a ruined traditional building roof appear in the video?"
+      },
+      {
+        "en": "Do ethereal figures appear in the video?"
+      },
+      {
+        "en": "Does a magical artifact appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man standing on the roof in the video?"
+      },
+      {
+        "en": "Are the ethereal figures located behind the man?"
+      },
+      {
+        "en": "Is the magical artifact located behind the man?"
+      }
+    ]
+  }
+}

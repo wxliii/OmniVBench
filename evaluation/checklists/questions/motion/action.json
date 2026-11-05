@@ -1,0 +1,2104 @@
+{
+  "action_reference/001": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the short-haired man or gray t-shirt from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including scene elements like the graffiti wall or foreground car roof?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully filter out the bottom subtitles from the reference?"
+      },
+      {
+        "en": "Does the video successfully filter out the logo or watermark from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a monk appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the medieval monk wearing a hooded cloak?"
+      },
+      {
+        "en": "Does the character's appearance fit the medieval setting?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a ruined, abandoned corridor?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a pervasive dim yellow dusty light?"
+      }
+    ]
+  },
+  "action_reference/002": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly retaining the short hair or modern uniform appearance of the reference character?"
+      },
+      {
+        "en": "Does the video avoid incorrectly retaining the modern office corridor setting from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully remove the Chinese subtitles at the bottom of the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young nun appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a monastery corridor?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a dimly lit environmental atmosphere?"
+      },
+      {
+        "en": "Is the nun in the video bathed in soft holy light?"
+      }
+    ]
+  },
+  "action_reference/003": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the modern clothes or nun habit from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the red brick building or greenbelt background from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the Chinese subtitle at the bottom of the reference successfully filtered out?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do winged elves appear in the video?"
+      },
+      {
+        "en": "Does a priestess appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the winged elves have wings and wear gauze clothing?"
+      },
+      {
+        "en": "Is the priestess wearing a robe?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set on a garden path of a cloud island?"
+      },
+      {
+        "en": "Are there abundant flowers in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present the lighting and tone of blue moonlight?"
+      }
+    ]
+  },
+  "action_reference/004": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the appearance or clothing (e.g., camisoles, necklaces) of the reference persons?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the reference background (e.g., bed, radiator)?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully avoid generating subtitles, logos, or watermarks?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Are there exactly two yeti cubs in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the yeti cubs in the video have a fluffy appearance?"
+      },
+      {
+        "en": "Do the yeti cubs in the video reveal sharp teeth?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set at the entrance of an ice cave?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video enveloped in ice-blue, cool-toned lighting?"
+      }
+    ]
+  },
+  "action_reference/005": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the human appearance or modern clothing from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the modern indoor scene (e.g., mirror, floor lamp) from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of distracting elements like subtitles, channel logos, or watermarks?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do a pair of humanoid beetles appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background scene of the video a hive-like cabin?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a lighting atmosphere of dim bioluminescence?"
+      }
+    ]
+  },
+  "action_reference/006": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the woman in black or the man in white from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including scenes like the butcher shop, tiled walls, or slaughter equipment from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully filter out the Chinese subtitles at the bottom of the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a giant beetle appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene presented as a hive-like workshop?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present dim bioluminescence and an eerie atmosphere?"
+      }
+    ]
+  },
+  "action_reference/007": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the reference person's appearance or clothing (e.g., sweater, red gloves)?"
+      },
+      {
+        "en": "Does the video avoid copying the snowy forest from Reference Video 1 as its setting?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any subtitles, channel logos, or watermarks?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an astronaut appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the astronaut in the video wearing a white spacesuit?"
+      },
+      {
+        "en": "Do the exposed canyon rocks show visible strata?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set among exposed rock formations in a Martian rift valley?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature lighting and tones enveloped by purple skylight?"
+      }
+    ]
+  },
+  "action_reference/008": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly retaining the reference characters' appearances or clothing?"
+      },
+      {
+        "en": "Does the video avoid incorrectly retaining the original reference scene, like the shabby wall?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully avoid generating the subtitles from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a housewife appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the housewife wearing a 1950s house dress?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in a retro American backyard?"
+      },
+      {
+        "en": "Does the video show a warm, sunny environment?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a nostalgic atmosphere?"
+      }
+    ]
+  },
+  "action_reference/009": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the modern character appearance (e.g., bald, short sleeves) from the reference?"
+      },
+      {
+        "en": "Does the video avoid bringing the modern indoor scene (e.g., windows, kang) from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the subtitles from the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an ancient cave painter appear as the main subject in the video?"
+      },
+      {
+        "en": "Do lanterns appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set inside the Dunhuang Caves?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present the lighting effect of dim yellow lanterns?"
+      },
+      {
+        "en": "Does the video present a peaceful atmosphere?"
+      }
+    ]
+  },
+  "action_reference/010": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the reference characters' appearance or clothing (e.g., ponytail/bald/green hoodie)?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the original reference scene (e.g., garment workshop/sewing machine)?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly including the Chinese and English subtitles from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an elf girl appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the elf girl in the video have silver hair?"
+      },
+      {
+        "en": "Is the elf girl in the video wearing a light blue uniform?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background scene of the video set inside a starship cabin?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature the lighting effect of starlight shining through a window?"
+      }
+    ]
+  },
+  "action_reference/011": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the little boy's identity or his short-sleeved shirt from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the dilapidated house, firewood pile, or dirt ground from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the subtitles at the bottom of Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a small animal appear in the video?"
+      },
+      {
+        "en": "Do crystal clusters appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the small animal in the video have a fluffy appearance?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background scene of the video a dark crystal cave?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video show the lighting effect of crystal clusters emitting colorful light surrounding the small animal?"
+      }
+    ]
+  },
+  "action_reference/012": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including the modern face or white Chinese-style top from the reference?"
+      },
+      {
+        "en": "Does the video avoid including the wooden door background or unfinished pipas from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the channel logos or watermarks from the reference?"
+      },
+      {
+        "en": "Is the video free of the bottom subtitles or side text from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an old wizard appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the old wizard in the video have white hair?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set deep within a gloomy stone room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature dim yellow candlelight?"
+      },
+      {
+        "en": "Does the video create a mysterious atmosphere?"
+      }
+    ]
+  },
+  "action_reference/013": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the human child identity or swimsuits from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the daytime beach scene from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the subtitles at the bottom of the reference?"
+      },
+      {
+        "en": "Is the video free of the vertical text watermark on the right of the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do three glowing crystal sprites appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the sprites in the video have a crystal appearance?"
+      },
+      {
+        "en": "Do the sprites in the video glow?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set on a lake shore shallows?"
+      },
+      {
+        "en": "Does the video present a starlit environment?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video overall present a dreamy fantasy scene style?"
+      }
+    ]
+  },
+  "action_reference/014": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the modern appearance or clothing of the reference characters?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the modern courtyard and plant background from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully filter out the Chinese subtitles at the bottom of the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does Hanuman appear in the video?"
+      },
+      {
+        "en": "Do exactly two little fairy children appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a bright Indian temple garden?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a mythological atmosphere?"
+      }
+    ]
+  },
+  "action_reference/015": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the striped shirt or yellow jacket from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the square, fountain, or buildings from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully exclude the channel logos or watermarks from the reference?"
+      },
+      {
+        "en": "Does the video successfully exclude the text subtitles from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does Little Red Riding Hood appear in the video?"
+      },
+      {
+        "en": "Does the Big Bad Wolf appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a fairy tale forest?"
+      },
+      {
+        "en": "Does the video depict a twilight setting?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video have dim dusk lighting?"
+      }
+    ]
+  },
+  "action_reference/016": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude the reference characters' appearance features like modern clothing, short hair, or bags?"
+      },
+      {
+        "en": "Does the video exclude reference background elements like modern streets, white fences, or high-rises?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the bottom subtitles, channel logos, or watermarks from the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a female martial artist appear in the video?"
+      },
+      {
+        "en": "Does a young scholar appear in the video?"
+      },
+      {
+        "en": "Does a stone bridge appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the young scholar in the video in a squatting or sitting posture?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene present the environmental features of a Ming and Qing ancient town?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video show the lighting effect of dappled sunlight?"
+      },
+      {
+        "en": "Does the video present a quaint and tranquil atmosphere?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the female swordsman and young scholar positioned by the stone bridge?"
+      }
+    ]
+  },
+  "action_reference/017": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid bringing in the polar bear's appearance from the reference?"
+      },
+      {
+        "en": "Does the video correctly avoid bringing in the grass, rocks, or ordinary stream from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any subtitles, channel logos, or watermarks?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a giant rock beast appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the giant rock beast covered in red mineral armor?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene a shallow stream covered with lava?"
+      },
+      {
+        "en": "Does orange-red molten lava appear in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a fiery fantasy atmosphere through the orange-red lava and lighting?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does magma surround the rock-beast?"
+      }
+    ]
+  },
+  "action_reference/018": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly retaining the subject's appearance from the reference (e.g., gray cat)?"
+      },
+      {
+        "en": "Does the video avoid copying the sofa background from Reference Video 1 as its setting?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly featuring the subtitles from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring channel logos or watermarks?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a fluffy red fox cub appear as the main subject in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a lush green bamboo forest?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature soft natural lighting?"
+      },
+      {
+        "en": "Is the overall atmosphere of the video warm and peaceful?"
+      }
+    ]
+  },
+  "action_reference/019": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the appearance of the puppies from the reference?"
+      },
+      {
+        "en": "Does the video use the golden African savanna setting rather than copying the reference's specific grassy terrain and stone arrangement?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully filter out the bilingual subtitles from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do exactly two lion cubs appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a golden African savanna?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature warm sunset lighting and shadows?"
+      }
+    ]
+  },
+  "action_reference/020": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude the bird from the reference video?"
+      },
+      {
+        "en": "Does the video exclude the green water surface or plants from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video exclude the subtitles from the reference video?"
+      },
+      {
+        "en": "Does the video exclude the channel logo or watermarks from the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a dragon appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the dragon have silver scales?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set above a vast, deep blue sea?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a grand, fantasy, and epic atmosphere?"
+      }
+    ]
+  },
+  "action_reference/021": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the little girl's identity or blue-and-white clothes from the reference?"
+      },
+      {
+        "en": "Does the video avoid copying the indoor room from Reference Video 1 as its setting?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any subtitles, logos, or watermarks from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a giant appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the giant have a crystalline appearance?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background scene of the video an ice cave?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a lighting effect of cool-toned natural light?"
+      },
+      {
+        "en": "Does the video create a tranquil surrounding atmosphere?"
+      }
+    ]
+  },
+  "action_reference/022": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference people's identities with the starlight sprite and treant?"
+      },
+      {
+        "en": "Does the video avoid incorrectly retaining the blurred outdoor plants and white fence background from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Did the video successfully remove the logo or watermark in the upper frame-right corner of the reference?"
+      },
+      {
+        "en": "Did the video successfully remove the subtitles at the bottom of the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a starlight sprite appear in the video?"
+      },
+      {
+        "en": "Does an ancient treant guardian appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a forest?"
+      },
+      {
+        "en": "Does the video show a moonlight-shrouded environment setting?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a mysterious and gentle atmosphere?"
+      }
+    ]
+  },
+  "action_reference/023": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the reference characters' appearance or clothing (e.g., curly hair, black veil hat)?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the original reference background (e.g., dark board with cross pattern)?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the Chinese subtitles at the bottom of the reference frame?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a gentleman appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman in the video wearing a Republican-era Qipao?"
+      },
+      {
+        "en": "Is the gentleman in the video wearing a suit?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set inside a dim, classical train cabin?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present the lighting effect of a warm yellow kerosene lamp?"
+      },
+      {
+        "en": "Is the video filled with a retro atmosphere?"
+      }
+    ]
+  },
+  "action_reference/024": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the reference characters' appearance or clothing (e.g., brown vest) into the output?"
+      },
+      {
+        "en": "Does the video avoid bringing the reference background (e.g., sand, rocks) into the output?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including subtitles, logos, or watermarks from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a humanoid robot appear in the video?"
+      },
+      {
+        "en": "Does a maintenance worker appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the humanoid robot in the video silver-white?"
+      },
+      {
+        "en": "Is the maintenance worker in the video wearing orange overalls?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set beside an inspection desk in a bright futuristic maintenance cabin?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is there cold white light reflecting on the robot's metal shell in the video?"
+      }
+    ]
+  },
+  "action_reference/025": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the reference woman's appearance or cyan clothing into the frame?"
+      },
+      {
+        "en": "Does the video avoid copying the indoor room from Reference Video 1 as its setting?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any subtitles, channel logos, or watermarks?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an undead diviner appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in an underground tomb?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the crypt lit by candlelight?"
+      },
+      {
+        "en": "Does the video show a dark and mysterious atmosphere?"
+      }
+    ]
+  },
+  "action_reference/026": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the modern appearance, black top, or white scarf of the reference character?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the modern bank counter or computer monitor background from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully exclude the bottom subtitles from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman in the video wearing a cheongsam?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene presented as a bank counter in Republican-era Shanghai?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature warm lighting?"
+      },
+      {
+        "en": "Does the video have a nostalgic atmosphere?"
+      }
+    ]
+  },
+  "action_reference/027": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the short-haired woman's appearance or yellow top from the reference?"
+      },
+      {
+        "en": "Does the video avoid bringing the blurred bamboo forest background from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid bringing the subtitles from the reference into the frame?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a humanoid stone statue appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the humanoid stone statue have magma tear marks on its cheeks?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a close-up view?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a sorrowful and oppressive atmosphere?"
+      }
+    ]
+  },
+  "action_reference/028": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly retaining the Asian face or camouflage uniform from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly retaining the white wall or green poster background from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any subtitles, logos, or watermarks from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an orc warrior appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the orc warrior in the video have rugged facial features?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a close-up over-the-shoulder shot?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a dim and heavy atmosphere?"
+      }
+    ]
+  },
+  "action_reference/029": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the blonde woman's identity, appearance, or white clothing from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the original scene from the reference (e.g., black lounge chairs, cacti)?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the text subtitles from the reference?"
+      },
+      {
+        "en": "Is the video free of the channel logo or watermark from the top right of the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a skeleton knight appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the skeleton knight wearing mottled and worn armor?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in a bright living room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a relaxed and lazy home atmosphere?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a wide shot?"
+      }
+    ]
+  },
+  "action_reference/030": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the pink and blue clothes or facial features of the reference character?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the crowd, buildings, or black tent from the reference background?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully filter out the bilingual subtitles at the bottom of the reference?"
+      },
+      {
+        "en": "Does the video successfully filter out the text watermark on the right side of the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a mushroom sprite appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the mushroom sprite have a mushroom-cap head?"
+      },
+      {
+        "en": "Is the mushroom sprite wearing an off-white linen shirt?"
+      },
+      {
+        "en": "Is the mushroom sprite wearing brown suspender shorts?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene a sunny meadow?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a wide shot?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a warm folk style?"
+      }
+    ]
+  },
+  "action_reference/031": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the female dancer identity, appearance, or ballet costumes from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the dance studio background (e.g., barre, white walls) from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, channel logos, or watermarks from the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Are there exactly two male gladiators in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the gladiators in the video wearing armor?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in an ancient Roman arena?"
+      },
+      {
+        "en": "Is there golden dust in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a style full of classical atmosphere?"
+      }
+    ]
+  },
+  "action_reference/032": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly retaining the reference girl's appearance or her purple top and denim skirt?"
+      },
+      {
+        "en": "Does the video avoid incorrectly retaining original scene elements like the white wall or air conditioner?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any subtitles?"
+      },
+      {
+        "en": "Is the video free of any channel logos or watermarks?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a celestial apsara appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the fairy in the video wrapped in flying ribbons?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video presented as Dunhuang murals?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature warm-colored lighting?"
+      },
+      {
+        "en": "Does the video have a mural-like texture?"
+      },
+      {
+        "en": "Does the video present a peaceful atmosphere?"
+      }
+    ]
+  },
+  "action_reference/033": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly retaining the reference character's appearance (e.g., white t-shirt or floral skirt)?"
+      },
+      {
+        "en": "Does the video avoid incorrectly retaining the original scene from the reference (e.g., outdoor stairs)?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, channel logos, or watermarks incorrectly copied from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a flower fairy appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing a flower crown?"
+      },
+      {
+        "en": "Does the character's skirt spread out like translucent petals?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background scene a bar at night?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature intertwined lighting from neon lights and warm bar lamps?"
+      }
+    ]
+  },
+  "action_reference/034": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the little girl's identity or her striped hoodie and pleated skirt from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including original background elements like the archway, white walls, or wooden floor from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any subtitles, channel logos, or watermarks from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a plush bear toy appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the teddy bear appear to be made of soft, fluffy plush fabric?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a simple beige room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a bright and cheerful atmosphere?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a wide shot?"
+      }
+    ]
+  },
+  "action_reference/035": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the reference person's identity or clothing (Black male, black shirt, blue shorts)?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including original scene elements from the reference (basketball court, hoop, folding chair)?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video successfully filtered out the Chinese subtitles from the reference?"
+      },
+      {
+        "en": "Has the video successfully filtered out the watermark or logo in the top left corner?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does Thor, the Norse God of Thunder, appear in the video?"
+      },
+      {
+        "en": "Does Mjolnir (Thor's hammer) appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set on a starry sky stage?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does Thor use Mjolnir as a prop for his actions in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature cool-toned lighting with a mythological atmosphere?"
+      }
+    ]
+  },
+  "action_reference/036": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the reference boy's appearance, white vest, and dark shorts?"
+      },
+      {
+        "en": "Is the video free of reference background elements (e.g., cars, court surface)?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, channel logos, or watermarks?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a sprite appear in the video?"
+      },
+      {
+        "en": "Does a ball object appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the sprite have an appearance woven from vines?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a forest lawn?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the scene have a fantasy nature style in an amber-toned planetary setting?"
+      }
+    ]
+  },
+  "action_reference/037": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the identity or shorts appearance of the surfer from the reference into the output?"
+      },
+      {
+        "en": "Does the video avoid bringing the ocean, waves, or background crowd from the reference into the output?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid bringing the 'Tencent Video' logo or watermark from the reference into the output?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a swordsman appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the swordsman in the video wearing red clothes?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video set above a vast sea of clouds?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present an Eastern fantasy Xianxia style?"
+      }
+    ]
+  },
+  "action_reference/038": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the black baseball uniform and cap from the reference?"
+      },
+      {
+        "en": "Is the video free of the grass, wire fence, and billboard from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, logos, or watermarks from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an interstellar ranger appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the interstellar ranger in the video wearing a cloak?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video background show a moonlit mirror-like lake?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a cosmic fantasy style?"
+      }
+    ]
+  },
+  "action_reference/039": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the reference man's facial features or modern sportswear?"
+      },
+      {
+        "en": "Is the video free of the reference's modern football field, grass, or fences?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the Chinese subtitles from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a knight appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in the courtyard of a medieval castle?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a warm, classical atmosphere?"
+      }
+    ]
+  },
+  "action_reference/040": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly retaining the boxing suits, helmets, or gloves from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly retaining the boxing ring, ropes, or audience from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully avoid generating the logo or watermark from the reference?"
+      },
+      {
+        "en": "Does the video successfully avoid generating the subtitles from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do exactly two gladiators appear in the video?"
+      },
+      {
+        "en": "Does exactly one Roman referee appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video an ancient Roman Colosseum?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present the lighting effect of being under torchlight?"
+      },
+      {
+        "en": "Does the video present a tense atmosphere?"
+      }
+    ]
+  },
+  "action_reference/041": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including fencing suits or masks from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the fencing hall, yellow railings, or scoreboard from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video successfully removed the Chinese subtitles at the bottom of the reference?"
+      },
+      {
+        "en": "Has the video successfully removed the circular watermark at the bottom right of the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two swordsmen appear in the video?"
+      },
+      {
+        "en": "Do two lightsabers appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does a red helmet appear in the video?"
+      },
+      {
+        "en": "Does a black helmet appear in the video?"
+      },
+      {
+        "en": "Does a blue lightsaber appear in the video?"
+      },
+      {
+        "en": "Does a red lightsaber appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video a starship training deck?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the swordsman wearing the red helmet holding a blue lightsaber?"
+      },
+      {
+        "en": "Is the swordsman wearing the black helmet holding a red lightsaber?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the lighting environment of the video bright?"
+      },
+      {
+        "en": "Does the video present a tense atmosphere?"
+      }
+    ]
+  },
+  "action_reference/042": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the tokusatsu suit appearance from the reference video?"
+      },
+      {
+        "en": "Is the video free of the abandoned factory background from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any subtitles, channel logos, or watermarks?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two martial arts masters appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a Ming Dynasty martial arts arena?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature dim candlelight illumination?"
+      },
+      {
+        "en": "Does the video present a tense atmosphere?"
+      }
+    ]
+  },
+  "action_reference/043": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the facial features or ancient costumes of the reference persons into the output?"
+      },
+      {
+        "en": "Does the video avoid bringing the indoor furnishings (e.g., screens, wooden tables) from the reference into the output?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully filter out subtitles, channel logos, or watermarks from the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a dragonman appear in the video?"
+      },
+      {
+        "en": "Does a beast-headed titan appear in the video?"
+      },
+      {
+        "en": "Does a longsword appear in the video?"
+      },
+      {
+        "en": "Does a halberd appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the dragonman in the video have silver scales?"
+      },
+      {
+        "en": "Does the titan have a beast head?"
+      },
+      {
+        "en": "Does the halberd in the video have a green light effect?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video set inside the Star-glow Temple?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the dragonman in the video holding the longsword?"
+      },
+      {
+        "en": "Is the beast-headed titan holding the halberd?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a solemn and majestic atmosphere?"
+      }
+    ]
+  },
+  "action_reference/044": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the long braid, bald head, or ancient costumes from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the original background such as the stone floor from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the channel logo from Reference Video 1?"
+      },
+      {
+        "en": "Is the video free of the vertical subtitles from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Are there exactly two young men in the video?"
+      },
+      {
+        "en": "Does a padded ring appear in the video?"
+      },
+      {
+        "en": "Do metal fences appear in the video?"
+      },
+      {
+        "en": "Does an electronic timing screen appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the two men in the video wearing black and white sports training uniforms?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a brightly lit modern MMA training gym?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the two young men positioned on the padded ring while performing the referenced motion?"
+      },
+      {
+        "en": "Do the metal barriers surround the padded ring?"
+      }
+    ]
+  },
+  "action_reference/045": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the reference man's facial features or light green outfit?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the reference's training gym background or red banner?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Are the bottom subtitles and frame-right-side text logos from the reference successfully filtered out?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a warrior statue appear in the video?"
+      },
+      {
+        "en": "Does a stone platform appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the warrior statue have a bronze appearance?"
+      },
+      {
+        "en": "Is the stone platform black?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the warrior statue positioned on the stone platform?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background scene of the video a temple square?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a solemn classical sculpture texture and style?"
+      }
+    ]
+  },
+  "action_reference/046": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the modern appearance and sportswear from the reference?"
+      },
+      {
+        "en": "Is the video free of the gym roof, lights, and ropes from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the Chinese subtitles from the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a priest appear in the video?"
+      },
+      {
+        "en": "Does a fairy appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the priest wearing a robe?"
+      },
+      {
+        "en": "Does the fairy have blonde hair?"
+      },
+      {
+        "en": "Is the fairy wearing a green gown?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background scene set inside a temple?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a dark, mysterious, and profound atmosphere?"
+      }
+    ]
+  },
+  "action_reference/047": {
+    "RF-M01": [
+      {
+        "en": "Does the subject's motion match Reference Video 1 in action order, key body poses, limb trajectories, range, speed, and rhythm?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference dancers' identities with the requested priestess and mermen?"
+      },
+      {
+        "en": "Does the video avoid bringing the reference modern pool stage background with fountains into the final output?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid bringing the 'CCTV 4K' channel logo from the top left of the reference into the final output?"
+      },
+      {
+        "en": "Does the video avoid bringing the watermark from the bottom right of the reference into the final output?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a moonlight priestess appear in the video?"
+      },
+      {
+        "en": "Do exactly four mermen appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the moonlight priestess wearing a silver robe?"
+      },
+      {
+        "en": "Do the merfolk in the video have blue scales?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in a dim water pool with a mystical underwater-stage atmosphere?"
+      }
+    ]
+  }
+}

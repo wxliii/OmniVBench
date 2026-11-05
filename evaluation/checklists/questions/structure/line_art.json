@@ -1,0 +1,3267 @@
+{
+  "lineart/001": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does the video feature personnel?"
+      },
+      {
+        "en": "Does the video feature rifles?"
+      },
+      {
+        "en": "Does the video feature a large truck?"
+      },
+      {
+        "en": "Does the video feature buildings?"
+      },
+      {
+        "en": "Does the video feature the sky?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the personnel in the video wearing black tactical gear?"
+      },
+      {
+        "en": "Is the large truck in the video covered with a red tarp?"
+      },
+      {
+        "en": "Are the buildings in the video tan-colored?"
+      },
+      {
+        "en": "Is the sky in the video clear blue?"
+      },
+      {
+        "en": "Does a visible face have a dark beard?"
+      },
+      {
+        "en": "Are the rifles black?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in an outdoor location?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Are the personnel in the video holding rifles?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action visual style?"
+      },
+      {
+        "en": "Is there bright sunlight casting heavy shadows in the video?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the personnel, truck, and buildings, and their relative positions and proportions, match the lineart frame-by-frame throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/002": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have dark brown hair?"
+      },
+      {
+        "en": "Is the man in the video wearing an olive green jacket?"
+      },
+      {
+        "en": "Is the man in the video wearing a gold chain?"
+      },
+      {
+        "en": "Is the man wearing black fingerless gloves?"
+      },
+      {
+        "en": "Is the man in the video wearing a wooden bead bracelet?"
+      },
+      {
+        "en": "Does the cylinder in the video have a carved metal appearance?"
+      },
+      {
+        "en": "Does the cylinder emit a dazzling yellow diamond-shaped light?"
+      },
+      {
+        "en": "Does the young man have pale skin?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background of the video appear blurred?"
+      },
+      {
+        "en": "Is the video presented in a 3D animation style?"
+      },
+      {
+        "en": "Is the overall lighting in the video bright?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Are metal railings visible in the background?"
+      },
+      {
+        "en": "Are green plants visible in the background?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outlines of the man, cylinder, and railings, and their relative positions and proportions to each other, match the lineart frame-by-frame throughout? (Excluding framing differences due to aspect ratio)"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the man hold the carved metallic cylinder?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/003": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a meerkat appear in the video?"
+      },
+      {
+        "en": "Do vines appear in the video?"
+      },
+      {
+        "en": "Does a leaf hammock appear in the video?"
+      },
+      {
+        "en": "Does a large coconut shell appear in the video?"
+      },
+      {
+        "en": "Does foam appear in the video?"
+      },
+      {
+        "en": "Does a flower appear in the video?"
+      },
+      {
+        "en": "Does a bamboo straw appear in the video?"
+      },
+      {
+        "en": "Does a grass silhouette appear in the video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the meerkat light brown with a red hair tuft?"
+      },
+      {
+        "en": "Is the leaf hammock dark green?"
+      },
+      {
+        "en": "Is the coconut shell filled with foam?"
+      },
+      {
+        "en": "Is the foam pink?"
+      },
+      {
+        "en": "Is the flower pink?"
+      },
+      {
+        "en": "Is the bamboo straw green?"
+      },
+      {
+        "en": "Is the grass silhouette dark?"
+      },
+      {
+        "en": "Is the coconut shell brown?"
+      },
+      {
+        "en": "Does the pink foam have a fluffy appearance?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background a twilight sky with a purple-orange gradient?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a 2D animated style?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outlines of the meerkat, leaf hammock, and large coconut shell, and their relative positions and proportions to each other, consistently match the line art throughout the video? (Excluding framing differences due to aspect ratio)"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the meerkat positioned inside the leaf hammock?"
+      },
+      {
+        "en": "Are the specified flower and bamboo straw in the coconut shell?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the meerkat support the coconut shell?"
+      }
+    ]
+  },
+  "lineart/004": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Are there exactly two muscular men in the video, no more and no less?"
+      },
+      {
+        "en": "Do energy auras appear in the video?"
+      },
+      {
+        "en": "Do white rings appear in the video?"
+      },
+      {
+        "en": "Does a sleeveless suit appear in the video?"
+      },
+      {
+        "en": "Does a martial arts uniform appear in the video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the characters' hair spiky and golden?"
+      },
+      {
+        "en": "Are the energy auras bright yellow and jagged?"
+      },
+      {
+        "en": "Is the sleeveless suit dark blue, and is the character wearing it also wearing white gloves?"
+      },
+      {
+        "en": "Is the martial arts uniform orange, with a dark blue undershirt?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the character wearing the sleeveless suit located on the left side of the screen?"
+      },
+      {
+        "en": "Is the character wearing the martial arts uniform located on the right side of the screen?"
+      },
+      {
+        "en": "Are the white rings floating above the characters' heads?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a rocky ground?"
+      },
+      {
+        "en": "Are there cracked marks on the surface of the rocky ground?"
+      },
+      {
+        "en": "Is the rocky ground cyan-blue?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a 2D animation style?"
+      },
+      {
+        "en": "Is there a sharp contrast between the golden light and the cold-colored ground in the video?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the contour shapes of the two muscular men and the rocky ground, and their relative positions and proportions to each other, consistently match the lineart throughout the video? (Excluding framing differences caused by aspect ratio)"
+      }
+    ]
+  },
+  "lineart/005": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does the video feature exactly six figures?"
+      },
+      {
+        "en": "Does a campfire appear in the video?"
+      },
+      {
+        "en": "Does a shirtless man appear in the video?"
+      },
+      {
+        "en": "Does a figure wearing a white T-shirt appear in the video?"
+      },
+      {
+        "en": "Do exactly two men wearing glasses appear in the video?"
+      },
+      {
+        "en": "Does a figure with long hair appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are there red words printed on the white T-shirt in the video?"
+      },
+      {
+        "en": "Is the hair of the long-haired figure reddish-brown?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the figures sitting around the campfire in the video?"
+      },
+      {
+        "en": "Is the figure on the left side of the frame a shirtless man?"
+      },
+      {
+        "en": "Is the figure in the white T-shirt next to the shirtless man?"
+      },
+      {
+        "en": "Are the figures on the right side of the frame two men with glasses?"
+      },
+      {
+        "en": "Is the long-haired figure in the foreground facing the fire?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set at night?"
+      },
+      {
+        "en": "Is the video scene set in a dark forest?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 2D animation style?"
+      },
+      {
+        "en": "Is there an effect of orange firelight illuminating the people?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the people and campfire, and their positions and proportions to each other, match the line art throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ]
+  },
+  "lineart/006": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a chubby man appear in the video?"
+      },
+      {
+        "en": "Do four other characters appear in the video?"
+      },
+      {
+        "en": "Do lamps appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the character's suit contain green, white, and blue colors?"
+      },
+      {
+        "en": "Is the characters' armor made of metal?"
+      },
+      {
+        "en": "Are the lamps blue and glowing?"
+      },
+      {
+        "en": "Does the central chubby man have spiky orange hair?"
+      },
+      {
+        "en": "Is the pink-haired female wearing pink armor?"
+      },
+      {
+        "en": "Is the red-haired male wearing red armor?"
+      },
+      {
+        "en": "Is the blue-haired male wearing blue armor?"
+      },
+      {
+        "en": "Is the blonde male wearing gold armor?"
+      },
+      {
+        "en": "Does the hall have light stone walls and gold decorative accents?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the chubby man located in the middle of the frame?"
+      },
+      {
+        "en": "Are the four other characters located on both sides of the middle man?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in a magnificent hall?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 3D animation style?"
+      },
+      {
+        "en": "Is the hall brightly lit?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the five characters and the hall background, as well as their positions and proportional relationships to each other, consistently match the line art throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ]
+  },
+  "lineart/007": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the frog-like creature dark blue with a yellow chest?"
+      },
+      {
+        "en": "Does the frog-like creature have a pink tongue wrapped around its neck?"
+      },
+      {
+        "en": "Is the small creature in the video white?"
+      },
+      {
+        "en": "Does the small creature have a pink crystal on its head?"
+      },
+      {
+        "en": "Does the woman have red hair styled into horn shapes?"
+      },
+      {
+        "en": "Is the woman wearing black clothes and red pants?"
+      },
+      {
+        "en": "Does the red-haired woman have pale skin?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a dark cave?"
+      },
+      {
+        "en": "Do the cave walls appear to have a rough texture?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a 2D animation style?"
+      },
+      {
+        "en": "Is the lighting in the video dim with a cool tone?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the frog-like creature, the small white creature, and the woman, as well as their positions and proportional relationships to each other, consistently match the lineart throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/008": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have black hair?"
+      },
+      {
+        "en": "Is the man's hair tied with a white ornament?"
+      },
+      {
+        "en": "Is the man wearing a robe in light gray and pale green?"
+      },
+      {
+        "en": "Is the crowd wearing uniform white-gray robes?"
+      },
+      {
+        "en": "Is the crowd wearing black belts?"
+      },
+      {
+        "en": "Is the partial figure wearing black clothes?"
+      },
+      {
+        "en": "Does the partial figure have silver ornaments?"
+      },
+      {
+        "en": "Does the foreground young man have pale skin?"
+      },
+      {
+        "en": "Does the partially visible figure on the right have black hair?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is there a crowd in the back of the frame?"
+      },
+      {
+        "en": "Is there a partial figure on the right side of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the background sky appear gloomy?"
+      },
+      {
+        "en": "Are rocks visible in the background?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 3D animation style?"
+      },
+      {
+        "en": "Is the lighting in the video cold and dim?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the man, the crowd behind, the figure on the frame-right, and background structures, as well as their relative positions and proportions to each other, consistently match the lineart throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/009": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two men appear in the video?"
+      },
+      {
+        "en": "Do cylindrical lanterns appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man on the frame-left wearing a red and gold dragon-patterned robe?"
+      },
+      {
+        "en": "Is the man on the frame-left wearing a black hat with red tassels?"
+      },
+      {
+        "en": "Does the man on the frame-right have a beard and a long braid?"
+      },
+      {
+        "en": "Is the man on the frame-right wearing a dark gray robe and a black hat?"
+      },
+      {
+        "en": "Are the lanterns white and emitting a warm light?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a snowy landscape?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action photographic visual style?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the two men and background lanterns, and their position and proportion relative to each other, match the lineart frame by frame throughout the video? (Excluding framing differences caused by aspect ratio)"
+      }
+    ]
+  },
+  "lineart/010": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video have fair skin?"
+      },
+      {
+        "en": "Does the woman in the video have large dark blue eyes?"
+      },
+      {
+        "en": "Does the woman in the video have shoulder-length ash-blonde hair?"
+      },
+      {
+        "en": "Is the woman in the video wearing a dark headband?"
+      },
+      {
+        "en": "Is the woman in the video wearing a light brown shirt?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background a dark red surface with dark wooden edges?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 2D animation style?"
+      },
+      {
+        "en": "Does the video feature soft warm lighting highlighting beige, light brown, and dark red tones?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the young woman's parts, and the position and proportion relationships 【among themselves】, match the lineart segment by segment throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ]
+  },
+  "lineart/011": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a mannequin displaying pink lingerie appear in the video?"
+      },
+      {
+        "en": "Do racks of colorful garments appear in the video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene depicted as a bright clothing store with yellow walls?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the overall visual of the video presented in a 2D animation style?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the characters and background furnishings, and their positions and proportions relative to each other, match the lineart frame-by-frame throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman on the left have short brown hair and glasses?"
+      },
+      {
+        "en": "Does the woman on the left wear a white-and-green sailor uniform with a yellow bow?"
+      },
+      {
+        "en": "Does the woman on the right have long reddish-brown hair?"
+      },
+      {
+        "en": "Does the woman on the right wear a blue uniform and tie, and a matching cap with a gold star?"
+      }
+    ]
+  },
+  "lineart/012": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do exactly two characters appear in the video?"
+      },
+      {
+        "en": "Do wooden structures appear in the background of the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the characters in the video have pale skin and pointed ears?"
+      },
+      {
+        "en": "Does the character on the left have short brown hair and wear a dark gray textured top with a high collar?"
+      },
+      {
+        "en": "Does the character on the right have blonde hair tied back and wear a dark gray sleeveless top with straps and arm bands?"
+      },
+      {
+        "en": "Are the wooden structures in the background burning?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the two characters in the video in a standing posture?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show an environment blazing with fire?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 3D animation style?"
+      },
+      {
+        "en": "Is the video illuminated by intense, warm orange-yellow firelight?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the two characters, and their position and proportional relationships to each other, match the lineart frame-by-frame throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ]
+  },
+  "lineart/013": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman in the video fair-skinned?"
+      },
+      {
+        "en": "Does the woman in the video have vibrant dark purplish-red hair?"
+      },
+      {
+        "en": "Does the woman in the video have light yellowish-green eyes?"
+      },
+      {
+        "en": "Are the woman's lips slightly parted in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a softly glowing light yellow?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 2D animated style?"
+      },
+      {
+        "en": "Does the light cast highlights on the woman's hair in the video?"
+      },
+      {
+        "en": "Does the light form shadows on the woman's face in the video?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the contour shapes of the woman and her hair, and their relative positions and proportions to each other, consistently match the lineart throughout the video? (Excluding framing differences due to aspect ratio)"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/014": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a girl appear in the video?"
+      },
+      {
+        "en": "Does a large screen appear in the video?"
+      },
+      {
+        "en": "Do musical instruments appear in the video?"
+      },
+      {
+        "en": "Does a crowd appear in the video?"
+      },
+      {
+        "en": "Do glow sticks appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the girl have blonde hair?"
+      },
+      {
+        "en": "Is the girl's clothes red with yellow edges?"
+      },
+      {
+        "en": "Is the girl wearing a yellow pleated skirt?"
+      },
+      {
+        "en": "Are the glow sticks yellow?"
+      },
+      {
+        "en": "Does the crowd appear in a dark state?"
+      },
+      {
+        "en": "Is the girl wearing a large white bow?"
+      },
+      {
+        "en": "Does the background large screen display the girl's image?"
+      },
+      {
+        "en": "Is the girl wearing a wide yellow belt?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the girl located on the stage?"
+      },
+      {
+        "en": "Is the large screen located in the background?"
+      },
+      {
+        "en": "Are the musical instruments located next to the large screen?"
+      },
+      {
+        "en": "Is the crowd located below the stage?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a stage setting?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the crowd holding glow sticks?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a 3D animation style?"
+      },
+      {
+        "en": "Are orange-yellow spotlights shining in the scene?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the girl and stage background elements, and their positions and proportions to each other, match the lineart frame-by-frame throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/015": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Is the man wearing goggles in the video?"
+      },
+      {
+        "en": "Is the man wearing a jacket in the video?"
+      },
+      {
+        "en": "Is the man wearing an arm bracer?"
+      },
+      {
+        "en": "Is the man wearing shoulder armor in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man have silver hair, fair skin, and light amber eyes?"
+      },
+      {
+        "en": "Do the goggles in the video have a retro style?"
+      },
+      {
+        "en": "Are the goggles worn on the man's forehead?"
+      },
+      {
+        "en": "Is the jacket dark brown?"
+      },
+      {
+        "en": "Does the jacket have a leather-like appearance?"
+      },
+      {
+        "en": "Does the collar of the jacket have metal decorations?"
+      },
+      {
+        "en": "Is the arm bracer dark-colored?"
+      },
+      {
+        "en": "Is the shoulder armor orange-brown?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background a hazy, cloudy sky?"
+      },
+      {
+        "en": "Is the sky in the background grayish-blue?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 3D animation style?"
+      },
+      {
+        "en": "Is the overall lighting in the video soft?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the man and his clothing parts, as well as their position and proportional relationships to each other, consistently match the lineart throughout the video? (Excluding framing differences caused by aspect ratio)"
+      }
+    ]
+  },
+  "lineart/016": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the muscular man wearing a red sleeveless top?"
+      },
+      {
+        "en": "Is the muscular man wearing dark arm guards?"
+      },
+      {
+        "en": "Is the muscular man wearing a metal neck guard?"
+      },
+      {
+        "en": "Does the person lying underneath have pale skin?"
+      },
+      {
+        "en": "Does the person lying underneath have blue hair?"
+      },
+      {
+        "en": "Is the person lying underneath wearing dark clothes?"
+      },
+      {
+        "en": "Is the person lying underneath wearing dark boots?"
+      },
+      {
+        "en": "Does the muscular man have dark hair?"
+      },
+      {
+        "en": "Does the muscular man have a beard?"
+      },
+      {
+        "en": "Does the man's red tunic have dark side lacing?"
+      },
+      {
+        "en": "Do the man's dark arm guards have red details?"
+      },
+      {
+        "en": "Does the lower person's dark clothing have purple accents?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a gray room?"
+      },
+      {
+        "en": "Is there a tiled floor in the scene?"
+      },
+      {
+        "en": "Are there metal structures in the scene?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 3D animation style?"
+      },
+      {
+        "en": "Is the lighting atmosphere of the scene dim?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the two characters and background structures, and their position and proportional relationships with each other, match the line art frame by frame throughout the video? (Excluding framing differences caused by aspect ratio)"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/017": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is there a telephone in the video?"
+      },
+      {
+        "en": "Is there a table in the video?"
+      },
+      {
+        "en": "Is there a ribbon in the video?"
+      },
+      {
+        "en": "Are there exactly five characters in the video?"
+      },
+      {
+        "en": "Is there an elderly woman in the video?"
+      },
+      {
+        "en": "Is there a female character with cat ears in the video?"
+      },
+      {
+        "en": "Is there a female character with green hair in the video?"
+      },
+      {
+        "en": "Is there a male character in the video?"
+      },
+      {
+        "en": "Is there a female character with orange hair in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the telephone black?"
+      },
+      {
+        "en": "Does the table have a wooden texture?"
+      },
+      {
+        "en": "Is the ribbon green?"
+      },
+      {
+        "en": "Does the elderly woman have wrinkles on her face?"
+      },
+      {
+        "en": "Is the elderly woman wearing a brown kimono?"
+      },
+      {
+        "en": "Is the cat-eared female wearing green clothes?"
+      },
+      {
+        "en": "Is the green-haired female wearing blue clothes?"
+      },
+      {
+        "en": "Is the male character wearing glasses?"
+      },
+      {
+        "en": "Is the orange-haired female wearing red?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the telephone placed on the table?"
+      },
+      {
+        "en": "Is the ribbon tied to the telephone cord?"
+      },
+      {
+        "en": "Is the elderly woman positioned in the middle of the five characters?"
+      },
+      {
+        "en": "Are the other four characters surrounding the elderly woman?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene inside a wooden room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 2D animation style?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the characters, telephone, and other main elements, as well as their positions and proportional relationships to each other, consistently match the line art throughout the entire video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ]
+  },
+  "lineart/018": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young man appear in the video?"
+      },
+      {
+        "en": "Is there a bandage wrapped around the man's forehead in the video?"
+      },
+      {
+        "en": "Is the man wearing armor and an inner shirt in the video?"
+      },
+      {
+        "en": "Do tall trees appear in the background of the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have white hair?"
+      },
+      {
+        "en": "Does the man in the video have red eyes?"
+      },
+      {
+        "en": "Are the man's cheeks flushed in the video?"
+      },
+      {
+        "en": "Is the bandage in the video white?"
+      },
+      {
+        "en": "Is the armor in the video white with red accents?"
+      },
+      {
+        "en": "Is the inner shirt in the video dark gray?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a lush forest?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the visual style of the video 2D animation?"
+      },
+      {
+        "en": "Is there a lighting effect of dappled sunlight shining through the tree canopy in the video?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the character and background trees, and their positions and proportions relative to each other, match the lineart frame by frame throughout the video? (Differences in framing due to aspect ratio are not counted.)"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/019": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a boy wearing glasses appear in the video?"
+      },
+      {
+        "en": "Do other characters appear in the video?"
+      },
+      {
+        "en": "Do desks appear in the video?"
+      },
+      {
+        "en": "Do trees appear in the video?"
+      },
+      {
+        "en": "Does a bulletin board appear in the video?"
+      },
+      {
+        "en": "Does a fish tank appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the boy wearing glasses dressed in a striped shirt?"
+      },
+      {
+        "en": "Are the other characters wearing green jackets or brown clothes?"
+      },
+      {
+        "en": "Are the desks made of wood?"
+      },
+      {
+        "en": "Are the trees green?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a sunny classroom?"
+      },
+      {
+        "en": "Is the sky visible outside the window?"
+      },
+      {
+        "en": "Is the sky visible through the window hazy?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the trees located outside the window?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 2D animation style?"
+      },
+      {
+        "en": "Is the video's color palette primarily warm brown and bright green?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outlines of characters and furnishings, and their relative positions and proportions, match the lineart frame-by-frame throughout? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/020": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a hand appear in the video?"
+      },
+      {
+        "en": "Does a kitchen knife appear in the video?"
+      },
+      {
+        "en": "Does a young man's face appear in the video?"
+      },
+      {
+        "en": "Do white clouds appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the kitchen knife have a wooden handle?"
+      },
+      {
+        "en": "Does the blade of the knife appear to be metal?"
+      },
+      {
+        "en": "Does the man's face appear as a reflection on the blade?"
+      },
+      {
+        "en": "Does the man have visible red hair?"
+      },
+      {
+        "en": "Does the man have visible fair skin?"
+      },
+      {
+        "en": "Does the man have visible golden-brown eyes?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a clear blue sky?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the overall visual style of the video 2D animation?"
+      },
+      {
+        "en": "Does a dazzling sun glare appear on the metal blade?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the contour shapes of the hand, cleaver, reflected face, and background clouds, and their relative positions and proportions to each other, consistent with the lineart frame by frame throughout the video? (Excluding framing differences caused by aspect ratio)"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the hand hold the cleaver by its wooden handle?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/021": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a guitar case appear in the video?"
+      },
+      {
+        "en": "Does a wooden door frame appear in the video?"
+      },
+      {
+        "en": "Do white sheer curtains appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video have brown hair?"
+      },
+      {
+        "en": "Does the woman have twin tails and dark ribbons?"
+      },
+      {
+        "en": "Is the woman wearing a dark suit and a white shirt?"
+      },
+      {
+        "en": "Is the woman wearing a blue and white striped bow tie?"
+      },
+      {
+        "en": "Is the woman carrying a guitar case on her back?"
+      },
+      {
+        "en": "Is the guitar case black?"
+      },
+      {
+        "en": "Does the man in the video have short black hair?"
+      },
+      {
+        "en": "Is the man wearing a blazer matching the woman's?"
+      },
+      {
+        "en": "Is the man wearing a blue tie?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set indoors?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the visual style of the video 2D animation?"
+      },
+      {
+        "en": "Does the video feature bright lighting from the left side?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the characters, guitar case, and background elements, as well as their positions and proportional relationships to each other, consistently match the lineart throughout the video? (Differences in framing due to aspect ratio are not counted.)"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the young man positioned behind the young woman?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/022": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is there a man in the video?"
+      },
+      {
+        "en": "Are there sliding doors in the video?"
+      },
+      {
+        "en": "Is there a white hairpin in the video?"
+      },
+      {
+        "en": "Is there a traditional robe in the video?"
+      },
+      {
+        "en": "Are there items on a table in the video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the sliding doors have dark wooden frames?"
+      },
+      {
+        "en": "Does the man have black hair?"
+      },
+      {
+        "en": "Is the man's hair styled in a topknot with a braid at the back?"
+      },
+      {
+        "en": "Is the traditional robe cream-white?"
+      },
+      {
+        "en": "Do the sliding doors have translucent white panels?"
+      },
+      {
+        "en": "Are the objects on the table green?"
+      },
+      {
+        "en": "Does the off-white traditional robe have patterned trim?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man standing in front of the sliding doors?"
+      },
+      {
+        "en": "Is the white hairpin inserted into the man's hair bun?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set inside a room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video in a live-action style?"
+      },
+      {
+        "en": "Is the background room dimly lit?"
+      },
+      {
+        "en": "Does the background room emit warm yellow light?"
+      },
+      {
+        "en": "Does the foreground lighting have a cool, moody teal tint, contrasting with the warm yellowish background?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the contour shapes of the man and sliding doors, and their relative positions and proportions to each other, consistently match the lineart throughout the video? (Excluding framing differences due to aspect ratio)"
+      }
+    ]
+  },
+  "lineart/023": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the hand in the video pale?"
+      },
+      {
+        "en": "Is the pen in the video a dip pen?"
+      },
+      {
+        "en": "Does the pen have a yellow grip?"
+      },
+      {
+        "en": "Does the pen have a silver nib?"
+      },
+      {
+        "en": "Is the paper in the video white?"
+      },
+      {
+        "en": "Are there blue lines on the paper?"
+      },
+      {
+        "en": "Is there a character sketch on the paper?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video pitch black?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 2D animation style?"
+      },
+      {
+        "en": "Is there bright light illuminating the hand, pen, and paper?"
+      },
+      {
+        "en": "Are shadows cast in the video?"
+      },
+      {
+        "en": "Is there a strong contrast between light and dark?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outlines of the hand, dip pen, and paper, and their relative positions and proportions to each other, match the lineart frame-by-frame throughout the video? (Excluding framing differences due to aspect ratio)"
+      }
+    ]
+  },
+  "lineart/024": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an elderly man appear in the video?"
+      },
+      {
+        "en": "Do a robe and an inner garment appear in the video?"
+      },
+      {
+        "en": "Do a room, a stone platform, and a stone floor appear in the video?"
+      },
+      {
+        "en": "Does a blurry figure appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the elderly man have white hair?"
+      },
+      {
+        "en": "Is the robe bright red?"
+      },
+      {
+        "en": "Does the inner garment have gold embroidery?"
+      },
+      {
+        "en": "Is the blurry figure wearing dark-colored clothing?"
+      },
+      {
+        "en": "Does the older man have pale skin?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the stone platform located in the background of the frame?"
+      },
+      {
+        "en": "Is the blurry figure located in the foreground of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene depicted as a dimly lit room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action photographic visual style?"
+      },
+      {
+        "en": "Is the stone platform illuminated by warm light?"
+      },
+      {
+        "en": "Does the stone floor appear dark?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the contour shapes of the old man, background stone platform, and foreground blurry figure, as well as their relative positions and proportions to each other, consistently align with the line art throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ]
+  },
+  "lineart/025": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the little girl in the video wear a light green top?"
+      },
+      {
+        "en": "Does one woman wear red clothes with gold embroidery and gold hair accessories?"
+      },
+      {
+        "en": "Does another woman wear white clothes and a white hairband?"
+      },
+      {
+        "en": "Does the man on the frame-right wear a white robe and a gray belt?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a lush, tree-lined garden?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the woman in white hold a red pouch?"
+      },
+      {
+        "en": "Does the man on the frame-right hold a long sword?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action visual style?"
+      },
+      {
+        "en": "Does the lighting in the video appear soft?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the contour shapes of the four characters, and their positions and proportions relative to each other, consistently match the lineart throughout the video? (Excluding framing differences caused by aspect ratio)"
+      }
+    ]
+  },
+  "lineart/026": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is an old man present in the video?"
+      },
+      {
+        "en": "Is a high-backed chair present in the video?"
+      },
+      {
+        "en": "Are a pointed hat and round glasses present in the video?"
+      },
+      {
+        "en": "Is a robe present in the video?"
+      },
+      {
+        "en": "Are books present in the video?"
+      },
+      {
+        "en": "Are a teapot and teacups present in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the old man have a long white beard?"
+      },
+      {
+        "en": "Is the high-backed chair orange?"
+      },
+      {
+        "en": "Are the pointed hat and robe blue?"
+      },
+      {
+        "en": "Does the large book in front of the old man have a red cover?"
+      },
+      {
+        "en": "Are the other books on the table green and brown?"
+      },
+      {
+        "en": "Is the teapot light blue?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the old man positioned in the high-backed chair?"
+      },
+      {
+        "en": "Is the large book placed in front of the old man?"
+      },
+      {
+        "en": "Are the other books, teapot, and teacups arranged on the table?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background a stone room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the visual style of the video 2D animation?"
+      },
+      {
+        "en": "Is the lighting in the scene dim?"
+      },
+      {
+        "en": "Does the video feature dark blue shadows?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the contour shapes of the old man, chair, books, tea set, and their position and proportion relative to each other, consistent with the lineart frame by frame throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/027": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the shot-number text from the reference?"
+      },
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is there a young woman in the video?"
+      },
+      {
+        "en": "Does an older woman appear in the video?"
+      },
+      {
+        "en": "Is there a photo album in the video?"
+      },
+      {
+        "en": "Is there a wooden bookshelf in the video?"
+      },
+      {
+        "en": "Is there a sofa in the video?"
+      },
+      {
+        "en": "Is there a lamp in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the young woman have dark hair and wear dangling earrings?"
+      },
+      {
+        "en": "Is the young woman wearing a white shirt and a gold-textured top?"
+      },
+      {
+        "en": "Does the older woman have short dark hair?"
+      },
+      {
+        "en": "Is the older woman wearing a light blue striped shirt?"
+      },
+      {
+        "en": "Is the photo album dark-colored?"
+      },
+      {
+        "en": "Is the wooden bookshelf filled with books?"
+      },
+      {
+        "en": "Does the sofa have a pattern?"
+      },
+      {
+        "en": "Are the two women sitting?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set indoors?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Are the two women holding the photo album?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action style?"
+      },
+      {
+        "en": "Is the scene lighting soft and warm?"
+      },
+      {
+        "en": "Is the video dominated by gold, blue, and brown tones?"
+      },
+      {
+        "en": "Does the lamp emit a warm light?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outlines of the two women, album, bookshelf, sofa, and lamp, and their relative positions and proportions to each other, consistently match the lineart throughout the video? (Excluding framing differences caused by aspect ratio)"
+      }
+    ]
+  },
+  "lineart/028": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a beverage container appear in the video?"
+      },
+      {
+        "en": "Does a metal grid ceiling appear in the video?"
+      },
+      {
+        "en": "Do palm leaves appear in the background?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have light brown short hair?"
+      },
+      {
+        "en": "Is the man in the video shirtless?"
+      },
+      {
+        "en": "Does the woman in the video have fair skin and blonde hair?"
+      },
+      {
+        "en": "Is the woman in the video wearing a dark blue swimsuit?"
+      },
+      {
+        "en": "Is the beverage container in the video blue?"
+      },
+      {
+        "en": "Is the metal grid ceiling in the video white?"
+      },
+      {
+        "en": "Are the plants in the video green?"
+      },
+      {
+        "en": "Does the shirtless young man have tanned skin?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman in the video located in the foreground?"
+      },
+      {
+        "en": "Are the ceiling and plants in the video located in the background?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video an indoor swimming pool?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman in the video holding a beverage container?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 2D animation style?"
+      },
+      {
+        "en": "Is the lighting in the video bright?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outlines of the characters and background grid, and their positions and proportions relative to each other, match the lineart throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ]
+  },
+  "lineart/029": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a crowd appear in the background of the video?"
+      },
+      {
+        "en": "Does a blue hat appear in the background of the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video have a dark complexion?"
+      },
+      {
+        "en": "Does the woman have long dark wavy hair?"
+      },
+      {
+        "en": "Is the woman wearing a sculptural brown fascinator?"
+      },
+      {
+        "en": "Is the woman in the video wearing a camel coat?"
+      },
+      {
+        "en": "Does the man in the video have a light complexion?"
+      },
+      {
+        "en": "Does the man in the video have red-gold hair and beard?"
+      },
+      {
+        "en": "Is the man in the video wearing a gray coat?"
+      },
+      {
+        "en": "Is the man in the video wearing a white shirt?"
+      },
+      {
+        "en": "Is the man in the video wearing a blue tie?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the crowd in the background blurred?"
+      },
+      {
+        "en": "Is the video in a live-action style?"
+      },
+      {
+        "en": "Is the lighting in the video soft?"
+      },
+      {
+        "en": "Is the overall color tone of the video grayish-brown?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man next to the woman in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set outdoors?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the contour shapes of the woman and man, and their position and proportion to each other, match the lineart throughout the video? (Excluding framing differences caused by aspect ratio)"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/030": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Is the woman in the video wearing glasses?"
+      },
+      {
+        "en": "Is the woman in the video wearing short sleeves?"
+      },
+      {
+        "en": "Does a light sphere appear in the background?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video have a dark complexion?"
+      },
+      {
+        "en": "Are the glasses worn by the woman green?"
+      },
+      {
+        "en": "Is the woman in the video wearing silver lipstick?"
+      },
+      {
+        "en": "Are the short sleeves worn by the woman light purple?"
+      },
+      {
+        "en": "Is the glowing orb in the background purple?"
+      },
+      {
+        "en": "Does the woman have dark hair?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background dark?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action visual style?"
+      },
+      {
+        "en": "Is the scene enveloped in strong green light?"
+      },
+      {
+        "en": "Is there a magenta light reflection on the woman's cheeks?"
+      },
+      {
+        "en": "Is the background softly blurred?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the woman and the light sphere, and their position and proportion relative to each other, match the line art frame by frame throughout the video? (Excluding framing differences caused by aspect ratio)"
+      }
+    ]
+  },
+  "lineart/031": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is there a man in the video?"
+      },
+      {
+        "en": "Is there a door frame in the video?"
+      },
+      {
+        "en": "Are there goggles in the video?"
+      },
+      {
+        "en": "Is there a leather jacket in the video?"
+      },
+      {
+        "en": "Is there shoulder armor in the video?"
+      },
+      {
+        "en": "Is there a wall in the video?"
+      },
+      {
+        "en": "Are there flowers in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man's hair white?"
+      },
+      {
+        "en": "Is the door frame dark-colored?"
+      },
+      {
+        "en": "Does the man wear round brown-leather steampunk goggles on his forehead and a small earring?"
+      },
+      {
+        "en": "Does the man wear a brown leather jacket over a dark shirt with red accents?"
+      },
+      {
+        "en": "Is the shoulder armor made of bronze-colored metal?"
+      },
+      {
+        "en": "Is the wall white?"
+      },
+      {
+        "en": "Are the flowers pink?"
+      },
+      {
+        "en": "Does the young man have pale skin?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man next to the door frame?"
+      },
+      {
+        "en": "Are the goggles resting on the man's forehead?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a bright indoor setting?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video background have a blurred effect?"
+      },
+      {
+        "en": "Does the video present a 3D animation style?"
+      },
+      {
+        "en": "Does the video feature a soft lighting effect?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the contour shapes of the man and doorframe, and their relative positions and proportions to each other, consistently match the lineart throughout the video? (Excluding framing differences caused by aspect ratio)"
+      }
+    ]
+  },
+  "lineart/032": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is there a car in the video?"
+      },
+      {
+        "en": "Is there a road in the video?"
+      },
+      {
+        "en": "Are there evergreen trees in the video?"
+      },
+      {
+        "en": "Is there a field in the video?"
+      },
+      {
+        "en": "Are there bare trees in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the car in the video white?"
+      },
+      {
+        "en": "Are the evergreen trees dark green and brown?"
+      },
+      {
+        "en": "Is the field covered with brown-green dry grass?"
+      },
+      {
+        "en": "Is the rural road marked with a solid white line?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the car located on the road in the video?"
+      },
+      {
+        "en": "Are the evergreen trees located along the road?"
+      },
+      {
+        "en": "Is the field located beyond the woods?"
+      },
+      {
+        "en": "Are the bare trees scattered in the field?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the road in the video present a rural environment?"
+      },
+      {
+        "en": "Is the weather cloudy in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action photographic style?"
+      },
+      {
+        "en": "Does the lighting present a soft tone of olive green and brownish-gray?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the outline shapes of the car, road, forest, and bare trees, as well as their positions and proportional relationships to each other, consistent with the lineart frame by frame throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/033": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do exactly three men appear in the video?"
+      },
+      {
+        "en": "Does heavy mechanical armor appear in the video?"
+      },
+      {
+        "en": "Does a robe appear in the video?"
+      },
+      {
+        "en": "Does a coat appear in the video?"
+      },
+      {
+        "en": "Does a purple crystal appear in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 3D animation format?"
+      },
+      {
+        "en": "Does the video lighting present a dim effect?"
+      },
+      {
+        "en": "Is the overall color tone of the video cool gray?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the purple crystal glow?"
+      },
+      {
+        "en": "Is the man on the left wearing heavy white-and-blue mechanical armor?"
+      },
+      {
+        "en": "Is the man in the center wearing a flowing white-and-purple robe with silver accents?"
+      },
+      {
+        "en": "Does the man on the right have long reddish-brown hair and wear a dark red-and-black coat?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the video show three men arranged from left to right?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set inside a cave?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the man on the frame-right holding a glowing purple crystal?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the three men, as well as their positions and proportions relative to each other, consistently match the lineart throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/034": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is there a rabbit in the video?"
+      },
+      {
+        "en": "Are there tree roots in the video?"
+      },
+      {
+        "en": "Are there a forest and branches in the video?"
+      },
+      {
+        "en": "Is there fog in the video?"
+      },
+      {
+        "en": "Are there light beams in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the rabbit in the video white?"
+      },
+      {
+        "en": "Does the rabbit in the video have visible pink eyes?"
+      },
+      {
+        "en": "Is moss visible on the tree roots in the video?"
+      },
+      {
+        "en": "Is the fog in the video purple-blue?"
+      },
+      {
+        "en": "Are the rabbit's inner ears pink?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the rabbit positioned on the tree roots in the video?"
+      },
+      {
+        "en": "Do the light beams appear to shine through the fog in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the background environment appear as a deep forest?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 3D animation style?"
+      },
+      {
+        "en": "Is the overall color tone of the video predominantly brown-green?"
+      },
+      {
+        "en": "Does the visual presentation highlight the white rabbit?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the contour shapes of the rabbit and background branches, and their relative positions and proportions to each other, match the lineart frame by frame throughout the video? (Excluding framing differences caused by aspect ratio)"
+      }
+    ]
+  },
+  "lineart/035": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does the video feature two people?"
+      },
+      {
+        "en": "Does the video feature a concrete slab?"
+      },
+      {
+        "en": "Does the video feature debris?"
+      },
+      {
+        "en": "Does the video feature sparks?"
+      },
+      {
+        "en": "Does the video feature a giant rectangular block?"
+      },
+      {
+        "en": "Does the video feature a long weapon?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does one of the people in the video have white hair?"
+      },
+      {
+        "en": "Is the white-haired person wearing a white shirt?"
+      },
+      {
+        "en": "Is the white-haired person wearing dark pants?"
+      },
+      {
+        "en": "Does the other person in the video have dark hair?"
+      },
+      {
+        "en": "Is the dark-haired person wearing a dark outfit?"
+      },
+      {
+        "en": "Is the giant rectangular block red?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the two people positioned on the concrete slab?"
+      },
+      {
+        "en": "Are the debris and sparks floating around?"
+      },
+      {
+        "en": "Is the giant rectangular block carried by the white-haired person?"
+      },
+      {
+        "en": "Does the dark-haired person have a long weapon?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in ruins?"
+      },
+      {
+        "en": "Is rain visible in the video?"
+      },
+      {
+        "en": "Is the video scene set in a dark environment?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 3D animation style?"
+      },
+      {
+        "en": "Is the scene illuminated by orange firelight in the video?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the contour shapes of the two people, weapons, concrete slab, and floating debris, and their relative positions and proportions to each other, consistent with the lineart frame by frame throughout the video? (Excluding framing differences caused by aspect ratio)"
+      }
+    ]
+  },
+  "lineart/036": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is there a female character in the video?"
+      },
+      {
+        "en": "Is there a male character in the video?"
+      },
+      {
+        "en": "Are there giant rocks in the video?"
+      },
+      {
+        "en": "Are there mountains in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the female character wearing a pink and white dress?"
+      },
+      {
+        "en": "Is the female character wearing hair accessories?"
+      },
+      {
+        "en": "Is the male character wearing a yellow and white robe?"
+      },
+      {
+        "en": "Does the male character have tied-up dark hair?"
+      },
+      {
+        "en": "Do the giant rocks have a rough texture?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the female character located on the left side of the frame?"
+      },
+      {
+        "en": "Is the male character located on the right side of the frame?"
+      },
+      {
+        "en": "Are the giant rocks floating in the sky?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the sky dark and cloudy?"
+      },
+      {
+        "en": "Are the mountains surrounded by mist?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video have a 3D animation style?"
+      },
+      {
+        "en": "Is the video overall enveloped in cold blue lighting?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the contour shapes of the two characters, floating rocks, and background mountains, and their positions and proportions relative to each other, match the lineart segment by segment throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ]
+  },
+  "lineart/037": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an old woman appear in the video?"
+      },
+      {
+        "en": "Does a young woman appear in the video?"
+      },
+      {
+        "en": "Does a young man appear in the video?"
+      },
+      {
+        "en": "Does an old man appear in the video?"
+      },
+      {
+        "en": "Does a sofa appear in the video?"
+      },
+      {
+        "en": "Does a coffee table appear in the video?"
+      },
+      {
+        "en": "Do teacups appear in the video?"
+      },
+      {
+        "en": "Do fruits appear in the video?"
+      },
+      {
+        "en": "Does a calendar appear in the video?"
+      },
+      {
+        "en": "Does a potted plant appear in the video?"
+      },
+      {
+        "en": "Does a Chinese knot appear in the video?"
+      },
+      {
+        "en": "Does a calligraphy frame appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the old woman wearing a blue floral shirt?"
+      },
+      {
+        "en": "Is the young woman wearing a pink T-shirt?"
+      },
+      {
+        "en": "Is the young man wearing white clothes?"
+      },
+      {
+        "en": "Is the older man wearing a white T-shirt and a straw hat?"
+      },
+      {
+        "en": "Is the Chinese knot red?"
+      },
+      {
+        "en": "Is the sofa light-coloured?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "At the beginning, are the young man and the older man seated on the sofa?"
+      },
+      {
+        "en": "Are the teacups, fruits, and calendar on the coffee table?"
+      },
+      {
+        "en": "Are the potted plant, Chinese knot, and calligraphy frame in the background?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a living room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action visual style?"
+      },
+      {
+        "en": "Is the living room brightly lit?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the characters and scene elements, and their positions and proportions relative to each other, match the lineart frame by frame throughout the video? (Excluding framing differences caused by different aspect ratios)"
+      }
+    ]
+  },
+  "lineart/038": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does a man in the video have a ruddy complexion?"
+      },
+      {
+        "en": "Is this ruddy-complexioned man wearing a purple shirt?"
+      },
+      {
+        "en": "Is this ruddy-complexioned man wearing a silver necklace?"
+      },
+      {
+        "en": "Is the other man wearing a light blue and white checkered shirt?"
+      },
+      {
+        "en": "Is the agricultural machinery in the video red?"
+      },
+      {
+        "en": "Does the agricultural machinery in the video have black teeth?"
+      },
+      {
+        "en": "Does the older man have messy light brown hair?"
+      },
+      {
+        "en": "Does the purple shirt have a white-striped collar?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a green field?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a live-action style?"
+      },
+      {
+        "en": "Is the video bathed in warm golden sunlight?"
+      },
+      {
+        "en": "Does the video feature lens flares?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the contour shapes of the two men, agricultural machine, and field background, and their relative positions and proportions to each other, consistently align with the lineart throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the red farm machinery on the left side of the frame?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/039": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a dark-haired man with slicked-back hair appear in the video?"
+      },
+      {
+        "en": "Does a man with his back to the camera appear in the video?"
+      },
+      {
+        "en": "Do bokeh light spots appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the dark-haired man wearing a brown leather jacket?"
+      },
+      {
+        "en": "Does the young man have dirt and a red scrape on his right cheek?"
+      },
+      {
+        "en": "Does the young man wear a reddish-brown collared shirt beneath his jacket?"
+      },
+      {
+        "en": "Does the man seen from behind wear a brown jacket?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the man with his back to the camera blurry?"
+      },
+      {
+        "en": "Does the video present a live-action style?"
+      },
+      {
+        "en": "Do the bokeh light spots present a warm lighting feel?"
+      },
+      {
+        "en": "Does the overall video present a yellow-green color tone?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man with his back to the camera positioned opposite the dark-haired man?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a dimly lit room?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the contour shapes of the two men and background elements, and their relative positions and proportions to each other, consistently match the lineart throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ]
+  },
+  "lineart/040": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a sofa appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a girl appear in the video?"
+      },
+      {
+        "en": "Does a wooden table appear in the video?"
+      },
+      {
+        "en": "Does a bowl of noodle soup appear in the video?"
+      },
+      {
+        "en": "Do decorative paintings appear in the video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the sofa teal?"
+      },
+      {
+        "en": "Is the man in the video wearing glasses?"
+      },
+      {
+        "en": "Is the man in the video wearing a green vest?"
+      },
+      {
+        "en": "Is the man in the video wearing a white shirt?"
+      },
+      {
+        "en": "Does the girl in the video have double buns?"
+      },
+      {
+        "en": "Is the girl in the video wearing a pink long-sleeve shirt?"
+      },
+      {
+        "en": "Is the girl in the video wearing blue jeans?"
+      },
+      {
+        "en": "Do the decorative paintings feature Corgi dogs?"
+      },
+      {
+        "en": "Does the man have short dark hair?"
+      },
+      {
+        "en": "Does the girl have dark hair?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the sofa located in front of the wall in the video?"
+      },
+      {
+        "en": "Is the noodle soup placed on the wooden table in the video?"
+      },
+      {
+        "en": "Are the decorative paintings hung on the wall in the video?"
+      },
+      {
+        "en": "Are the man and girl seated on the teal sofa?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene appear as a bright living room?"
+      },
+      {
+        "en": "Is the wall in the video pink?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a 3D animation style?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the man, girl, sofa, table, bowl, and wall paintings, as well as their relative positions and proportions to each other, consistently match the lineart throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ]
+  },
+  "lineart/041": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the burned-in date and location text from the reference?"
+      },
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a large passenger ship appear in the video?"
+      },
+      {
+        "en": "Does the passenger ship in the video have exactly two funnels?"
+      },
+      {
+        "en": "Does black smoke appear in the video?"
+      },
+      {
+        "en": "Does a distant city skyline appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the passenger ship in the video black at the bottom and white on top?"
+      },
+      {
+        "en": "Are the funnels in the video red?"
+      },
+      {
+        "en": "Is the water surface in the video dark blue?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the passenger ship in a harbor channel?"
+      },
+      {
+        "en": "Is the time setting in the video during sunset?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action style?"
+      },
+      {
+        "en": "Does the sky in the video appear orange-yellow?"
+      },
+      {
+        "en": "Does the video feature golden light cast by the sunset?"
+      },
+      {
+        "en": "Does the water reflect the warm sunset sky?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the contour shapes of the ship, funnels, and skyline, and their positions and proportions to each other, match the line art throughout the video? (Excluding framing differences due to aspect ratio)"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does smoke emerge from the ship's funnels?"
+      }
+    ]
+  },
+  "lineart/042": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Do a man's shoulder and dark hair appear in the video?"
+      },
+      {
+        "en": "Does a table appear in the video?"
+      },
+      {
+        "en": "Does a glass containing red wine appear in the video?"
+      },
+      {
+        "en": "Does a fork appear in the video?"
+      },
+      {
+        "en": "Does a cabinet appear in the video?"
+      },
+      {
+        "en": "Does a lamp appear in the video?"
+      },
+      {
+        "en": "Does a board covered with photos appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video have brown short hair?"
+      },
+      {
+        "en": "Is the woman in the video wearing a white shirt?"
+      },
+      {
+        "en": "Is the woman in the video in a sitting posture?"
+      },
+      {
+        "en": "Is the fork in the video silver?"
+      },
+      {
+        "en": "Is the cabinet in the video white?"
+      },
+      {
+        "en": "Is the board in the video red?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman in the video located at the table?"
+      },
+      {
+        "en": "Are the man's shoulder and dark hair located in the foreground?"
+      },
+      {
+        "en": "Are the wine glass and fork located on the table?"
+      },
+      {
+        "en": "Are the cabinet, lamp, and board located in the background?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video present an indoor scene consistent with the furnishings?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action visual style?"
+      },
+      {
+        "en": "Does the video present a warm lighting effect?"
+      },
+      {
+        "en": "Does the video present a cozy yellow tone?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of characters and items, and their positional and proportional relationships with each other, match the lineart segment-by-segment throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ]
+  },
+  "lineart/043": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is there a man in the video?"
+      },
+      {
+        "en": "Is there a red ribbon in the video?"
+      },
+      {
+        "en": "Is there ancient-style clothing in the video?"
+      },
+      {
+        "en": "Are buildings visible in the background of the video?"
+      },
+      {
+        "en": "Are human figures visible in the background of the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have fair skin?"
+      },
+      {
+        "en": "Does the man in the video have long black hair?"
+      },
+      {
+        "en": "Is the man's hair half-tied in the video?"
+      },
+      {
+        "en": "Is the ancient-style clothing in the video dark-colored?"
+      },
+      {
+        "en": "Does the traditional garment have a textured appearance?"
+      },
+      {
+        "en": "Is the red ribbon visually prominent in the video?"
+      },
+      {
+        "en": "Are the background figures resting on the ground?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set outdoors?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the background of the video blurred?"
+      },
+      {
+        "en": "Does the video present a live-action style?"
+      },
+      {
+        "en": "Is the lighting in the video soft and natural?"
+      },
+      {
+        "en": "Are the video's tones predominantly dark and earthy?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the outline shapes of the character and main elements, and their positions and proportions relative to each other, consistently aligned with the lineart frame by frame throughout the video? (Excluding framing differences caused by aspect ratio variations)"
+      }
+    ]
+  },
+  "lineart/044": {
+    "I-D01": [
+      {
+        "en": "Does the video replace the reference's unrendered line-art or edge-map appearance with the requested fully rendered visual medium?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do coral reefs appear in the video?"
+      },
+      {
+        "en": "Do many small fishes appear in the video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitle text, station logos, and watermarks carried over from Reference Video 1?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the coral reefs in the video show various textures?"
+      },
+      {
+        "en": "Are the coral reefs in the video white, gray, and brown?"
+      },
+      {
+        "en": "Are the small fishes in the video mainly bright yellow and orange?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show an underwater scene?"
+      },
+      {
+        "en": "Is the water in the video clear?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action photographic style?"
+      },
+      {
+        "en": "Does the video have a blue-gray tone?"
+      },
+      {
+        "en": "Is there natural sunlight shining down from above in the video?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Do the outline shapes of the coral reefs and fish schools in the video, as well as their positions and proportional relationships to each other, consistently match the line art segment by segment throughout the entire video? (Excluding framing differences caused by varying aspect ratios)"
+      }
+    ]
+  }
+}

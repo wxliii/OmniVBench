@@ -1,0 +1,3518 @@
+{
+  "character/001": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the wooden/blurred background of the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a dark blue mechanical structure appear in the video?"
+      },
+      {
+        "en": "Does a blue scroll appear in the video?"
+      },
+      {
+        "en": "Does a white-haired secondary character appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the main character leap backward off the mechanical structure?"
+      },
+      {
+        "en": "Does the main character's figure gradually shrink in the frame as they move away?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the main character standing on the edge of the dark blue mechanical structure?"
+      },
+      {
+        "en": "Is the white-haired secondary character located in the foreground of the frame?"
+      },
+      {
+        "en": "Is the white-haired secondary character facing away from the camera?"
+      },
+      {
+        "en": "Does the main character remain facing the secondary character in the foreground while leaping backward?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the time setting of the video scene at night?"
+      },
+      {
+        "en": "Is a heavy rainstorm depicted in the video?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the main character exhibit a posture or gaze of looking down at the white-haired secondary character?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the main character holding a blue scroll in their hand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a low-angle shot?"
+      },
+      {
+        "en": "Does the camera gradually zoom out or pull back as the subject moves?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/002": {
+    "I-E01": [
+      {
+        "en": "Does a brown kraft paper bag appear in the video?"
+      },
+      {
+        "en": "Does a desk nameplate appear in the video?"
+      },
+      {
+        "en": "Does a keyboard appear in the video?"
+      },
+      {
+        "en": "Does a telephone appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the character sitting behind the office desk?"
+      },
+      {
+        "en": "Does the brown kraft paper bag occupy the foreground of the frame?"
+      },
+      {
+        "en": "Is the desk nameplate located behind the paper bag?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in an office environment?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character reach out and bring the paper bag in front of him?"
+      },
+      {
+        "en": "Does the character examine the paper bag?"
+      },
+      {
+        "en": "Does the character use both hands to tear open the seal at the top of the paper bag?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video start with a low-angle close-up shot close to the desktop?"
+      },
+      {
+        "en": "Is there a focus shift process where the focus gradually shifts from out-of-focus to the paper bag?"
+      },
+      {
+        "en": "Does the camera zoom out or pull back later in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the lighting in the video appear soft?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/003": {
+    "I-D01": [
+      {
+        "en": "Does the character in the video break free from the static freeze-frame state of the reference image and display fluid dynamic changes?"
+      },
+      {
+        "en": "Does the character in the video initially break free from the side-view angle in the reference image and successfully face the camera directly?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "At the beginning of the video, is the character speaking (with opening and closing lip movements)?"
+      },
+      {
+        "en": "At the beginning of the video, are there subtle changes in the character's gaze?"
+      },
+      {
+        "en": "Near the end of the video, does the character close their eyes and open them again?"
+      },
+      {
+        "en": "After opening their eyes, does the character slowly turn their head to one side, ending in a three-quarter side view?"
+      },
+      {
+        "en": "At the end of the video, is the character looking off-screen?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Do blue sky and white clouds appear in the background of the video?"
+      },
+      {
+        "en": "Do green mountains appear in the background of the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do the mountains in the background appear blurred (depth of field effect)?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video frame remain a close-up of the face (primarily highlighting the character's head and facial features)?"
+      },
+      {
+        "en": "Does the camera angle of the video remain fixed (without obvious panning, tilting, zooming, or tracking)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and forehead flame mark consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/004": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully decouple from the static standing posture in the reference image, without incorrectly copying the original action?"
+      },
+      {
+        "en": "Does the video successfully decouple from the staircase background in the reference image, without incorrectly copying the original scene?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character stop walking after moving?"
+      },
+      {
+        "en": "Does the character turn from a sideways position to face the camera?"
+      },
+      {
+        "en": "Does the character extend the right arm toward the side in a presenting gesture?"
+      },
+      {
+        "en": "Does the character walk steadily from frame-left to frame-right?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene depicted as the dim interior of a temple?"
+      },
+      {
+        "en": "Are there giant stone carvings depicting suffering figures in the background?"
+      },
+      {
+        "en": "Are there lit candles arranged in the foreground?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera remain fixed throughout the video (without obvious panning, tilting, or zooming)?"
+      },
+      {
+        "en": "Is the shot framed as a medium-long shot (showing the character's full or mostly full body and the surrounding environment)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the character walk across a raised platform?"
+      }
+    ]
+  },
+  "character/005": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully avoid incorrectly retaining the black coat and pearl jewelry from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video correctly distinguish between the elements to be retained and those to be modified, successfully changing the clothing, jewelry, scene, and actions while preserving the character's identity?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a blurry figure wearing dark clothing appear in the video?"
+      },
+      {
+        "en": "Does a shawl appear in the video?"
+      },
+      {
+        "en": "Do earrings appear in the video?"
+      },
+      {
+        "en": "Does a necklace appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman wearing a black deep-V slip dress?"
+      },
+      {
+        "en": "Is the shawl made of white plush material?"
+      },
+      {
+        "en": "Are the earrings shiny, long tassel style?"
+      },
+      {
+        "en": "Is the necklace a multi-layered rhinestone style?"
+      },
+      {
+        "en": "Is the woman's expression serious and questioning?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman speak?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the shawl draped over the woman's arms?"
+      },
+      {
+        "en": "Is the blurred figure in dark clothing positioned at the right edge of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video background a bright white indoor environment?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a fixed camera shot (without obvious panning, tilting, or zooming)?"
+      },
+      {
+        "en": "Is the shot a close-up (primarily showing the character from the chest up and the face)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the main character look toward the blurred figure in dark clothing?"
+      }
+    ]
+  },
+  "character/006": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the white turtleneck sweater or the pink and black plaid coat from the reference image?"
+      },
+      {
+        "en": "Does the video avoid incorrectly copying the draped long hair or the solid color headband from the reference image?"
+      },
+      {
+        "en": "Does the video avoid incorrectly bringing in the daytime outdoor background from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video successfully modify the woman's hairstyle and clothing while preserving her facial features from the reference image?"
+      },
+      {
+        "en": "Does the video successfully place the woman in a new night scene while preserving her identity from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the frame?"
+      },
+      {
+        "en": "Does a man appear in the frame?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman wearing a knit sweater with a beige-brown wave pattern?"
+      },
+      {
+        "en": "Is the woman wearing a white collared shirt under the knit sweater?"
+      },
+      {
+        "en": "Is the woman’s hair pinned back and adorned with metallic hair clips?"
+      },
+      {
+        "en": "Is the man wearing a gray plaid jacket?"
+      },
+      {
+        "en": "Is the woman smiling?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman turn and walk out of the frame to the right?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene depict a night food stall?"
+      },
+      {
+        "en": "Is a red canopy visible in the background?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the woman standing on the right and the man seated on the left look at each other and talk?"
+      },
+      {
+        "en": "Does the woman pat the man's left shoulder?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot (showing roughly the upper half or most of the characters' bodies)?"
+      },
+      {
+        "en": "Does the camera remain fixed without obvious panning, tilting, or zooming?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the frame present a warm lighting tone?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the woman's hair color and recognizable facial features consistent with Reference Image 1, without requiring the original hairstyle that the instructions explicitly replace?"
+      }
+    ]
+  },
+  "character/007": {
+    "I-D03": [
+      {
+        "en": "Does the video successfully change the character's clothing to the new outfit required by the prompt while preserving the facial identity features of the character in the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do soldiers appear in the video?"
+      },
+      {
+        "en": "Does armor appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main character wearing polished silver metal plate armor?"
+      },
+      {
+        "en": "Is there a star-shaped relief on the chest of the main character's plate armor?"
+      },
+      {
+        "en": "Are the soldiers wearing silver scale armor and helmets?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the main character walk from frame-left toward frame-right?"
+      },
+      {
+        "en": "Does the main character eventually exit the frame on the right?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the soldiers lined up in a row?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set on the wooden deck of a ship?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera slightly follow the main character's movement?"
+      },
+      {
+        "en": "After the main character leaves the frame, does the camera stay on the lined-up soldiers?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a bright sunlight lighting effect?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/008": {
+    "I-D03": [
+      {
+        "en": "Does the video correctly distinguish between the elements to be retained and those to be modified, i.e., removing the facial stains without incorrectly altering the character's original facial proportions or basic facial features?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character's facial skin clean, with the original stains or spots removed?"
+      },
+      {
+        "en": "Do the character's eyes convey an expression of surprise and confusion?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character turn their head slightly?"
+      },
+      {
+        "en": "Is the character's mouth slightly open, appearing to be speaking?"
+      },
+      {
+        "en": "Does the smoke drift in the background?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a blurred dark green?"
+      },
+      {
+        "en": "Is there a smoke effect in the background?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a close-up shot (focusing mainly on the character's face and upper body)?"
+      },
+      {
+        "en": "Does the camera show a slow push-in movement?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, horn-like headdress, and facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/009": {
+    "I-D03": [
+      {
+        "en": "Does the character wear a half-face mask while maintaining the recognizable identity from Reference Image 1?"
+      },
+      {
+        "en": "Did the video successfully change the background to blurred trees and rocks, without incorrectly retaining the original background elements from the reference image (such as the purple veil on the left)?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a half-face mask appear on the character's face in the video?"
+      },
+      {
+        "en": "Do ribbons appear in the video?"
+      },
+      {
+        "en": "Do trees and rocks appear in the background of the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the mask worn by the character silver?"
+      },
+      {
+        "en": "Are the ribbons surrounding the character translucent white?"
+      },
+      {
+        "en": "Does the character's expression look serious?"
+      },
+      {
+        "en": "Does the silver half-mask have ornate decoration?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Are the character's lips moving slightly?"
+      },
+      {
+        "en": "Does the character's action look like they are speaking?"
+      },
+      {
+        "en": "Do the translucent white ribbons float in the air around the character?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do the trees and rocks in the background present a blurred visual effect?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot type of the video a medium close-up?"
+      },
+      {
+        "en": "Is the video a fixed shot (without obvious camera movement)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, golden headpiece, and facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/010": {
+    "I-E02": [
+      {
+        "en": "Is the character wearing a pair of huge black sunglasses?"
+      },
+      {
+        "en": "Does the character have a serious expression?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character's gaze look down first and then look up?"
+      },
+      {
+        "en": "Do the character's lips move slightly, showing a state of speaking?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a beige wall?"
+      },
+      {
+        "en": "Are there vertical stripes on the background wall?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background appear blurred (out of focus)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and identifiable facial features match Reference Image 1?"
+      }
+    ]
+  },
+  "character/011": {
+    "I-E01": [
+      {
+        "en": "Does a white jade flute appear in the frame?"
+      },
+      {
+        "en": "Does a burning candle appear in the frame?"
+      },
+      {
+        "en": "Do buyao hairpins appear on the character's head?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character make a slight head-turning movement?"
+      },
+      {
+        "en": "Does the character make a speaking movement (mouth opening and closing)?"
+      },
+      {
+        "en": "Do the buyao hairpins on the character's head sway?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video an indoor scene?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background of the video present a slightly blurred effect?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character holding the white jade flute with both hands?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium close-up shot?"
+      },
+      {
+        "en": "Does the camera remain fixed (without obvious panning, tilting, zooming, or tracking)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and golden headdress consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/012": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid rigidly copying the static posture of the reference image, and instead naturally display the new actions?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a large bowl appear in the frame?"
+      },
+      {
+        "en": "Do chopsticks appear in the frame?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the large bowl in the video brown?"
+      },
+      {
+        "en": "Does the character show a state of preparing to eat?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character holding the large bowl with both hands?"
+      },
+      {
+        "en": "Is the character holding the chopsticks in the right hand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium close-up shot?"
+      },
+      {
+        "en": "Does the camera remain fixed (without obvious panning, tilting, or zooming)?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the scene feature sparkling starlight effects?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/013": {
+    "I-E03": [
+      {
+        "en": "Does the character in the video show a bright and confident smile?"
+      },
+      {
+        "en": "Are the character's eyes slightly narrowed in the video?"
+      },
+      {
+        "en": "Does the character in the video perform the action of opening the mouth to speak?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video warm yellow?"
+      },
+      {
+        "en": "Does the background of the video feature radial rays of light?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a close-up shot (primarily focusing on the upper body or face of the character)?"
+      },
+      {
+        "en": "Does the camera remain fixed in the video (without obvious panning, tilting, zooming, or tracking movements)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/014": {
+    "I-D01": [
+      {
+        "en": "Has the character in the video broken away from the fixed posture in the reference image (such as raising a hand to show the ring or gazing sideways), and naturally performed the reading action instead?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a book appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the cover of the book feature a yellow figure pattern?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a dimly lit indoor environment?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character holding the book in hand?"
+      },
+      {
+        "en": "Does the character perform the action of looking down and reading?"
+      },
+      {
+        "en": "Does the character put the book away after reading?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot (primarily showing the upper half of the character's body)?"
+      },
+      {
+        "en": "Does the camera angle remain fixed without obvious panning, tilting, or zooming?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is there light shining from the top in the scene?"
+      },
+      {
+        "en": "Does the lighting create distinct layers of light and shadow in the video?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/015": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully generate coherent action changes, rather than merely freezing the reference image as a static picture or only applying minor panning/zooming?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the character in the video display an uneasy and worried expression?"
+      },
+      {
+        "en": "Does the character initially appear deep in thought?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character in the video initially in a state of looking down?"
+      },
+      {
+        "en": "Does the character subsequently make a movement of raising their head?"
+      },
+      {
+        "en": "After raising their head, does the character look to one side?"
+      },
+      {
+        "en": "Does the character show a facial expression of slightly furrowing their brows in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the background of the video appear to be an indoor environment?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background of the video have a slightly blurred effect?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot type of the video a close-up (primarily showing the character from the chest up and the face)?"
+      },
+      {
+        "en": "Does the camera of the video remain fixed, without obvious movements such as panning, tilting, or zooming?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/016": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the dark suit jacket from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video successfully change the character's clothing while preserving their facial features?"
+      },
+      {
+        "en": "Does the video successfully change the background environment while preserving the character's identity?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does the main character appear in the video?"
+      },
+      {
+        "en": "Does another person appear in the video?"
+      },
+      {
+        "en": "Do windows appear in the background of the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main character wearing a white suit?"
+      },
+      {
+        "en": "Does the main character show a focused expression?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Do the windows in the background occupy a large area of the frame?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the main character talking to the person in the frame-left foreground?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium close-up shot?"
+      },
+      {
+        "en": "Is the camera shot fixed (without obvious panning, tilting, or zooming)?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Are there bright light spots on the background windows?"
+      },
+      {
+        "en": "Does the person in the foreground present a blurred visual effect (depth of field blur)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, glasses, and facial features match Reference Image 1?"
+      }
+    ]
+  },
+  "character/017": {
+    "I-D03": [
+      {
+        "en": "Does the video modify the character's skin color while preserving their identity features?"
+      },
+      {
+        "en": "Does the video replace the background while preserving the character's identity features?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the character in the video present an obvious bronze skin tone?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character have their eyes open and smile at the beginning of the video?"
+      },
+      {
+        "en": "Does the character subsequently close their eyes?"
+      },
+      {
+        "en": "Does the character gently press an index finger against their lips?"
+      },
+      {
+        "en": "Does the character then reopen their eyes?"
+      },
+      {
+        "en": "Does the character finally smile and show mouth movements indicating speaking?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video presented as a bright blue sky?"
+      },
+      {
+        "en": "Do white clouds appear in the background of the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the framing of the video a close-up (primarily showing the character from the chest up and facial features)?"
+      },
+      {
+        "en": "Does the camera remain fixed throughout the video (without obvious panning, tilting, zooming, or tracking movements)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/018": {
+    "I-D01": [
+      {
+        "en": "Did the video successfully decouple from the gray background of the reference image, without bringing it into the newly generated video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Did the video correctly distinguish between the elements to be retained and those to be modified, successfully adding the newly requested beard while maintaining the character's identity features?"
+      },
+      {
+        "en": "Did the video successfully replace the background with the new scene requested by the prompt while retaining the character's identity?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does a thick full beard appear on the character's face?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character have a speaking action in the video?"
+      },
+      {
+        "en": "Does the character show a facial expression change from a confident smile gradually to an exaggerated laugh?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the character enter from frame-right and move toward the center of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does a giant energy vortex appear in the background of the video?"
+      },
+      {
+        "en": "Do the edges of the energy vortex glow with red light?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/019": {
+    "I-D03": [
+      {
+        "en": "Does the video successfully preserve the character's original facial contours and the colors of non-luminous parts (such as cyan and black) while modifying the gems and luminous parts to bright blue?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the gems on the character appear bright blue?"
+      },
+      {
+        "en": "Do the luminous parts on the character appear bright blue?"
+      },
+      {
+        "en": "Do the ends of the character's arms appear in the form of mechanical claws?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character perform the action of slowly opening their eyes?"
+      },
+      {
+        "en": "Does the character raise their arms?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the background environment of the video appear as a futuristic space capsule?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video maintain a fixed camera (without obvious camera movement)?"
+      },
+      {
+        "en": "Is the framing of the video a close-up of the upper body?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/020": {
+    "I-D03": [
+      {
+        "en": "Does the video successfully distinguish between the elements to be preserved (character identity) and those to be modified (adding a tattoo, changing actions and background), without incorrectly retaining the original action or background from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do flying birds appear in the video?"
+      },
+      {
+        "en": "Do green leaves appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does a black dragon-shaped tattoo appear on the character's right cheek?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character initially face away from the camera?"
+      },
+      {
+        "en": "Does the character subsequently turn around to face forward?"
+      },
+      {
+        "en": "Does the character raise the right hand and spread its fingers?"
+      },
+      {
+        "en": "Does the character make a spell-casting gesture?"
+      },
+      {
+        "en": "Do the green leaves drift through the scene?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background presented as a dusk sky?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot composition?"
+      },
+      {
+        "en": "Does the camera rotate slightly along with the character's turning action?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/021": {
+    "I-D03": [
+      {
+        "en": "Does the video remove the hat and change the hairstyle while preserving the facial features of the character from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does the main character appear in the video?"
+      },
+      {
+        "en": "Does another person faintly appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the main character have a black short hair styling?"
+      },
+      {
+        "en": "Is the main character without a hat?"
+      },
+      {
+        "en": "Is the main character initially in a state of having their eyes closed?"
+      },
+      {
+        "en": "Does the main character's expression gradually turn serious and disdainful?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the main character perform the action of opening their eyes?"
+      },
+      {
+        "en": "Does the main character perform the action of speaking (e.g., mouth moving)?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the other person located behind the main character?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video an indoor scene?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background of the video show a slightly blurred effect?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium close-up shot (primarily showing the character from the chest up and the face)?"
+      },
+      {
+        "en": "Is the camera shot fixed (without obvious panning, tilting, or zooming)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's recognizable facial features consistent with Reference Image 1, without requiring the original hairstyle or hair color that the instructions explicitly replace?"
+      }
+    ]
+  },
+  "character/022": {
+    "I-D01": [
+      {
+        "en": "Has the character in the video broken away from the specific momentary expression of frowning and anger in the reference image, rather than rigidly copying it?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video add the scar while maintaining the character's original facial features?"
+      },
+      {
+        "en": "Does the video maintain the character's identity features while changing the expression?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does a distinct blade scar appear on the character's left cheek?"
+      },
+      {
+        "en": "Does the background of the video appear slightly blurred?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character show a contemptuous and smug smile?"
+      },
+      {
+        "en": "Does the character perform the action of speaking (e.g., lips opening and closing)?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video frame remain a medium close-up (primarily showing the character from the chest up and the face)?"
+      },
+      {
+        "en": "Does the camera remain fixed, without obvious movements such as panning, tilting, zooming, or tracking?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in reference image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with reference image 1?"
+      }
+    ]
+  },
+  "character/023": {
+    "I-D01": [
+      {
+        "en": "Does the character perform the requested natural motions?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video successfully add scratches to the face and perform the specified actions while keeping the character's identity unchanged?"
+      },
+      {
+        "en": "Does the video successfully achieve the camera push-in effect and background replacement while keeping the character's identity unchanged?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do battle-damage scratches appear on the character's cheeks?"
+      },
+      {
+        "en": "Are there multiple (more than one) scratches on the character's cheeks?"
+      },
+      {
+        "en": "Does the character show determination while looking forward and speaking?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character breathe lightly?"
+      },
+      {
+        "en": "Does the character open their mouth to perform a speaking action?"
+      },
+      {
+        "en": "Is the character's gaze looking forward?"
+      },
+      {
+        "en": "Does the character's hair show a fluttering effect as if blown by the wind?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does a blue sky appear in the background of the video?"
+      },
+      {
+        "en": "Do white clouds appear in the background of the video?"
+      },
+      {
+        "en": "Is the overall background lighting of the video bright?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera move forward toward the character in a push-in movement?"
+      },
+      {
+        "en": "Is the camera's push-in movement slow?"
+      },
+      {
+        "en": "Is the camera's push-in directed toward the side of the character's face?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/024": {
+    "I-D03": [
+      {
+        "en": "Does the video successfully change the character's clothing and accessories while preserving the identity features from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a vest appear in the video?"
+      },
+      {
+        "en": "Do prayer beads appear in the video?"
+      },
+      {
+        "en": "Does a ring appear in the video?"
+      },
+      {
+        "en": "Does a teacup appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the character's vest feature a large area of blue and white porcelain patterns?"
+      },
+      {
+        "en": "Does the character show a surprised expression?"
+      },
+      {
+        "en": "Does the character show a serious expression at the end?"
+      },
+      {
+        "en": "Does the character have red Buddhist prayer beads at the left hand?"
+      },
+      {
+        "en": "Is the emerald ring worn on a finger of the character's left hand?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character make a movement of looking up to the side?"
+      },
+      {
+        "en": "Does the character turn their head to the left?"
+      },
+      {
+        "en": "Does the character make a movement of opening their mouth to speak at the end?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character holding the teacup in their left hand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video maintain a fixed camera shot (without obvious camera movement)?"
+      },
+      {
+        "en": "Is the shot type of the video a medium close-up (primarily showing the character from the chest up and the face)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and glasses consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/025": {
+    "I-D03": [
+      {
+        "en": "Does the video successfully modify the character's hairstyle to the new style required by the prompt while keeping the facial features unchanged?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the character have a silver-white long hairstyle?"
+      },
+      {
+        "en": "Does the character show a serious expression?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character make a slight head-turning movement?"
+      },
+      {
+        "en": "Does the character make a speaking movement with their mouth open?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video background appear as a dimly lit indoor environment?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video background show a slightly blurred effect?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium close-up shot?"
+      },
+      {
+        "en": "Does the camera remain fixed (without obvious panning, tilting, or zooming)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as the one in Reference Image 1?"
+      }
+    ]
+  },
+  "character/026": {
+    "I-D01": [
+      {
+        "en": "Is the video free from the 'character design sheet layout' of the reference image, without displaying multiple angles of the character side-by-side in the frame?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does the main character appear in the video?"
+      },
+      {
+        "en": "Does another red-haired character appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the red-haired character shown from behind?"
+      },
+      {
+        "en": "Do blushes appear on the main character's cheeks?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the main character have their mouth slightly open at the beginning of the video?"
+      },
+      {
+        "en": "Does the main character's expression show slight surprise at the beginning of the video?"
+      },
+      {
+        "en": "Does the main character subsequently close their eyes?"
+      },
+      {
+        "en": "Does the main character reveal a happy smile?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the red-haired character positioned in the frame-right foreground?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video framed as a medium close-up shot of the main character?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the video merge the multiple views from the reference image into a single main character entity, without mistakenly generating multiple identical clones in the frame?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and animal ears consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/027": {
+    "I-D01": [
+      {
+        "en": "Does the video break free from the multi-view collage layout of the reference image and present a single natural scene?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does the main character appear in the video?"
+      },
+      {
+        "en": "Does a part of another person's body appear in the video?"
+      },
+      {
+        "en": "Does a folding fan appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character facing the camera and talking?"
+      },
+      {
+        "en": "Does the character alternate between a frown and open-mouthed laughter?"
+      },
+      {
+        "en": "Does the character make subtle head movements?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot framed as a medium close-up of the main character?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the video correctly merge the multiple views from the reference image into a single subject, without simultaneously generating multiple identical clones in the frame?"
+      },
+      {
+        "en": "Does the subject in the video avoid incorrectly splicing body parts from different views in the reference image (e.g., growing back structures on a front-facing body)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are part of the other person and a folding fan faintly visible at the left edge of the frame?"
+      }
+    ]
+  },
+  "character/028": {
+    "I-D01": [
+      {
+        "en": "Does the video place the character within the instructed scene without copying the reference's blank design-sheet backdrop?"
+      },
+      {
+        "en": "Is the video free from the static standing posture of the reference image, without stiffly maintaining the pose with arms hanging down?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a human character appear in the video?"
+      },
+      {
+        "en": "Does a red pillar appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character make a slight head-tilting-up motion?"
+      },
+      {
+        "en": "Does the character turn left before walking out of the frame?"
+      },
+      {
+        "en": "Does the character eventually walk out of the frame (i.e., completely leave the camera's field of view)?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the character initially positioned in front of the red pillar?"
+      },
+      {
+        "en": "After the character leaves, is the red pillar located in the center of the frame?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does only one such character appear in the video, without mistakenly generating the multiple views (front, back, etc.) from the reference image as multiple characters coexisting in the frame?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and identifiable facial features of the character consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/029": {
+    "I-D01": [
+      {
+        "en": "Does the video place the character within the instructed scene without copying the reference's blank design-sheet backdrop?"
+      },
+      {
+        "en": "Does the video successfully avoid incorrectly carrying over the side-by-side multi-view layout from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a bar counter appear in the video?"
+      },
+      {
+        "en": "Does a chef appear in the video?"
+      },
+      {
+        "en": "Do other customers besides the main character appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the chef wearing a white uniform?"
+      },
+      {
+        "en": "Is the main character in a sitting state on a seat?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the main character make a slight head-turning action?"
+      },
+      {
+        "en": "Does the main character make a looking-around action?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the chef located behind the bar counter?"
+      },
+      {
+        "en": "Is the main character located in front of the bar counter?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene present the style of a retro Japanese restaurant?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the other customers conversing with each other?"
+      },
+      {
+        "en": "Do the other customers show dining behaviors?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the video correctly merge the multiple views from the reference image into a single main character entity, without multiple identical clones appearing simultaneously in the frame?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/030": {
+    "I-D01": [
+      {
+        "en": "Does the video place the character within the instructed scene without copying the reference's blank design-sheet backdrop?"
+      },
+      {
+        "en": "Is the video decoupled from the multi-view layout of the reference image, without mistakenly generating a layout of static figures standing side by side?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a water bottle appear in the video?"
+      },
+      {
+        "en": "Does a folder appear in the video?"
+      },
+      {
+        "en": "Does the apartment kitchen contain a refrigerator?"
+      },
+      {
+        "en": "Do balloons appear in the apartment kitchen?"
+      },
+      {
+        "en": "Does a foosball table appear in the apartment kitchen?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman in the video blonde?"
+      },
+      {
+        "en": "Is the folder in the video blue?"
+      },
+      {
+        "en": "Does the male lead in the video show a confused expression?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the woman in the video speaking?"
+      },
+      {
+        "en": "Does the male lead in the video put his hands on his hips?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set in a kitchen environment?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the male lead in the video direct his gaze towards the woman?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman in the video holding a water bottle?"
+      },
+      {
+        "en": "Is the male lead in the video holding the folder with both hands?"
+      },
+      {
+        "en": "Does the male lead in the video perform the action of putting the folder down?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the state change process of the male lead from holding the folder to putting it down?"
+      },
+      {
+        "en": "Does the video show the coherent action development of the male lead putting his hands on his hips after putting down the folder?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does only one man of this identity appear in the frame, without multiple clones being generated?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the male lead in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/031": {
+    "I-D01": [
+      {
+        "en": "Does the video place the character within the instructed scene without copying the reference's blank design-sheet backdrop?"
+      },
+      {
+        "en": "Is the video free from the layout format of the reference image, without bringing the side-by-side multi-view layout into the video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a long table appear in the video?"
+      },
+      {
+        "en": "Does a white cloth appear in the video?"
+      },
+      {
+        "en": "Does another man appear in the video?"
+      },
+      {
+        "en": "Does an item being wiped appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the main character lean forward?"
+      },
+      {
+        "en": "Does the main character open his mouth to speak?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the main character sitting behind the long table?"
+      },
+      {
+        "en": "Is the other man sitting next to the main character?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene present an antique indoor environment?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the main character holding a white cloth in his hand?"
+      },
+      {
+        "en": "Is the main character wiping an item with the white cloth?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the video correctly merge the multiple views from the reference image into a single main character identity, without mistakenly generating the figures from different perspectives as multiple different people?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the main character in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and red stone headpiece of the main character match Reference Image 1?"
+      }
+    ]
+  },
+  "character/032": {
+    "I-D01": [
+      {
+        "en": "Does the video place the character within the instructed scene without copying the reference's blank design-sheet backdrop?"
+      },
+      {
+        "en": "Does the video avoid keeping the character in the standing posture from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a character appear in the video?"
+      },
+      {
+        "en": "Does a desk appear in the video?"
+      },
+      {
+        "en": "Does a monocular telescope appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character in a sitting posture?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character clasp their hands together and place them on the desk?"
+      },
+      {
+        "en": "Does the character unclasp their hands?"
+      },
+      {
+        "en": "Does the character raise one hand to scratch their beard?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in an indoor environment?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character raise the monocular telescope to observe?"
+      },
+      {
+        "en": "Does the character lower the monocular telescope?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the video correctly merge the multiple views from the reference image, showing only one instance of the character entity instead of mistakenly generating multiple characters side-by-side based on the different perspectives?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and identifiable facial features match Reference Image 1?"
+      }
+    ]
+  },
+  "character/033": {
+    "I-D01": [
+      {
+        "en": "Does the video place the character within the instructed scene without copying the reference's blank design-sheet backdrop?"
+      },
+      {
+        "en": "Is the video decoupled from the static standing posture of the reference image, without mistakenly keeping the character still?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a girl appear in the video?"
+      },
+      {
+        "en": "Does a stone bridge appear in the video?"
+      },
+      {
+        "en": "Does a pool of water appear in the video?"
+      },
+      {
+        "en": "Does a huge fish appear in the video?"
+      },
+      {
+        "en": "Do water splashes appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the girl walk with her arms folded?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the girl walk toward frame-right?"
+      },
+      {
+        "en": "Does the fish perform the action of leaping out?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the girl located on the stone bridge?"
+      },
+      {
+        "en": "Is the pool of water located in the background of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set in an outdoor environment with a stone bridge and a pool of water?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the sudden event of the fish leaping out of the water?"
+      },
+      {
+        "en": "Does the video show the coherent narrative of the girl continuing to walk after the fish leaps out?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does only one girl entity appear in the video, without mistakenly splitting the three views in the reference image into multiple different characters?"
+      },
+      {
+        "en": "Is the video frame free from mistakenly retaining the side-by-side multi-view layout of the reference image?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the girl in the video the same girl as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/034": {
+    "I-D01": [
+      {
+        "en": "Does the video place the character within the instructed scene without copying the reference's blank design-sheet backdrop?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man in the video wearing white clothes?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman enter the room from the right?"
+      },
+      {
+        "en": "Does the woman stop walking after moving?"
+      },
+      {
+        "en": "Does the woman perform a turning action?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set in a quaint, antique-style room?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "After turning around, does the woman face the man in white?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the video correctly merge the multiple views in the reference image into a single female entity, without simultaneously generating multiple identical-looking women in the frame?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man in white standing on the right side of the room?"
+      }
+    ]
+  },
+  "character/035": {
+    "I-D01": [
+      {
+        "en": "Does the video place the character within the instructed scene without copying the reference's blank design-sheet backdrop?"
+      },
+      {
+        "en": "Does the video avoid copying the reference image's multi-view grid layout?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the character's long hair appear to be fluttering backward in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character running from frame-left toward frame-right?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set in a dense forest?"
+      },
+      {
+        "en": "Do elements such as trees, rocks, and plants appear in the background?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera follow the character's movement?"
+      },
+      {
+        "en": "Does the camera angle change gradually from a side view to a rear-quarter view?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the video correctly recognize and merge the multiple views in the reference image into a single unified character identity, without generating multiple clones in the frame simultaneously?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and feather headdress consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/036": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the red clothing from the reference image, and instead have the main character wear new clothes?"
+      },
+      {
+        "en": "Does the video avoid incorrectly copying the actions from the reference image (such as sitting at a table), and instead show the new actions required by the prompt?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video correctly preserve the identity features of the leftmost character in the reference image while successfully modifying the character's clothing, actions, and the scene?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does the designated main character appear in the video?"
+      },
+      {
+        "en": "Does a yellow package appear in the video?"
+      },
+      {
+        "en": "Does another person wearing pink clothes appear in the video?"
+      },
+      {
+        "en": "Does a patterned carpet appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main character wearing a white top and a pink-and-purple skirt?"
+      },
+      {
+        "en": "Is there a blue belt tied around the main character's waist?"
+      },
+      {
+        "en": "Is the main character wearing a gorgeous golden tassel hair accessory on her head?"
+      },
+      {
+        "en": "Is the main character wearing a necklace with a golden pendant around her neck?"
+      },
+      {
+        "en": "Does the main character look solemn when she raises her head?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "At the beginning of the video, is the main character in a state of bowing her head?"
+      },
+      {
+        "en": "Does the main character perform the action of raising her head?"
+      },
+      {
+        "en": "Does the main character reach out with both hands?"
+      },
+      {
+        "en": "Are both the main character and the person wearing pink clothes in a kneeling posture?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the person wearing pink clothes located behind the main character?"
+      },
+      {
+        "en": "Is the protagonist positioned on the patterned carpet at the beginning?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set indoors?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the main character receive the yellow package offered from off-screen at the upper right?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the camera mainly shooting the main character in a medium close-up?"
+      },
+      {
+        "en": "Does the camera have a slight following movement along with the main character's actions?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the main character in the video the same person as (the woman on the left) in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/037": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the train station/hall background from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video modify the character’s clothing, scene, and actions while preserving her identity and white headwrap?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does the main character appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a wooden cabinet appear in the video?"
+      },
+      {
+        "en": "Does a desk lamp appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the dress worn by the main character light-colored?"
+      },
+      {
+        "en": "Does the main character's dress have a floral pattern?"
+      },
+      {
+        "en": "Does the main character's dress feature puff short sleeves and a V-neck design?"
+      },
+      {
+        "en": "Does the man in the background appear in a blurred visual state?"
+      },
+      {
+        "en": "Does the main character initially show a serious expression?"
+      },
+      {
+        "en": "Are the main character's arms crossed over her chest?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the main character subsequently turn her head back to face forward?"
+      },
+      {
+        "en": "Does the main character perform the action of opening her mouth to speak?"
+      },
+      {
+        "en": "Does the main character initially look toward frame-left?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the main character located in the center of the frame?"
+      },
+      {
+        "en": "Is the man in the background standing next to the wooden cabinet?"
+      },
+      {
+        "en": "Is the desk lamp placed on the wooden cabinet?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set inside a room?"
+      },
+      {
+        "en": "Does the lighting in the room appear dim?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the framing of the video a medium shot?"
+      },
+      {
+        "en": "Does the camera remain static?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the protagonist the same person as the one wearing a white headwrap in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/038": {
+    "I-D03": [
+      {
+        "en": "Does the video correctly distinguish between the main character's identity to be retained and the clothing to be modified, without keeping the red jacket from the reference image?"
+      },
+      {
+        "en": "Does the video correctly distinguish between the main character's identity to be retained and the hairstyle to be modified, without keeping the original hairstyle from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do the main character and a secondary character appear in the video?"
+      },
+      {
+        "en": "Does a colorful watch appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main character wearing a colorful horizontally striped short-sleeved Polo shirt with a red collar?"
+      },
+      {
+        "en": "Is the main character's hairstyle styled into two coiled braids?"
+      },
+      {
+        "en": "Is the secondary character wearing a light yellow shirt and a brown vest?"
+      },
+      {
+        "en": "Is the colorful watch worn on the protagonist's left wrist?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the main character looking down with a shy smile?"
+      },
+      {
+        "en": "Does the main character raise the left hand to rub the left eye?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background a blurry indoor room with windows?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the secondary character rest the left hand on the protagonist's left shoulder?"
+      },
+      {
+        "en": "Is the secondary character smiling and looking at the main character?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot as a close-up?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the main character in the video the same person as in Reference Image 1 (the one wearing a red jacket)?"
+      },
+      {
+        "en": "Are the character's visible facial recognizable features consistent with Reference Image 1?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the secondary character on the right side of the frame?"
+      }
+    ]
+  },
+  "character/039": {
+    "I-D01": [
+      {
+        "en": "Does the video exclude background elements from the reference image, such as city skyscrapers and rooftop railings?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video successfully modify the clothing, hairstyle, and background while preserving the main character's facial features, without incorrectly retaining the short hair or black short-sleeved shirt from the reference image?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing a black ethnic-style robe decorated with silver circular ornaments, colorful embroidered lace, and a colorful woven belt?"
+      },
+      {
+        "en": "Does the character have long black hair with thin braids on both sides?"
+      },
+      {
+        "en": "Is the character wearing a silver beaded forehead ornament?"
+      },
+      {
+        "en": "Are the character's eyes red?"
+      },
+      {
+        "en": "Is the character's expression solemn and slightly sorrowful?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Are the character's lips slightly parted, showing an action state of seemingly speaking or narrating?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the main character standing in the center of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a forest at night?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background forest appear blurred?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot maintained as a medium shot?"
+      },
+      {
+        "en": "Is the video frame relatively still, without obvious camera movement?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same person as in Reference Image 1 (second from right)?"
+      },
+      {
+        "en": "Are the character's recognizable identity features consistent with Reference Image 1, excluding the hairstyle, hair color and eye color explicitly replaced by the instructions?"
+      }
+    ]
+  },
+  "character/040": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully avoid incorrectly bringing the original brown suit of the main character from the reference image into the new video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video correctly distinguish between the main character's identity to be preserved and the clothing/accessories to be modified, without treating the clothing to be changed as a preserved element?"
+      },
+      {
+        "en": "Does the video correctly distinguish between the main character's identity to be preserved and the background to be modified, without destroying the facial features to be preserved?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a male main character appear in the video?"
+      },
+      {
+        "en": "Does a secondary character appear in the video?"
+      },
+      {
+        "en": "Do gold-rimmed glasses, a tie clip, a cross brooch, and a plaid pocket square appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main character wearing a dark pinstripe suit and a black shirt?"
+      },
+      {
+        "en": "Is the main character wearing a blue and yellow striped tie?"
+      },
+      {
+        "en": "Is the secondary character wearing a black sequined slip dress?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the main character initially look slightly down and to the left?"
+      },
+      {
+        "en": "Does the main character subsequently turn the head further to the left and look off-camera?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video background a bright modern indoor space?"
+      },
+      {
+        "en": "Do large glass windows appear in the background?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the secondary character's arm linked through the protagonist's left arm?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera remain static?"
+      },
+      {
+        "en": "Does the video present a medium close-up shot of the main character?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the main character in the video the same person as in Reference Image 1 (second from left)?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the main character consistent with Reference Image 1?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the secondary character on the right side of the frame?"
+      }
+    ]
+  },
+  "character/041": {
+    "I-E01": [
+      {
+        "en": "Do red light and shadow visual effects appear in the video?"
+      },
+      {
+        "en": "Does a giant golden rifle appear in the video?"
+      },
+      {
+        "en": "Do other characters besides the main character appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main character wearing a red bandana?"
+      },
+      {
+        "en": "Is the main character wearing red trousers on the lower body?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the main character show the action of speaking (such as mouth opening and closing)?"
+      },
+      {
+        "en": "Does the protagonist swing the weapon?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the other characters located in the distance of the screen?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a wide stone-paved square?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the main character holding a toothpick in his mouth?"
+      },
+      {
+        "en": "Does the main character lift the giant golden weapon with his hand?"
+      },
+      {
+        "en": "Is the main character holding the giant golden rifle with a single hand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "At the beginning of the video, is the main character shot from a side close-up view?"
+      },
+      {
+        "en": "In the middle of the video, does the camera switch to the back of the main character?"
+      },
+      {
+        "en": "At the end of the video, is the main character's back shot from a low-angle upward view?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the protagonist first speak and raise the weapon, then swing it with red light effects appearing around them?"
+      },
+      {
+        "en": "Does the video end with a rear, low-angle view of the main character holding the giant golden rifle in one hand and pointing it to the right?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the main character in the video the same person as in Reference Image 1 (the one with a red bandana)?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/042": {
+    "I-D01": [
+      {
+        "en": "Is the video free from the abandoned warehouse/industrial background of the reference image, without mistakenly bringing it into the new scene?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do tiles with a pineapple pattern appear on the left wall?"
+      },
+      {
+        "en": "Does a clock appear in the video?"
+      },
+      {
+        "en": "Does a door appear in the video?"
+      },
+      {
+        "en": "Does another man appear in the video besides the main character?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the door in an open state?"
+      },
+      {
+        "en": "Is the other man wearing a dark suit?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the main character's mouth slightly open, showing the action of talking?"
+      },
+      {
+        "en": "Does the main character make slight head movements?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the clock located above the door?"
+      },
+      {
+        "en": "Is the main character standing at the doorway and facing the camera directly?"
+      },
+      {
+        "en": "Is the man in the dark suit facing away from the camera?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set in an indoor environment?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the main character looking at the man in the dark suit in front of him?"
+      },
+      {
+        "en": "Is the man in the dark suit standing in front of the main character?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera remain still without obvious movement?"
+      },
+      {
+        "en": "Is the shot a medium shot (typically showing the characters from the waist or chest up)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the main character in the video the same person as in Reference Image 1 (the only blonde character)?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the main character consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/043": {
+    "I-E03": [
+      {
+        "en": "Does the main character stop walking and turn to face the camera?"
+      },
+      {
+        "en": "Does the main character extend the left hand in a presenting gesture?"
+      },
+      {
+        "en": "Does the main character finally turn completely around and stand facing the camera?"
+      },
+      {
+        "en": "Does the protagonist walk from left to right before stopping?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does a giant stone carved statue appear in the background of the video?"
+      },
+      {
+        "en": "Does a row of lit candles appear in the scene?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the overall lighting atmosphere of the video present a dim effect?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the main character in the video the same person as in Reference Image 1 (the character in the middle)?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the row of lit candles located in the background?"
+      }
+    ]
+  },
+  "character/044": {
+    "I-E01": [
+      {
+        "en": "Does a high-backed chair appear in the video?"
+      },
+      {
+        "en": "Do swords and arrows appear in the video?"
+      },
+      {
+        "en": "Does a tall and thin secondary character appear in the video?"
+      },
+      {
+        "en": "Does a plate of meat appear in the video?"
+      },
+      {
+        "en": "Do a large knife and a fork appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the main character sitting on the high-backed chair?"
+      },
+      {
+        "en": "Are the swords and arrows stuck into the back of the high-backed chair?"
+      },
+      {
+        "en": "Is the plate of meat placed on the table in front of the main character?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in a dining room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the lighting of the environment dim?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the secondary character perform the action of carrying a plate of meat?"
+      },
+      {
+        "en": "Does the protagonist reach backward with the right hand and pull a large knife from the back of the chair?"
+      },
+      {
+        "en": "Does the protagonist hold the large knife in the left hand and the fork in the right hand, preparing to cut the meat?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video maintain a fixed camera shot (without obvious panning, tilting, or zooming)?"
+      },
+      {
+        "en": "Is the framing of the video a medium shot (mainly showing the upper half of the characters and part of the environment)?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the event process of the secondary character serving the meat to the table?"
+      },
+      {
+        "en": "Does the video show the coherent action development of the main character looking at the plate, pulling out the large knife, and preparing to cut the meat?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the main character in the video the same person as the one (wearing glasses) in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/045": {
+    "I-E01": [
+      {
+        "en": "Do a clipboard and a pen appear in the frame?"
+      },
+      {
+        "en": "Does another person besides the main character appear in the frame?"
+      },
+      {
+        "en": "Does a window with blinds appear in the frame?"
+      },
+      {
+        "en": "Do buildings and trees appear in the frame?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main character's expression serious?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the main character show a state of talking?"
+      },
+      {
+        "en": "Does the main character make a slight nodding motion?"
+      },
+      {
+        "en": "Does the main character's gaze subsequently look downward?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the main character standing in front of the window?"
+      },
+      {
+        "en": "Are the buildings and trees located outside the window?"
+      },
+      {
+        "en": "Is the other person facing away from the camera?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set indoors?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the main character speaking to the other person?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the main character holding a clipboard and a pen in hand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot of the video a medium shot (typically showing the character from the waist or chest up)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the main character in the video the same person as (the rightmost character in Reference Image 1)?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/046": {
+    "I-D01": [
+      {
+        "en": "Has the video removed the lobby/hall background from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does the guardrail of a hospital bed appear in the frame?"
+      },
+      {
+        "en": "Do beige curtains appear in the frame?"
+      },
+      {
+        "en": "Does a white water pitcher or water jug appear in the background?"
+      },
+      {
+        "en": "Does another person (partially in frame) appear in the video besides the main character?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main character in a sitting posture?"
+      },
+      {
+        "en": "Does the protagonist show a concerned and reassuring expression?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the main character making a speaking action?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the main character located next to the hospital bed?"
+      },
+      {
+        "en": "Is the conversation partner partially visible in the bottom-right corner of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the overall setting of the video a hospital ward?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the main character speaking to the partially visible person?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot type of the video a medium close-up?"
+      },
+      {
+        "en": "Does the video use a slight over-the-shoulder perspective?"
+      },
+      {
+        "en": "Does the camera remain static (without obvious panning, tilting, zooming, or tracking movements)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the protagonist in the video the same person as in Reference Image 1 (holding blue folder)?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/047": {
+    "I-E01": [
+      {
+        "en": "Does a table appear in the video?"
+      },
+      {
+        "en": "Does a tablecloth appear in the video?"
+      },
+      {
+        "en": "Do thread-bound books appear in the video?"
+      },
+      {
+        "en": "Does a folding screen appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main character wearing a golden robe?"
+      },
+      {
+        "en": "Does the main character have a serious facial expression?"
+      },
+      {
+        "en": "Does the tablecloth have yellow patterns?"
+      },
+      {
+        "en": "Is the folding screen made of dark wood?"
+      },
+      {
+        "en": "Is the folding screen decorated with golden lotus patterns?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the main character opening his mouth to speak?"
+      },
+      {
+        "en": "Does the protagonist make slight head turns and nods in rhythm with the speech?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the main character standing behind the table?"
+      },
+      {
+        "en": "Are the thread-bound books placed on the table?"
+      },
+      {
+        "en": "Are the thread-bound books stacked?"
+      },
+      {
+        "en": "Is the folding screen located behind the main character as the background?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot framed as a medium shot (typically showing the character from the waist or chest up)?"
+      },
+      {
+        "en": "Does the camera position remain fixed (without obvious panning, tilting, or zooming)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the main character in the video the same person as in Reference Image 1 (the one in gold)?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, gold crown, and facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/048": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly retaining the seated posture of the main character from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a wooden judge's bench appear in the frame?"
+      },
+      {
+        "en": "Do other characters besides the main character appear in the frame?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main character's expression serious?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Are the other characters in the foreground in an out-of-focus (blurred) state?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the main character remain completely still?"
+      },
+      {
+        "en": "Is the main character looking straight ahead?"
+      },
+      {
+        "en": "Do people in the foreground walk from right to left across the frame?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the main character standing behind the wooden judge's bench?"
+      },
+      {
+        "en": "Are the other walking characters located in the foreground of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background environment of the video presented as a courtroom?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera remain fixed and motionless?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the main character the same person as the seated one in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/049": {
+    "I-E02": [
+      {
+        "en": "Does the main character show a surprised expression?"
+      },
+      {
+        "en": "Does the main character show a blank or dull expression?"
+      },
+      {
+        "en": "Does the main character have her hands folded in front of her?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the main character looking forward?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the main character standing in the center of the room?"
+      },
+      {
+        "en": "Is the large window located behind the main character?"
+      },
+      {
+        "en": "Are the paintings hanging on the wall?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene a spacious and bright room?"
+      },
+      {
+        "en": "Are the walls of the room light yellow?"
+      },
+      {
+        "en": "Is there white wainscoting on the lower half of the walls?"
+      },
+      {
+        "en": "Do the paintings on the wall have gold-rimmed frames?"
+      },
+      {
+        "en": "Does bright light shine through the window?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera push in toward the main character?"
+      },
+      {
+        "en": "Is the camera's push-in movement slow?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the main character in the video the same person as in Reference Image 1 (short-haired character)?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/050": {
+    "I-E01": [
+      {
+        "en": "Does a restaurant bar counter appear in the video?"
+      },
+      {
+        "en": "Does a chef appear in the video?"
+      },
+      {
+        "en": "Do a wooden spoon and a black bowl appear in the video?"
+      },
+      {
+        "en": "Do at least two bowls of rice appear on the counter?"
+      },
+      {
+        "en": "Do some side dishes appear on the bar counter?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the protagonist's expression appear somewhat reluctant?"
+      },
+      {
+        "en": "Is the chef wearing a black chef's uniform?"
+      },
+      {
+        "en": "Is the chef wearing a black chef's hat?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the protagonist sitting in front of the bar counter?"
+      },
+      {
+        "en": "Is the chef standing behind the bar counter?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set inside a restaurant?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the chef talking to the protagonist?"
+      },
+      {
+        "en": "Does the chef bring the wooden spoon to the protagonist's mouth?"
+      },
+      {
+        "en": "Does the protagonist turn his head to look at the offered wooden spoon?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the chef scoop up food from the black bowl with the wooden spoon?"
+      },
+      {
+        "en": "Does the chef place his other hand under the wooden spoon?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot type of the video a medium shot?"
+      },
+      {
+        "en": "Does the camera remain fixed without obvious movement?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the complete action process of the chef scooping up food and offering the spoon to the protagonist?"
+      },
+      {
+        "en": "Does the video show the state change of the protagonist turning his head to look at the spoon?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the protagonist in the video the same person as in Reference Image 1 (the one holding the yellow book)?"
+      },
+      {
+        "en": "Are the protagonist's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/051": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the black top from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video successfully modify the character's outfit while preserving their identity features?"
+      },
+      {
+        "en": "Does the video successfully replace the background with a new indoor scene while preserving the character's facial features?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing a gray Chinese-style skullcap?"
+      },
+      {
+        "en": "Does the character's hat have jade decorations?"
+      },
+      {
+        "en": "Is the character wearing a dark-colored robe?"
+      },
+      {
+        "en": "Is the character wearing a vest with gold patterns?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character speaking with expressive mouth movements?"
+      },
+      {
+        "en": "Do the character's eyebrows move expressively?"
+      },
+      {
+        "en": "Does the character show a slight frowning action?"
+      },
+      {
+        "en": "Is the character accompanied by small-amplitude head movements?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background an indoor environment?"
+      },
+      {
+        "en": "Are wooden bookshelves visible in the background?"
+      },
+      {
+        "en": "Do books appear in the background?"
+      },
+      {
+        "en": "Is a cylindrical holder containing scrolls visible in the background?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video frame remain a close-up shot (mainly showing the character from the chest up and the face)?"
+      },
+      {
+        "en": "Does the camera remain fixed (without obvious panning, tilting, zooming, or tracking movements)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the background softly blurred?"
+      }
+    ]
+  },
+  "character/052": {
+    "I-D01": [
+      {
+        "en": "Is the video free from mistakenly including the original white headpiece and hairpins from the reference image?"
+      },
+      {
+        "en": "Is the video free from mistakenly including the original gray clothing and thin black necklace from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Did the video correctly preserve the character's identity from the reference image while successfully replacing the character's clothing and headpiece?"
+      },
+      {
+        "en": "Did the video maintain the stability of the character's facial features without distortion while making the character perform the actions of looking down and looking up?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the frame?"
+      },
+      {
+        "en": "Do a headpiece and a necklace appear in the frame?"
+      },
+      {
+        "en": "Do shelves and porcelain jars appear in the background?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character's top made of purple sequined material and features red puff sleeves?"
+      },
+      {
+        "en": "Is the character's headpiece a large black style with silver accessories?"
+      },
+      {
+        "en": "Is the character wearing a red bead necklace?"
+      },
+      {
+        "en": "Does the character show a worried and thoughtful expression?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do the shelves and porcelain jars in the background appear slightly blurred?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character perform the action of looking down and looking to one side?"
+      },
+      {
+        "en": "After looking down, does the character perform the action of slightly raising her eyes?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video clearly an indoor environment?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium close-up shot (framing roughly from the character's chest up)?"
+      },
+      {
+        "en": "Does the camera remain fixed (without obvious panning, tilting, zooming, or tracking movements)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/053": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully remove the original white clothing from the reference image without mistakenly bringing it into the generated video?"
+      },
+      {
+        "en": "Does the video successfully remove the original tilted/lying posture from the reference image without mistakenly copying it into the new video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Are the instructed changes applied while the character's identity is preserved?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing a golden hair crown inlaid with red and blue gemstones?"
+      },
+      {
+        "en": "Is the character wearing red and blue beaded earrings and a colorful beaded necklace with silver ornaments?"
+      },
+      {
+        "en": "Is the character wearing a red traditional outfit with exquisite gold embroidery and black tulle sleeves?"
+      },
+      {
+        "en": "Does the character display a serious expression?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character initially look down and to one side?"
+      },
+      {
+        "en": "Does the character subsequently raise their eyes to look straight ahead?"
+      },
+      {
+        "en": "Does the character perform the action of opening their mouth to speak?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the character sitting upright in the center of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a white wall?"
+      },
+      {
+        "en": "Does the background wall feature pink lotus decorations?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera remain fixed without obvious movement?"
+      },
+      {
+        "en": "Is the shot a medium close-up (primarily showing the character from the chest up and the face)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, forehead mark, and facial features consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "character/054": {
+    "I-D03": [
+      {
+        "en": "Does the video successfully replace the character's hairstyle and clothing with the new styles required by the prompt while preserving the facial features from the reference image?"
+      },
+      {
+        "en": "Does the video successfully place the character in a new outdoor background while maintaining their identity?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a main female character appear in the video?"
+      },
+      {
+        "en": "Does another person appear in the video?"
+      },
+      {
+        "en": "Do a sweater and a suit jacket appear in the video?"
+      },
+      {
+        "en": "Do earrings appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main character's hairstyle a high ponytail with straight bangs?"
+      },
+      {
+        "en": "Is the main character wearing a white turtleneck sweater?"
+      },
+      {
+        "en": "Is the main character wearing a blue and white houndstooth suit jacket?"
+      },
+      {
+        "en": "Is the main character wearing long tassel earrings?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the back of the other person’s head and their shoulder visible?"
+      },
+      {
+        "en": "Is the protagonist on the right side of the frame, facing a person in the left foreground?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video an outdoor environment?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background present a slightly blurred effect?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the main character speaking to the other person?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot in the video a close-up (primarily showing the character from the chest up and facial expressions)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same person as in Reference Image 1?"
+      }
+    ]
+  }
+}

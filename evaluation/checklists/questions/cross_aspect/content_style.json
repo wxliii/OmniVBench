@@ -1,0 +1,3306 @@
+{
+  "mr2v_content_presentation/001": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same subject as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and recognizable facial features match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the ink wash style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the specific visual content (e.g., landscape/fisherman) from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid copying the mountains and other background content from Reference Image 1, while retaining ink-wash marks compatible with Reference Image 2's style?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles from the reference images?"
+      },
+      {
+        "en": "Does the video avoid reproducing watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the subject from Reference Image 1 who is pushing the luggage cart?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a luggage cart appear in the video?"
+      },
+      {
+        "en": "Does a glass roof appear in the video?"
+      },
+      {
+        "en": "Do flight boards appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the luggage cart in the video silver?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the check-in area located under the glass roof?"
+      },
+      {
+        "en": "Are the flight boards located in the distance?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a large airport departure hall?"
+      },
+      {
+        "en": "Does the video scene include a check-in area?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character pushing a luggage cart?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character passing through the check-in area?"
+      },
+      {
+        "en": "Do the flight boards update?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/002": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and facial features match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Shanghai Animation Film Studio style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including visual content like Sun Wukong, clouds, or ancient buildings from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including background elements like wooden frames, bamboo, or plants from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles from the reference images?"
+      },
+      {
+        "en": "Does the video avoid incorrectly showing logos or watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject dragging the small shopping basket the one from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a small shopping basket appear in the video?"
+      },
+      {
+        "en": "Do shelves appear in the video?"
+      },
+      {
+        "en": "Do apples appear in the video?"
+      },
+      {
+        "en": "Does a display stand appear in the video?"
+      },
+      {
+        "en": "Does an aisle appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the display stand in the video tilted?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the subject moving forward along the shelves?"
+      },
+      {
+        "en": "Do the apples perform a rolling action?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are there several (more than one) apples in the video?"
+      },
+      {
+        "en": "Do the apples roll into the aisle?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in the produce section of a modern supermarket?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the subject dragging a small shopping basket?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/003": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same subject as in Reference Image 1?"
+      },
+      {
+        "en": "Do the blue and yellow feathers, white cheeks, and black beak match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Gongbi style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video use Reference Image 2 for its visual style without copying its depicted scene?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the gray background or dead branches from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles, channel logos, or watermarks from Reference Images 1 and 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject performing the jumping and pecking actions the one from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a railing appear in the video?"
+      },
+      {
+        "en": "Does an anemometer appear in the video?"
+      },
+      {
+        "en": "Does a switch appear in the video?"
+      },
+      {
+        "en": "Do waves appear in the video?"
+      },
+      {
+        "en": "Do rocks appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the switch in the video red?"
+      },
+      {
+        "en": "Does the switch in the video appear to be loose?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject hop from the railing to the anemometer?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the rocks located below the platform?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set on the platform of a seaside weather station?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject peck at the switch?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do waves strike the rocks?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/004": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same person as in Reference Images 1 and 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and identifiable facial features of the character in the video match those in Reference Images 1 and 2?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the pixel art style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the red tram or city buildings from Reference Image 3?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the solid background from Reference Images 1 and 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles from the reference images?"
+      },
+      {
+        "en": "Does the video avoid reproducing channel logos from the reference images?"
+      },
+      {
+        "en": "Does the video avoid reproducing watermarks from the reference images?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the subject remain the same character throughout, without changing into a different person?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the appearance from Reference Images 1 and 2 correctly applied to the acting subject?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do dryers appear in the video?"
+      },
+      {
+        "en": "Does a long table appear in the video?"
+      },
+      {
+        "en": "Does a sheet appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the sheet in the video white?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject turn away from the dryers?"
+      },
+      {
+        "en": "Does the subject walk towards the long table?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the dryers arranged in a row?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set inside a laundromat?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject shake out the sheet?"
+      },
+      {
+        "en": "Does the subject fold the sheet neatly?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the subject turn away from the dryers, walk to the table, shake out the sheet, and then fold it?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/005": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same subject as in Reference Image 1?"
+      },
+      {
+        "en": "Do the head searchlight, orange cockpit, and yellow-black warning stripes match Reference Image 1 under the requested stained-glass rendering?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the stained glass mosaic style of Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly featuring visual content from Reference Image 2, such as the sea turtle, ocean, or coral?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring the solid background or three-view layout from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly featuring subtitles?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring channel logos?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring watermarks?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the subject from Reference Image 1 holding the watering can and watering, rather than another character?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a watering can appear in the video?"
+      },
+      {
+        "en": "Does a path appear in the video?"
+      },
+      {
+        "en": "Do tomato plants appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the watering can in the video green?"
+      },
+      {
+        "en": "Do the tomato plants vary in height?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the tomato plants arranged in rows?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a glass greenhouse?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the subject holding a watering can?"
+      },
+      {
+        "en": "Does the subject water the tomato plants?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject move along the central path?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/006": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same subject as in Reference Image 1?"
+      },
+      {
+        "en": "Are the subject's visible golden horn, rainbow mane, and patches consistent with Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the shadow play style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including the generals or horses from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid including the messy room or bed legs from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including subtitles, logos, or watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject jumping and pushing the book the one from Reference Image 1, rather than the characters from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a low bookshelf appear in the video?"
+      },
+      {
+        "en": "Does a cushion appear in the video?"
+      },
+      {
+        "en": "Does a thick picture book appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject jump from the low bookshelf onto the cushion?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the thick picture book positioned sticking out of the bookshelf edge?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene presented as a children's reading area in a library?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject push back the thick picture book with its forehead?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/007": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, goggles, and recognizable facial features match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the torn paper collage style in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly featuring the cyclist, bicycle, or landscape from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring the solid background from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly including subtitles from the reference images?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including channel logos from the reference images?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one assembling the sailboat the subject from Reference Image 1, not another character?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a workbench appear in the video?"
+      },
+      {
+        "en": "Does a small sailboat model appear in the video?"
+      },
+      {
+        "en": "Does a sail appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the workbench in the video made of wood?"
+      },
+      {
+        "en": "Is the sail in the video white?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the subject assembling the model at a wooden bench?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set inside a ferry maintenance shed?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the subject assembling the small sailboat model?"
+      },
+      {
+        "en": "Does the subject lift the sailboat model to inspect it?"
+      },
+      {
+        "en": "Is the subject inspecting the sail in the video?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the subject first assembling the sailboat, then lifting it to inspect?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/008": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible cobalt-blue armor, gold trim, red-plumed helmet, and other identifiable features match Reference Image 1, allowing only view changes required by the instructions?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the fabric/patchwork style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including houses, trees, or rural scenery from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the solid color background from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly containing subtitles?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing channel logos or watermarks?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the fencing action performed by the subject from Reference Image 1, rather than another character?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a sword appear in the video?"
+      },
+      {
+        "en": "Does a training mat appear in the video?"
+      },
+      {
+        "en": "Does a suspended swinging weight appear in the video?"
+      },
+      {
+        "en": "Does a shield appear in the video?"
+      },
+      {
+        "en": "Does a wooden target appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the subject step forward along the training mat?"
+      },
+      {
+        "en": "Is the wooden target located in front of the subject?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene an indoor fencing training hall?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the subject holding a sword?"
+      },
+      {
+        "en": "Does the subject block the suspended swinging weight with the shield?"
+      },
+      {
+        "en": "Does the subject strike the wooden target ahead?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the subject block the suspended swinging weight with the shield and then strike the wooden target?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/009": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and recognizable facial features match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the clay style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the old man or laboratory scene from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the street or car background from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly including subtitles, logos, or watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject running towards the stairs from Reference Image 1, rather than Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a subway entrance appear in the video?"
+      },
+      {
+        "en": "Do shallow puddles appear in the video?"
+      },
+      {
+        "en": "Do stairs appear in the video?"
+      },
+      {
+        "en": "Does a glass canopy appear in the video?"
+      },
+      {
+        "en": "Does an umbrella appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character run towards the stairs?"
+      },
+      {
+        "en": "Does the character stop?"
+      },
+      {
+        "en": "Does the character step through the shallow puddles?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the character located outside the subway entrance?"
+      },
+      {
+        "en": "Is the character located under the glass canopy?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene show a post-rain state?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character shake the water drops off the umbrella?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the coherent event of the character running to the stairs, stopping, and shaking off water?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/010": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same subject as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hair and identifiable facial features of the subject match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the felt style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including visual content like foxes or tree hollows from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the grass or outdoor background from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles from the reference images?"
+      },
+      {
+        "en": "Does the video avoid reproducing channel logos from the reference images?"
+      },
+      {
+        "en": "Does the video avoid reproducing watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject from Reference Image 1 trotting along the white rail and pushing the ball?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a rail appear in the video?"
+      },
+      {
+        "en": "Does a large ball appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do at least two marker poles appear in the video?"
+      },
+      {
+        "en": "Does the subject move along the rail?"
+      },
+      {
+        "en": "Does the large ball pass between the two marker poles?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the rail white?"
+      },
+      {
+        "en": "Is the large ball blue?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the subject trotting?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in an equestrian training arena?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject push the large ball with its nose?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show a coherent sequence of the subject trotting first, then pushing the ball?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/011": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same subject as in Reference Image 1?"
+      },
+      {
+        "en": "Are the subject's visible feather colors and recognizable facial features (e.g., crest) consistent with Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the watercolor style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of incorrectly included flowers or plants from Reference Image 2?"
+      },
+      {
+        "en": "Is the video free of incorrectly included speakers, mice, or backgrounds from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid reproducing channel logos or watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the flying subject the one from Reference Image 1, rather than another object?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a shopping cart appear in the video?"
+      },
+      {
+        "en": "Does a fruit and vegetable shelf appear in the video?"
+      },
+      {
+        "en": "Does a small sign appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject perform a flying action?"
+      },
+      {
+        "en": "Does the subject perform a head-lowering and pecking action?"
+      },
+      {
+        "en": "Does the subject perform an action of spreading wings and flying back?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the subject's take-off position at the shopping cart handle?"
+      },
+      {
+        "en": "Is the subject's flying destination at the top of the shelf?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the small sign in a tilted state?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene a busy supermarket?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject perform a pecking operation on the small sign?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the process of the subject flying to the shelf, pecking, and flying back?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/012": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same subject as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, recognizable facial features, and back tattoo in the video match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the pencil sketch style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including the pitcher, pears, or book from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid including the boxing gym background or punching bag from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, channel logos, or watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person making the clay pot the subject from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a potter's wheel appear in the video?"
+      },
+      {
+        "en": "Does wet clay appear in the video?"
+      },
+      {
+        "en": "Does a tall-necked clay pot appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a pottery classroom?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the subject pressing wet clay on the wheel?"
+      },
+      {
+        "en": "Does the subject gradually shape the clay into a tall-necked jar as the wheel speeds up?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video show the potter's wheel accelerating?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the wet clay gradually being shaped into a tall-necked clay pot?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/013": {
+    "RF-C01": [
+      {
+        "en": "Does the subject in the video appear to be the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and facial features match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the impasto style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the old man or indoor background from Reference Image 2?"
+      },
+      {
+        "en": "Is the video free of background elements like the graffiti wall from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles from the reference images?"
+      },
+      {
+        "en": "Does the video avoid reproducing channel logos from the reference images?"
+      },
+      {
+        "en": "Does the video avoid reproducing watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject in the video the person from Reference Image 1, rather than the old man from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a slope appear in the video?"
+      },
+      {
+        "en": "Does a low wooden box appear in the video?"
+      },
+      {
+        "en": "Does a concrete floor appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject accelerate down the ramp?"
+      },
+      {
+        "en": "Does the character jump over the low wooden box?"
+      },
+      {
+        "en": "Does the subject land on the concrete and keep moving?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a rooftop skatepark?"
+      },
+      {
+        "en": "Does the video take place in the afternoon?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/014": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's recognizable hairstyle, facial structure, and crown design preserve the identity from Reference Image 1 under the required black-and-white woodcut rendering, without requiring the original colors?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the black-and-white woodcut print style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly featuring the train, mountains, or bridge from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring the cherry blossoms, ribbons, or sparkling background from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly containing subtitles?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing channel logos?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing watermarks?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject carrying the basket and trimming the white flowers the one from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a rattan basket appear in the video?"
+      },
+      {
+        "en": "Does a rose trellis appear in the video?"
+      },
+      {
+        "en": "Does a stone table appear in the video?"
+      },
+      {
+        "en": "Do freshly cut flowers appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the flowers in the video white?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character walk through the rose trellis?"
+      },
+      {
+        "en": "Does the character stop walking after moving?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the character stop next to the stone table?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set inside a botanical conservatory?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character carrying the rattan basket?"
+      },
+      {
+        "en": "Does the subject trim the freshly cut white flowers?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the subject carry the basket through the rose trellises, then stop at the stone table to trim the freshly cut white flowers?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/015": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same person as in Reference Images 1-3?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and recognizable facial features match Reference Images 1-3?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Ghibli style shown in Reference Image 4?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including content from Reference Image 4, such as the boy on a bicycle, house, or sprite?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the solid color background from Reference Images 1-3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly containing subtitles?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing channel logos?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing watermarks?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Is the video subject consistently the same character, without changing into a different appearance at different times?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the appearance from Reference Images 1-3 correctly assigned to the subject in the observatory?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a spiral staircase appear in the video?"
+      },
+      {
+        "en": "Does an observation deck appear in the video?"
+      },
+      {
+        "en": "Does a large telescope with a handwheel appear in the video?"
+      },
+      {
+        "en": "Does a domed roof with a sliding panel appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject walk up the spiral staircase to the observation deck in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set inside a modern observatory?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject turn the handwheel of the large telescope in the video?"
+      },
+      {
+        "en": "Does the subject slide open one panel of the domed roof?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/016": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and recognizable facial features of the character in the video match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Makoto Shinkai style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the cityscape or sky from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the solid color background from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly showing subtitles?"
+      },
+      {
+        "en": "Does the video avoid incorrectly showing channel logos?"
+      },
+      {
+        "en": "Does the video avoid incorrectly showing watermarks?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject inspecting footprints and picking up the key the one from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a bakery kitchen appear in the video?"
+      },
+      {
+        "en": "Does flour appear in the video?"
+      },
+      {
+        "en": "Do footprints appear in the video?"
+      },
+      {
+        "en": "Does an oven appear in the video?"
+      },
+      {
+        "en": "Does a key appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the key appear to be made of brass or have a brass color?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character perform an inspecting action?"
+      },
+      {
+        "en": "Does the character bend over?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are footprints visible through spilled flour?"
+      },
+      {
+        "en": "Do the footprints appear as a trail?"
+      },
+      {
+        "en": "Is the key located next to the oven?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video present a morning setting?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character pick up the key?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the character inspecting footprints and then bending to pick up the key?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/017": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same as in Reference Images 1 and 2?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and facial features match Reference Images 1 and 2?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the shoujo manga style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Did the video avoid incorrectly including visual contents like cherry blossoms or the schoolgirl from Reference Image 3?"
+      },
+      {
+        "en": "Did the video avoid incorrectly including the solid color background from Reference Images 1 and 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Did the video avoid including the subtitles from the references?"
+      },
+      {
+        "en": "Did the video avoid including the logos or watermarks from the references?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Is the subject consistently the same character without changing into a different-looking person at different times?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Did the subject apply the appearance of Reference Images 1 and 2 instead of the character in Reference Image 3?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an umbrella appear in the video?"
+      },
+      {
+        "en": "Do water drops appear in the video?"
+      },
+      {
+        "en": "Do railings appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the umbrella in the video transparent?"
+      },
+      {
+        "en": "Are the railings in the video blue?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject turn once into the sea breeze?"
+      },
+      {
+        "en": "Does the action of water drops spinning off the umbrella edge occur?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do the water drops fall next to the railings?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set on the open deck of a cross-harbor ferry?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject open the umbrella in the video?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/018": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and facial features match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the healing illustration style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of mistakenly including the girl, cup, or cafe scene from Reference Image 2?"
+      },
+      {
+        "en": "Is the video free of mistakenly including the pure white background from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any subtitles, logos, or watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject from Reference Image 1 the one folding and throwing the paper airplane?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a paper airplane appear in the video?"
+      },
+      {
+        "en": "Does a bench appear in the video?"
+      },
+      {
+        "en": "Does a low hedge full of white flowers appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the paper airplane spatially fly over the low hedge?"
+      },
+      {
+        "en": "Is the character beside the bench?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene presented as a hospital rooftop garden?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character folding a paper airplane?"
+      },
+      {
+        "en": "Does the character throw the paper airplane over the low hedge?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/019": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same subject as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and recognizable facial features of the character in the video match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the cyberpunk style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the raincoat person, holographic face, or neon street from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the wooden stage or curtain background from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any subtitles from the reference images?"
+      },
+      {
+        "en": "Is the video free of any channel logos or watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one directing vehicles the subject from Reference Image 1, rather than another character?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do reflective traffic cones appear in the video?"
+      },
+      {
+        "en": "Does a long pole appear in the video?"
+      },
+      {
+        "en": "Does a van appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the van white?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the subject direct traffic between reflective cones?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene the entrance of an underground parking lot?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the subject in the video directing vehicles to turn?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject in the video lift the long pole?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/020": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and identifiable facial features match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the pop art style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly featuring Marilyn Monroe or the four-panel grid from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring the wooden boardwalk, river, or wooden boats from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly featuring any subtitles?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring any channel logos or watermarks?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the subject from Reference Image 1 who is mending the net and untangling floats?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an awning appear in the video?"
+      },
+      {
+        "en": "Does a wooden box appear in the video?"
+      },
+      {
+        "en": "Does a fishing net appear in the video?"
+      },
+      {
+        "en": "Do floats appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the fishing net appear to be damaged?"
+      },
+      {
+        "en": "Are the floats blue?"
+      },
+      {
+        "en": "Do the floats appear to be tangled?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the subject located under the awning?"
+      },
+      {
+        "en": "Is the subject located next to the wooden box?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene depict an early morning setting?"
+      },
+      {
+        "en": "Does the video scene depict a fish market environment?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the subject mending the fishing net?"
+      },
+      {
+        "en": "Is the subject untangling the floats one by one?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/021": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same person as in Reference Images 1-3?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Images 1-3?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Disney classic cartoon style shown in Reference Image 4?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the visual content from Reference Image 4 (e.g., princess or castle)?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the solid white background from Reference Images 1-3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly including the subtitles or watermarks from the reference images?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Is the subject consistently the same character, without changing into a different-looking person?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one chasing the straw hat the subject from Reference Images 1-3, not the princess from Reference Image 4?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an illuminated carousel appear in the video?"
+      },
+      {
+        "en": "Does a straw hat appear in the video?"
+      },
+      {
+        "en": "Does a ticket booth appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character running and chasing?"
+      },
+      {
+        "en": "Is the straw hat carried by the wind?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the character run past the carousel?"
+      },
+      {
+        "en": "Is the character located next to the ticket booth when catching the straw hat?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene an amusement park at dusk?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character reach out and catch the straw hat?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the complete process from chasing the straw hat to finally catching it?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/022": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and identifiable facial features match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the vaporwave style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including specific visual content like the plaster statue or palm trees from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the pure white background from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles from the reference images?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including pop-up UIs or watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the subject from Reference Image 1 who inserts the token into the dance machine?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a token appear in the video?"
+      },
+      {
+        "en": "Does a dance machine appear in the video?"
+      },
+      {
+        "en": "Does a claw machine appear in the video?"
+      },
+      {
+        "en": "Do arrows appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the arrows in the video lit up?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject follow the illuminated floor arrows?"
+      },
+      {
+        "en": "Do the claw machines flash?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the arrows located on the floor in the video?"
+      },
+      {
+        "en": "Is the claw machine located behind the subject?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a corner arcade?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a character insert a token into the dance machine?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/023": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Do the duck's visible plumage, bill, recognizable facial features, and detective-hat design preserve the identity from Reference Image 1 under the requested retro-cartoon rendering?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the American retro cartoon/Fleischer style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including the visual content of Reference Image 2, such as the frog, roof, or water tower?"
+      },
+      {
+        "en": "Does the video avoid including the solid color background of Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including any subtitles from the reference images?"
+      },
+      {
+        "en": "Does the video avoid including any channel logos or watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject from Reference Image 1 hanging the magnifying glass and striking the heavy bag?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a magnifying glass appear in the video?"
+      },
+      {
+        "en": "Does a corner post appear in the video?"
+      },
+      {
+        "en": "Does a heavy bag appear in the video?"
+      },
+      {
+        "en": "Does a pair of boxing gloves appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the boxing gloves in the video red?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the subject stand in front of the heavy bag?"
+      },
+      {
+        "en": "Does the subject strike the heavy bag three times?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a community boxing gym?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject hang the magnifying glass on a corner post?"
+      },
+      {
+        "en": "Does the subject put red boxing gloves over both wings?"
+      },
+      {
+        "en": "Does the subject strike the heavy bag with the gloved wings?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the subject hang the magnifying glass, put gloves over both wings, and then strike the heavy bag?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/024": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and facial features match Reference Image 1?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the lo-fi VHS style shown in Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including scene contents (e.g., TV, cake) from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid including the background from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid including channel logos or watermarks from Reference Image 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the subject from Reference Image 1 performing the scanning action, rather than another character?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a convenience store checkout counter appear in the video?"
+      },
+      {
+        "en": "Does a paper bag appear in the video?"
+      },
+      {
+        "en": "Is light from a passing bus visible in the scene?"
+      },
+      {
+        "en": "Does a glass window appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the subject scan and bag three merchandise items?"
+      },
+      {
+        "en": "Is the subject located behind the checkout counter?"
+      },
+      {
+        "en": "Does light from a passing bus outside sweep across the glass window?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a convenience store late at night?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject perform a scanning action on the merchandise?"
+      },
+      {
+        "en": "Does the subject put the merchandise into the paper bag?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/025": {
+    "RF-C01": [
+      {
+        "en": "Is the old woman in the video the same old woman as in Reference Image 1?"
+      },
+      {
+        "en": "Is the cat in the video the same cat as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and identifiable facial features of the old woman match Reference Image 1?"
+      },
+      {
+        "en": "Do the visible coat color, pattern, and identifiable facial features of the cat match Reference Image 2?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the plastic building block toy style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including visual content from Reference Image 3, like the lighthouse, sailboat, or island?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including backgrounds from Reference Images 1 or 2, like bookshelves, windowsills, or potted plants?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly including subtitles from the reference images?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including channel logos from the reference images?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject holding the wooden board the one from Reference Image 1, rather than Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a wooden board appear in the video?"
+      },
+      {
+        "en": "Do scattered screws appear in the video?"
+      },
+      {
+        "en": "Does a birdhouse appear in the video?"
+      },
+      {
+        "en": "Does a tool shed appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a community garden?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the two subjects working together to assemble a birdhouse?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject from Reference Image 1 steady a plank?"
+      },
+      {
+        "en": "Does the subject from Reference Image 2 paw at the loose screws?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/026": {
+    "RF-C01": [
+      {
+        "en": "Is the rabbit in the video the same rabbit as in Reference Image 1?"
+      },
+      {
+        "en": "Is the little girl in the video the same little girl as in Reference Image 2?"
+      },
+      {
+        "en": "Do the gray fur and floppy ears match Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and identifiable facial features match Reference Image 2?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Q-version cartoon (Chibi) style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly featuring the pink magical girl or typography from Reference Image 3?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the indoor furniture from Reference Image 1 or the street background from Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Are the subtitles, logos, or watermarks from the reference images filtered out and not included in the video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the little girl from Reference Image 2 chasing the globe model, rather than the rabbit from Reference Image 1?"
+      },
+      {
+        "en": "Does the subject from Reference Image 1 emerge from beneath the bench to stop the globe?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a globe model appear in the video?"
+      },
+      {
+        "en": "Do display cabinets appear in the video?"
+      },
+      {
+        "en": "Does a bench appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the subject from Reference Image 1 beneath a bench before emerging?"
+      },
+      {
+        "en": "Does the chase of the globe pass the display cases?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in the hall of a natural history museum?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject from Reference Image 2 chase the rolling globe?"
+      },
+      {
+        "en": "Is the globe model rolling?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "While the subject from Reference Image 2 chases the rolling globe, does the subject from Reference Image 1 emerge from beneath a bench to stop it?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/027": {
+    "RF-C01": [
+      {
+        "en": "Is the dog in the video the same dog as in Reference Image 1?"
+      },
+      {
+        "en": "Is the cat in the video the same cat as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hair/fur color and recognizable facial features of the character in the video match Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hair/fur color and recognizable facial features of the character in the video match Reference Image 2?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Low Poly style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including visual content like the deer or lake from Reference Image 3?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the indoor backgrounds from Reference Images 1 or 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly containing subtitles?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing channel logos or watermarks?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the subject from Reference Image 1 pulling the tent rope backward, and not the one from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a tent appear in the video?"
+      },
+      {
+        "en": "Does a tent rope appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the initial state of the tent in the video skewed or tilted?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the two subjects located at opposite ends of the tent rope?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a mountain campsite?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the two subjects collaborating to fix the tent?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a character bite the tent rope and pull it backward?"
+      },
+      {
+        "en": "Does the subject from Reference Image 2 pin the other end of the rope with a paw?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Do the two subjects straighten the tilted tent together?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/028": {
+    "RF-C01": [
+      {
+        "en": "Is one character in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Is the other character in the video the same character as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyles, hair colors, and recognizable facial features of the characters match Reference Images 1 and 2?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the children's crayon drawing style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly showing content from Reference Image 3, like the red bus, people, or trees?"
+      },
+      {
+        "en": "Does the video avoid incorrectly retaining the solid backgrounds of Reference Images 1 or 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly containing subtitles?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing channel logos or watermarks?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1 used for the appearance of one of the two people in the poster-paper painting activity?"
+      },
+      {
+        "en": "Is Reference Image 2 used for the appearance of the other person in the poster-paper painting activity?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a poster paper appear in the video?"
+      },
+      {
+        "en": "Do roller brushes appear in the video?"
+      },
+      {
+        "en": "Does paint appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the poster paper appear to be large in size?"
+      },
+      {
+        "en": "Does the paint include both red and blue colors?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a school art classroom?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the two subjects spread out the large sheet of poster paper together?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Do the characters hold roller brushes?"
+      },
+      {
+        "en": "Do the characters perform the action of applying paint with roller brushes?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/029": {
+    "RF-C01": [
+      {
+        "en": "Is the female character in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the male character in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyles, hair colors, and recognizable facial features of the characters match Reference Images 1 and 2?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the yarn 3D style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the house, deer, or scenery from Reference Image 3?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the solid or ink wash background from Reference Images 1 or 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly showing any subtitles, channel logos, or watermarks?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one rolling dough the subject from Reference Image 1, rather than Reference Image 2?"
+      },
+      {
+        "en": "Is the one arranging fruit the subject from Reference Image 2, rather than Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does dough appear in the video?"
+      },
+      {
+        "en": "Do sliced fruits appear in the video?"
+      },
+      {
+        "en": "Does a baking tray appear in the video?"
+      },
+      {
+        "en": "Does an oven appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the dough presented in a round flat shape?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are sliced fruits arranged on the tray?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a modern baking classroom?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the two subjects slide the tray into the oven together?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is a character rolling the dough?"
+      },
+      {
+        "en": "Is a character putting the sliced fruits into the baking tray?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/030": {
+    "RF-C01": [
+      {
+        "en": "Is the subject at the bow of the wooden boat the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Is the subject rowing at the back the same character as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyles, hair colors, and facial features of the characters match the corresponding reference images?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the origami 3D style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly featuring the paper crane, paper deer, or paper mountains from Reference Image 3?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring the solid white background of Reference Image 1 or the boxing gym background of Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly featuring subtitles?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring channel logos?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring watermarks?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject at the bow of the boat from Reference Image 1, rather than Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a wooden boat appear in the video?"
+      },
+      {
+        "en": "Do patches of reeds appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the subject at the front observing the course?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the subject from Reference Image 1 located at the front of the wooden boat?"
+      },
+      {
+        "en": "Is the subject from Reference Image 2 located at the back of the wooden boat?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set on a lake?"
+      },
+      {
+        "en": "Does the video depict an early morning setting?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the two characters coordinate to guide the boat through the reeds, with the front character watching the route and the rear character rowing?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the subject at the bow of the wooden boat?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the subject at the back rowing with oars?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/031": {
+    "RF-C01": [
+      {
+        "en": "Is the male character in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the female character in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Do the male's visible hairstyle, hair color, and facial features (e.g., cheek mole) match Reference Image 1?"
+      },
+      {
+        "en": "Do the female's visible hairstyle, hair color, and facial features match Reference Image 2?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Wong Kar-wai style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly featuring the qipao woman or indoor scene from Reference Image 3?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring the kitchen from Ref 1 or the white background from Ref 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, channel logos, or watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject holding the umbrella from Reference Image 2, rather than Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an umbrella appear in the video?"
+      },
+      {
+        "en": "Does a pastry box appear in the video?"
+      },
+      {
+        "en": "Does a series of puddles appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the umbrella in the video transparent?"
+      },
+      {
+        "en": "Is the pastry box in the video sealed?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Do the two subjects walk through the alley?"
+      },
+      {
+        "en": "Do the two people bypass the puddles?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a narrow street or alley?"
+      },
+      {
+        "en": "Does the environment show a post-rain state?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a character hold an umbrella?"
+      },
+      {
+        "en": "Does the subject from Reference Image 1 carry the sealed pastry box with both hands while walking under the umbrella?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/032": {
+    "RF-C01": [
+      {
+        "en": "Is the corgi in the video the same corgi as in Reference Image 1?"
+      },
+      {
+        "en": "Is the robot in the video the same robot as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible coat color distribution and recognizable facial features of the corgi match Reference Image 1?"
+      },
+      {
+        "en": "Do the transparent hemispherical head, cyan panels, and track chassis match Reference Image 2?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Dunhuang mural style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the flying apsaras, cloud patterns, or landscape background from Reference Image 3?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the living room from Reference Image 1 or the solid white background from Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly containing subtitles?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing channel logos?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing watermarks?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the robot from Reference Image 2 brushing away sand, rather than the corgi from Reference Image 1?"
+      },
+      {
+        "en": "Is it the corgi from Reference Image 1 holding the pottery sherd, rather than the robot from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a stone relief appear in the video?"
+      },
+      {
+        "en": "Does sand appear in the video?"
+      },
+      {
+        "en": "Does a marker flag appear in the video?"
+      },
+      {
+        "en": "Does a pottery sherd appear in the video?"
+      },
+      {
+        "en": "Does an awning appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the pottery fragment carried to the stone table?"
+      },
+      {
+        "en": "Are both the corgi and the robot located under the awning?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a desert archaeological camp?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the corgi and the robot show a collaborative state of organizing discoveries together?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject from Reference Image 2 use a mechanical arm to brush sand from the stone relief?"
+      },
+      {
+        "en": "Does the subject from Reference Image 1 pick up the pottery fragment beside the marker flag?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "While the subject from Reference Image 2 brushes sand from the relief, does the subject from Reference Image 1 carry the pottery fragment to the stone table, after which they continue sorting finds beneath a canopy?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/033": {
+    "RF-C01": [
+      {
+        "en": "Is the unicorn plush toy in the video the same unicorn plush toy as in Reference Image 1?"
+      },
+      {
+        "en": "Is the lop-eared rabbit in the video the same lop-eared rabbit as in Reference Image 2?"
+      },
+      {
+        "en": "Do the golden horn, colorful mane, and square patch in the video match Reference Image 1?"
+      },
+      {
+        "en": "Do the floppy ears, gray fur, and white nose in the video match Reference Image 2?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Ukiyo-e woodblock print style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of mistakenly included elements from Reference Image 3, like waves, cliffs, birds, or boatmen?"
+      },
+      {
+        "en": "Is the video free of mistakenly included background elements from Reference Images 1 and 2, like bed legs, books, or blankets?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles from the reference images?"
+      },
+      {
+        "en": "Is the video free of channel logos from the reference images?"
+      },
+      {
+        "en": "Is the video free of watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the subject from Reference Image 1 pull the empty wicker basket?"
+      },
+      {
+        "en": "Does the subject from Reference Image 2 push from behind?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an empty wicker basket appear in the video?"
+      },
+      {
+        "en": "Do carts appear in the video?"
+      },
+      {
+        "en": "Does a stall appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a harbor fish market?"
+      },
+      {
+        "en": "Does a wooden boardwalk appear in the video?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the subjects weave around the passing carts?"
+      },
+      {
+        "en": "Do the two subjects cooperate to move the basket to the stall, with one pulling and the other pushing?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a character pull an empty wicker basket?"
+      },
+      {
+        "en": "Does a character push the basket from behind?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/034": {
+    "RF-C01": [
+      {
+        "en": "Is the umbrella-holding character in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the flashlight-holding character in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Is the scooter-holding character in the video the same person as in Reference Image 3?"
+      },
+      {
+        "en": "Do the visible hairstyles, hair colors, and facial features of the characters match the corresponding reference images?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Hong Kong cop film style shown in Reference Image 4?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the gun-wielding person or street scene from Reference Image 4?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the ancient town street or solid backgrounds from Reference Images 1 to 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles from the reference images?"
+      },
+      {
+        "en": "Does the video avoid reproducing channel logos from the reference images?"
+      },
+      {
+        "en": "Does the video avoid reproducing watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one holding the umbrella the subject of Reference Image 1, rather than 2 or 3?"
+      },
+      {
+        "en": "Is the one holding the flashlight the subject of Reference Image 2, rather than 1 or 3?"
+      },
+      {
+        "en": "Is the one holding the scooter the subject of Reference Image 3, rather than 1 or 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an umbrella appear in the video?"
+      },
+      {
+        "en": "Do water drops appear in the video?"
+      },
+      {
+        "en": "Does a flashlight appear in the video?"
+      },
+      {
+        "en": "Does the electric scooter have a deck (standing platform)?"
+      },
+      {
+        "en": "Does an electric scooter appear in the video?"
+      },
+      {
+        "en": "Does a loose wheel appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the electric scooter in the video tilted?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in an underground parking lot?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the three characters work together to refit the loose wheel?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject from Reference Image 1 hold the umbrella so that its canopy blocks the dripping water?"
+      },
+      {
+        "en": "Does the subject holding the flashlight shine it toward the scooter deck?"
+      },
+      {
+        "en": "Does a character hold the electric scooter?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/035": {
+    "RF-C01": [
+      {
+        "en": "Is the little girl in the video the same little girl as in Reference Image 1?"
+      },
+      {
+        "en": "Is the old lady in the video the same old lady as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyles, hair colors, and recognizable facial features of the characters match the corresponding reference images?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the pseudo-color infrared photography style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying the specific house, road, and landscape composition from Reference Image 3?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including backgrounds from Reference Images 1 or 2, like streets, cars, or bookshelves?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Are the subtitles, logos, or watermarks from the reference images successfully excluded from the video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the subject from Reference Image 1 carry the empty basket between the trees?"
+      },
+      {
+        "en": "Is the subject picking apples from Reference Image 2, not Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an orchard appear in the video?"
+      },
+      {
+        "en": "Do trees appear in the video?"
+      },
+      {
+        "en": "Do apples appear in the video?"
+      },
+      {
+        "en": "Does a wooden shelter appear in the video?"
+      },
+      {
+        "en": "Does a basket appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the basket in the video initially empty?"
+      },
+      {
+        "en": "Are the apples in the video red?"
+      },
+      {
+        "en": "Is the basket in the video eventually filled?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject from Reference Image 1 move between the trees?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the apples located on low branches?"
+      },
+      {
+        "en": "Is the basket filled beneath the wooden shelter?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a snow-covered environment?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character carry a basket?"
+      },
+      {
+        "en": "Does the subject from Reference Image 2 pick red apples from low branches?"
+      },
+      {
+        "en": "Do the characters put items into the basket?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the subject from Reference Image 1 carry the initially empty basket between the trees, and does the subject from Reference Image 2 pick red apples and fill the basket beneath a wooden shelter?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/036": {
+    "RF-C01": [
+      {
+        "en": "Is the robot in the video the same robot as in Reference Image 1?"
+      },
+      {
+        "en": "Do the transparent dome, cyan panels, and bottom tracks match Reference Image 1?"
+      },
+      {
+        "en": "Is the panda in the video the same panda as in Reference Image 2?"
+      },
+      {
+        "en": "Do the black and white fur distribution and dark eye patches match Reference Image 2?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the retro travel poster style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying the specific landscape composition from Reference Image 3?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the pure white background of Ref 1 or the bamboo background of Ref 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles from the reference images?"
+      },
+      {
+        "en": "Does the video avoid reproducing channel logos or watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one pushing the luggage cart the subject of Ref 1, rather than Ref 2?"
+      },
+      {
+        "en": "Does the subject from Reference Image 2 catch the rolling backpack?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a luggage cart appear in the video?"
+      },
+      {
+        "en": "Does a cable car cabin appear in the video?"
+      },
+      {
+        "en": "Does a backpack appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the luggage cart spatially close to the cable car cabin?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set inside an alpine cable car station?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the two subjects enter the cable car together?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a character push the luggage cart?"
+      },
+      {
+        "en": "Does a character catch the rolling backpack?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the backpack roll?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Do both subjects board the cable car before its doors close?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/037": {
+    "RF-C01": [
+      {
+        "en": "Is the subject walking ahead with an umbrella the same character as Reference Image 1?"
+      },
+      {
+        "en": "Is the subject following with a paper lantern the same character as Reference Image 2?"
+      },
+      {
+        "en": "Do the leading character's twin-tail hairstyle and recognizable facial design preserve Reference Image 1's identity under the black-and-gold scratchboard rendering, without requiring the original hair hue?"
+      },
+      {
+        "en": "Do the following character's long wavy hairstyle, crown design, and recognizable facial design preserve Reference Image 2's identity under the black-and-gold scratchboard rendering?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the scratchboard art style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the owl, trees, or moon from Reference Image 3?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including background elements like cherry blossoms, stars, or ribbons from Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly containing subtitles?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing channel logos or watermarks?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject walking ahead Reference Image 1's character, rather than Reference Image 2's?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an umbrella appear in the video?"
+      },
+      {
+        "en": "Does a paper lantern appear in the video?"
+      },
+      {
+        "en": "Does a stone bridge appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do the two characters show a following relationship, one behind the other?"
+      },
+      {
+        "en": "Are the two characters located in the middle of the stone bridge when they stop?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene a night-market street?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the two characters perform the action of looking back?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the subject walking ahead holding an umbrella?"
+      },
+      {
+        "en": "Is the following subject carrying a paper lantern?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the complete process from walking and following to stopping and looking back?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/038": {
+    "RF-C01": [
+      {
+        "en": "Is the teapot in the video the same teapot as in Reference Image 1?"
+      },
+      {
+        "en": "Is the unicorn toy in the video the same unicorn toy as in Reference Image 2?"
+      },
+      {
+        "en": "Is the orange cat in the video the same orange cat as in Reference Image 3?"
+      },
+      {
+        "en": "Do the teapot's blue-and-white pattern, unicorn's rainbow mane, and cat's blue bow match the reference images?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the minimalist geometric illustration style shown in Reference Image 4?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly featuring visual content like the lighthouse, sailboats, or ocean from Reference Image 4?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring original background content like the gradient, messy bedroom, or windowsill plants from Reference Images 1, 2, and 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles from the reference images?"
+      },
+      {
+        "en": "Does the video avoid reproducing channel logos or watermarks from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Do the three chasing subjects correspond to Reference Images 1, 2, and 3 without feature fusion or mismatch?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a glass marble appear in the video?"
+      },
+      {
+        "en": "Does a slope appear in the video?"
+      },
+      {
+        "en": "Does a circular display stand appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the glass marble roll down the slope in the video?"
+      },
+      {
+        "en": "Do the three subjects chase the glass marble in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do the three subjects chase from three different directions in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a modern art museum hall?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the three subjects eventually surround the glass marble beside the circular display plinth?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show a coherent event of the marble rolling, subjects chasing, and eventually surrounding it?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/039": {
+    "RF-C01": [
+      {
+        "en": "Is the character setting up the tripod in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the character bringing the telescope in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Is the character adjusting the curtains in the video the same person as in Reference Image 3?"
+      },
+      {
+        "en": "Do the tripod-setting character's visible identifying appearance, orange shell jacket, dark cap, and backpack match Reference Image 1 under the requested painting style, without requiring unseen facial details?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the character bringing the telescope match Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the character adjusting the curtains match Reference Image 3?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Rococo oil painting style shown in Reference Image 4?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the characters or instruments from Reference Image 4?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the outdoor backgrounds from Reference Images 1 to 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly containing subtitles?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing channel logos?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing watermarks?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one setting up the tripod the subject from Image 1, rather than Image 2 or 3?"
+      },
+      {
+        "en": "Is the one bringing the telescope the subject from Image 2, rather than Image 1 or 3?"
+      },
+      {
+        "en": "Is the one adjusting the curtains the subject from Image 3, rather than Image 1 or 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a tripod appear in the video?"
+      },
+      {
+        "en": "Does a long telescope appear in the video?"
+      },
+      {
+        "en": "Do curtains appear in the video?"
+      },
+      {
+        "en": "Does a full moon appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a classical banquet hall?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the three characters jointly aim the equipment at the full moon?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a character set up the tripod?"
+      },
+      {
+        "en": "Does a character bring the long telescope?"
+      },
+      {
+        "en": "Does a character adjust the curtains?"
+      }
+    ]
+  },
+  "mr2v_content_presentation/040": {
+    "RF-C01": [
+      {
+        "en": "Does the person in the video match the one in Reference Image 1?"
+      },
+      {
+        "en": "Does the dog in the video match the one in Reference Image 2?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and facial features match Reference Image 1?"
+      },
+      {
+        "en": "Do the dog's visible coat color distribution and facial features match Reference Image 2?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the transparent film collage style shown in Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying the specific fish identities and composition from Reference Image 3?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the kitchen background from Reference Image 1 or the living room from Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly containing any subtitles?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing any channel logos?"
+      },
+      {
+        "en": "Does the video avoid incorrectly containing any watermarks?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the person from Reference Image 1 checking the toolbox, rather than the dog from Reference Image 2?"
+      },
+      {
+        "en": "Is it the dog from Reference Image 2 fetching the key, rather than the person from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a toolbox appear in the video?"
+      },
+      {
+        "en": "Does a bench appear in the video?"
+      },
+      {
+        "en": "Does a key appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the toolbox in the video in an open state?"
+      },
+      {
+        "en": "Is the key in the video made of brass or brass-colored?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the key beneath the bench before the subject retrieves it?"
+      },
+      {
+        "en": "Is the key carried to the toolbox?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in an underwater tunnel of a large aquarium?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the person checking the toolbox?"
+      },
+      {
+        "en": "Does the subject from Reference Image 2 retrieve the brass key?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3481 @@
+{
+  "style_reference/001": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the ink-wash painting style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly featuring mountains, pine trees, or boats from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is there a large passenger plane in the video?"
+      },
+      {
+        "en": "Is there a boarding bridge in the video?"
+      },
+      {
+        "en": "Are there ground service vehicles in the video?"
+      },
+      {
+        "en": "Are there ground markings in the video?"
+      },
+      {
+        "en": "Is there a marshaller in the video?"
+      },
+      {
+        "en": "Is there a marshalling wand in the video?"
+      },
+      {
+        "en": "Is there a terminal building in the video?"
+      },
+      {
+        "en": "Is there a glass facade in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the marshalling wand glowing?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the large passenger plane taxiing slowly?"
+      },
+      {
+        "en": "Are the ground service vehicles driving around?"
+      },
+      {
+        "en": "Is the marshaller waving the wand?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the plane taxiing towards the boarding bridge?"
+      },
+      {
+        "en": "Are the ground vehicles driving along the markings?"
+      },
+      {
+        "en": "Is the marshaller standing within a safety zone?"
+      },
+      {
+        "en": "Is the terminal building located in the distance?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene a busy airport apron?"
+      },
+      {
+        "en": "Is the weather in the video overcast?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the marshaller holding the wand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium-long shot?"
+      },
+      {
+        "en": "Does the camera move steadily alongside the aircraft in a lateral tracking shot?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the glass facade reflect soft light?"
+      }
+    ]
+  },
+  "style_reference/002": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the traditional Chinese fine-arts animation style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the Sun Wukong figure from the reference image?"
+      },
+      {
+        "en": "Does the video avoid showing clouds or ancient buildings from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young skateboarder appear in the video?"
+      },
+      {
+        "en": "Do two companions appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the skateboarder accelerate towards the ramp?"
+      },
+      {
+        "en": "Does the skateboarder complete a full rotation in the air?"
+      },
+      {
+        "en": "Does the skateboarder land smoothly?"
+      },
+      {
+        "en": "Are the companions watching?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the companions beside the course?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a modern indoor skatepark?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the athlete using a skateboard?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a wide shot?"
+      },
+      {
+        "en": "Does the camera move from left to right?"
+      },
+      {
+        "en": "Does the camera track the athlete's complete movement trajectory?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video maintain real-time speed?"
+      },
+      {
+        "en": "Is the venue evenly illuminated by bright overhead lights?"
+      }
+    ]
+  },
+  "style_reference/003": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Gongbi style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including golden pheasants, flowers, rocks, or calligraphy from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young engineer appear in the video?"
+      },
+      {
+        "en": "Do a workbench and desktop tools appear in the video?"
+      },
+      {
+        "en": "Do precision tweezers and a small drone circuit board appear in the video?"
+      },
+      {
+        "en": "Does a desk lamp appear in the video?"
+      },
+      {
+        "en": "Do a monitor and shelves appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the engineer sitting in front of the workbench?"
+      },
+      {
+        "en": "Are the monitor and shelves located in the background?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a modern electronic repair studio?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the engineer adjusting components on the drone circuit board with precision tweezers?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera slowly push in with a close-up on the circuit board and hands?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a shallow depth of field, blurring the background monitor and shelves?"
+      },
+      {
+        "en": "Does a cool-toned desk lamp illuminate the desktop tools?"
+      }
+    ]
+  },
+  "style_reference/004": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the pixel-art style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid including the tram, modern buildings, or streetlights from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do Gobi sand dunes appear in the video?"
+      },
+      {
+        "en": "Does a merchant caravan appear in the video?"
+      },
+      {
+        "en": "Do multiple camels appear in the video?"
+      },
+      {
+        "en": "Does an oasis appear in the video?"
+      },
+      {
+        "en": "Does a merchant flag appear in the video?"
+      },
+      {
+        "en": "Do distant mountains appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the camels fully loaded with silk?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Are the camels' silhouettes outlined by golden-hour rim light?"
+      },
+      {
+        "en": "Do distant mountain ridges fade into warm dusty haze along the horizon?"
+      },
+      {
+        "en": "Does the video feature golden, low-angle warm lighting?"
+      },
+      {
+        "en": "Do the Gobi sand dunes present a tone tinged red by the sunset?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the merchant flag slowly fluttering?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the time setting of the video sunset or dusk?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the caravan leading the camels as they march?"
+      },
+      {
+        "en": "Is the procession marching towards the oasis?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot scale of the video an extreme long shot?"
+      },
+      {
+        "en": "Does the camera truck laterally parallel to the procession?"
+      }
+    ]
+  },
+  "style_reference/005": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the stained-glass mosaic style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude the sea turtle, coral, or underwater environment from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a dragon and lion dance team appear in the video?"
+      },
+      {
+        "en": "Does a stone archway appear in the video?"
+      },
+      {
+        "en": "Do children appear in the video?"
+      },
+      {
+        "en": "Do long-pole lanterns appear in the video?"
+      },
+      {
+        "en": "Do red lanterns appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the red lanterns in the video strung together?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the dragon's body tumbling in the video?"
+      },
+      {
+        "en": "Is the lion's head swaying in the video?"
+      },
+      {
+        "en": "Are the children racing alongside the troupe?"
+      },
+      {
+        "en": "Are the red lanterns swaying in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video maintain a real-time pace?"
+      },
+      {
+        "en": "Does the video present a twilight warm light atmosphere?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the dragon and lion dance team pass through the stone archway?"
+      },
+      {
+        "en": "Are the children alongside the troupe?"
+      },
+      {
+        "en": "Are strings of red lanterns arranged along the rooftops?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the scene show a lively Spring Festival temple fair atmosphere?"
+      },
+      {
+        "en": "Is the video scene set at a village entrance?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Are the children holding long-pole lanterns?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a wide shot?"
+      },
+      {
+        "en": "Does the camera show a crane movement sweeping down from high eaves?"
+      },
+      {
+        "en": "Does the camera pass by the archway?"
+      }
+    ]
+  },
+  "style_reference/006": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the shadow-puppetry style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the generals, horses, or cold weapons from the reference image?"
+      },
+      {
+        "en": "Does the video avoid showing the screen borders or Chinese characters from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an astronaut appear in the video?"
+      },
+      {
+        "en": "Does a space flag appear in the video?"
+      },
+      {
+        "en": "Does the Earth appear in the video?"
+      },
+      {
+        "en": "Does a dark sky appear behind the lunar landscape?"
+      },
+      {
+        "en": "Does rocket smoke trail appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the astronaut wearing a bulky pressurized suit?"
+      },
+      {
+        "en": "Is the sky pitch black?"
+      },
+      {
+        "en": "Does the rocket smoke trail appear as a white line?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the astronaut remain standing still?"
+      },
+      {
+        "en": "Is the Earth rising extremely slowly?"
+      },
+      {
+        "en": "Is the rocket smoke trail drifting sideways?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the Earth located in the distance?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set on the lunar surface?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the astronaut hold the mission flagpole?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a medium shot?"
+      },
+      {
+        "en": "Does the camera remain completely static?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is there hard-edged lateral sunlight in the video?"
+      },
+      {
+        "en": "Does the astronaut appear as a sharp silhouette?"
+      }
+    ]
+  },
+  "style_reference/007": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the torn-paper collage style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude original carrier elements like the cyclist and city skyline from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do moss-covered stones appear in the video?"
+      },
+      {
+        "en": "Do raked sand patterns appear in the video?"
+      },
+      {
+        "en": "Does a cherry blossom branch appear in the video?"
+      },
+      {
+        "en": "Does a pond appear in the video?"
+      },
+      {
+        "en": "Does a stone lantern appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does a cherry-blossom branch drift almost imperceptibly into the frame?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the stone lantern cast a reflection in the water?"
+      },
+      {
+        "en": "Are the raked sand patterns concentric?"
+      },
+      {
+        "en": "Does the reflecting pool remain still?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the cherry-blossom branch drift into the upper-right part of the frame?"
+      },
+      {
+        "en": "Is the stone lantern located by the pond?"
+      },
+      {
+        "en": "Are the moss-covered stones nestled among the raked sand patterns?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a Japanese dry landscape garden?"
+      },
+      {
+        "en": "Does the video present a tranquil Zen atmosphere?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a wide shot?"
+      },
+      {
+        "en": "Does the camera pan slowly from the right to the left of the frame?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature soft scattered sunlight?"
+      },
+      {
+        "en": "Do the sand patterns maintain uniform exposure in the video?"
+      }
+    ]
+  },
+  "style_reference/008": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the fabric-and-patchwork style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying the specific houses, trees, bridge, or hills from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a tall, heavily armored mecha warrior appear in the video?"
+      },
+      {
+        "en": "Do armor valve openings appear in the video?"
+      },
+      {
+        "en": "Does white steam appear in the video?"
+      },
+      {
+        "en": "Does an elevated highway appear in the video?"
+      },
+      {
+        "en": "Do broken bricks on the ground appear in the video?"
+      },
+      {
+        "en": "Does smoke appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the mecha warrior standing tall?"
+      },
+      {
+        "en": "Is the elevated highway broken and sagging?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Are the armor valves violently spraying white steam?"
+      },
+      {
+        "en": "Is the mecha raising its right arm, poised to slam down?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the mecha warrior positioned above the city ruins?"
+      },
+      {
+        "en": "Are the armor valves located on the mecha's chest?"
+      },
+      {
+        "en": "Is the elevated highway located behind the mecha?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in city ruins?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a wide shot?"
+      },
+      {
+        "en": "Does the camera tilt up starting from the broken bricks on the ground?"
+      },
+      {
+        "en": "Does the upward camera tilt end at the mecha warrior’s visor?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature cool-toned backlighting?"
+      },
+      {
+        "en": "Does the backlight pierce through the smoke to outline the mecha's metal edges?"
+      }
+    ]
+  },
+  "style_reference/009": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the clay-animation style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the old man character from the reference image?"
+      },
+      {
+        "en": "Does the video avoid showing the blackboard, gears, or workshop scene from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a transparent beer glass appear in the video?"
+      },
+      {
+        "en": "Does a railing appear in the video?"
+      },
+      {
+        "en": "Do players appear in the video?"
+      },
+      {
+        "en": "Do stands appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the beer glass filled with amber beer?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the foam in the beer glass shake slightly?"
+      },
+      {
+        "en": "Does condensation slide down the wall of the beer glass?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do cool stadium floodlights illuminate the field?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the beer glass placed on the railing?"
+      },
+      {
+        "en": "Are the players located in the background?"
+      },
+      {
+        "en": "Is the beer glass kept in the foreground at all times?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set by a football field?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the players in the background running and passing the ball?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot?"
+      },
+      {
+        "en": "Does the camera slowly orbit halfway around the beer glass?"
+      },
+      {
+        "en": "Does the camera movement gradually reveal the field and stands?"
+      }
+    ]
+  },
+  "style_reference/010": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the felt-craft style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing elements like foxes, caves, or plants from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a ring-shaped space station appear in the video?"
+      },
+      {
+        "en": "Do at least two astronauts appear in the video?"
+      },
+      {
+        "en": "Do safety tethers appear in the video?"
+      },
+      {
+        "en": "Do solar panels appear in the video?"
+      },
+      {
+        "en": "Do tools and cables appear in the video?"
+      },
+      {
+        "en": "Does a gas giant planet appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the gas giant planet in the video purple?"
+      },
+      {
+        "en": "Does the space station in the video show metallic outlines?"
+      },
+      {
+        "en": "Does the purple gas giant appear huge in the composition?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the space station rotate extremely slowly around its own axis?"
+      },
+      {
+        "en": "Do the astronauts drift outside the space station?"
+      },
+      {
+        "en": "Are the tools and cables swinging slowly?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the astronauts located outside the space station cabin?"
+      },
+      {
+        "en": "Are the solar panels located on the outer wall of the space station?"
+      },
+      {
+        "en": "Does the gas giant planet occupy the lower corner of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in deep space?"
+      },
+      {
+        "en": "Is the background void pitch-black?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Are the astronauts tethered with safety ropes?"
+      },
+      {
+        "en": "Are the astronauts repairing the solar panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use an extreme long shot?"
+      },
+      {
+        "en": "Does the camera roll along the optical axis in the direction of the space station's rotation?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a hard edge light effect from the star?"
+      }
+    ]
+  },
+  "style_reference/011": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the watercolor style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid showing the flowers or text from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is there a lighthouse in the video?"
+      },
+      {
+        "en": "Do at least two seagulls appear in the video?"
+      },
+      {
+        "en": "Is there a fishing boat in the video?"
+      },
+      {
+        "en": "Is there a rocky coast in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the ocean waves grayish-blue in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Are the seagulls flying low over the sea surface?"
+      },
+      {
+        "en": "Is the fishing boat moving slowly toward port?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the lighthouse located on the rocky coast?"
+      },
+      {
+        "en": "Is the fishing boat located near the distant horizon?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene filled with sea fog?"
+      },
+      {
+        "en": "Does the video present a morning time setting?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a wide shot?"
+      },
+      {
+        "en": "Does the camera dolly out from the base of the lighthouse?"
+      },
+      {
+        "en": "Does the dolly-out gradually reveal the full misty shoreline and outer reefs?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video maintain a deep depth of field with both foreground and background in focus?"
+      },
+      {
+        "en": "Is there soft backlight shining through the fog layer in the video?"
+      }
+    ]
+  },
+  "style_reference/012": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the pencil-sketch style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including still life like the pitcher or pears from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a Persian cat appear in the video?"
+      },
+      {
+        "en": "Does a ball of yarn appear in the video?"
+      },
+      {
+        "en": "Do old newspapers appear in the video?"
+      },
+      {
+        "en": "Does a half-open book appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the Persian cat in the video have long hair?"
+      },
+      {
+        "en": "Are the hair tips on the cat's back fluffy in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the cat stretching its body in the video?"
+      },
+      {
+        "en": "Are the cat's front paws stretched straight in the video?"
+      },
+      {
+        "en": "Is the cat's back arched in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are items like yarn, newspapers, and books scattered at the cat's feet?"
+      },
+      {
+        "en": "Are the miscellaneous items located behind the cat?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a living room?"
+      },
+      {
+        "en": "Is there a carpet on the living room floor?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video start with a medium shot?"
+      },
+      {
+        "en": "Does the camera slowly zoom in on the cat's back?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a shallow depth of field to blur background items?"
+      }
+    ]
+  },
+  "style_reference/013": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the impasto style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the old man's appearance from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an adult woman appear in the video?"
+      },
+      {
+        "en": "Do a table and chairs appear in the video?"
+      },
+      {
+        "en": "Do a cake and a fork appear in the video?"
+      },
+      {
+        "en": "Does a small bird appear in the video?"
+      },
+      {
+        "en": "Do a plate and a water glass appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the plate in the video white?"
+      },
+      {
+        "en": "Does the glass in the video contain clear water?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman sitting by the table in the video?"
+      },
+      {
+        "en": "Is the bird perched on the back of an adjacent chair in the video?"
+      },
+      {
+        "en": "Are the plate and water glass placed on the table in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a dining room?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the bird tilt its head and look at the woman in the video?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the woman use a fork to cut a small piece from the cake in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot scale of the video a medium shot?"
+      },
+      {
+        "en": "Does the camera remain fixed and motionless in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do the actions in the video occur at a realistic speed?"
+      },
+      {
+        "en": "Is the indoor lighting in the video uniform?"
+      }
+    ]
+  },
+  "style_reference/014": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the black-and-white woodcut-print style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the train from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a wooden sailing ship appear in the video?"
+      },
+      {
+        "en": "Do giant waves appear in the video?"
+      },
+      {
+        "en": "Does a mast appear in the video?"
+      },
+      {
+        "en": "Do sailors appear in the video?"
+      },
+      {
+        "en": "Do ropes appear in the video?"
+      },
+      {
+        "en": "Does lightning appear in the video?"
+      },
+      {
+        "en": "Do dark clouds appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the wooden sailing ship tilting and crossing the giant waves?"
+      },
+      {
+        "en": "Do the sailors’ bodies swing with the ship’s rolling motion?"
+      },
+      {
+        "en": "Does the lightning strike through the dark clouds?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene depict a stormy and raging sea?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Are the sailors holding tightly onto the ropes?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a wide shot?"
+      },
+      {
+        "en": "Does a handheld camera lurch and pitch to simulate a deck-level view?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does hard-edged backlight appear in the video?"
+      },
+      {
+        "en": "Are the ship's hull and rigging shown as silhouettes?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the sailors positioned on the mast?"
+      },
+      {
+        "en": "Are the lightning and storm clouds located on the far horizon?"
+      }
+    ]
+  },
+  "style_reference/015": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the hand-drawn Japanese pastoral-animation style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including irrelevant elements from the reference image, such as the cycling boy, bicycle, or bakery?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an old lady appear in the video?"
+      },
+      {
+        "en": "Does a shallow dish of honey appear in the video?"
+      },
+      {
+        "en": "Does a swarm of bumblebees appear in the video?"
+      },
+      {
+        "en": "Does a vine-covered wooden cabin appear in the video?"
+      },
+      {
+        "en": "Do clouds appear in the video?"
+      },
+      {
+        "en": "Does a sunflower field appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the old lady wearing a linen apron?"
+      },
+      {
+        "en": "Does the old lady have white hair?"
+      },
+      {
+        "en": "Are the clouds twilight orange-gold in color?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Do the bees hover and settle on the rim of the honey dish?"
+      },
+      {
+        "en": "Are the bees' wings flapping gently?"
+      },
+      {
+        "en": "Do the clouds drift steadily?"
+      },
+      {
+        "en": "Is the sunflower field gently undulating?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the old lady located in front of the vine-covered wooden cabin?"
+      },
+      {
+        "en": "Are the clouds overhead?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene depict a twilight setting?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the old lady cradling the shallow dish of honey?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot?"
+      },
+      {
+        "en": "Does the camera slowly track towards the old lady?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is there warm side-backlight passing through the vines?"
+      },
+      {
+        "en": "Is the light and shadow dancing on the old lady's shoulders?"
+      }
+    ]
+  },
+  "style_reference/016": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the highly saturated Japanese sky-animation style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the overpass railings or shooting stars from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does high-rise building glass appear in the video?"
+      },
+      {
+        "en": "Does a convenience store appear in the video?"
+      },
+      {
+        "en": "Do fluorescent tubes appear in the video?"
+      },
+      {
+        "en": "Do neon signs appear in the video?"
+      },
+      {
+        "en": "Do water puddles appear in the video?"
+      },
+      {
+        "en": "Does an elevated train appear in the video?"
+      },
+      {
+        "en": "Do rain clouds appear in the video?"
+      },
+      {
+        "en": "Does an asphalt road appear in the video?"
+      },
+      {
+        "en": "Do crepuscular rays appear in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the elevated train move at a real-time pace?"
+      },
+      {
+        "en": "Does the video present the lighting effect of crepuscular rays?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do reflections of neon signs appear on the water puddles?"
+      },
+      {
+        "en": "Are the rain clouds cyan and magenta?"
+      },
+      {
+        "en": "Does the convenience store have a glass shopfront?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Do the reflections show slow ripple diffusion?"
+      },
+      {
+        "en": "Do the rain clouds in the video appear to be surging?"
+      },
+      {
+        "en": "Does the elevated train streak diagonally across the frame?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the convenience store located at a street corner?"
+      },
+      {
+        "en": "Does the elevated train cross the upper part of the frame?"
+      },
+      {
+        "en": "Do the crepuscular rays slant towards the road surface?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene present a humid or wet environmental atmosphere?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a wide shot?"
+      },
+      {
+        "en": "Does the camera show a downward descending trajectory?"
+      },
+      {
+        "en": "Does the camera move from the high-rise glass to the convenience store front?"
+      }
+    ]
+  },
+  "style_reference/017": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the shoujo-manga style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the sailor-suited girl, cherry trees, or text boxes from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a college couple (a boy and a girl) appear in the video?"
+      },
+      {
+        "en": "Do floor-to-ceiling windows appear in the video?"
+      },
+      {
+        "en": "Does a silver bell ornament appear in the video?"
+      },
+      {
+        "en": "Does a paper crane appear in the video?"
+      },
+      {
+        "en": "Do soft-focus light spots appear in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the silver bell shimmer faintly?"
+      },
+      {
+        "en": "Are the soft-focus light spots drifting around the couple?"
+      },
+      {
+        "en": "Does a soft rim glow trace the couple's profiles?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the bell swinging slightly?"
+      },
+      {
+        "en": "Is the paper crane spinning at a very slow speed?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the couple positioned close to the floor-to-ceiling windows?"
+      },
+      {
+        "en": "Is the paper crane located above the table?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does a pastel seaside sunset appear outside the window?"
+      },
+      {
+        "en": "Is the twilight gradually rising?"
+      },
+      {
+        "en": "Is the couple's setting a library?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the boy place the silver bell ornament into the girl's palm?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot scale of the video a close-up?"
+      },
+      {
+        "en": "Does the camera perform a slow orbital tracking shot?"
+      }
+    ]
+  },
+  "style_reference/018": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the warm, comforting Japanese illustration style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the girl character from the reference image?"
+      },
+      {
+        "en": "Does the video avoid showing the cafe or rainy scene from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young man appear in the video?"
+      },
+      {
+        "en": "Does a desk appear in the video?"
+      },
+      {
+        "en": "Does a caterpillar appear in the video?"
+      },
+      {
+        "en": "Does a pencil appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the caterpillar green?"
+      },
+      {
+        "en": "Is the boy's palm open?"
+      },
+      {
+        "en": "Is the boy sitting by the desk?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the boy leaning over to observe?"
+      },
+      {
+        "en": "Does the young man wait with one open hand beside the pencil?"
+      },
+      {
+        "en": "Does the boy avoid touching the caterpillar?"
+      },
+      {
+        "en": "Is the caterpillar crawling slowly?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do the actions proceed at a realistic speed?"
+      },
+      {
+        "en": "Is the lighting in the video soft and uniform?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the boy's palm placed next to the pencil?"
+      },
+      {
+        "en": "Is the caterpillar crawling along the pencil?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set indoors?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot?"
+      },
+      {
+        "en": "Is the video shot with a static camera?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the caterpillar lifting its front end and continuing forward?"
+      }
+    ]
+  },
+  "style_reference/019": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the cyberpunk style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the person in a transparent raincoat from the reference?"
+      },
+      {
+        "en": "Does the video avoid showing the holographic geisha advertisement from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a quadcopter delivery drone appear in the video?"
+      },
+      {
+        "en": "Does a neon high-rise canyon appear in the video?"
+      },
+      {
+        "en": "Does a giant holographic koi appear in the video?"
+      },
+      {
+        "en": "Do raindrops appear in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do the drone's propellers show high-frequency motion blur?"
+      },
+      {
+        "en": "Does the drone's metal body reflect magenta and cyan holographic barcodes?"
+      },
+      {
+        "en": "Does the drone movement have an accelerated, fast-motion rhythm?"
+      },
+      {
+        "en": "Does the video feature alternating warm and cold neon lighting effects?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the asphalt below appear wet?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the drone flying through the neon high-rise canyon?"
+      },
+      {
+        "en": "Is the holographic koi swimming?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the holographic koi located over the wet asphalt below the drone?"
+      },
+      {
+        "en": "Do raindrops streak across the foreground?"
+      },
+      {
+        "en": "Does alternating cold and warm neon rim light appear on the drone’s fuselage?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in rainy weather?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot?"
+      },
+      {
+        "en": "Is the camera tracking parallel to the drone?"
+      }
+    ]
+  },
+  "style_reference/020": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Pop Art style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the blonde woman from the reference image?"
+      },
+      {
+        "en": "Does the video avoid using the four-panel split-screen composition from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do adult athletes appear in the video?"
+      },
+      {
+        "en": "Does a badminton shuttlecock appear in the video?"
+      },
+      {
+        "en": "Does a net appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are there at least two athletes in the video?"
+      },
+      {
+        "en": "Are the athletes positioned on opposite sides of the net?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene a modern indoor badminton court?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the two athletes engaging in a fast-paced rally?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Do the athletes perform the action of hitting the shuttlecock?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera use a medium shot?"
+      },
+      {
+        "en": "Does the camera pan rapidly back and forth across the net?"
+      },
+      {
+        "en": "Does the camera follow the back-and-forth trajectory of the shuttlecock?"
+      },
+      {
+        "en": "Does the camera generally settle on the corresponding player around each hit?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the court evenly illuminated by overhead lights?"
+      }
+    ]
+  },
+  "style_reference/021": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the classic Western hand-drawn fairy-tale animation style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the princess, birds, or castle balcony from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a mouse tailor appear in the video?"
+      },
+      {
+        "en": "Does a little mouse appear in the video?"
+      },
+      {
+        "en": "Does a workbench appear in the video?"
+      },
+      {
+        "en": "Does a wooden stool appear in the video?"
+      },
+      {
+        "en": "Does a wedding dress appear in the video?"
+      },
+      {
+        "en": "Do pins appear in the video?"
+      },
+      {
+        "en": "Does lace appear in the video?"
+      },
+      {
+        "en": "Do roof beam ribbons appear in the video?"
+      },
+      {
+        "en": "Do hanging ribbons appear in the video?"
+      },
+      {
+        "en": "Do button strings appear in the video?"
+      },
+      {
+        "en": "Do carved window frames appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Are the hanging ribbons swaying slightly?"
+      },
+      {
+        "en": "Are the button strings swaying slightly?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the mouse tailor perched on the wooden stool?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene show a moonlit environment?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the mouse tailor fitting the wedding dress for the little mouse?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera descend from a wide shot to a medium shot?"
+      },
+      {
+        "en": "Does the camera descend from the roof beam ribbons to the workbench?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do the light spots expand on the skirt as the camera descends?"
+      },
+      {
+        "en": "Does the video present the lighting effect of moonlight through carved window frames?"
+      },
+      {
+        "en": "Does the action of inserting pins into the lace occur at a real-time pace?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the mouse tailor have whiskers?"
+      }
+    ]
+  },
+  "style_reference/022": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Vaporwave style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude the plaster statue from the reference image?"
+      },
+      {
+        "en": "Does the video exclude the black-and-white checkered floor from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a fax machine appear in the video?"
+      },
+      {
+        "en": "Does paper tape appear in the video?"
+      },
+      {
+        "en": "Do Windows 95 dialog boxes appear in the video?"
+      },
+      {
+        "en": "Do palm tree silhouettes appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the fax machine white?"
+      },
+      {
+        "en": "Does the fax machine have a 1980s retro appearance?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the paper tape fluttering in the wind?"
+      },
+      {
+        "en": "Are the Windows 95 dialog boxes drifting?"
+      },
+      {
+        "en": "Do the palm tree silhouettes slide into the frame sequentially?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the fax machine located in the center of the frame?"
+      },
+      {
+        "en": "Is the fax machine placed on the sand surface?"
+      },
+      {
+        "en": "Are the Windows 95 dialog boxes located in the sky?"
+      },
+      {
+        "en": "Does the printed paper ribbon extend sideways out of the fax machine?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a desert?"
+      },
+      {
+        "en": "Does the desert scene feature a pastel pink-and-teal gradient?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a wide shot?"
+      },
+      {
+        "en": "Does the camera pan horizontally from left to right?"
+      },
+      {
+        "en": "Does the camera pan at a slow, constant speed?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video consistently feature scanlines cutting across the entire frame?"
+      }
+    ]
+  },
+  "style_reference/023": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the American retro-cartoon/Fleischer style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly featuring the frog-like cartoon character from the reference?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring the rooftop or city night background from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an anthropomorphic kitten appear in the video?"
+      },
+      {
+        "en": "Does an office chair appear in the video?"
+      },
+      {
+        "en": "Does a laptop appear in the video?"
+      },
+      {
+        "en": "Do musical notes appear in the video?"
+      },
+      {
+        "en": "Does a printer appear in the video?"
+      },
+      {
+        "en": "Does a long paper tape with code appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the kitten sitting on the office chair?"
+      },
+      {
+        "en": "Do the musical-note icons appear on the laptop screen?"
+      },
+      {
+        "en": "Is the printer located next to the kitten or the laptop?"
+      },
+      {
+        "en": "Does the long strip of paper feed onto the floor?"
+      },
+      {
+        "en": "Is the kitten kept in the center of the frame at all times?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the kitten typing on the laptop?"
+      },
+      {
+        "en": "Are the kitten's paws moving rapidly?"
+      },
+      {
+        "en": "Is the printer spitting out the long paper tape?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a medium shot?"
+      },
+      {
+        "en": "Does the camera follow the kitten with a slight handheld sway?"
+      }
+    ]
+  },
+  "style_reference/024": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Lo-fi VHS aesthetic shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the cake or indoor home setting from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a bald old monk appear in the video?"
+      },
+      {
+        "en": "Does a rake appear in the video?"
+      },
+      {
+        "en": "Do concentric circular sand patterns appear in the video?"
+      },
+      {
+        "en": "Do stone lanterns appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does an orange timestamp '06.14.1997' appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the timestamp in an upper corner of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a Zen temple dry landscape?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the old monk using the rake to draw arcs?"
+      },
+      {
+        "en": "Is the monk's raking performed at a real-time, meditative pace?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video start with a medium shot?"
+      },
+      {
+        "en": "Does the camera slowly zoom in to a close-up of the elderly monk?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do tape static and chroma bleed effects appear in the video?"
+      },
+      {
+        "en": "Do the tape static and chroma bleed intensify during the zoom?"
+      },
+      {
+        "en": "Do horizontal tracking tears recur intermittently across the frame, broadly as described in the instruction?"
+      },
+      {
+        "en": "Does the video show a faded 1990s color cast?"
+      }
+    ]
+  },
+  "style_reference/025": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the plastic building-block toy style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude elements from the reference image like the lighthouse, sailboat, or ocean?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a robot appear in the video?"
+      },
+      {
+        "en": "Does a young shoot appear in the video?"
+      },
+      {
+        "en": "Do plastic bags appear in the video?"
+      },
+      {
+        "en": "Does rusted metal appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the robot white?"
+      },
+      {
+        "en": "Is the robot chubby?"
+      },
+      {
+        "en": "Is the young shoot in the video green?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a scrap metal recycling yard?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video show the lighting effect of the setting sun?"
+      },
+      {
+        "en": "Does the focus range gradually expand from the subject to the entire scene?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video show plastic bags fluttering in the wind?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the robot gently hold the seedling?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video start with a medium shot?"
+      },
+      {
+        "en": "Does the camera show a slow backward movement?"
+      }
+    ]
+  },
+  "style_reference/026": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Chibi cartoon style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video not feature the pink twin-tail magical girl from the reference?"
+      },
+      {
+        "en": "Does the video avoid copying the original magical-girl character sheet content or its specific layout from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a knight appear in the video?"
+      },
+      {
+        "en": "Does a carrot shield appear in the video?"
+      },
+      {
+        "en": "Does a hamster assistant appear in the video?"
+      },
+      {
+        "en": "Do cherry blossom swirls appear in the video?"
+      },
+      {
+        "en": "Do candy sparkles appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the knight have a large head and a short body?"
+      },
+      {
+        "en": "Is the carrot-shaped shield taller than the knight?"
+      },
+      {
+        "en": "Is the hamster assistant wearing a red cape?"
+      },
+      {
+        "en": "Are the cherry blossom swirls soft pink?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the knight remain completely motionless?"
+      },
+      {
+        "en": "Does the hamster assistant slightly twitch its tail and ear tips?"
+      },
+      {
+        "en": "Do the cherry blossom swirls drift and swirl slowly?"
+      },
+      {
+        "en": "Do candy sparkles shimmer alongside the falling petals?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the overall rhythm maintain a static feel like a portrait?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the hamster assistant located at the knight's feet?"
+      },
+      {
+        "en": "Are the cherry blossom swirls located in the background?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the knight holding up the carrot-shaped shield?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot?"
+      },
+      {
+        "en": "Does the video maintain a static camera?"
+      },
+      {
+        "en": "Is the knight's full body visible in the character-sheet framing?"
+      }
+    ]
+  },
+  "style_reference/027": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Low Poly style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the deer, mountains, or lake from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a fleet of hot air balloons appear in the video?"
+      },
+      {
+        "en": "Are there at least three camels in the video?"
+      },
+      {
+        "en": "Do sand dunes appear in the video?"
+      },
+      {
+        "en": "Does a geometric pyramid silhouette appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the camels in the video have a triangular shape?"
+      },
+      {
+        "en": "Do the sand dunes in the video appear layered?"
+      },
+      {
+        "en": "Do the hot-air balloons have geometric forms?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Are the camels walking in the video?"
+      },
+      {
+        "en": "Do the camels walk at a slow, measured pace, broadly matching the cadence described in the instruction?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the fleet of hot air balloons located in the sky?"
+      },
+      {
+        "en": "Are the camels located on the surface of the sand dunes?"
+      },
+      {
+        "en": "Is the geometric pyramid silhouette located in the distance?"
+      },
+      {
+        "en": "Does the geometric pyramid silhouette enter the lower third of the frame?"
+      },
+      {
+        "en": "Does a lone caravan flag slide into the lower third of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the overall scene of the video a sand dune or desert environment?"
+      },
+      {
+        "en": "Is the scene set at dusk?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a wide shot?"
+      },
+      {
+        "en": "Does the camera tilt down from the sky to the sand dune surface?"
+      },
+      {
+        "en": "Is the downward tilt motion of the camera slow?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video consist of hard flat color blocks from burnt orange to deep purple without gradients?"
+      },
+      {
+        "en": "Does the video feature a top lighting effect?"
+      },
+      {
+        "en": "Does the lighting create extremely hard contrasts between light and dark on the polygon facets?"
+      }
+    ]
+  },
+  "style_reference/028": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the children's crayon-drawing style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the red school bus, people, or playground equipment from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an active volcano appear in the video?"
+      },
+      {
+        "en": "Does an island appear in the video?"
+      },
+      {
+        "en": "Does lava appear in the video?"
+      },
+      {
+        "en": "Does a hillside appear in the video?"
+      },
+      {
+        "en": "Do multiple helicopters appear in the video?"
+      },
+      {
+        "en": "Does thick smoke appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the volcano in the video in an erupting state?"
+      },
+      {
+        "en": "Are the volcano’s slopes dark?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video show lava flowing down the hillside?"
+      },
+      {
+        "en": "Are the helicopters circling through the ash and smoke?"
+      },
+      {
+        "en": "Is the thick smoke in the video billowing towards the sky?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the smoke billow upward with an accelerated time-lapse motion effect?"
+      },
+      {
+        "en": "Is the crater illuminated by low-angle sunset light in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the helicopters in the video located within the thick smoke?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the time setting of the video at sunset or dusk?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use an extreme wide aerial perspective?"
+      },
+      {
+        "en": "Does the camera show a slow descending and looking-down movement?"
+      },
+      {
+        "en": "Does the descending camera reveal the entire island?"
+      }
+    ]
+  },
+  "style_reference/029": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the 3D yarn style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing elements like the house, deer, or natural scenery from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is there a mecha warrior in the video?"
+      },
+      {
+        "en": "Are there tracks in the video?"
+      },
+      {
+        "en": "Are there broken steel pipes in the video?"
+      },
+      {
+        "en": "Is there steam in the video?"
+      },
+      {
+        "en": "Are there red and blue indicator lights in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the mecha warrior have shoulder exhaust vents?"
+      },
+      {
+        "en": "Do the broken steel pipes appear rusty?"
+      },
+      {
+        "en": "Is the mecha warrior colossal?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the mecha warrior approaching step by step?"
+      },
+      {
+        "en": "Do the shoulder exhaust vents puff out steam in bursts?"
+      },
+      {
+        "en": "Do the red and blue indicator lights sway slightly with the steps?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene an abandoned steel mill?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the action of tracks crushing over broken steel pipes occur in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera slowly push in along the ground from a low angle?"
+      },
+      {
+        "en": "Does the shot scale transition from a wide shot to a medium shot?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video maintain real-time speed?"
+      },
+      {
+        "en": "Does the video feature a cold and hard industrial top light effect?"
+      },
+      {
+        "en": "Is there a cool-toned fill light outlining the mecha's structure?"
+      }
+    ]
+  },
+  "style_reference/030": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the 3D origami style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude specific elements from the reference image, such as paper cranes, deer, or mountains?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a shoji door appear in the video?"
+      },
+      {
+        "en": "Does a cat appear in the video?"
+      },
+      {
+        "en": "Does a fabric cushion appear in the video?"
+      },
+      {
+        "en": "Do cherry blossom petals appear in the video?"
+      },
+      {
+        "en": "Does a ceramic kettle appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the cat in the video curled up?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the ceramic kettle in the video blurred?"
+      },
+      {
+        "en": "Does the video maintain a normal real-time playback speed?"
+      },
+      {
+        "en": "Does warm-colored light enter the room in the video?"
+      },
+      {
+        "en": "Does the light shine in from the side?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the cat's chest and abdomen rise and fall slightly with breathing?"
+      },
+      {
+        "en": "Are the cherry blossom petals falling slowly in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the cat located on the fabric cushion?"
+      },
+      {
+        "en": "Are the falling cherry blossom petals located outside the window?"
+      },
+      {
+        "en": "Is the ceramic kettle located in the background of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a traditional Japanese tea room?"
+      },
+      {
+        "en": "Does a tatami floor appear in the video?"
+      },
+      {
+        "en": "Is the tea-room scene set in the morning?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera slowly tilt upward from the tatami floor in a medium shot?"
+      },
+      {
+        "en": "Does the upward camera movement gradually reveal the shoji door?"
+      }
+    ]
+  },
+  "style_reference/031": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the nostalgic Hong Kong art-film style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the woman in a cheongsam from the reference image?"
+      },
+      {
+        "en": "Does the video avoid showing background elements like the mottled wall or signboard from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an empty table appear in the video?"
+      },
+      {
+        "en": "Does a middle-aged man appear in the video?"
+      },
+      {
+        "en": "Does a cigarette appear in the video?"
+      },
+      {
+        "en": "Does a noodle bowl appear in the video?"
+      },
+      {
+        "en": "Does steam appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the middle-aged man in the video sitting alone?"
+      },
+      {
+        "en": "Does the man in the video show an expression of waiting for someone?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man in the video look towards the doorway?"
+      },
+      {
+        "en": "Does the steam rise from the noodle bowl in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set inside a noodle shop?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the man in the video holding a cigarette between his fingertips?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video present a handheld camera effect?"
+      },
+      {
+        "en": "Does the camera drift slightly from the empty table to a close-up of the man's face?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a shallow depth of field to blur the background?"
+      },
+      {
+        "en": "Do the actions in the video use a step-printed slow-motion effect?"
+      }
+    ]
+  },
+  "style_reference/032": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Dunhuang-mural style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing flying apsaras or musical instruments from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a rice field appear in the video?"
+      },
+      {
+        "en": "Do farmers (a crowd array) appear in the video?"
+      },
+      {
+        "en": "Do long rice ears appear in the video?"
+      },
+      {
+        "en": "Does a bronze bell appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the rice field in the video golden yellow?"
+      },
+      {
+        "en": "Are the farmers wearing straw hats?"
+      },
+      {
+        "en": "Is the bronze bell in the video giant?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Do the farmers sway together in rhythm?"
+      },
+      {
+        "en": "Are the rice ears swaying gently in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the farmers arranged in a symmetrical, mirrored geometric formation?"
+      },
+      {
+        "en": "Is the bronze bell located in the center of the crowd array?"
+      },
+      {
+        "en": "Are there hundreds of farmers presented in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene of the video set above a rice field?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Are the farmers waving long rice ears in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in an extreme long shot?"
+      },
+      {
+        "en": "Does the video feature a slowly rising crane shot?"
+      },
+      {
+        "en": "Is the video shot from a high angle?"
+      },
+      {
+        "en": "Does the video maintain a centered composition?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video maintain a deep depth of field?"
+      }
+    ]
+  },
+  "style_reference/033": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Ukiyo-e style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the fisherman or boat from the reference image?"
+      },
+      {
+        "en": "Does the video avoid showing the waves or cliffs from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a printer appear in the video?"
+      },
+      {
+        "en": "Do workstations appear in the video?"
+      },
+      {
+        "en": "Do at least two suited office workers appear in the video?"
+      },
+      {
+        "en": "Does contract paper appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Do the white-collar workers perform a jumping action?"
+      },
+      {
+        "en": "Is the contract paper flying in the air?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set inside a modern office with glass curtain walls?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the two white-collar workers present a state of confrontation?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera perform a rapid whip pan from the printer to the workstations?"
+      },
+      {
+        "en": "Does the camera lock onto the two white-collar workers?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the action transition into brief slow motion at the peak of the jump?"
+      },
+      {
+        "en": "Does the video resume a fast pace after the slow motion?"
+      }
+    ]
+  },
+  "style_reference/034": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Hong Kong crime-noir style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude the characters from the reference image?"
+      },
+      {
+        "en": "Does the video exclude the city streets or buildings from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a wheat field appear in the video?"
+      },
+      {
+        "en": "Do ripe wheat heads appear in the video?"
+      },
+      {
+        "en": "Does a farmhouse appear in the video?"
+      },
+      {
+        "en": "Does a pond appear in the video?"
+      },
+      {
+        "en": "Are there no characters appearing in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the wheat field in the video golden yellow?"
+      },
+      {
+        "en": "Is the neon light in the video cyan and magenta?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Do the wheat waves undulate in the video?"
+      },
+      {
+        "en": "Do the ripe wheat heads sway in the cold wind?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the farmhouse and pond located in the distance?"
+      },
+      {
+        "en": "Is cyan and magenta neon reflected across the distant farmhouse pond?"
+      },
+      {
+        "en": "Does the video show a long sense of depth?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a night view?"
+      },
+      {
+        "en": "Does the video show a windy environment?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera truck steadily sideways on a low dolly track?"
+      },
+      {
+        "en": "Does the camera movement remain stable?"
+      },
+      {
+        "en": "Does the video use a low-angle shot?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video have noticeable film grain?"
+      },
+      {
+        "en": "Does the video show contrasting warm and cool tones?"
+      },
+      {
+        "en": "Is the playback speed of the video normal real-time?"
+      },
+      {
+        "en": "Does a star-shaped lens flare appear in the video?"
+      }
+    ]
+  },
+  "style_reference/035": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the high-contrast, false-color photographic appearance of Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude elements like trees, houses, or roads from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a tunnel appear in the video?"
+      },
+      {
+        "en": "Do steel structures appear in the video?"
+      },
+      {
+        "en": "Does an engineer appear in the video?"
+      },
+      {
+        "en": "Does equipment appear in the video?"
+      },
+      {
+        "en": "Do metal panels appear in the video?"
+      },
+      {
+        "en": "Does fine dust appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the steel structure ring-shaped?"
+      },
+      {
+        "en": "Does the steel structure appear massive?"
+      },
+      {
+        "en": "Is the engineer wearing a reflective vest?"
+      },
+      {
+        "en": "Is the engineer wearing a headlamp?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the engineer walking slowly?"
+      },
+      {
+        "en": "Is the engineer inspecting the equipment?"
+      },
+      {
+        "en": "Is the fine dust floating in the air?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the engineer facing away from the camera?"
+      },
+      {
+        "en": "Is the engineer moving along a curved wall?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a particle collider tunnel?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the headlamp beam sweep across the metal panels?"
+      },
+      {
+        "en": "Does the shot maintain a deep depth of field?"
+      },
+      {
+        "en": "Is there sparse top lighting in the scene?"
+      },
+      {
+        "en": "Is the pacing of the video steady?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use an ultra-wide shot?"
+      },
+      {
+        "en": "Does the camera slowly crane down from the top?"
+      },
+      {
+        "en": "Does the camera pass through the steel structure?"
+      }
+    ]
+  },
+  "style_reference/036": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the retro travel-poster style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude the cable car, snow mountains, or lake from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Do water drops appear in the video?"
+      },
+      {
+        "en": "Do palm tree shadows appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman burst from the water?"
+      },
+      {
+        "en": "Does the woman lean her arms back?"
+      },
+      {
+        "en": "Does the woman flick her hair?"
+      },
+      {
+        "en": "Are the palm tree shadows swaying?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do the actions maintain a short, powerful, and fast rhythm?"
+      },
+      {
+        "en": "Do the splashing droplets catch the sunlight?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set at the edge of a seaside hotel pool?"
+      },
+      {
+        "en": "Are tiles visible in the scene?"
+      },
+      {
+        "en": "Does the video show a sunlit environment?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot?"
+      },
+      {
+        "en": "Does the camera follow the subject upwards?"
+      },
+      {
+        "en": "Does the camera perform a rapid whip pan?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman's hair appear wet?"
+      }
+    ]
+  },
+  "style_reference/037": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the black-and-gold scratchboard style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude original carrier elements from the reference like the owl, branches, or moon?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do long tables appear in the video?"
+      },
+      {
+        "en": "Do flowers appear in the video?"
+      },
+      {
+        "en": "Are there at least two wholesalers in the video?"
+      },
+      {
+        "en": "Does a checklist (paper) appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the long tables located on both sides of the aisle?"
+      },
+      {
+        "en": "Are the flowers neatly arranged on the long tables?"
+      },
+      {
+        "en": "Are the two wholesalers located at the end of the aisle?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene an aisle in a flower wholesale market?"
+      },
+      {
+        "en": "Does the video depict an early morning setting?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Do the wholesalers look down to check the checklist?"
+      },
+      {
+        "en": "Do the wholesalers' fingers slowly slide across the paper?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot?"
+      },
+      {
+        "en": "Does the camera slowly move along the aisle?"
+      },
+      {
+        "en": "Is the camera movement restrained and steady?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do top spotlights cast clear shadows on the ground in the video?"
+      }
+    ]
+  },
+  "style_reference/038": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the minimalist geometric-illustration style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including sailboats, lighthouses, or the sun from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an adult man appear in the video?"
+      },
+      {
+        "en": "Does a bench appear in the video?"
+      },
+      {
+        "en": "Do balloons appear in the video?"
+      },
+      {
+        "en": "Does a carousel appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man wearing a clown costume?"
+      },
+      {
+        "en": "Is the amusement park empty (except for the man)?"
+      },
+      {
+        "en": "Does the carousel remain stationary?"
+      },
+      {
+        "en": "Do most of the balloons in the video remain stationary?"
+      },
+      {
+        "en": "Is the man sitting on the bench?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is there one balloon swaying slowly?"
+      },
+      {
+        "en": "Is the man gazing into the distance?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do the sky and ground in the frame leave a large blank area?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a nighttime amusement park?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a wide shot?"
+      },
+      {
+        "en": "Does the camera remain stationary?"
+      },
+      {
+        "en": "Is the video a continuous long take without cuts?"
+      }
+    ]
+  },
+  "style_reference/039": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the Rococo oil-painting style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the musician figures from the reference image?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the indoor scene or instruments from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do at least two adult women appear in the video?"
+      },
+      {
+        "en": "Does a plaid blanket appear in the video?"
+      },
+      {
+        "en": "Does a silver plate appear in the video?"
+      },
+      {
+        "en": "Do fruits appear in the video?"
+      },
+      {
+        "en": "Does honey appear in the video?"
+      },
+      {
+        "en": "Does a golden retriever appear in the video?"
+      },
+      {
+        "en": "Does a kite appear in the video?"
+      },
+      {
+        "en": "Do clouds appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the fruits in the video appear ripe?"
+      },
+      {
+        "en": "Is the kite in the video colorful?"
+      },
+      {
+        "en": "Is there honey on the women's fingertips?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Are the clouds in the video changing slowly?"
+      },
+      {
+        "en": "Is the golden retriever in the video running?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the women located on the plaid blanket in the video?"
+      },
+      {
+        "en": "Are the fruits located in the silver plate in the video?"
+      },
+      {
+        "en": "Is the golden retriever located in the distance in the video?"
+      },
+      {
+        "en": "Are the clouds located in the sky in the video?"
+      },
+      {
+        "en": "Is the golden retriever positioned along the coast in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the scene of the video include a coast?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the two adult women sharing fruits in the video?"
+      },
+      {
+        "en": "Is the golden retriever chasing the kite in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a close-up shot?"
+      },
+      {
+        "en": "Is the camera slowly orbiting the subjects in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a shallow depth of field?"
+      },
+      {
+        "en": "Is the pacing of the video medium-slow?"
+      }
+    ]
+  },
+  "style_reference/040": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the transparent-film collage style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly exclude elements like fish or seaweed from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two young engineers appear in the video?"
+      },
+      {
+        "en": "Does glass appear in the video?"
+      },
+      {
+        "en": "Do overhead pipes appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the engineers wearing white cleanroom suits?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do the overhead pipes extend into the distance?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in a giant semiconductor cleanroom?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the two engineers facing each other through the glass?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does one engineer slowly raise a hand to touch the glass?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot?"
+      },
+      {
+        "en": "Does the camera show a handheld panning effect drifting between the two people?"
+      },
+      {
+        "en": "Does the camera movement maintain a slow and gentle pace?"
+      }
+    ]
+  },
+  "style_reference/041": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the retro-futurist chrome-metal style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the hover train or futuristic city buildings from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a giant mechanical elephant appear in the video?"
+      },
+      {
+        "en": "Does a bridge appear in the video?"
+      },
+      {
+        "en": "Does a cabin appear in the video?"
+      },
+      {
+        "en": "Does mist or cloud appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the mechanical elephant have a segmented shell?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video maintain foreground and background layering?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the mechanical elephant walking slowly across?"
+      },
+      {
+        "en": "Does the segmented shell move slightly with the steps?"
+      },
+      {
+        "en": "Does the elephant's trunk intermittently spray mist?"
+      },
+      {
+        "en": "Are the clouds or mist slowly passing by?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the cabin located on the back of the mechanical elephant?"
+      },
+      {
+        "en": "Do the clouds or mist pass by from both sides of the bridge?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set at a high altitude?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera rise vertically along the elephant's body?"
+      },
+      {
+        "en": "Does the camera move from the feet to the cabin on the back?"
+      }
+    ]
+  },
+  "style_reference/042": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the post-apocalyptic wasteland style shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the person wearing a gas mask from the reference image?"
+      },
+      {
+        "en": "Does the video avoid showing the abandoned highway, cars, or broken bridge from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a newlywed couple appear in the video?"
+      },
+      {
+        "en": "Does a ring appear in the video?"
+      },
+      {
+        "en": "Does crushed stone appear in the video?"
+      },
+      {
+        "en": "Do broken stained glass windows appear in the video?"
+      },
+      {
+        "en": "Do empty guest chairs appear in the video?"
+      },
+      {
+        "en": "Does dust appear in the video?"
+      },
+      {
+        "en": "Does a light beam appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the newlywed couple wearing shabby formal attire?"
+      },
+      {
+        "en": "Is the skirt hem rust-colored?"
+      },
+      {
+        "en": "Does the sandstorm obscure the broken stained glass windows?"
+      },
+      {
+        "en": "Do the empty guest chairs appear dusty?"
+      },
+      {
+        "en": "Is the bride's gown coated in dust?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the skirt hem drag across the crushed stone?"
+      },
+      {
+        "en": "Is the dust floating slowly in the light beam?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a collapsed church ruin?"
+      },
+      {
+        "en": "Does a sandstorm appear in the video?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the newlywed couple exchanging rings?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video start with a close-up of the ring on the newlywed's fingertip?"
+      },
+      {
+        "en": "Does the camera perform a slow pull-back movement?"
+      },
+      {
+        "en": "Does the shot eventually pull back to a wide shot of the entire ruined church?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a dark yellow diffused lighting effect?"
+      },
+      {
+        "en": "Does the video use a slow-motion pace?"
+      }
+    ]
+  },
+  "style_reference/043": {
+    "RF-P01": [
+      {
+        "en": "Does the video's overall visual style match the early black-and-white silent-film aesthetic shown in Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the character from the reference image (e.g., the slipping man)?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the scene from the reference image (e.g., street, signs)?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including objects from the reference image (e.g., banana peel, cane)?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a female captain appear in the video?"
+      },
+      {
+        "en": "Does an oversized lever appear in the video?"
+      },
+      {
+        "en": "Do instrument needles appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the female captain wearing a retro one-piece spacesuit?"
+      },
+      {
+        "en": "Is the lever made of brass?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Are the instrument needles spinning wildly?"
+      },
+      {
+        "en": "Does the female captain show exaggerated body movements?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video play at a slightly fast pace?"
+      },
+      {
+        "en": "Are film scratches and heavy grain visible?"
+      },
+      {
+        "en": "Does the video present a high-contrast black-and-white texture?"
+      },
+      {
+        "en": "Are there heavy vignettes at the edges of the frame?"
+      },
+      {
+        "en": "Is there hard overhead lighting illuminating the character's face?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set inside a spaceship control cabin?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the captain yank the oversized brass lever?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the camera completely stationary?"
+      },
+      {
+        "en": "Is the shot taken from a frontal angle?"
+      },
+      {
+        "en": "Does a medium shot frame the entire control console?"
+      }
+    ]
+  }
+}

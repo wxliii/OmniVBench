@@ -1,0 +1,18 @@
+Score each sub-question 1-3 from visual evidence only. Judge only
+whether the specified instruction, operation or factor-target
+assignment is correctly realized.
+- 3 = fully realized: all core requirements are satisfied, every
+specified factor is applied to the correct target, and prohibited
+content is absent at all observable relevant moments.
+- 2 = partially realized: the intended result is clearly present and
+at least one core requirement is satisfied, but another
+requirement is incomplete, locally misplaced, unstable or
+intermittently violated.
+- 1 = not realized: the intended result is absent or fundamentally
+wrong, no core requirement is reliably satisfied, the main factor
+is assigned to the wrong target, or prohibited content
+substantially remains.
+Do not judge general video quality. Do not score the degree of visual
+similarity unless it is necessary to determine whether the
+requested factor was selected, rejected or assigned to the correct
+target.

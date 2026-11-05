@@ -1,0 +1,1375 @@
+{
+  "scene/001": {
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man's hair black?"
+      },
+      {
+        "en": "Is the man wearing a shirt with a tropical plant leaf pattern?"
+      },
+      {
+        "en": "Is there blood at the corner of the man's mouth?"
+      },
+      {
+        "en": "Does the man's facial expression look painful?"
+      },
+      {
+        "en": "Is the man lying on the ground?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a medium close-up?"
+      },
+      {
+        "en": "Does the video footage show a slightly shaky effect?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the asphalt road, cracks, and dark red bloodstains in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/002": {
+    "I-E01": [
+      {
+        "en": "Does a person appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the person wearing a dark robe with subtle patterns?"
+      },
+      {
+        "en": "Is the person wearing a tall white crown/hat?"
+      },
+      {
+        "en": "Does the person have long white hair?"
+      },
+      {
+        "en": "Is the person facing away from the camera?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the person walk slowly?"
+      },
+      {
+        "en": "Is the person walking towards the depth of the scene?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the person's movement start from the left side of the frame?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera remain fixed (without obvious panning, tilting, or zooming)?"
+      },
+      {
+        "en": "Does the camera use a low-angle (looking up) shot?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the \"Luo Mansion\" plaque, wooden gatehouse, and red lanterns consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/003": {
+    "I-E01": [
+      {
+        "en": "Do at least two characters, one male and one female, appear in the video?"
+      },
+      {
+        "en": "Does a long sword appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the characters wearing ancient-style costumes?"
+      },
+      {
+        "en": "Is the female character wearing a red long dress with wide sleeves?"
+      },
+      {
+        "en": "Does the female character have a solemn expression?"
+      },
+      {
+        "en": "Is the male character wearing a grayish-black long robe?"
+      },
+      {
+        "en": "Does the male character have a serious expression?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the female character located on the left side of the frame?"
+      },
+      {
+        "en": "Is the male character located on the right side of the frame?"
+      },
+      {
+        "en": "Are the two characters standing side by side?"
+      },
+      {
+        "en": "Are the two characters facing the right side of the frame?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the two characters appear to be having a conversation?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the male character holding the long sword in his hand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera remain fixed (without obvious panning, tilting, or zooming)?"
+      },
+      {
+        "en": "Is the video framed as a medium shot (typically showing the characters from the waist or knees up)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the weathered earth wall, sandy ground, and sparse green plants in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/004": {
+    "I-E01": [
+      {
+        "en": "Does a young man appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the male character have long silver-white hair?"
+      },
+      {
+        "en": "Is the male character wearing a blue hair crown?"
+      },
+      {
+        "en": "Is the male character wearing a dark blue ancient costume?"
+      },
+      {
+        "en": "Is the male character wearing a large cloak?"
+      },
+      {
+        "en": "Does the man stand still?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video's framing mainly focus on the upper body of the character?"
+      },
+      {
+        "en": "Does the camera make subtle push-ins and pull-backs?"
+      },
+      {
+        "en": "Does the camera pan subtly?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the wooden door/window grilles, hanging birdcage, and carved wooden beams in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/005": {
+    "I-E01": [
+      {
+        "en": "Does a male character appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing a pink robe?"
+      },
+      {
+        "en": "Is the character wearing a red cap?"
+      },
+      {
+        "en": "Is the character facing away from the camera?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character walking?"
+      },
+      {
+        "en": "Does the character move from the right side of the frame to the left side of the frame?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a high-angle view?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the two-story earth building, thatched roof, and blue-and-white flag consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/006": {
+    "I-D01": [
+      {
+        "en": "Is the appearance of the newly added characters in the video normal, without mistakenly incorporating the mud wall or brick textures of the architecture from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do one male and one female character appear in the video?"
+      },
+      {
+        "en": "Do lightning visual effects appear in the video?"
+      },
+      {
+        "en": "Do particle light effects appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the female character in the video wearing a red robe?"
+      },
+      {
+        "en": "Is the male character in the video wearing a blue-gray long gown?"
+      },
+      {
+        "en": "Are the characters in the video dressed in ancient costume style?"
+      },
+      {
+        "en": "Are the lightning visual effects appearing in the video golden?"
+      },
+      {
+        "en": "Do the particle effects glow?"
+      },
+      {
+        "en": "Are the two characters in the video in a sitting posture?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the scene in the video maintain an outdoor environment setting?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the female character snuggling up beside the male character?"
+      },
+      {
+        "en": "Is the male character turning his head to look at the female character?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the starting frame of the video a close-up shot of the characters?"
+      },
+      {
+        "en": "Does the camera in the video show a zooming out or dollying out movement trajectory?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the event of lightning and particle light effects appearing occur in the second half of the video?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the earthy yellow mud walls, openwork brick railings, and thatched roofs in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/007": {
+    "I-E01": [
+      {
+        "en": "Does a middle-aged man appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man wearing a yellow-green Chinese-style stand-collar shirt?"
+      },
+      {
+        "en": "Is the man in the video wearing black trousers?"
+      },
+      {
+        "en": "Is the man in the video wearing leather shoes?"
+      },
+      {
+        "en": "Is the man initially sitting on the sofa in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man perform the action of standing up from a sitting position?"
+      },
+      {
+        "en": "After standing up, does the man face the camera and show actions of speaking?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a fixed camera angle (no obvious panning, tilting, or zooming)?"
+      },
+      {
+        "en": "Does the video use a medium shot (primarily showing the upper half or most of the character's body along with the surrounding environment)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the light-colored sofa, marble-patterned coffee table, and blue blinds consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/008": {
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      },
+      {
+        "en": "Does a book appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman have long black curly hair?"
+      },
+      {
+        "en": "Is the woman wearing a white lace off-the-shoulder dress?"
+      },
+      {
+        "en": "Is the book white?"
+      },
+      {
+        "en": "Is the woman smiling?"
+      },
+      {
+        "en": "Is the woman initially sitting on the sofa?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman look at the camera?"
+      },
+      {
+        "en": "Does the woman perform the action of standing up?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman holding the book in her hand?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the dark red leather sofa, red cushions, and patterned carpet in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/009": {
+    "I-D01": [
+      {
+        "en": "Does the newly added female character exist independently in the video, without erroneously merging or sticking to the furniture such as the bed or lamps in the reference image?"
+      },
+      {
+        "en": "Is the clothing of the female character independent, without erroneously copying the textures of the wallpaper or bed from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an adult female appear in the video?"
+      },
+      {
+        "en": "Does a hat appear in the video?"
+      },
+      {
+        "en": "Does a cheongsam (qipao) appear in the video?"
+      },
+      {
+        "en": "Does a pearl necklace appear in the video?"
+      },
+      {
+        "en": "Does a jade bracelet appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the female character's hairstyle a black updo?"
+      },
+      {
+        "en": "Is the hat off-white and decorated with mesh?"
+      },
+      {
+        "en": "Is the cheongsam dark green with printed patterns?"
+      },
+      {
+        "en": "Does the woman initially face away from the camera?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman slowly turn around?"
+      },
+      {
+        "en": "After the turning action is completed, does the female character face forward?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera remain fixed in the video, without any panning, tilting, or zooming movements?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the blue-green patterned wallpaper, gold-framed painting, and carved wooden bed with green upholstery consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/010": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid completely copying the empty room state of the reference image and successfully add a human subject to the scene?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a middle-aged or elderly man appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man in the video wearing a black fedora hat?"
+      },
+      {
+        "en": "Is the man wearing a light-cyan stand-collar shirt?"
+      },
+      {
+        "en": "Is the man in the video wearing a dark green Chinese-style front-buttoned vest?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man initially smile while looking to the side?"
+      },
+      {
+        "en": "Does the man in the video laugh heartily?"
+      },
+      {
+        "en": "Does the man lean forward and speak after laughing?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera pan slightly following the character's movements in the video?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the number and placement of the vertical ink paintings, Chinese wooden armchairs, and latticed wooden doors/windows in the video roughly consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/011": {
+    "I-D01": [
+      {
+        "en": "Does the newly added female character in the video exist independently from the background, without unreasonable texture or structural fusion with objects like the sofa or throw pillows from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video have long, straight black hair?"
+      },
+      {
+        "en": "Is the woman in the video wearing a white suit?"
+      },
+      {
+        "en": "Does the woman in the video show a slightly melancholy expression?"
+      },
+      {
+        "en": "Is the woman in the video sitting on the sofa?"
+      },
+      {
+        "en": "Does the woman in the video have her hands folded on her lap?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman lower her gaze and then turn subtly to one side?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a medium shot (typically showing the character from the waist or thighs up)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the white sofa, wooden lattice screen, and floor-to-ceiling windows in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/012": {
+    "I-E01": [
+      {
+        "en": "Does a female character appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman in the video wearing a traditional Hanfu with a black and gold color scheme?"
+      },
+      {
+        "en": "Is the woman in the video wearing a golden phoenix coronet?"
+      },
+      {
+        "en": "Is the woman in the video wearing tassel earrings?"
+      },
+      {
+        "en": "Does the woman in the video show a languid or contemplative expression?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman gently cover her mouth and nose with her right hand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the starting frame of the video a close-up shot of the foreground?"
+      },
+      {
+        "en": "Does the camera slowly pull backward from the foreground?"
+      },
+      {
+        "en": "Does the camera in the video show an upward tilting movement?"
+      },
+      {
+        "en": "Does the video gradually reveal the female character through the camera movement?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the dark wooden table, wooden couch with yellow cushions, and patterned carpet in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/013": {
+    "I-D01": [
+      {
+        "en": "Are the newly added characters in the video independent of the background, without incorrectly exhibiting the wood grain or glass textures of the background?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young man appear in the video?"
+      },
+      {
+        "en": "Does a young woman appear in the video?"
+      },
+      {
+        "en": "Does a plush toy appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man in the video wearing a dark blue suit?"
+      },
+      {
+        "en": "Is the woman in the video wearing a light pink shirt?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the woman in the video make a gesture of handing an item to the man?"
+      },
+      {
+        "en": "Does the man reach out to take the plush toy offered by the woman?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman holding the plush toy in her hands in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot in the video a medium shot (primarily showing the upper or major half of the characters' bodies)?"
+      },
+      {
+        "en": "Does the camera angle in the video remain fixed (without obvious panning, tilting, zooming, or tracking)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the wooden slatted wall, glass door, and desk lamp consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/014": {
+    "I-E01": [
+      {
+        "en": "Does a young man appear in the video?"
+      },
+      {
+        "en": "Does a middle-aged man appear in the video?"
+      },
+      {
+        "en": "Does a mobile phone appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the young man wearing a green Polo shirt?"
+      },
+      {
+        "en": "Is the middle-aged man wearing a beige uniform?"
+      },
+      {
+        "en": "Is the mobile phone in the video red?"
+      },
+      {
+        "en": "Does the young man show an anxious expression or state?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the young man perform a running action?"
+      },
+      {
+        "en": "Does the young man eventually run out of the frame (completely leaving the camera's field of view)?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is there a conversational interaction between the young man and the middle-aged man?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the young man perform the action of answering the mobile phone (e.g., holding it up to his ear)?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera remain fixed (without obvious panning, tilting, or zooming)?"
+      },
+      {
+        "en": "Is the shot framed as a medium shot (typically showing the characters from the waist or chest up, along with some environment)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the red door, gray house, and red brick path in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/015": {
+    "I-D01": [
+      {
+        "en": "Does the newly added female character in the video exist independently from the background, without incorrectly adopting the textures of the background architecture or trees?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      },
+      {
+        "en": "Does a hoodie appear in the video?"
+      },
+      {
+        "en": "Does a scarf appear in the video?"
+      },
+      {
+        "en": "Does a backpack appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video have short black hair?"
+      },
+      {
+        "en": "Is the hoodie in the video dark red?"
+      },
+      {
+        "en": "Is the scarf in the video red?"
+      },
+      {
+        "en": "Is the backpack in the video green?"
+      },
+      {
+        "en": "Does the woman in the video show a calm and slightly thoughtful expression?"
+      },
+      {
+        "en": "At the beginning of the video, is the woman facing away from the camera?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "In the video, does the woman perform the action of turning around to face the camera?"
+      },
+      {
+        "en": "In the video, does the woman perform the action of looking up at the sky?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a medium shot (typically showing the character from the waist or chest up)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the green-roofed yellow-walled castle building and yellow-leaved tree in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/016": {
+    "I-D01": [
+      {
+        "en": "Is the character in the video generated independently, without mistakenly blending scene elements from the reference image, such as utility poles or buildings, into the character's body or clothing?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an adult male appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man's hair black?"
+      },
+      {
+        "en": "Does the man have a goatee?"
+      },
+      {
+        "en": "Is the man wearing a white shirt?"
+      },
+      {
+        "en": "Is the man wearing a purple tie?"
+      },
+      {
+        "en": "At the beginning of the video, does the man's expression appear serious?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "At the beginning of the video, is the man looking sideways?"
+      },
+      {
+        "en": "Does the man's expression gradually change from a stern sideways glance to a confident smile?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot of the video a close-up of the character?"
+      },
+      {
+        "en": "Does the camera remain fixed (without obvious panning, tilting, or zooming)?"
+      },
+      {
+        "en": "Does the camera focus consistently remain on the character's face?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the overall visual of the video present a Japanese cel-shaded animation style?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the white building, yellow bungalow, and cross-shaped utility pole consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/017": {
+    "I-D01": [
+      {
+        "en": "Do the newly added characters in the video exist independently of the background, without mistakenly incorporating the materials, textures, or structural features of the buildings in the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a female character appear in the frame?"
+      },
+      {
+        "en": "Does a male character appear in the frame?"
+      },
+      {
+        "en": "Does a reindeer appear in the frame?"
+      },
+      {
+        "en": "Does a giant male character appear in the frame?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the female character have pink hair and wear purple clothes?"
+      },
+      {
+        "en": "Is the male character behind the female wearing red clothes?"
+      },
+      {
+        "en": "Is the reindeer wearing goggles?"
+      },
+      {
+        "en": "Does the giant male character have blue skin and wear a Hawaiian shirt?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the huge blue-skinned man laugh and speak?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the female character with pink hair and purple clothes located on the left side of the frame?"
+      },
+      {
+        "en": "Is the male character in red standing behind the female character with pink hair and purple clothes?"
+      },
+      {
+        "en": "Is the reindeer located on the right side of the frame?"
+      },
+      {
+        "en": "Is the giant male character located in the center of the frame?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera in the video remain fixed, without any movement or zooming?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the dynamic process of the giant male character 'appearing subsequently', rather than him being present in the frame from the very beginning?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the purple dome building, green dome building, and palm trees consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/018": {
+    "I-D01": [
+      {
+        "en": "Do the generated characters in the video exist independently of the background, without erroneous texture blending with the torii gates or vegetation from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do at least three girls appear in the video?"
+      },
+      {
+        "en": "Does a white small animal appear in the video?"
+      },
+      {
+        "en": "Do glasses appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the young girls wearing white stand-collar sportswear?"
+      },
+      {
+        "en": "Does the girl on the right side of the frame show a serious expression?"
+      },
+      {
+        "en": "Are the three young girls in the video in a standing posture?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the facial expression of the girl in the middle of the frame change from surprised to smiling?"
+      },
+      {
+        "en": "Does the girl on the left turn toward the center?"
+      },
+      {
+        "en": "Does the girl in the middle raise both fists in front of her chest?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the white small animal located on top of the head of the middle girl?"
+      },
+      {
+        "en": "Is the girl on the left side of the frame facing the girl in the middle of the frame?"
+      },
+      {
+        "en": "Is the girl wearing glasses located on the right side of the frame?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the girl on the right side of the frame look at the girl in the middle?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera remain fixed without obvious panning, tilting, or zooming?"
+      },
+      {
+        "en": "Does the framing focus on the upper bodies and faces of the characters?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the red torii pillars, black bases, and green forest background in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/019": {
+    "I-E01": [
+      {
+        "en": "Does a middle-aged man appear in the video?"
+      },
+      {
+        "en": "Does a dining plate appear in the video?"
+      },
+      {
+        "en": "Do tongs appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Besides the middle-aged man, do at least three other people appear in the video?"
+      },
+      {
+        "en": "Are the other three characters in the video located next to the dining table?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the middle-aged man in the video wearing a yellow Polo shirt?"
+      },
+      {
+        "en": "Are the other three characters in the video in a sitting posture?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the middle-aged man in the video show the action or posture of preparing to serve food?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the middle-aged man in the video holding a dining plate?"
+      },
+      {
+        "en": "Is the middle-aged man in the video holding tongs?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot in the video a medium shot (mainly showing the upper half of the characters and the surrounding environment)?"
+      },
+      {
+        "en": "Does the video use a fixed camera (without obvious camera movements such as panning, tilting, or zooming)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the brick wall, white French doors, and blue-and-white checkered tablecloth consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/020": {
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      },
+      {
+        "en": "Does a rolling suitcase appear in the video?"
+      },
+      {
+        "en": "Does a large garbage bag appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman have long black hair?"
+      },
+      {
+        "en": "Does the woman have a solemn expression?"
+      },
+      {
+        "en": "Is the woman wearing a beige knit sweater and blue jeans?"
+      },
+      {
+        "en": "Is the rolling suitcase dark blue?"
+      },
+      {
+        "en": "Is the large garbage bag black?"
+      },
+      {
+        "en": "Is the woman in a standing position?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman pulling the dark-blue rolling suitcase with her right hand?"
+      },
+      {
+        "en": "Is the woman carrying the large black garbage bag in her left hand?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the European-style pillars, arches, and iron fences in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/021": {
+    "I-D01": [
+      {
+        "en": "Are the newly added characters in the video independent of the background, without erroneously incorporating the textures of the scene from the reference image (e.g., wood grain or bedsheet textures)?"
+      },
+      {
+        "en": "Does the hospital bed in the video successfully support the boy, without erroneously forcing the retention of the 'empty bed' original state from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a girl appear in the video?"
+      },
+      {
+        "en": "Does a boy appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the girl have blonde hair?"
+      },
+      {
+        "en": "Is the girl wearing a red and white sailor suit?"
+      },
+      {
+        "en": "Does the girl show a melancholy expression?"
+      },
+      {
+        "en": "Does the boy have visible bandages?"
+      },
+      {
+        "en": "Does the boy appear to be asleep?"
+      },
+      {
+        "en": "Does the girl initially have her back to the camera?"
+      },
+      {
+        "en": "Does the boy have black hair?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the girl perform a turning around action?"
+      },
+      {
+        "en": "Does the girl reveal her side profile after turning?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the boy lying on the hospital bed?"
+      },
+      {
+        "en": "Are the boy and the hospital bed located behind the girl (as the background)?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera gently pan and adjust its framing to follow the girl's movement?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the wooden wall panels, medical equipment panel, and white hospital bed consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/022": {
+    "I-E01": [
+      {
+        "en": "Does a boy appear in the video?"
+      },
+      {
+        "en": "Does a girl appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the boy on the left side of the screen wearing an ancient costume?"
+      },
+      {
+        "en": "Does the girl on the right side of the screen have a double bun hairstyle?"
+      },
+      {
+        "en": "Does the girl on the right side of the screen show a worried expression?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the boy on the left side of the screen show a dynamic process of changing from a smile to a hearty laugh?"
+      },
+      {
+        "en": "Does the girl on the right side of the screen make the action of clasping her hands together in front of her chest?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the boy located on the left side of the screen?"
+      },
+      {
+        "en": "Is the girl located on the right side of the screen?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera of the video remain fixed and motionless?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the wooden lattice windows and wooden railings in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/023": {
+    "I-D01": [
+      {
+        "en": "Do the scene elements from the reference image (such as the shelving unit, pendulum clock, etc.) maintain their original physical structure without being mistakenly distorted into the character's clothing or body parts?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a middle-aged woman appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman have dark brown short curly hair?"
+      },
+      {
+        "en": "Is the woman wearing a beige short-sleeved shirt with floral patterns?"
+      },
+      {
+        "en": "Is the woman wearing a light pink apron?"
+      },
+      {
+        "en": "Are the woman's eyebrows slightly furrowed?"
+      },
+      {
+        "en": "Does the woman's expression appear confused and worried?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot with a medium shot (primarily showing the character from the waist or chest up along with part of the background)?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the white shelf with porcelain, dark display cabinet, and pendulum clock consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/024": {
+    "I-E03": [
+      {
+        "en": "Does the woman in the light gray suit show a transition in expression between serious and smiling?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman in the floral dress holding a fur coat?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman in the floral dress smiling?"
+      },
+      {
+        "en": "Is the woman on the left wearing a light-gray suit and hat?"
+      },
+      {
+        "en": "Is the woman on the right wearing a floral dress?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman in the light gray suit located on the left side of the screen?"
+      },
+      {
+        "en": "Is the woman in the floral dress located on the right side of the screen?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera push in and pull out between the two female characters?"
+      },
+      {
+        "en": "Does the camera adjust its angle between the two female characters?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the green-and-white cabinets, green curtains, and white sink in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "scene/025": {
+    "I-E01": [
+      {
+        "en": "Do two female characters appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does a female character have light purple hair?"
+      },
+      {
+        "en": "Does the female character on the left side of the screen show a surprised and concerned expression?"
+      },
+      {
+        "en": "Does a female character have light blue hair?"
+      },
+      {
+        "en": "Does the female character on the right side of the screen have a smiling expression after raising her head?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the female character with light blue hair make a movement of raising her head?"
+      },
+      {
+        "en": "Does the female character with light blue hair look towards the camera?"
+      },
+      {
+        "en": "Does the female character with light blue hair make a movement of speaking?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the female character with light purple hair located on the left side of the screen?"
+      },
+      {
+        "en": "Is the female character with light blue hair located on the right side of the screen?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the female character with light blue hair initially lean against the female character with light purple hair?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera shot focus on the upper bodies of the two characters?"
+      },
+      {
+        "en": "Is the framing kept steady?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a Japanese cel-shaded 2D animation style?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the wooden lattice sliding doors and the decorative painting on the wall in the video consistent with Reference Image 1?"
+      }
+    ]
+  }
+}

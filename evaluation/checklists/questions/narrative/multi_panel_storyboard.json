@@ -1,0 +1,1581 @@
+{
+  "multi_panel_storyboard/001": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or multi-screen grid collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      },
+      {
+        "en": "Does the video avoid bringing the grid white borders and dividing lines from the reference into the frame?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the reddish-brown monster in the video the same character as in panels 1, 2, and 4?"
+      },
+      {
+        "en": "Is the blue horned monster in the video the same character as in panels 3 and 5?"
+      },
+      {
+        "en": "Is the mechanical flying vehicle in the video the same object as in panels 2 and 4?"
+      },
+      {
+        "en": "Are the colored containers and high-mast lights in the video consistent with the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video match the cinematic language shown in each storyboard panel?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/002": {
+    "I-D01": [
+      {
+        "en": "Is the video free of the \"grid collage\" format (e.g., split screens) from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      },
+      {
+        "en": "Did the video filter out the white grid lines/borders from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Are the young woman, men, and armored warrior in the video the same characters as in the reference panels?"
+      },
+      {
+        "en": "Are the white walls, square buildings, and metal pipes consistent with the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video preserve the composition shown in the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/003": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or side-by-side multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the white borders or panel lines from the reference?"
+      },
+      {
+        "en": "Is the video free of any text or timestamps?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the male detective in the video the same character as in reference panels 2/4/7?"
+      },
+      {
+        "en": "Is the female detective in the video the same character as in reference panels 2/4/7/9?"
+      },
+      {
+        "en": "Is the black sedan in the video the same vehicle as in reference panels 1/3/5/8?"
+      },
+      {
+        "en": "Are the white pillars, ceiling fluorescent tubes, and yellow beams consistent with the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/004": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or side-by-side multi-panel layouts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including the white borders or grid lines from the reference?"
+      },
+      {
+        "en": "Does the video avoid showing any text or timestamps?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same man as in the reference panels?"
+      },
+      {
+        "en": "Are the night city streets, black SUV, and motorcycle consistent with the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video preserve the composition and transitions shown in the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/005": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid grid collage formats like split screens or side-by-side panels?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      },
+      {
+        "en": "Did the video filter out the white borders and grid lines from the reference, avoiding bringing them in?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the red-haired female rider in the video the same character as in each panel of the reference?"
+      },
+      {
+        "en": "Are the motorcycle, sunset city buildings, and elevated train in the video consistent with each panel of the reference?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/006": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or side-by-side grid collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      },
+      {
+        "en": "Does the video avoid including the white grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Are the main characters in the video the same as those in each panel of the reference?"
+      },
+      {
+        "en": "Are the dirt track, background wall, and distant mountains in the video consistent with each panel of the reference?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video preserve the composition shown in the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/007": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid grid collage formats like split screens or side-by-side frames?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      },
+      {
+        "en": "Does the video filter out the white grid borders and dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in the reference panels?"
+      },
+      {
+        "en": "Is the man in the video the same person as in the reference panels?"
+      },
+      {
+        "en": "Are the water surface and distant bridge-like structure in the video consistent with the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video preserve the scene layout shown in the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/008": {
+    "I-D01": [
+      {
+        "en": "Is the video free of split-screen or multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the white borders or grid lines from the reference?"
+      },
+      {
+        "en": "Is the video free of text and timestamps?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the weird-looking man in the video the same character as in the reference panels?"
+      },
+      {
+        "en": "Is the small red scooter in the video the same object as in the reference panels?"
+      },
+      {
+        "en": "Are the indoor wooden desk, outdoor stone steps, and cobblestone street consistent with the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/009": {
+    "I-D01": [
+      {
+        "en": "Is the video free of split-screen or multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      },
+      {
+        "en": "Is the video free of the white borders or panel dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same man as in all panels of the reference?"
+      },
+      {
+        "en": "Are the floating stone platform, giant warhammer, and background peaks consistent with the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video preserve the composition and transitions shown in the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/010": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or side-by-side panel layouts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text overlays and timestamps?"
+      },
+      {
+        "en": "Does the video filter out the white borders or grid lines from the reference, avoiding bringing them into the frame?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the red race car in the video the same red race car as in the reference panels?"
+      },
+      {
+        "en": "Is the yellow race car in the video the same yellow race car as in the reference panels?"
+      },
+      {
+        "en": "Are the dirt track, grandstand, and wire fence in the video consistent with the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video match the composition and cuts shown in the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/011": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or side-by-side multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      },
+      {
+        "en": "Does the video avoid showing the white borders or panel lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the multi-tentacled monster in the video the same as in the reference panels?"
+      },
+      {
+        "en": "Is the warrior in the video the same as in the reference panels?"
+      },
+      {
+        "en": "Are the thick tree trunks and grass in the video consistent with the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video preserve the composition shown in the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/012": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or a multi-panel grid layout?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text overlays and timestamps?"
+      },
+      {
+        "en": "Does the video avoid including the white borders or grid lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the young man in the video the same character as in the reference panels?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and facial features match the reference panels?"
+      },
+      {
+        "en": "Do the glowing magic circle, autumn woods, and ruin pillars match the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video match the composition and cuts shown in the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/013": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the grid collage format (e.g., split screens) into the final output?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      },
+      {
+        "en": "Does the video filter out the white grid borders and dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the visible person, including the hands and clothing, consistent with the person shown in the reference panels?"
+      },
+      {
+        "en": "Does the light gray clean background in the video match each panel of the reference?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video preserve the scene layout shown in the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/014": {
+    "I-D01": [
+      {
+        "en": "Is the video free of grid collage formats, such as split screens or side-by-side multiple frames?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      },
+      {
+        "en": "Is the video free of the white grid borders or dividing lines from the reference image?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the black iron pot in the video the same black iron pot as in the reference panels?"
+      },
+      {
+        "en": "Are the dark red duck blood, green garlic shoots, and grey-black tripe consistent with the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video match the cinematic language shown in each storyboard panel?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/015": {
+    "I-D01": [
+      {
+        "en": "Is the video free of grid collage formats such as split screens or side-by-side multiple frames?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      },
+      {
+        "en": "Is the video free of the white grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the elderly woman in the video the same character as in all panels of the reference?"
+      },
+      {
+        "en": "Are the wooden table, floral-edged large basin, and blue-and-white patterned bowls consistent with all panels of the reference?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video preserve the composition shown in the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/016": {
+    "I-D01": [
+      {
+        "en": "Is the video free of grid collage formats, such as split screens or side-by-side frames?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text overlays and timestamps?"
+      },
+      {
+        "en": "Is the video free of the white grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the young man in the video the same character as in all reference panels?"
+      },
+      {
+        "en": "Is the injured middle-aged man in the video the same character as in all reference panels?"
+      },
+      {
+        "en": "Are the assassins in black in the video the same characters as in all reference panels?"
+      },
+      {
+        "en": "Do the visible hairstyles, hair colors, and recognizable facial features of the characters in the video match all reference panels?"
+      },
+      {
+        "en": "Do the white walls, stone floors, and wooden boxes in the video match all reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video match the composition and cuts shown in the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/017": {
+    "I-D01": [
+      {
+        "en": "Is the video free of grid collage formats like split screens or side-by-side panels?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      },
+      {
+        "en": "Did the video filter out the white borders and grid lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Are the young general and enemy general in the video the same characters as in the reference panels?"
+      },
+      {
+        "en": "Are the yellow sand battlefield and spear-wielding soldiers in the video consistent with the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/018": {
+    "I-D01": [
+      {
+        "en": "Is the video free of comic-style panel layouts, such as split or side-by-side screens?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      },
+      {
+        "en": "Is the video free of the white borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Are the floating mysterious figures in the video the same as in the reference panels?"
+      },
+      {
+        "en": "Are the Chinese pavilion and purple energy tentacles consistent with the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/019": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid grid collage formats like split screens or side-by-side frames?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the white grid borders or dividing lines from the reference?"
+      },
+      {
+        "en": "Is the video free of any text or timestamps?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "RF-P01": [
+      {
+        "en": "Are the overall style, colour palette and material rendering of the video consistent with the reference cells?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the middle-aged man in the video the same character as in the reference panels?"
+      },
+      {
+        "en": "Is the young woman in the video the same character as in the reference panels?"
+      },
+      {
+        "en": "Is the elderly man in the video the same character as in the reference panels?"
+      },
+      {
+        "en": "Do the covered sofa, wooden desk, and framed wall decorations match the reference panels, while omitting legible calligraphy and other text as instructed?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/020": {
+    "I-D01": [
+      {
+        "en": "Is the video free of grid collage formats like split screens or side-by-side panels?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/021": {
+    "I-D01": [
+      {
+        "en": "Is the video free of grid collage formats like split screens or side-by-side panels?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/022": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/023": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or side-by-side multi-panel layouts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/024": {
+    "I-D01": [
+      {
+        "en": "Is the video free of split-screen or multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/025": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or multi-panel grid layouts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/026": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/027": {
+    "I-D01": [
+      {
+        "en": "Is the video free of grid collage formats such as split screens or side-by-side panels?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/028": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid grid collage formats like split screens or side-by-side panels?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/030": {
+    "I-D01": [
+      {
+        "en": "Is the video free of split-screen or multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/031": {
+    "I-D01": [
+      {
+        "en": "Is the video free of split-screen or multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/032": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/033": {
+    "I-D01": [
+      {
+        "en": "Is the video free of storyboard collage formats like split screens or side-by-side panels?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/034": {
+    "I-D01": [
+      {
+        "en": "Is the video free of grid collage formats like split screens or side-by-side panels?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/035": {
+    "I-D01": [
+      {
+        "en": "Is the video free of split-screen or multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/036": {
+    "I-D01": [
+      {
+        "en": "Is the video free of split-screen or multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/037": {
+    "I-D01": [
+      {
+        "en": "Is the video free of grid collage formats such as split screens or side-by-side panels?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/038": {
+    "I-D01": [
+      {
+        "en": "Is the video free of grid collage formats like split screens or side-by-side panels?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/039": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or side-by-side grid collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/040": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or side-by-side multi-panel layouts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video use a cinematic live-action style with realistic photographic qualities?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/041": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing split screens or multi-panel collage layouts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/042": {
+    "I-D01": [
+      {
+        "en": "Is the video free of storyboard collage formats such as split screens or side-by-side multiple frames?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/043": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid split-screen or multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/044": {
+    "I-D01": [
+      {
+        "en": "Is the video free of grid collage formats like split screens or side-by-side panels?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/045": {
+    "I-D01": [
+      {
+        "en": "Is the video free of storyboard collage formats like split screens or side-by-side panels?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  },
+  "multi_panel_storyboard/046": {
+    "I-D01": [
+      {
+        "en": "Is the video free of split-screen or multi-panel collage formats?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of panel numbers, captions, timestamps, watermarks, and extra explanatory text?"
+      },
+      {
+        "en": "Is the video free of the grid borders or dividing lines from the reference?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the key events, character relationships, and specified event order shown in the reference panels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video naturally complete the continuous motion between the storyboard panels?"
+      }
+    ]
+  }
+}

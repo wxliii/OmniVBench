@@ -1,0 +1,4604 @@
+{
+  "multi_content_reference/001": {
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same as Reference Image 1?"
+      },
+      {
+        "en": "Are the green tiles, pink circular decorations, and flower ornaments consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the girl standing in the foreground the same girl as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, facial features, and crown of the foreground girl consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the girl sitting in the background the same girl as in Reference Image 3?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features of the background girl consistent with Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the light spots or the hands placing the crown from Reference Image 2's background?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the indoor environment from Reference Image 3's background?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the girl from Reference Image 2 sing and turn her head side to side?"
+      },
+      {
+        "en": "Does the girl from Reference Image 3 sit behind the other girl, watch her, and smile?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a microphone appear in the video?"
+      },
+      {
+        "en": "Do two girls appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the girl sitting in the background smile?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the girl standing in the foreground singing?"
+      },
+      {
+        "en": "Is the girl standing in the foreground turning her head frame-left and frame-right?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the singing girl located in the foreground of the frame?"
+      },
+      {
+        "en": "Is the smiling girl located in the background behind the singing girl?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the girl sitting in the background looking at the girl in the foreground?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the girl standing in the foreground holding a microphone?"
+      }
+    ]
+  },
+  "multi_content_reference/002": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the original backgrounds of References 1, 2, and 3?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the woman's clothing to Reference Image 1 while preserving her identity?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the woman from Reference Image 2 wear the clothing from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do cars appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man turn around and walk away in the video?"
+      },
+      {
+        "en": "Does the woman turn around and walk towards the camera in the video?"
+      },
+      {
+        "en": "Do cars pass along the street?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set on a street at night?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the woman and the man stand face-to-face talking in the video?"
+      },
+      {
+        "en": "Does the woman watch the man walk away in the video?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video present the complete event progression of the man leaving first, followed by the woman turning to leave?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Is the man in the video the same person as in Reference Image 3?"
+      },
+      {
+        "en": "Is the clothes worn by the woman the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the woman's visible hairstyle, hair color, and facial features consistent with Reference Image 2?"
+      },
+      {
+        "en": "Are the man's visible hairstyle, hair color, and facial features (e.g., forehead scar) consistent with Reference Image 3?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the black thin belt and dashed stitching on the clothes consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "multi_content_reference/003": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 1?"
+      },
+      {
+        "en": "Is the headpiece in the video the same headpiece as in Reference Image 2?"
+      },
+      {
+        "en": "Are the clothes in the video the same clothes as in Reference Image 3?"
+      },
+      {
+        "en": "Is the necklace in the video the same necklace as in Reference Image 4?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Do the shape, appearance, and details of the headpiece match Reference Image 2?"
+      },
+      {
+        "en": "Do the shape, appearance, and details of the clothes match Reference Image 3?"
+      },
+      {
+        "en": "Do the shape, appearance, and details of the necklace match Reference Image 4?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly retaining the original background of Reference Image 1?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the woman's identity while changing her attire to the newly requested ones?"
+      },
+      {
+        "en": "Does the video retain the woman's identity while changing the background?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 2's headpiece correctly worn on the woman's head?"
+      },
+      {
+        "en": "Are Reference Image 3's clothes correctly worn on the woman's body?"
+      },
+      {
+        "en": "Is Reference Image 4's necklace correctly worn on the woman's neck?"
+      },
+      {
+        "en": "Do the pattern and text correctly appear on the background logo?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman in the video sitting?"
+      },
+      {
+        "en": "Does the circular logo in the background feature a lotus pattern?"
+      },
+      {
+        "en": "Does the circular logo in the background feature text?"
+      },
+      {
+        "en": "Is the woman in the video wearing a headpiece?"
+      },
+      {
+        "en": "Is the woman in the video wearing clothes?"
+      },
+      {
+        "en": "Is the woman in the video wearing a necklace?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the woman in the video speaking?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a circular logo appear in the background of the video?"
+      }
+    ]
+  },
+  "multi_content_reference/004": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the item worn on the head in the video the same item as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character in the video consistent with Reference Image 1?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the silver metal decorations and red gemstone on the headpiece consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the pure white background from Reference Image 2?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the character's identity while changing the outfit to the purple vintage dress?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the person from Reference Image 1 wear the headpiece from Reference Image 2?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the person wearing a purple vintage dress with red puff sleeves?"
+      },
+      {
+        "en": "Does the person have a sorrowful expression?"
+      },
+      {
+        "en": "Is the person wearing an item on their head?"
+      },
+      {
+        "en": "Does the person appear to be thinking?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the person slightly bowing their head?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background an antique-style indoor setting?"
+      }
+    ]
+  },
+  "multi_content_reference/005": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the clothing in the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, facial features, and headband match Reference Image 1?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Do the clothing's patterns, knit texture, and button arrangement match Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid bringing the solid white background from Reference Image 2 into the frame?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the identity of the woman from Reference Image 1 while changing her clothing to Reference Image 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the woman from Reference Image 1 wear the clothing from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a stall appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a woman appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man in the video in a sitting position?"
+      },
+      {
+        "en": "Is the woman in the video in a standing position?"
+      },
+      {
+        "en": "Is the woman in the video smiling?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the seated man look up at the woman?"
+      },
+      {
+        "en": "Does the woman in the video reach out her hand?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman positioned in front of the man in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a night market environment?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the man and woman in the video conversing?"
+      },
+      {
+        "en": "Does the woman gently touch the man's shoulder?"
+      }
+    ]
+  },
+  "multi_content_reference/006": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 1?"
+      },
+      {
+        "en": "Is the necklace in the video the same necklace as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character in the video consistent with Reference Image 1?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Is the multi-layered pearl necklace in the video consistent with Reference Image 2 in shape, appearance, and details?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the indoor background of Reference Image 1?"
+      },
+      {
+        "en": "Does the video avoid incorrectly copying the plain white background of Reference Image 2?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change to a red off-the-shoulder top while preserving the woman's identity?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign the necklace from Reference Image 2 to the woman's neck?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a figure of a man appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman wearing a red off-the-shoulder top?"
+      },
+      {
+        "en": "Is the woman's expression very painful and earnest?"
+      },
+      {
+        "en": "Is the woman wearing a necklace?"
+      },
+      {
+        "en": "Is the male figure standing?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the woman crying sadly?"
+      },
+      {
+        "en": "Is the woman speaking?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the figure of the man located in the background?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set at night?"
+      },
+      {
+        "en": "Is the video scene set outdoors?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the man in the background appear blurred or indistinct?"
+      }
+    ]
+  },
+  "multi_content_reference/007": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the clothing in the video the same clothing as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and identifiable facial features of the character in the video consistent with Reference Image 1?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the mandarin collar, frog fasteners, and white piping of the clothing in the video consistent with Reference Image 2?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the clothing to the new style while preserving the identity of the person from Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly have the person from Reference Image 1 wear the clothing from Reference Image 2?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the character held by the arms by someone off-screen?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the character in the video have slightly furrowed brows and a slightly anxious expression?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character in the video speaking?"
+      }
+    ]
+  },
+  "multi_content_reference/008": {
+    "RF-C01": [
+      {
+        "en": "Is the man on the left in the video the same man as in Reference Image 1?"
+      },
+      {
+        "en": "Is the man on the right in the video the same man as in Reference Image 2?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 3?"
+      },
+      {
+        "en": "Is the item on the man's chest the same item as in Reference Image 4?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the gas mask in the video free from the pure white background of Reference Image 4?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain Ref 1 man's identity while changing his clothes to a hat and vest?"
+      },
+      {
+        "en": "Does the video retain Ref 2 man's identity while changing his clothes to a hoodie?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the frame-left man from Reference Image 1 wear a bucket hat and vest?"
+      },
+      {
+        "en": "Does the frame-right man from Reference Image 2 wear a hooded jacket?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a bucket hat appear in the video?"
+      },
+      {
+        "en": "Does a vest appear in the video?"
+      },
+      {
+        "en": "Does a hoodie appear in the video?"
+      },
+      {
+        "en": "Does a woman's back appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man on the right look agitated?"
+      },
+      {
+        "en": "Is a man wearing a bucket hat and a vest?"
+      },
+      {
+        "en": "Is a man wearing a hoodie?"
+      },
+      {
+        "en": "Is a gas mask hanging on the chest of the man on the frame-left?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man wearing a bucket hat standing on the left side?"
+      },
+      {
+        "en": "Is the man wearing a hoodie standing on the right side?"
+      },
+      {
+        "en": "Is the woman's back located in the bottom frame-right corner?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the man on the frame-right talking to the woman?"
+      }
+    ]
+  },
+  "multi_content_reference/009": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Is the apron in the video the same apron as in Reference Image 3?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the yellow wainscoting, wooden tables, and wall chicken logo consistent with Reference Image 2?"
+      },
+      {
+        "en": "Are the dark brown color, chest logo, and large pocket of the apron consistent with Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly bringing the background of Reference Image 1 into the frame?"
+      },
+      {
+        "en": "Does the video avoid incorrectly bringing the pure white background of Reference Image 3 into the frame?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the identity of the woman in Reference Image 1 while dressing her in an apron?"
+      },
+      {
+        "en": "Does the video retain the scene in Reference Image 2 while adding the character into it?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the apron correctly worn by the woman?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character smiling?"
+      },
+      {
+        "en": "Is the character in a standing posture?"
+      },
+      {
+        "en": "Is the character wearing an apron?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character looking at the camera?"
+      }
+    ]
+  },
+  "multi_content_reference/010": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the man in the video the same person as in Reference Image 3?"
+      },
+      {
+        "en": "Is the jacket in the video the same one as in Reference Image 2?"
+      },
+      {
+        "en": "Do the woman's visible hairstyle, hair color, and facial features match Reference Image 1?"
+      },
+      {
+        "en": "Do the man's visible hairstyle, hair color, and facial features match Reference Image 3?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Does the jacket's pink lapel match Reference Image 2?"
+      },
+      {
+        "en": "Does the woman's hairpin match Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including the indoor background from Reference Image 1?"
+      },
+      {
+        "en": "Does the video avoid the pure white background or flat-lay state from Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid including the indoor background from Reference Image 3?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video preserve the woman's identity while showing her standing with her arms crossed?"
+      },
+      {
+        "en": "Does the video keep the man's identity while changing his clothes to Reference Image 2's jacket?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the man from Reference Image 3 wear the jacket from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a table appear in the video?"
+      },
+      {
+        "en": "Do several plastic boxes appear in the video?"
+      },
+      {
+        "en": "Do several men appear in the background of the video?"
+      },
+      {
+        "en": "Does a large pine tree appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the table in the video covered with a white cloth?"
+      },
+      {
+        "en": "Are the plastic boxes in the video transparent?"
+      },
+      {
+        "en": "Does the woman stand with her arms crossed?"
+      },
+      {
+        "en": "Is the woman in the video smiling?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the woman in the video looking to the right side of the frame?"
+      },
+      {
+        "en": "Is the man in the video excitedly pointing forward?"
+      },
+      {
+        "en": "Is the man in the video talking?"
+      },
+      {
+        "en": "Are the men in the background watching?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman standing on the left side of the frame?"
+      },
+      {
+        "en": "Is the man standing to the right of the woman?"
+      },
+      {
+        "en": "Are the plastic boxes placed on the table?"
+      },
+      {
+        "en": "Is the table positioned in front of the woman and the man?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene an outdoor courtyard?"
+      }
+    ]
+  },
+  "multi_content_reference/011": {
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same man as in Reference Image 1?"
+      },
+      {
+        "en": "Is the item in the video the same item as in Reference Image 2?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, facial features, and gold crown consistent with Reference Image 1?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the shape and appearance details of the arm guard in the video consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the indoor background from Reference Image 1?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the clothing to a new style while preserving the man's identity?"
+      },
+      {
+        "en": "Does the video change the scene to a new one while preserving the man's identity?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the reference arm guard worn specifically on the man's right arm?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man in the video wearing a light-colored ancient robe?"
+      },
+      {
+        "en": "Is the man wearing the selected arm guard on his right arm?"
+      },
+      {
+        "en": "Is the man standing?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man raise his right arm and point forward?"
+      },
+      {
+        "en": "Does the man show the action of speaking?"
+      },
+      {
+        "en": "Does the man turn his head to look to one side?"
+      },
+      {
+        "en": "Does the man laugh heartily?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video set outdoors?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the man first raise his right arm and point while speaking, then turn his head, and finally laugh?"
+      }
+    ]
+  },
+  "multi_content_reference/012": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 1?"
+      },
+      {
+        "en": "Is the dress worn by the woman in the video the same dress as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character in the video consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the black fabric, double-breasted buttons, and neckline bow in the video consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly bringing the solid background of Reference Image 2 into the scene?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the clothing to the new style while preserving the woman's identity?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the dress from Reference Image 2 correctly worn by the woman from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a window appear in the video?"
+      },
+      {
+        "en": "Does a door appear in the video?"
+      },
+      {
+        "en": "Does a desk appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man in the video wearing a white lab coat?"
+      },
+      {
+        "en": "Does the man in the video look exhausted?"
+      },
+      {
+        "en": "Does the woman remain standing after entering the room?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the man in the video looking out the window?"
+      },
+      {
+        "en": "Does the woman in the video walk into the room?"
+      },
+      {
+        "en": "Does the man in the video turn around?"
+      },
+      {
+        "en": "Does the man in the video walk to the desk?"
+      },
+      {
+        "en": "Does the man in the video sit down?"
+      },
+      {
+        "en": "Does the man rub his head?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman in the video standing by the door?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a room?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the woman in the video watch the man?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video present a coherent narrative progression from the man looking out to him sitting down?"
+      }
+    ]
+  },
+  "multi_content_reference/013": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the helmets in the video the same helmets as in Reference Image 3?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character in the video consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the wooden railings, masts, and ropes in the video consistent with Reference Image 2?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the helmets in the video consistent with Reference Image 3 in shape, appearance, and details?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly bringing the pure white background of Reference Image 3 into the frame?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Do the soldiers behind the woman wear the helmet from Reference Image 3?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Do soldiers appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the woman walking forward in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the soldiers standing in the video?"
+      },
+      {
+        "en": "Are the soldiers wearing helmets in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the soldiers arranged in a row in the video?"
+      },
+      {
+        "en": "Are the soldiers located behind the woman?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera follow the woman's movement in the video?"
+      }
+    ]
+  },
+  "multi_content_reference/014": {
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same man as in Reference Image 1?"
+      },
+      {
+        "en": "Is the hat in the video the same hat as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character consistent with Reference Image 1?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the gold ornament parts of the hat consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the indoor or pure white backgrounds from the references?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video keep the man's identity while changing his clothes to a new style?"
+      },
+      {
+        "en": "Does the video keep the man's identity while changing the scene to a new one?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the man from Reference Image 1 wear the hat from Reference Image 2?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man's clothing dark and embroidered with gold thread?"
+      },
+      {
+        "en": "Does the man have a serious expression?"
+      },
+      {
+        "en": "Is the man wearing a hat?"
+      },
+      {
+        "en": "Does the man initially have his head down?"
+      },
+      {
+        "en": "Is the man wearing an ancient-style costume?"
+      },
+      {
+        "en": "Is the man standing?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man subsequently raise his head and look forward?"
+      },
+      {
+        "en": "Does the man open his mouth to speak?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in an outdoor courtyard?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show a coherent process of the man raising his head and speaking?"
+      }
+    ]
+  },
+  "multi_content_reference/015": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible facial recognizable features of the character consistent with Reference Image 2?"
+      },
+      {
+        "en": "Are the hairstyle and hair accessories in the video the same as in Reference Image 1?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the floral hair accessories and tassel hairpins consistent with Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the mannequin head from Reference Image 1?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the white fur-collared clothing or background from Reference Image 2?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the woman's identity from Reference Image 2 while changing her hairstyle and accessories to Reference Image 1?"
+      },
+      {
+        "en": "Does the video retain the woman's identity from Reference Image 2 while changing her clothing to ancient costumes?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the hairstyle and accessories from Reference Image 1 correctly worn on the head of the woman from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Do candles appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman in the video wearing ancient costumes?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the woman in the video talking?"
+      },
+      {
+        "en": "Does the woman raise her right hand?"
+      },
+      {
+        "en": "Does the woman half-cover her cheek with her sleeve?"
+      },
+      {
+        "en": "Does the woman gently touch near her ear with her right hand?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the overall lighting atmosphere of the video appear dim?"
+      }
+    ]
+  },
+  "multi_content_reference/016": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and recognizable facial features of the character in the video match Reference Image 1?"
+      },
+      {
+        "en": "Is the bar counter in the video the same bar counter as in Reference Image 2?"
+      },
+      {
+        "en": "Do the dark wooden structure, stacked blue-and-white porcelain plates, and chopsticks in the video match Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the pure white background of Reference Image 1 or 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the character sitting at the bar holding a cake exactly the woman from Reference Image 1?"
+      },
+      {
+        "en": "Is the object serving as the scene's bar counter exactly the bar counter from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man seated next to the referenced woman appear in the video?"
+      },
+      {
+        "en": "Does a chef appear in the video?"
+      },
+      {
+        "en": "Does a small cake appear in the video?"
+      },
+      {
+        "en": "Do an additional man and woman appear in the foreground?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man seated next to the referenced woman wearing glasses?"
+      },
+      {
+        "en": "Does the small cake in the video have candles on it?"
+      },
+      {
+        "en": "Is the woman in the video in a sitting posture?"
+      },
+      {
+        "en": "Is the man with glasses in the video in a sitting posture?"
+      },
+      {
+        "en": "Is the chef in the video in a standing posture?"
+      },
+      {
+        "en": "Are the foreground man and woman sitting at the counter?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman in the video located in front of the bar counter?"
+      },
+      {
+        "en": "Is the man with glasses in the video located next to the woman?"
+      },
+      {
+        "en": "Is the chef in the video located behind the bar counter?"
+      },
+      {
+        "en": "Are the man and woman in the video located in the foreground?"
+      },
+      {
+        "en": "Are the man and woman in the video located in front of the bar counter?"
+      },
+      {
+        "en": "Are the foreground man and woman facing away from the camera?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video present a restaurant scene?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the chef in the video looking at the woman?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman in the video holding a small cake in her hands?"
+      }
+    ]
+  },
+  "multi_content_reference/017": {
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same person as in Reference Image 3?"
+      },
+      {
+        "en": "Does the character's visible hairstyle, hair color, and recognizable facial features match Reference Image 3?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Do the wooden doors, wooden floor, and yellow petals match Reference Image 2?"
+      },
+      {
+        "en": "Is the clothing in the video the same as in Reference Image 1?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Does the octagonal pattern on the sleeves match Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude the ruin background from Reference Image 3?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain Reference Image 3's identity while changing to Reference Image 1's clothes?"
+      },
+      {
+        "en": "Does the video retain Reference Image 2's scene while placing the man in it?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1's clothing correctly worn by the man from Reference Image 3?"
+      },
+      {
+        "en": "Does the man from Reference Image 3 have his eyes closed and make the hand gesture with one finger pointing up?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man in a dark long gown appear in the video?"
+      },
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a door appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the eyes of the man in the center closed?"
+      },
+      {
+        "en": "Are both the central man from Reference Image 3 and the dark-robed man in the left background standing?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man in the center make a hand gesture with one finger pointing up?"
+      },
+      {
+        "en": "Does the woman turn and walk towards the door?"
+      },
+      {
+        "en": "Does the woman leave the frame?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man making the hand seal located in the center?"
+      },
+      {
+        "en": "Is the man in the dark gown located in the frame-left background?"
+      },
+      {
+        "en": "Is the door located in the background?"
+      }
+    ]
+  },
+  "multi_content_reference/018": {
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Is the clothing in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and identifiable facial features match Reference Image 2?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Do the dragon pattern, white collar, and black belt of the clothing match Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid including the solid white background from Reference Image 1?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video keep the identity of the person from Reference Image 2 while changing his clothing to Reference Image 1?"
+      },
+      {
+        "en": "Does the video keep the identity of the person from Reference Image 2 while changing the scene to outdoors at night?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly have the man from Reference Image 2 wear the clothing from Reference Image 1?"
+      },
+      {
+        "en": "Does the video correctly have the man wear a black ancient-style hat?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a black ancient-style hat appear in the video?"
+      },
+      {
+        "en": "Does a sword appear in the video?"
+      },
+      {
+        "en": "Does another person whose back is partially visible appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man in the video smiling?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the person whose back is partially visible located in the lower left corner of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video set outdoors at night?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the man in the video speaking to the person whose back is partially visible?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the man hold the sword in his right hand and point it toward the person whose back is visible in the lower-left corner?"
+      }
+    ]
+  },
+  "multi_content_reference/019": {
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Is the clothing in the video the same clothing as in Reference Image 2?"
+      },
+      {
+        "en": "Is the woman facing the camera in the video the same woman as in Reference Image 3?"
+      },
+      {
+        "en": "Are the white door, green patterned wallpaper, and small painting on the wall consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features (including the straw hat with flowers) of the character consistent with Reference Image 3?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the collar shape, buttons, and subtle patterns of the white patterned shirt consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid bringing the pure white background from Reference Image 2 into the frame?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the identity of the woman from Reference Image 3 while changing her clothing to the style from Reference Image 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the woman from Reference Image 3 wear the clothing from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two women appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman facing the camera initially have her head bowed?"
+      },
+      {
+        "en": "Is the woman facing the camera in a standing posture?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman facing the camera subsequently raise her head?"
+      },
+      {
+        "en": "Does the woman facing the camera perform a speaking action?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the other woman facing away from the camera?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the woman facing the camera looking at the woman opposite her?"
+      }
+    ]
+  },
+  "multi_content_reference/020": {
+    "RF-C01": [
+      {
+        "en": "Is the person on the right side of the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the refrigerator in the video the same refrigerator as in Reference Image 2?"
+      },
+      {
+        "en": "Are the stickers, handle shape, and door seam structure of the refrigerator consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the background scene in the video the same scene as in Reference Image 3?"
+      },
+      {
+        "en": "Are the foosball table, stove, and door in the video consistent with Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid bringing the pure white background of Reference Image 1 into the frame?"
+      },
+      {
+        "en": "Does the video correctly avoid bringing the pure white background of Reference Image 2 into the frame?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain Reference Image 3's scene while placing the refrigerator from Reference Image 2 in the background?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign the blonde woman's identity to the person on the frame-left?"
+      },
+      {
+        "en": "Does the video correctly assign Reference Image 1's identity to the person on the right?"
+      },
+      {
+        "en": "Does the video place Reference Image 2's refrigerator in the background?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a water bottle appear in the video?"
+      },
+      {
+        "en": "Does a folder appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman in the video blonde?"
+      },
+      {
+        "en": "Is the person from Reference Image 1 standing?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the woman in the video speaking?"
+      },
+      {
+        "en": "Is the woman in the video making hand gestures?"
+      },
+      {
+        "en": "Does the man then place both hands on his hips?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the man on the right lower the folder?"
+      },
+      {
+        "en": "Is the woman in the video holding a water bottle?"
+      },
+      {
+        "en": "Is the man on the right holding a folder?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman in the video located on the left side of the frame?"
+      },
+      {
+        "en": "Is the person from Reference Image 1 located on the right side of the frame?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the man on the right side listening to the woman on the frame-left speaking?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the continuous process of the man listening, lowering the folder, and placing his hands on his hips?"
+      }
+    ]
+  },
+  "multi_content_reference/021": {
+    "RF-C01": [
+      {
+        "en": "Is the boy in the center the same boy as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the background in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the green trees and purple-orange sky consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly bringing the multi-angle clones or layout from Reference Image 1?"
+      },
+      {
+        "en": "Does the video avoid incorrectly bringing the pure white background from Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the large dark silhouette distinct from the boy in the center?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a boy appear in the video?"
+      },
+      {
+        "en": "Does a little boy wearing a hoodie appear in the video?"
+      },
+      {
+        "en": "Does a silhouette appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the boy in the center have a serious expression?"
+      },
+      {
+        "en": "Is the silhouette on the frame-right dark?"
+      },
+      {
+        "en": "Is the silhouette on the frame-right large?"
+      },
+      {
+        "en": "Is the boy from Reference Image 1 standing?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the boy in the center talking?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the talking boy located in the center of the frame?"
+      },
+      {
+        "en": "Is the smaller boy in the hoodie behind and to the left of the central boy?"
+      },
+      {
+        "en": "Is the large dark silhouette located in the frame-right foreground?"
+      }
+    ]
+  },
+  "multi_content_reference/022": {
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Is the character in the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Is the character in the video the same as in Reference Image 3?"
+      },
+      {
+        "en": "Is the character in the video the same as in Reference Image 4?"
+      },
+      {
+        "en": "Is the scene in the video the same as in Reference Image 5?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the characters in the video in a standing posture?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Are the characters in the video looking forward?"
+      },
+      {
+        "en": "Do both the character from Reference Image 3 and the character from Reference Image 4 blink during the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are there at least four characters in the video?"
+      },
+      {
+        "en": "Is the character from Reference Image 1 on the far left of the screen?"
+      },
+      {
+        "en": "Is the character from Reference Image 2 to the right rear of Reference Image 1?"
+      },
+      {
+        "en": "Is the character from Reference Image 3 in the middle of the screen?"
+      },
+      {
+        "en": "Is the character from Reference Image 4 on the far right of the screen?"
+      }
+    ]
+  },
+  "multi_content_reference/023": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features (e.g., bone mask) consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the rocks, tree trunks, and palm-like plants in the video consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly incorporating the pure white background or multi-view layout of Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign Reference Image 1 as the person and Reference Image 2 as the background?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the person in the video look towards the right side of the frame?"
+      },
+      {
+        "en": "Does the person in the video turn before running?"
+      },
+      {
+        "en": "Does the person in the video run?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the person in the video initially located on the left side of the frame?"
+      },
+      {
+        "en": "Does the person in the video move towards the right side of the frame?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character initially standing?"
+      }
+    ]
+  },
+  "multi_content_reference/024": {
+    "RF-C01": [
+      {
+        "en": "Are the hairstyle and headdress in the video the same as Reference Image 1?"
+      },
+      {
+        "en": "Is the clothing in the video the same clothing as Reference Image 2?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the visible hair bun, floral hairpins, and dangling ornaments consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the visible blue robe, floral embroidery, and silver-white inner wear consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the woman avoid incorrectly retaining the blank facial features from Reference Image 1?"
+      },
+      {
+        "en": "Does the clothing avoid incorrectly retaining the mannequin display state from Reference Image 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Do the hairstyle and headdress from Reference Image 1 correctly appear on the woman?"
+      },
+      {
+        "en": "Is the clothing from Reference Image 2 correctly worn by the woman?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman have her hands folded in front of her?"
+      },
+      {
+        "en": "Is the woman standing?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman turn her head slightly toward the left side of the frame?"
+      },
+      {
+        "en": "Is the woman speaking?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman's head oriented toward the left side of the frame as she speaks?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video set indoors?"
+      }
+    ]
+  },
+  "multi_content_reference/025": {
+    "RF-C01": [
+      {
+        "en": "Is the boy in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the cane in the video the same object as in Reference Image 2?"
+      },
+      {
+        "en": "Are the dragon head shape and wooden shaft consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the forest scene in the video the same scene as in Reference Image 3?"
+      },
+      {
+        "en": "Are the pine trees, broadleaf trees, and cloud shapes consistent with Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the pure white background from Reference Image 1 or 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the old man on the right holding the object from Reference Image 2?"
+      },
+      {
+        "en": "Does the boy from Reference Image 1 perform the required head turn and pointing gesture toward the old man?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an old man appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the boy initially look forward with both fists clenched?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the boy subsequently turn his head?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the boy on the left side of the video and the old man on the frame-right?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the boy point his finger at another character?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the old man holding a cane in his hand?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video achieve a narrative progression from the boy looking forward to turning and pointing?"
+      }
+    ]
+  },
+  "multi_content_reference/026": {
+    "RF-C01": [
+      {
+        "en": "Is the man facing the camera the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the apron in the video the same apron as in Reference Image 2?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the red sauce stains on the apron consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the background environment from Reference Image 1?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain Reference Image 1's identity while changing the clothing to Reference Image 2's apron?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1's identity assigned to the man facing the camera?"
+      },
+      {
+        "en": "Is Reference Image 2's apron assigned to the man facing the camera?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two men appear in the video?"
+      },
+      {
+        "en": "Does a towel appear in the video?"
+      },
+      {
+        "en": "Does a saucepan appear in the video?"
+      },
+      {
+        "en": "Do jars and bowls appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the saucepan small?"
+      },
+      {
+        "en": "Does the man facing the camera have a towel on his shoulder?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the man facing the camera speaking?"
+      },
+      {
+        "en": "Is the man facing the camera gesturing with his left hand?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is there a man with his back to the camera?"
+      },
+      {
+        "en": "Is there a man facing the camera?"
+      },
+      {
+        "en": "Are the jars and bowls placed on the counter?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a kitchen?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the two men in the video conversing?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the man facing the camera holding the saucepan in his right hand?"
+      }
+    ]
+  },
+  "multi_content_reference/027": {
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same man as in Reference Image 2?"
+      },
+      {
+        "en": "Is the clothing in the video the same clothing as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 2?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the brooch and pocket square in the video consistent with Reference Image 1?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the man's identity while changing to the clothing from Reference Image 1?"
+      },
+      {
+        "en": "Does the video retain the man's identity while adding glasses to him?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the clothing from Reference Image 1 correctly worn by the man from Reference Image 2?"
+      },
+      {
+        "en": "Are the glasses correctly worn on the face of the man from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Do glasses appear in the video?"
+      },
+      {
+        "en": "Is a woman's hand visible beside the man while her face remains out of view?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man's expression in the video slightly serious?"
+      },
+      {
+        "en": "Is the man standing?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man turn his head slightly to the right?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video set indoors?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the man's left arm linked by the hand of the woman beside him?"
+      }
+    ]
+  },
+  "multi_content_reference/028": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the hair accessory in the video the same hair accessory as in Reference Image 1?"
+      },
+      {
+        "en": "Are the bird-shaped decoration, long tassels, and purple bead consistent with Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1's hair accessory correctly worn on the head?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a bracelet appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman examine the bracelet on her left wrist?"
+      },
+      {
+        "en": "Is the woman in the video speaking?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the bracelet on the woman's left wrist?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman touching the bracelet on her left wrist?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video start with a close-up shot of the hands?"
+      },
+      {
+        "en": "Does the camera tilt up from the hands to the woman's face?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman in the video wearing a hair accessory on her head?"
+      }
+    ]
+  },
+  "multi_content_reference/029": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features (round glasses) consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the supermarket shelves and product displays in the video consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the headband in the video the same headband as in Reference Image 2?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Is the headband in the video consistent with Reference Image 2 in shape, appearance, and details?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the woman and scene from Reference Image 1 while having her wear a headband and speak?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the headband from Reference Image 2 correctly appear on the head of the woman from Reference Image 1?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman in the video turn her head slightly?"
+      },
+      {
+        "en": "Is the woman in the video speaking?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman in the video wearing a headband on her head?"
+      }
+    ]
+  },
+  "multi_content_reference/030": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 2?"
+      },
+      {
+        "en": "Are the hairstyle and headpiece in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible facial recognizable features of the character consistent with Reference Image 2?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the shape, appearance, and details of the hairstyle and headpiece consistent with Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the mannequin head or pure white background from Reference Image 1?"
+      },
+      {
+        "en": "Does the video avoid incorrectly copying the white fur-collared clothing or background from Reference Image 2?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the woman's identity from Reference Image 2 while replacing her hairstyle and clothing?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign Reference Image 1's hairstyle and headpiece, and the blue costume to the woman?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman in the video wearing a blue ancient costume?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the woman in the video speaking?"
+      },
+      {
+        "en": "Does the woman raise her right hand?"
+      },
+      {
+        "en": "Does the woman in the video smile slightly?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a room with lit candles?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the woman gently touch the hair ornament near her ear with her right hand?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the woman speak, then raise her right hand to touch the hair ornament near her ear and smile slightly?"
+      }
+    ]
+  },
+  "multi_content_reference/031": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Is the clothing in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features of the character consistent with Reference Image 2?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the lace high collar and long sleeves of the clothing consistent with Reference Image 1?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain Reference Image 2's identity while changing to the new clothing?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1's clothing correctly worn by the person from Reference Image 2?"
+      },
+      {
+        "en": "Is the feather hair accessory correctly assigned to the person from Reference Image 2?"
+      },
+      {
+        "en": "Is the sad expression correctly assigned to the person from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a feather hair accessory appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the person's expression look somewhat sad in the video?"
+      },
+      {
+        "en": "Is the person wearing clothes in the video?"
+      },
+      {
+        "en": "Is the person wearing a hair accessory in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the person talking in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background blue in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video a close-up shot?"
+      }
+    ]
+  },
+  "multi_content_reference/032": {
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features (e.g., glasses) consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the medicine cabinet and red bed rails consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video successfully avoid incorrectly including the pure white background from Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is sitting and gesturing correctly assigned to the man from Reference Image 1?"
+      },
+      {
+        "en": "Is lying in bed correctly assigned to the other patient?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a hospital bed appear in the video?"
+      },
+      {
+        "en": "Does another male patient appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man from Reference Image 1 in a sitting posture?"
+      },
+      {
+        "en": "Is the other male patient in a lying posture?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the man from Reference Image 1 gesturing with his hands?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man from Reference Image 1 located by the hospital bed?"
+      },
+      {
+        "en": "Is the other male patient located on the hospital bed?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the man from Reference Image 1 talking to the patient lying in the bed?"
+      }
+    ]
+  },
+  "multi_content_reference/033": {
+    "RF-C01": [
+      {
+        "en": "Is the girl (in red coat) in the video the same girl as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and recognizable facial features of the character in the video match Reference Image 1?"
+      },
+      {
+        "en": "Is the girl (wearing white hat) in the video the same girl as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and recognizable facial features of the character in the video match Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly bringing in the pure white background of the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the girl from Reference Image 2 touch her stomach?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two girls appear in the video?"
+      },
+      {
+        "en": "Do suitcases appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Are both referenced girls walking along the street?"
+      },
+      {
+        "en": "Does a girl touch her stomach?"
+      },
+      {
+        "en": "Does the girl from Reference Image 1 smile in response to the other girl?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the two girls side by side?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set on a street?"
+      },
+      {
+        "en": "Is the time in the video night?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the two girls chatting?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is each girl pulling a suitcase as they walk?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present an anime style?"
+      }
+    ]
+  },
+  "multi_content_reference/034": {
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same man as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the wooden shelves, jars, and packaged foods in the video consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid bringing in the pure white background from Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the man standing behind the counter and conversing exactly the man from Reference Image 1?"
+      },
+      {
+        "en": "Is the background scene of the video exactly the scene from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a counter appear in the video?"
+      },
+      {
+        "en": "Does a woman appear in the background in the video?"
+      },
+      {
+        "en": "Does another woman appear walking to the counter in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman walking to the counter have twin tails?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man look down at the counter?"
+      },
+      {
+        "en": "Does the man subsequently look up?"
+      },
+      {
+        "en": "Does the twin-tailed woman walk up to the right side of the counter?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man standing behind the counter?"
+      },
+      {
+        "en": "Is the woman located at the right side of the counter?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the man converse with the twin-tailed woman?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman in the background organizing items?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show a coherent sequence of the man looking down then looking up to converse?"
+      }
+    ]
+  },
+  "multi_content_reference/035": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the white cabinets, sink, and blinds in the video consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the pure white background or multi-angle layout of Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video use the woman from Reference Image 1 as the subject performing the actions?"
+      },
+      {
+        "en": "Does the video use the scene from Reference Image 2 as the background environment?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do plates with food appear in the video?"
+      },
+      {
+        "en": "Does a table appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman initially stand with her back to the camera?"
+      },
+      {
+        "en": "Is the woman standing at the end of the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman turn around?"
+      },
+      {
+        "en": "Is the woman talking at the end?"
+      },
+      {
+        "en": "Does the woman look forward at the end?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the woman hold at least two plates of food?"
+      },
+      {
+        "en": "Is the woman located by the table at the end?"
+      },
+      {
+        "en": "Is the woman initially positioned at the counter?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman holding the plates?"
+      },
+      {
+        "en": "Does the woman put the plates down on the table?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the continuous development of the woman turning and walking to the table?"
+      },
+      {
+        "en": "Does the video show the narrative progression of the woman talking after putting down the plates?"
+      }
+    ]
+  },
+  "multi_content_reference/036": {
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same man as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the dark gray sofa, striped pillow, and gray diamond-patterned pillow consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid bringing in the pure white background from Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person sitting in the scene exactly the man from Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video exactly the scene from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does another person appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man in the video in a sitting posture?"
+      },
+      {
+        "en": "Does the man keep both hands in front of him while speaking?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the man in the video speaking?"
+      },
+      {
+        "en": "Does the man in the video make hand gestures?"
+      },
+      {
+        "en": "Does the man in the video show vivid and rich facial expressions?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the other person located in the right foreground of the frame?"
+      },
+      {
+        "en": "Is part of the other person’s back visible?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the man and the other person in the video conversing?"
+      }
+    ]
+  },
+  "multi_content_reference/037": {
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the street lamp, green trees, and flowers in the video consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the man in the video the same person as in Reference Image 3?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features (mustache) consistent with Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid bringing in background elements from Reference Image 2?"
+      },
+      {
+        "en": "Does the video correctly avoid bringing in indoor background elements from Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign the identity of Reference Image 3 to the man?"
+      },
+      {
+        "en": "Does the video correctly assign the identity of Reference Image 2 to the woman?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a book appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the man and the woman standing together in the video?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the woman looking at the man in the video?"
+      },
+      {
+        "en": "Does the man turn his head to look at the woman?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the woman bring up a book to read?"
+      },
+      {
+        "en": "Is the woman reading the book in the video?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the woman's transition from looking at the man to reading?"
+      },
+      {
+        "en": "Does the video show the man's transition from looking forward to looking at the woman?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman look down before reading the book?"
+      }
+    ]
+  },
+  "multi_content_reference/038": {
+    "RF-C01": [
+      {
+        "en": "Is the coat in the video the same coat as in Reference Image 1?"
+      },
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 2?"
+      },
+      {
+        "en": "Is the man in the video the same man as in Reference Image 3?"
+      },
+      {
+        "en": "Are the woman's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 2?"
+      },
+      {
+        "en": "Are the man's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 3?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the black thin belt and edge stitching of the coat consistent with Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly bringing in the pure white background of Reference Image 1?"
+      },
+      {
+        "en": "Does the video avoid incorrectly bringing in the original backgrounds of Reference Image 2 or 3?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change to Reference Image 1's coat while preserving the woman's identity?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the woman from Reference Image 2 wear the coat from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Do moving cars appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man turn and walk away?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman stand alone in place in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a street at night?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the woman and the man stand face-to-face talking in the video?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the complete event of the man leaving after talking?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the moving cars located in the background?"
+      }
+    ]
+  },
+  "multi_content_reference/039": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 1?"
+      },
+      {
+        "en": "Are the woman's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the man in the video the same man as in Reference Image 2?"
+      },
+      {
+        "en": "Are the man's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the character on the left side of the frame the woman from Reference Image 1?"
+      },
+      {
+        "en": "Is the character on the right side of the frame the man from Reference Image 2?"
+      },
+      {
+        "en": "Is the person speaking the man from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is there a character located on the left side of the frame?"
+      },
+      {
+        "en": "Is there a character located on the right side of the frame?"
+      },
+      {
+        "en": "Are the two characters standing facing each other?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in an antique room?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the man from Reference Image 2 speak to the woman from Reference Image 1?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the man appear after the woman in the video?"
+      }
+    ]
+  },
+  "multi_content_reference/040": {
+    "RF-C01": [
+      {
+        "en": "Is the man on the right side of the frame the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, facial features, and red gem headpiece consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the yellow patterned curtains, wooden pillars, and wall symbol patterns consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the solid white background from Reference Image 1 into the new frame?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person eating and wiping hands exactly the man from Reference Image 1?"
+      },
+      {
+        "en": "Is the person sitting on the left side another man (not the man from Reference Image 1)?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear at the beginning of the video?"
+      },
+      {
+        "en": "Does a long table appear in the video?"
+      },
+      {
+        "en": "Does another man appear (sitting on the left side of the frame)?"
+      },
+      {
+        "en": "Does a servant appear in the video?"
+      },
+      {
+        "en": "Does food appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man at the beginning appear to be laughing?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man at the beginning turn away?"
+      },
+      {
+        "en": "Does the man sitting on the left side of the frame make a speaking action?"
+      },
+      {
+        "en": "Is the man sitting on the right side of the frame wiping his hands?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the two men sitting at opposite ends of the long table?"
+      },
+      {
+        "en": "Is the servant standing in the background corner?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the man on the left side of the frame talking to the man on the right?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the man sitting on the right side of the frame eating?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera pull back after the opening action?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the opening man laugh and turn away before the camera pulls back?"
+      }
+    ]
+  },
+  "multi_content_reference/041": {
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same man as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the man consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the woman consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly bringing in the original backgrounds of Reference Image 1 or 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video avoid mixing the features of the characters from Ref 1 and Ref 2?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the two people look off-screen?"
+      },
+      {
+        "en": "Do the two people show surprised expressions?"
+      },
+      {
+        "en": "Do the two people show smiles?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do the two people stand side by side in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a traditional Chinese building?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the two people turn their heads to look at each other?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera remain fixed?"
+      },
+      {
+        "en": "Is the shot scale maintained as a medium shot?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the state change of their expressions gradually relaxing?"
+      }
+    ]
+  },
+  "multi_content_reference/042": {
+    "RF-C01": [
+      {
+        "en": "Is the person (Ref 1) in the video the same person as in Ref 1?"
+      },
+      {
+        "en": "Is the person (Ref 2) in the video the same person as in Ref 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features (e.g., glasses) of the character (Ref 1) consistent with Ref 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features (e.g., armored mask) of the character (Ref 2) consistent with Ref 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly bringing in the original backgrounds of Ref 1 or Ref 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the character who walks out of the frame the person from Reference Image 1?"
+      },
+      {
+        "en": "Is the character who stays in place the person from Ref 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two characters appear in the video?"
+      },
+      {
+        "en": "Does a small square device appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character (Ref 1) withdraw their hand?"
+      },
+      {
+        "en": "Does the character (Ref 1) walk out of the frame?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the character (Ref 1) located on the screen right of the character (Ref 2)?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in a futuristic chamber?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the person from Reference Image 1 rest a hand near the shoulder and chest of the person from Reference Image 2?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the person from Reference Image 2 examine the small square device?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the person from Reference Image 1 rest a hand near the other person’s shoulder and chest, then withdraw it and leave the frame?"
+      }
+    ]
+  },
+  "multi_content_reference/043": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the approaching man in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Is the approached man in the video the same person as in Reference Image 3?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and recognizable facial features of the Reference Image 1 character in the video match Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and recognizable facial features of the Reference Image 2 character in the video match Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and recognizable facial features of the Reference Image 3 character in the video match Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid mistakenly including the original backgrounds from References 1, 2, or 3?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do three characters appear in the video?"
+      },
+      {
+        "en": "Does a folder appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the person from Reference Image 1 initially stand with arms crossed?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the person from Reference Image 1 join the person from Reference Image 3?"
+      },
+      {
+        "en": "Does the person from Reference Image 2 approach the person from Reference Image 1 with a folder?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do the people from Reference Images 1 and 3 walk side by side?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in a busy open-plan office?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the people from Reference Images 1 and 2 have a serious conversation?"
+      },
+      {
+        "en": "Do the people from Reference Images 1 and 3 chat casually while walking?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the person from Reference Image 2 hold a folder?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera follow the movement?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "After speaking with the person from Reference Image 2, does the person from Reference Image 1 join and walk with the person from Reference Image 3?"
+      }
+    ]
+  },
+  "multi_content_reference/044": {
+    "RF-C01": [
+      {
+        "en": "Is the female character in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and identifiable facial features of the female character in the video match Reference Image 1?"
+      },
+      {
+        "en": "Is the male character in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and identifiable facial features of the male character in the video match Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly duplicating the original backgrounds of Reference Image 1 or 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a tablet computer appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the tablet computer screen turned on?"
+      },
+      {
+        "en": "Do the two characters show a serious expression?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the two characters positioned face-to-face?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene a modern hospital nurse station?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the two characters conversing?"
+      },
+      {
+        "en": "Do the two characters maintain focused eye contact?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the person from Reference Image 1 hold the lit tablet?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium close-up shot?"
+      },
+      {
+        "en": "Does the camera remain fixed?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the lighting atmosphere of the video bright?"
+      }
+    ]
+  },
+  "multi_content_reference/045": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features (including black-framed glasses) consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the person in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features (including headband) consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid bringing in the solid color or polka dot background from the references?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a desk appear in the video?"
+      },
+      {
+        "en": "Does a pencil appear in the video?"
+      },
+      {
+        "en": "Does a notebook appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the person from Reference Image 1 smiling?"
+      },
+      {
+        "en": "Are both students seated at their classroom desks?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the two people in the video arranged side by side?"
+      },
+      {
+        "en": "Are the two people in the video located in front of a desk?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a classroom?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the person from Reference Image 1 lean closer to the other person?"
+      },
+      {
+        "en": "Does the person from Reference Image 1 look at the other person?"
+      },
+      {
+        "en": "Are the two people in the video conversing?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the person from Reference Image 2 holding a pencil?"
+      },
+      {
+        "en": "Is the person from Reference Image 2 writing in a notebook?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a Japanese 2D anime style?"
+      }
+    ]
+  },
+  "multi_content_reference/046": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the woman's visible hairstyle, hair color, forehead red dot, and facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the man in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Are the man's visible hairstyle, hair color, hair crown, and facial features consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the original backgrounds of Reference Image 1 or 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the left-right positions of Reference Image 1 and 2 characters correctly assigned without mismatch?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do both characters in the video show a confident expression?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Do both characters look upward?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman located in the left foreground of the frame?"
+      },
+      {
+        "en": "Is the man behind and to the right of the woman?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in front of ancient Chinese architecture?"
+      },
+      {
+        "en": "Is the time setting of the video at night?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the camera shot from a low angle looking up?"
+      },
+      {
+        "en": "Is the camera slowly pushing forward?"
+      }
+    ]
+  },
+  "multi_content_reference/047": {
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the curly-haired woman in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the original backgrounds of Reference Image 1 or 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person standing on the left side of the frame the one from Reference Image 1?"
+      },
+      {
+        "en": "Is the person standing on the right side of the frame the one from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a short-haired woman appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are there at least three characters in the video?"
+      },
+      {
+        "en": "Do the three characters stand side by side?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the short-haired woman in the middle look down?"
+      },
+      {
+        "en": "Does the character from Reference Image 2 open her mouth to speak?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the character from Reference Image 2 have a smiling expression?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set outdoors next to a building?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the character from Reference Image 1 listen to the character from Reference Image 2 speaking?"
+      }
+    ]
+  },
+  "multi_content_reference/048": {
+    "RF-C01": [
+      {
+        "en": "Is the lounge chair in the video the same lounge chair as in Reference Image 1?"
+      },
+      {
+        "en": "Is the cover-up in the video the same cover-up as in Reference Image 2?"
+      },
+      {
+        "en": "Are the sunglasses in the video the same sunglasses as in Reference Image 3?"
+      },
+      {
+        "en": "Is the drink in the video the same drink as in Reference Image 4?"
+      },
+      {
+        "en": "Is the towel in the video the same towel as in Reference Image 5?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly bringing the pure white background of the references into the frame?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are References 2 and 3 correctly used as apparel without being misattributed as environmental objects?"
+      },
+      {
+        "en": "Is Reference Image 5 correctly used as an environmental object without being misattributed as apparel?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video have blonde hair?"
+      },
+      {
+        "en": "Is the woman in the video wearing a cover-up?"
+      },
+      {
+        "en": "Is the woman in the video wearing sunglasses?"
+      },
+      {
+        "en": "Is the woman in the video in a sitting posture?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman in the video speak facing the camera?"
+      },
+      {
+        "en": "Does the woman in the video make hand gestures?"
+      },
+      {
+        "en": "Does the woman in the video lean back?"
+      },
+      {
+        "en": "Does the woman in the video lift her legs?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the drink placed beside the lounge chair within the woman's reach?"
+      },
+      {
+        "en": "Is the towel from Reference Image 5 spread over the lounge chair from Reference Image 1?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene an outdoor courtyard?"
+      },
+      {
+        "en": "Does the video scene show sunny weather?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera gradually pull back?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the woman speaking and gesturing first, then leaning back and lifting legs?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the woman put on the sunglasses from Reference Image 3?"
+      }
+    ]
+  },
+  "multi_content_reference/049": {
+    "RF-C01": [
+      {
+        "en": "Is the sofa in the video the same sofa as in Reference Image 1?"
+      },
+      {
+        "en": "Are the dining table and chairs in the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Is the storage cabinet in the video the same cabinet as in Reference Image 3?"
+      },
+      {
+        "en": "Is the lamp in the video the same lamp as in Reference Image 4?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the objects from the four reference images correctly assigned to their specified positions and uses without mismatch?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a mobile phone appear in the video?"
+      },
+      {
+        "en": "Does a kitchen area appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman walk toward the kitchen?"
+      },
+      {
+        "en": "Is the man in the video looking at a mobile phone?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the sofa (Reference Image 1) located on the right side of the frame?"
+      },
+      {
+        "en": "Are the dining table and chairs (Reference Image 2) located in the center of the frame?"
+      },
+      {
+        "en": "Is the storage cabinet (Reference Image 3) placed against a wall?"
+      },
+      {
+        "en": "Is the lamp (Reference Image 4) hanging above?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a modern open-plan home space environment?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man in the video lying on the sofa (Reference Image 1)?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium-long shot?"
+      },
+      {
+        "en": "Does the camera remain fixed?"
+      }
+    ]
+  },
+  "multi_content_reference/050": {
+    "RF-C01": [
+      {
+        "en": "Is the fireplace in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Is the sofa in the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Is the door in the video the same as in Reference Image 3?"
+      },
+      {
+        "en": "Are the intricate carvings and white marble material consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the blue patterns and wooden frame consistent with Reference Image 2?"
+      },
+      {
+        "en": "Are the white double-door structure and golden handle consistent with Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1 assigned to the left wall in the video?"
+      },
+      {
+        "en": "Is Reference Image 2 assigned to the right side in the video?"
+      },
+      {
+        "en": "Is Reference Image 3 assigned to the center in the video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two women appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does another older woman appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the two women wearing period dresses?"
+      },
+      {
+        "en": "Is the man wearing a uniform?"
+      },
+      {
+        "en": "Does the other woman have an older appearance?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Do the two women perform the action of standing up?"
+      },
+      {
+        "en": "Does the central door open?"
+      },
+      {
+        "en": "Do the uniformed man and older woman enter?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the two women located behind the sofa before standing up?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the overall environment a classic European-style room?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show a coherent event of the door opening and new characters entering?"
+      },
+      {
+        "en": "Do the two women rise from behind the sofa before the central door opens?"
+      }
+    ]
+  },
+  "multi_content_reference/051": {
+    "RF-C01": [
+      {
+        "en": "Is the candlestick in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Is the chair in the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Is the table in the video the same as in Reference Image 3?"
+      },
+      {
+        "en": "Are the three-arm candlestick, carved armchair, and pedestal table consistent with the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1 correctly mapped to the foreground object?"
+      },
+      {
+        "en": "Is Reference Image 2 correctly mapped to the objects on both sides of the characters?"
+      },
+      {
+        "en": "Is Reference Image 3 correctly mapped to the center object?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are there at least two men in the video?"
+      },
+      {
+        "en": "Are the two men and the woman separated by the object from Reference Image 3?"
+      },
+      {
+        "en": "Are chairs placed on both sides of the characters?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is there a woman in the video?"
+      },
+      {
+        "en": "Are there documents in the video?"
+      },
+      {
+        "en": "Are there bookshelves in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the two men wearing uniforms?"
+      },
+      {
+        "en": "Is the woman facing away from the camera?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene a classical study room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the scene brightly lit?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the two men conversing with the woman?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does one man lean forward to inspect the documents on the table?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show a man changing from leaning to standing straight?"
+      },
+      {
+        "en": "Does the video show the two men continuing to converse after standing straight?"
+      }
+    ]
+  },
+  "multi_content_reference/052": {
+    "RF-C01": [
+      {
+        "en": "Is the backpack in the video the same backpack as in Reference Image 1?"
+      },
+      {
+        "en": "Are the bright pink body, black handle, and zippers in the video consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the crossbody bag in the video the same crossbody bag as in Reference Image 2?"
+      },
+      {
+        "en": "Are the rabbit plush, dark blue splicing, and star-patterned pocket in the video consistent with Reference Image 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly place Ref 1 on the back and Ref 2 across the chest without mismatch?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a girl appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set during the daytime?"
+      },
+      {
+        "en": "Does a brick wall appear in the background of the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the little girl first look forward and then look down?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the little girl fiddle with Reference Image 2 across her chest?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot?"
+      },
+      {
+        "en": "Does the camera remain static?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the girl positioned beside the brick wall?"
+      }
+    ]
+  },
+  "multi_content_reference/053": {
+    "RF-C01": [
+      {
+        "en": "Is the drawing board in the video the same drawing board as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible blue frame, handle cutouts, and white inner board of the drawing board consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the cat pillow in the video the same pillow as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible cat ears, embroidered facial expression, and side tail of the pillow consistent with Reference Image 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 2 placed under the girl's head?"
+      },
+      {
+        "en": "Is Reference Image 1 placed beside the girl?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a little girl appear in the video?"
+      },
+      {
+        "en": "Does a hospital bed appear in the video?"
+      },
+      {
+        "en": "Does a person wearing a mascot suit appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the little girl in the video appear to be injured?"
+      },
+      {
+        "en": "Is the person in the mascot suit wearing a red plush suit?"
+      },
+      {
+        "en": "Is the little girl in the video lying on the hospital bed?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the person in the mascot suit make a reaching gesture?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the person in the mascot suit located in the right foreground of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a hospital ward?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the person in the mascot suit reach toward the injured girl?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the camera angle looking at the girl from behind the mascot?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the lighting in the video appear soft?"
+      }
+    ]
+  },
+  "multi_content_reference/054": {
+    "RF-C01": [
+      {
+        "en": "Is the wooden stool in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the cardboard boxes in the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Is the knitted blanket in the video the same as in Reference Image 3?"
+      },
+      {
+        "en": "Do the stool's striped cloth, boxes' patterns, and blanket's texture match the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the three reference images correctly assigned to their specified objects without mismatch?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a dressing table appear in the video?"
+      },
+      {
+        "en": "Does a floor mat appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does an ordinary pillow appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man show a posture of sleeping on his side?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man perform the action of waking up and sitting up?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the cardboard boxes arranged in a stacked manner?"
+      },
+      {
+        "en": "Are the cardboard boxes located on the left side of the frame?"
+      },
+      {
+        "en": "Is the stool from Reference Image 1 placed beside the dressing table?"
+      },
+      {
+        "en": "Is the blanket from Reference Image 3 loosely placed beside the floor mat?"
+      },
+      {
+        "en": "Is the ordinary pillow that the man adjusts positioned beneath him?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the overall scene set in a bedroom?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the man perform the action of adjusting the pillow's position?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a slightly high-angle shot?"
+      },
+      {
+        "en": "Does the video maintain a fixed camera without obvious movement?"
+      },
+      {
+        "en": "Is the shot scale a medium-long shot?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show a coherent progression of the man waking up, sitting up, and adjusting the pillow?"
+      }
+    ]
+  },
+  "multi_content_reference/055": {
+    "RF-C01": [
+      {
+        "en": "Is the outfit in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Are the projection screen and top projector consistent with Reference Image 2?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the shirt collar and tie consistent with Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the outfit worn by the character rather than laid flat as in Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly show the man wearing the outfit from Reference Image 1?"
+      },
+      {
+        "en": "Does the video show the man giving the presentation in the scene from Reference Image 2?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man in the video wearing glasses?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the man continuously explaining in the video?"
+      },
+      {
+        "en": "Does the man occasionally turn his head?"
+      },
+      {
+        "en": "Does the man occasionally shift his gaze?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man shown in profile?"
+      },
+      {
+        "en": "Is the man facing the left side of the frame?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium close-up shot?"
+      },
+      {
+        "en": "Does the camera remain static in the video?"
+      }
+    ]
+  },
+  "multi_content_reference/056": {
+    "RF-C01": [
+      {
+        "en": "Is the chair in the video the same chair as in Reference Image 1?"
+      },
+      {
+        "en": "Are the blue chair cover and white translucent ribbon in the video consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the tablecloth covering the round table the same tablecloth as in Reference Image 2?"
+      },
+      {
+        "en": "Are the blue tablecloth and its floral lace overlay consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid bringing in the pure white background of Reference Image 1 or 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign Reference Image 2 to the round table?"
+      },
+      {
+        "en": "Does the video correctly assign Reference Image 1 to the chairs?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a round table appear in the video?"
+      },
+      {
+        "en": "Do multiple chairs appear in the video?"
+      },
+      {
+        "en": "Do several women appear in the video?"
+      },
+      {
+        "en": "Does a bouquet of flowers appear in the video?"
+      },
+      {
+        "en": "Does a band appear in the video?"
+      },
+      {
+        "en": "Do other guests appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the multiple chairs arranged around the round table?"
+      },
+      {
+        "en": "Are the several women standing by the table?"
+      },
+      {
+        "en": "Are the band and other guests located on the background stage?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set at night?"
+      },
+      {
+        "en": "Is the video scene set on an outdoor lawn?"
+      },
+      {
+        "en": "Does the video scene show a party environment?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does a woman hand a bouquet of flowers to another woman?"
+      },
+      {
+        "en": "Does the receiving woman pass the flowers to someone next to her?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Do the women in the video hold the bouquet of flowers?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the complete process of the flowers being passed consecutively?"
+      }
+    ]
+  },
+  "multi_content_reference/057": {
+    "RF-C01": [
+      {
+        "en": "Is the tea set in the video the same tea set as in Reference Image 1?"
+      },
+      {
+        "en": "Are the white patterned teapot, teacups, and tray in the video consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the indoor scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the wooden table, wooden curio shelf, and porcelain vases in the video consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 3?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and identifiable facial features of the character in the video consistent with Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the subject performing actions correctly correspond to the woman in Reference Image 3?"
+      },
+      {
+        "en": "Do the items placed on the table correctly correspond to the tea set in Reference Image 1?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the woman in the video speaking?"
+      },
+      {
+        "en": "Is the woman in the video making gestures?"
+      },
+      {
+        "en": "Does the woman in the video rest her chin on her hand?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman from Reference Image 3 sitting at the wooden table?"
+      },
+      {
+        "en": "Is the tea set in the video placed on the wooden table?"
+      },
+      {
+        "en": "Is the woman in the video facing the camera?"
+      },
+      {
+        "en": "Does the woman point forward?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the woman speak and gesture, then rest her chin on her hand before pointing forward?"
+      }
+    ]
+  },
+  "multi_content_reference/058": {
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character in the video consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the dark wood floor, curtains, and rug edge in the video consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the vest in the video the same vest as in Reference Image 3?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the shape, print pattern, and button details of the vest in the video consistent with Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the outdoor background from Reference Image 1 into the frame?"
+      },
+      {
+        "en": "Does the video avoid bringing the pure white background from Reference Image 3 into the frame?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video put a vest on the woman while preserving her identity from Reference Image 1?"
+      },
+      {
+        "en": "Does the video replace the scene while preserving the woman's identity from Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the vest from Reference Image 3 worn by the woman from Reference Image 1?"
+      },
+      {
+        "en": "Does the woman from Reference Image 1 perform the specified actions toward the woman beside her?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the young woman in the video have curly hair?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character initially look down?"
+      },
+      {
+        "en": "Does the character gesture with one hand?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman from Reference Image 1 sitting on the floor beside the younger woman?"
+      },
+      {
+        "en": "Does the character turn towards the person next to her?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the character speak to the person next to her?"
+      }
+    ]
+  },
+  "multi_content_reference/059": {
+    "RF-C01": [
+      {
+        "en": "Is the indoor scene in the video the same indoor scene as in Ref 1?"
+      },
+      {
+        "en": "Are the green wall and desk lamp in the video consistent with Ref 1?"
+      },
+      {
+        "en": "Is the blue jacket in the video the same blue jacket as in Ref 2?"
+      },
+      {
+        "en": "Is the woman in the video the same woman as in Ref 3?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Ref 3?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the clothing to the jacket from Ref 2 while preserving the woman's identity?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly have the woman from Ref 3 wear the jacket from Ref 2?"
+      },
+      {
+        "en": "Does the video correctly use Ref 1 as the background scene?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video look serious?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man located in the foreground of the video?"
+      },
+      {
+        "en": "Is the woman facing the man in the video?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the woman look down, then raise her head, look at the man, and speak?"
+      }
+    ]
+  },
+  "multi_content_reference/060": {
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same man as in Reference Image 1?"
+      },
+      {
+        "en": "Is the official uniform in the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Is the folding screen in the video the same as in Reference Image 3?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the purplish-red fabric, gold edging, and front circular embroidery consistent with Reference Image 2?"
+      },
+      {
+        "en": "Are the red-black-gold color scheme, landscape patterns, and center circular decoration consistent with Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the light-colored clothes from Reference Image 1?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the gold crown from Reference Image 1?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the flat layout of Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the white background of Reference Image 3?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the man's identity from Reference Image 1 while changing his clothes and headwear?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the uniform from Reference Image 2 correctly assigned as the man's clothing without mismatch?"
+      },
+      {
+        "en": "Is the screen from Reference Image 3 correctly assigned as the background without mismatch?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a desk appear in the video?"
+      },
+      {
+        "en": "Does an official hat appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the official hat black?"
+      },
+      {
+        "en": "Does the official hat have extended wings?"
+      },
+      {
+        "en": "Is the man wearing the official uniform?"
+      },
+      {
+        "en": "Is the man wearing the official hat?"
+      },
+      {
+        "en": "Is the man in a sitting posture?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man speak calmly?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man facing forward?"
+      },
+      {
+        "en": "Is the man seated behind the desk with the screen from Reference Image 3 behind him?"
+      }
+    ]
+  },
+  "multi_content_reference/061": {
+    "RF-C01": [
+      {
+        "en": "Is the yellow floral shirt in the video the same shirt as in Reference Image 1?"
+      },
+      {
+        "en": "Is the living room scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Is the man in the video the same man as in Reference Image 3?"
+      },
+      {
+        "en": "Is the woman next to the man in the video the same woman as in Reference Image 4?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the yellow background and dark blue floral patterns of the shirt consistent with Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid including the white background or mannequin from Reference Image 1?"
+      },
+      {
+        "en": "Does the video avoid copying the outdoor background of Reference Image 4 into the living room?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the identity of the man in Reference Image 3 while changing his clothes to a new style?"
+      },
+      {
+        "en": "Does the video retain the identity of the woman in Reference Image 4 while placing her in a new scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the man from Reference Image 3 wear the yellow printed shirt from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a woman with long hair appear in the video?"
+      },
+      {
+        "en": "Does a sofa appear in the video?"
+      },
+      {
+        "en": "Do green plants appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the man and the woman sitting side by side on the sofa in the video?"
+      },
+      {
+        "en": "Does the woman with long hair approach from the foreground in the video?"
+      },
+      {
+        "en": "Does the woman with long hair sit opposite the man and the woman in the video?"
+      },
+      {
+        "en": "Are there at least three characters in the video?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the three characters in the video engage in a conversation?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the complete process of the long-haired woman approaching and sitting down, followed by the three starting to converse?"
+      }
+    ]
+  },
+  "multi_content_reference/062": {
+    "RF-C01": [
+      {
+        "en": "Is the jacket in the video the same jacket as in Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Is the man in the video the same man as in Reference Image 3?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character consistent with Reference Image 3?"
+      },
+      {
+        "en": "Are the starry roof and black leather seats consistent with Reference Image 2?"
+      },
+      {
+        "en": "Are the green fabric and button design consistent with Reference Image 1?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Is the dark fur collar consistent with Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video replace the light jacket from Reference Image 3 with the green jacket from Reference Image 1?"
+      },
+      {
+        "en": "Does the video avoid incorrectly copying the solid background from Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the yellow hard hat correctly worn by the man without mismatch?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a hard hat appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the hard hat yellow?"
+      },
+      {
+        "en": "Is the man smiling?"
+      },
+      {
+        "en": "Is the man in a sitting posture?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man lower his hand?"
+      },
+      {
+        "en": "After touching the hat brim, does the man lower his hand and then speak with a smile?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man located in the back seat of the car?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the man touch the brim of the hat?"
+      }
+    ]
+  }
+}

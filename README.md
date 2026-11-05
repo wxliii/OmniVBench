@@ -39,6 +39,15 @@ Explore the complete task definitions, model comparison, and qualitative example
 
 Download the benchmark instructions and reference media on [Hugging Face](https://huggingface.co/datasets/wxli318/OmniVBench).
 
+## Evaluation
+
+Evaluation code and checklists are included in
+[`evaluation/`](evaluation/README.md). Task instructions are provided with the
+[Hugging Face dataset](https://huggingface.co/datasets/wxli318/OmniVBench).
+See the [evaluation guide](evaluation/README.md) for RF, IR, VQ, and combined scores.
+Reference media, fixed storyboard frames, and model weights are hosted on
+[Hugging Face](https://huggingface.co/datasets/wxli318/OmniVBench).
+
 ## 🎞️ Omni-R2V Dataset
 
 Omni-R2V is a large-scale public R2V training dataset covering heterogeneous image and video references as well as multi-reference compositions. It contains live-action, 2D animation, and 3D animation videos across all seven task families. Each processed sample pairs reference input(s) with a training instruction and target video.
@@ -63,9 +72,13 @@ Omni-R2V is a large-scale public R2V training dataset covering heterogeneous ima
   author  = {Li, Wenxue and Guan, Peiyan and Jiang, Haoyang and Cai, Junxian and
              Liu, Hualuo and Zhang, Chunjie and Guan, Chong and Huang, Kai and
              Li, Songlian and Wu, Taiyi and Yu, Yongjian and Zhao, Xiaotong and
-             Zhao, Alan and Liu, Eric and Chen, Xi and Liu, Yu and Zhu, Lei},
+             Zhao, Alan and Liu, Quande and Chen, Xi and Liu, Yu and Zhu, Lei},
   journal = {arXiv preprint arXiv:2609.22069},
   year    = {2026},
   url     = {https://arxiv.org/abs/2609.22069}
 }
 ```
+
+Code is MIT licensed. Benchmark annotations and reference resources retain their
+[resource terms](TERMS_OF_USE.md).
+

@@ -1,0 +1,97 @@
+Score each sub-question 1-5 from visual evidence only. Judge ONLY the
+signal explicitly asked about. First identify that question’s
+CORE requirements; unrelated differences do not cost points. Do
+not penalize general video quality unless it prevents the asked
+reference factor from being reliably observed or preserved.
+Evaluate a signal at its RELEVANT moments or opportunities. Do not
+require an action, event, transition or pose to appear in every
+frame merely to earn 5.
+Apply the scale in this order: first decide whether every CORE
+requirement is correct; if not, decide whether the SPECIFIC
+intended signal is still recognisable, only its broad category is
+related, or no meaningful correspondence remains.
+- 5 = complete and clean: every core requirement and every clearly
+observable secondary aspect of the asked signal matches. The
+signal is shown with enough evidence at its relevant moments, and
+no specific visible deviation can be identified. Do not give 5
+merely because the overall impression is correct.
+- 4 = complete with a minor visible flaw: every core requirement
+matches, but at least one specific non-core deviation can be
+identified, such as a small difference in degree, a secondary-
+detail mismatch or a brief local drift. It must not remove,
+replace, reverse or materially alter any core requirement.
+- 3 = specifically recognisable but materially incomplete: enough
+defining evidence remains to identify the specific intended signal
+, but at least one core requirement is visibly missing, wrong,
+substantially different or unstable. Also use 3 when the core
+signal appears correct but the output does not provide enough
+evidence to verify it reliably. The match must go beyond category
+or general resemblance.
+- 2 = only loosely related: some positive correspondence is visible,
+but most defining requirements are missing or wrong. The output
+matches only the broad category, theme, action family, visual
+family or rough impression; the specific referenced signal cannot
+be established reliably.
+- 1 = no meaningful correspondence: the asked signal is absent,
+unrelated, replaced, contradicted or reversed. Unlike score 2,
+there is not enough positive evidence even for a weak attempted
+match.
+ALLOWED TRANSFORMATIONS: Discount a difference only when the
+instruction explicitly requests it or it is inherent to the
+required carrier conversion, and only when the sub-question does
+not ask about that factor. Examples include line art or a grey-box
+becoming a finished render, still panels becoming continuous
+motion, or an explicitly requested change of identity, appearance,
+scene or style. Re-framing, re-staging, camera changes, duration
+and pacing are not blanket exemptions: ignore them only when they
+are explicitly permitted by the instruction or the provided
+evaluation context and they do not damage the signal being scored.
+A permitted transformation is not itself an error, but any
+resulting loss of the asked signal still counts.
+VISIBILITY AND EVIDENCE: Do not invent a mismatch in detail that the
+intended output shot scale cannot resolve, and discount apparent
+changes caused only by viewpoint, expression, lighting, motion
+blur or ordinary resolution limits. However, output-caused
+concealment is not proof of fidelity: if the output’s own framing,
+cropping, occlusion, blur or brevity prevents a required factor
+from ever being verified, it cannot receive 4 or 5. If the
+required subject or event is effectively absent, score 1 or 2
+rather than treating it as unobservable.
+IDENTITY (’the same person / object / scene’): judge instance
+sameness, not category likeness. Generic traits prove little.
+Compare individuating structure: facial geometry and feature
+proportions, hairline and unique marks; object shape, proportions
+and workmanship; scene-specific layout and landmarks. 5 = clearly
+the same instance with all verifiable defining structure matching;
+4 = clearly the same with one minor defining deviation; 3 =
+recognisably derived from the same instance but with one
+substantial or several visible deviations; 2 = only a similar
+member of the same category or too weakly shown to establish
+sameness; 1 = different or absent.
+DETAIL / SURFACE / PART CONSISTENCY: Weight differences by importance
+, not raw count. One wrong defining part may be a core failure,
+while several incidental details may be minor. Judge the coverage
+and severity of visible, resolvable defining features.
+MOTION / CAMERA MOTION: Core requirements are the requested stages,
+direction, trajectory, extent, key poses and ordering. Judge each
+at the corresponding relevant part of the ordered frames; a
+correctly completed one-time stage may earn 5. Never invent motion
+between frames, and judge absolute timing only when the supplied
+frame note says it is comparable.
+STRUCTURE / COMPOSITION: Core requirements are the anchors actually
+named by the question, such as outline, pose, placement,
+proportion, shot scale, composition and spatial relations. A
+difference in one of those named factors is not re-staging to
+discount.
+COMPLETION BETWEEN ANCHORS: Judge whether the unspecified intervals
+are filled continuously, naturally and without breaking the given
+anchors. Do not demand pixel alignment to an anchor during an
+interval that is supposed to introduce motion or new content.
+NARRATIVE: Core requirements are the named events, roles, relations,
+causal links and order. Score semantic preservation rather than
+visual identity, setting, shot choice or absolute pace unless the
+question explicitly names those factors.
+STYLE: Judge the named overall visual language, medium, palette,
+material rendering, lighting or atmosphere. Ignore changed content
+and composition unless they are part of the style signal
+explicitly asked about.

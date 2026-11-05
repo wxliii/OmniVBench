@@ -1,0 +1,1000 @@
+{
+  "continuation/001": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the little girl in the video the same person as in the Reference Video?"
+      },
+      {
+        "en": "Is the bamboo basket in the video the same object as in the Reference Video?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the little girl put the red fruit into the bamboo basket?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video presented in a close-up shot?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new event of the girl putting fruit into the basket?"
+      }
+    ]
+  },
+  "continuation/002": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Are the two men in the video the same as the two men pulled away in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any text or timestamps?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Do both men drop to their knees on the ground?"
+      },
+      {
+        "en": "Do the two men clasp their hands?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video present a frontal angle?"
+      },
+      {
+        "en": "Is the video shot in a medium shot?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new event of the two men kneeling and begging for mercy, rather than just repeating the actions from the previous shot?"
+      }
+    ]
+  },
+  "continuation/003": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the white-clad character in the video the same as in the Reference Video?"
+      },
+      {
+        "en": "Is the other character in the video the same as in the Reference Video?"
+      },
+      {
+        "en": "Is the icy snowy peak scene in the video the same as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, and timestamps?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set among snowy peaks?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot from a high-angle perspective?"
+      },
+      {
+        "en": "Is the video shot in a long shot scale?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new event of the two characters crossing swords and sparking?"
+      }
+    ]
+  },
+  "continuation/004": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in the Reference Video?"
+      },
+      {
+        "en": "Is the man in the video the same person as in the Reference Video?"
+      },
+      {
+        "en": "Is the scooter in the video the same one as in the Reference Video?"
+      },
+      {
+        "en": "Is the street scene in the video the same as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, logos, or timestamps?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the woman in the video smiling?"
+      },
+      {
+        "en": "Does the woman in the video open her arms?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot from a frontal perspective of the subjects?"
+      },
+      {
+        "en": "Does the camera follow the subjects' movement?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the subsequent state of the woman opening her arms in the backseat?"
+      }
+    ]
+  },
+  "continuation/005": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a kitten appear in the video?"
+      },
+      {
+        "en": "Does a door crack appear in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video present a perspective cutting to the character's line of sight?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new event of a kitten appearing through a door crack?"
+      }
+    ]
+  },
+  "continuation/006": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same man as in the Reference Video?"
+      },
+      {
+        "en": "Is the indoor scene in the video the same scene as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any text, subtitles, or timestamps?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man in the video reach out his hand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video presented from the boy's point of view?"
+      },
+      {
+        "en": "Does the video use a low-angle shot looking up?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new event of the man reaching out his hand to the boy?"
+      }
+    ]
+  },
+  "continuation/007": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Are the visible hands, sleeves, and other observable identifying details consistent with the corresponding person in the previous shot, without requiring an off-frame face?"
+      },
+      {
+        "en": "Are the little girl's visible hand, sleeve, and other observable identifying details consistent with the previous shot, without requiring her face to appear?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, or timestamps?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Are the two people holding hands in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video a close-up shot?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the two people's clasped hands trembling?"
+      }
+    ]
+  },
+  "continuation/008": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the dog in the video the same one as in the Reference Video?"
+      },
+      {
+        "en": "Is the plaza scene in the video the same one as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, and timestamps?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a dog appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the dog shaking off water in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in a plaza?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera cut to the dog and present a distant perspective?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new event of the dog shaking water, rather than just repeating the ending state of the Reference Video?"
+      }
+    ]
+  },
+  "continuation/009": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Are the hand, glove, sleeve, and other visible identifying details consistent with the masked man in the previous shot, without requiring his face or mask to appear?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of unwanted text and timestamps, while allowing the explicitly requested in-scene runes?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does the character's hand appear in the video?"
+      },
+      {
+        "en": "Do glowing runes appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the action of runes floating up occur in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the runes located at the character's palm in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot scale of the video a close-up of the hand?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new event of runes floating above the palm?"
+      }
+    ]
+  },
+  "continuation/010": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Are the two distant figures consistent with the previous characters' observable silhouettes and clothing, without requiring facial details invisible at the instructed scale?"
+      },
+      {
+        "en": "Is the natural landscape in the video the same scene as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, logos, and timestamps?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video present a foggy environment?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a high-angle shot?"
+      },
+      {
+        "en": "Does the video use a wide shot?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do both figures appear as two tiny distant silhouettes or dots in the fog?"
+      }
+    ]
+  },
+  "continuation/011": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, channel logos, or timestamps?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Does a door appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video set at a doorway?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the woman in the video push the door open?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video show a shot cutting to the doorway?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new event of a woman pushing the door and coming in?"
+      }
+    ]
+  },
+  "continuation/012": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Are the man's visible hand, sleeve, and other observable identifying details consistent with the previous shot, without requiring his face to remain in frame?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man's visible hand tremble?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video feature a slow push-in camera movement?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video shift the visual focus to the man's hands, achieving narrative progression?"
+      }
+    ]
+  },
+  "continuation/013": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the old man in the video the same person as in the Reference Video?"
+      },
+      {
+        "en": "Is the location spatially consistent with the previous shot while allowing the requested view from outside the window?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a morning time setting?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera cut to a view from outside the window?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is there a lighting effect of morning light shining on the character's face?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new narrative state of cutting outside with morning light on his face?"
+      }
+    ]
+  },
+  "continuation/014": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the movie theater scene in the video the same as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene feature a movie screen?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera cut to the front of the screen?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video advance the narrative by showing the screen?"
+      }
+    ]
+  },
+  "continuation/015": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, channel logos, or timestamps?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a sedan appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the car in the video black?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the car in the video perform the action of stopping?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the car in the video located at a doorway or entrance?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video show a camera cut to the doorway?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the narrative progression of cutting to a doorway and a car stopping?"
+      }
+    ]
+  },
+  "continuation/016": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same man as in the Reference Video?"
+      },
+      {
+        "en": "Is the metal spearhead in the video the same metal spearhead as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, and timestamps?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a metal spearhead appear in the video?"
+      },
+      {
+        "en": "Do the man's eyes appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the man's eyes show an alert expression in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the metal spearhead occupy the foreground of the video?"
+      },
+      {
+        "en": "Do the man's eyes appear behind the metal spearhead in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video presented as a close-up shot?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new state of the man revealing alert eyes behind the spearhead?"
+      }
+    ]
+  },
+  "continuation/017": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the female patient in the video the same person as in the Reference Video?"
+      },
+      {
+        "en": "Is the male patient in the video the same person as in the Reference Video?"
+      },
+      {
+        "en": "Is the corridor in the video the same scene as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, channel logos, or timestamps?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the two patients turn toward each other?"
+      },
+      {
+        "en": "Do the two patients appear to converse quietly with each other?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video presented as a two-shot medium shot?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new event of the two patients starting to converse?"
+      }
+    ]
+  },
+  "continuation/018": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the injured person in the video the same as in the Reference Video?"
+      },
+      {
+        "en": "Is the person bandaging in the video the same as in the Reference Video?"
+      },
+      {
+        "en": "Is the scene in the video the same as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a clean bandage appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the bandaged upper arm have bloodstains in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the bandaging location above the elbow of the arm?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is one person touching another person's arm in the video?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the person in the video using a bandage to wrap the arm?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot scale of the video a close-up?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new event of bandaging the injured arm?"
+      }
+    ]
+  },
+  "continuation/019": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the paper in the video the same paper as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a map appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the map look old and visibly torn or damaged?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a close-up shot to display the map?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video achieve the narrative progression of cutting to a close-up of the map?"
+      }
+    ]
+  },
+  "continuation/020": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video presented from a first-person (point-of-view) perspective?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video achieve a shot transition to the bird of prey's perspective to advance the narrative?"
+      }
+    ]
+  },
+  "continuation/021": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the stage scene in the video the same as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text and timestamps?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Do the musicians in the video raise their violins and assume a playing posture?"
+      },
+      {
+        "en": "Do the musicians in the video start playing together?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video cut to a frontal angle of the stage?"
+      },
+      {
+        "en": "Is the shot scale of the video a medium shot?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new event of musicians preparing and starting to play, rather than just repeating the state of the previous shot?"
+      }
+    ]
+  },
+  "continuation/022": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Are the dining table and dishes in the video the same as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, and timestamps?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Do the diners continue picking up food and eating?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the camera at an eye-level angle facing the front of the table?"
+      },
+      {
+        "en": "Is the shot a medium shot?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the people continuing to dine after the camera perspective switches?"
+      }
+    ]
+  },
+  "continuation/023": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the ruins scene in the video the same ruins scene as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of text, subtitles, channel logos, or timestamps?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a pair of boots appear in the video?"
+      },
+      {
+        "en": "Does rubble appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Do the boots in the video perform a stepping or walking action?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the scene in the video appear as a ground covered with rubble?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a ground-level perspective?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new event of boots stepping over the rubble?"
+      }
+    ]
+  },
+  "continuation/024": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, logos, and timestamps?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a majestic city gate appear in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera cut to a wide view looking ahead toward the city gate?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the new event of a city gate appearing ahead?"
+      }
+    ]
+  },
+  "continuation/025": {
+    "RF-N02": [
+      {
+        "en": "Does the video genuinely present a new shot occurring after the Reference Video, preserving the necessary character, setting, and narrative context while advancing subsequent content, rather than merely changing appearances and reenacting or closely reproducing the Reference Video's original sequence?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Are the visible hand, sleeve, and other observable identifying details consistent with the man in the previous shot, without requiring his face to appear?"
+      },
+      {
+        "en": "Is the energy ball in the video the same object as in the Reference Video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, logos, and timestamps?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the energy orb spin in the man's palm?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the energy ball located in the character's palm in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video presented as a close-up shot of the energy ball?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the narrative progression of cutting to a close-up of the energy orb spinning in his palm?"
+      }
+    ]
+  }
+}

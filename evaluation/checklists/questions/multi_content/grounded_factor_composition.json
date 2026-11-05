@@ -1,0 +1,2072 @@
+{
+  "multi_reference_composition/001": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman in Reference Image 1 appear in the video as the same person?"
+      },
+      {
+        "en": "Does the stack of books from Reference Image 2 appear as the same identifiable stack?"
+      },
+      {
+        "en": "Does the targeted bouquet in Reference Image 3 appear in the video as the same bouquet?"
+      },
+      {
+        "en": "Does the targeted decanter in Reference Image 4 appear in the video as the same decanter?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the targeted woman in Reference Image 1 performing the actions?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a table appear in the video?"
+      },
+      {
+        "en": "Does a cup appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the character move to the side of the table?"
+      },
+      {
+        "en": "Is the stack of books eventually placed on the table?"
+      },
+      {
+        "en": "Is the bouquet eventually set down at the table?"
+      },
+      {
+        "en": "Is the cup located on the table?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the woman carry the stack of books and bouquet in her arms?"
+      },
+      {
+        "en": "Does the woman set the stack of books down on the table?"
+      },
+      {
+        "en": "Does the woman set the bouquet down at the table?"
+      },
+      {
+        "en": "Does the character pick up the decanter?"
+      },
+      {
+        "en": "Does the woman pour wine from the referenced decanter into the glass on the table?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the sequence of putting down items first, then picking up the decanter to pour?"
+      }
+    ]
+  },
+  "multi_reference_composition/002": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted man from Reference Image 1 appear in the video and is he the same person?"
+      },
+      {
+        "en": "Does the targeted umbrella from Reference Image 3 appear in the video and is it the same umbrella?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 4 appear in the video and is it the same scene?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the video character consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the black multi-compartment bookshelf and white single sofas in the video consistent with Reference Image 4?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Is the pattern on the subject's work vest consistent with the targeted handbag from Reference Image 2?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the man's identity from Reference Image 1 while changing his vest to the new pattern?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the pattern from Reference Image 2 applied to the subject's work vest?"
+      },
+      {
+        "en": "Does the targeted man from Reference Image 1 hold and open the umbrella?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man walk between the two white chairs?"
+      },
+      {
+        "en": "Does the man stop walking?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character hold the umbrella?"
+      },
+      {
+        "en": "Does the character open the umbrella?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the man walk between the two white chairs carrying the umbrella, stop, and then open it?"
+      }
+    ]
+  },
+  "multi_reference_composition/003": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear and is she the same person?"
+      },
+      {
+        "en": "Does the targeted man from Reference Image 2 appear and is he the same person?"
+      },
+      {
+        "en": "Does the targeted woman from Reference Image 2 appear and is she the same person?"
+      },
+      {
+        "en": "Does the stack of books selected in Reference Image 3 appear as the same identifiable stack?"
+      },
+      {
+        "en": "Does the selected bouquet from Reference Image 3 appear as the same identifiable bouquet?"
+      },
+      {
+        "en": "Does the backpack from Reference Image 4 appear and is it the same backpack?"
+      },
+      {
+        "en": "Does the scene from Reference Image 5 appear and is it the same scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the woman selected from Reference Image 1 carrying the stack of books?"
+      },
+      {
+        "en": "Is a targeted character from Reference Image 2 carrying the bouquet?"
+      },
+      {
+        "en": "Is the backpack worn on the back of the other selected Reference Image 2 character, distinct from the bouquet holder?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Are the characters in the video walking forward?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do all three selected subjects appear together?"
+      },
+      {
+        "en": "Are the three characters arranged side by side?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is a character carrying the stack of books?"
+      },
+      {
+        "en": "Is a character carrying or using the bouquet?"
+      },
+      {
+        "en": "Is one selected Reference Image 2 character wearing the referenced backpack on their back?"
+      }
+    ]
+  },
+  "multi_reference_composition/004": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear and remain the same person?"
+      },
+      {
+        "en": "Does the targeted woman from Reference Image 3 appear and remain the same person?"
+      },
+      {
+        "en": "Does the targeted book from Reference Image 2 appear and remain the same book?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 4 appear and remain the same scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one who opens and closes the book the targeted woman from Reference Image 1, not Reference Image 3?"
+      },
+      {
+        "en": "Is the one who takes and opens the book the targeted woman from Reference Image 3, not Reference Image 1?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does one character take the book from another character's hands?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does each subject open the book and look at its contents in their turn?"
+      },
+      {
+        "en": "Does any character close the book in the video?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show a coherent progression of opening, closing, handing over, and reopening the book?"
+      }
+    ]
+  },
+  "multi_reference_composition/005": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted man from Reference Image 1 appear in the video and is he the same person?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Does the targeted bed from Reference Image 2 appear and is it the same one in shape, structure, pattern and color?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the targeted man from Reference Image 1 who walks to and smooths the bed?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the character walk to the side of the bed?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character smooth the bed with both hands?"
+      }
+    ]
+  },
+  "multi_reference_composition/006": {
+    "RF-C01": [
+      {
+        "en": "Is the targeted mascot from Reference Image 1 present in the video and the exact same one?"
+      },
+      {
+        "en": "Are the character's visible transparent dome and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the wreath from Reference Image 2 present in the video and the exact same wreath?"
+      },
+      {
+        "en": "Is the scene from Reference Image 3 present in the video and the exact same scene?"
+      },
+      {
+        "en": "Are the blue and white checkered tablecloth, white folding chairs, and red brick wall consistent with Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one lifting and holding the wreath the targeted mascot from Reference Image 1?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character turning around slowly?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character lifting and holding the wreath with both hands?"
+      }
+    ]
+  },
+  "multi_reference_composition/007": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted girl from Reference Image 1 appear in the video and is she the same person?"
+      },
+      {
+        "en": "Does the top from Reference Image 2 appear in the video and is it the same one?"
+      },
+      {
+        "en": "Does the woman from Reference Image 3 appear in the video and is she the same person?"
+      },
+      {
+        "en": "Does the scene from Reference Image 4 appear in the video and is it the same scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one unfolding the top the targeted girl from Reference Image 1, not the woman from Reference Image 3?"
+      },
+      {
+        "en": "Is the one taking the top the woman from Reference Image 3, not the targeted girl from Reference Image 1?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does one character take the top from another character's hands?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a character unfold the top with both hands?"
+      },
+      {
+        "en": "Does a character sequentially show the front and back of the top?"
+      },
+      {
+        "en": "Does the recipient show the top to the camera?"
+      }
+    ]
+  },
+  "multi_reference_composition/008": {
+    "RF-C01": [
+      {
+        "en": "Is the targeted man from Reference Image 1 present and the same person?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the targeted veil from Reference Image 2 present and the exact same item?"
+      },
+      {
+        "en": "Is the targeted scene from Reference Image 3 present and the same scene?"
+      },
+      {
+        "en": "Are the teal walls, white door frames, and black chairs consistent with Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person holding the veil the targeted man from Reference Image 1, not the other men?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character walk forward?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character hold the veil?"
+      },
+      {
+        "en": "Does the character spread the veil with both hands?"
+      }
+    ]
+  },
+  "multi_reference_composition/009": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear and is she the same person?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Does the targeted wine glass from Reference Image 2 appear and is it the same glass?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the targeted woman from Reference Image 1 who picks up the glass?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character pick up the wine glass and take a sip?"
+      },
+      {
+        "en": "Does the character slowly put down the wine glass?"
+      }
+    ]
+  },
+  "multi_reference_composition/010": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear in the video and is she the same person?"
+      },
+      {
+        "en": "Does the targeted necklace from Reference Image 2 appear in the video and is it the same one?"
+      },
+      {
+        "en": "Does the targeted woman from Reference Image 3 appear in the video and is she the same person?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 4 appear in the video and is it the same scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the woman selected from Reference Image 1 put the necklace around the neck of the woman from Reference Image 3?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does a character put an item around another character's neck?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a character hold the necklace?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the woman from Reference Image 3 lower her head to inspect the necklace?"
+      }
+    ]
+  },
+  "multi_reference_composition/011": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear in the video as the same person?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and facial features match Reference Image 1?"
+      },
+      {
+        "en": "Does the targeted food from Reference Image 2 appear in the video as the same food?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 3 appear in the video as the same scene?"
+      },
+      {
+        "en": "Do the grid wall tiles, wooden counter, and wooden chairs match Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one eating the targeted person from Reference Image 1, not the man in blue?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character eating the food?"
+      }
+    ]
+  },
+  "multi_reference_composition/012": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted man from Reference Image 1 appear in the video and is he the same person?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Does the targeted throw pillow from Reference Image 2 appear in the video and is it the same pillow?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 3 appear in the video and is it the same scene?"
+      },
+      {
+        "en": "Are the large cargo ship, distant city lights, and foreground railing in the video consistent with Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person holding and showing the pillow the targeted man from Reference Image 1?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character turn around?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character show the item to the camera?"
+      },
+      {
+        "en": "Does the character pick up and hold the throw pillow?"
+      }
+    ]
+  },
+  "multi_reference_composition/013": {
+    "RF-C01": [
+      {
+        "en": "Is the targeted man from Reference Image 1 present and the same person?"
+      },
+      {
+        "en": "Do the man's visible hairstyle, hair color, and facial features match Reference Image 1?"
+      },
+      {
+        "en": "Is the bouquet from Reference Image 2 present and the same item?"
+      },
+      {
+        "en": "Is the woman from Reference Image 3 present and the same person?"
+      },
+      {
+        "en": "Do the woman's visible hairstyle, hair color, and facial features match Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the targeted man from Reference Image 1 walking with the bouquet?"
+      },
+      {
+        "en": "Is it the woman from Reference Image 3 who takes the bouquet?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does one character take the bouquet from another character's hands?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a character pick up the bouquet?"
+      },
+      {
+        "en": "Does a character walk forward holding the bouquet?"
+      },
+      {
+        "en": "Does the recipient show the bouquet to the camera?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show a coherent progression of the bouquet being picked up, passed, and shown?"
+      }
+    ]
+  },
+  "multi_reference_composition/014": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted man from Reference Image 1 appear in the video as the same person?"
+      },
+      {
+        "en": "Are the visible red bandana and recognizable facial features of the character consistent with Reference Image 1?"
+      },
+      {
+        "en": "Does the targeted decanter from Reference Image 2 appear in the video as the same item?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 3 appear in the video as the same scene?"
+      },
+      {
+        "en": "Are the wooden tables and chairs, dark counter, and red lanterns consistent with Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one holding the decanter the targeted man from Reference Image 1, not the other men?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character pick up the decanter?"
+      },
+      {
+        "en": "Does the character gently shake the decanter?"
+      },
+      {
+        "en": "Does the character put down the decanter?"
+      }
+    ]
+  },
+  "multi_reference_composition/015": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted man from Reference Image 1 appear and is he the same person?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and identifiable facial features match Reference Image 1?"
+      },
+      {
+        "en": "Does the targeted bag from Reference Image 2 appear and is it the same bag?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 3 appear and is it the same scene?"
+      },
+      {
+        "en": "Do the black illuminated bookshelf and white armchairs in the video match Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one walking forward with the bag the targeted man from Reference Image 1?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character walking forward?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character carrying the referenced bag on their back?"
+      }
+    ]
+  },
+  "multi_reference_composition/016": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted man from Reference Image 1 appear and is he the same person?"
+      },
+      {
+        "en": "Does the targeted drink from Reference Image 2 appear and is it the same drink?"
+      },
+      {
+        "en": "Does the targeted woman from Reference Image 3 appear and is she the same person?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 4 appear and is it the same scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one handing over the drink the targeted man from Reference Image 1?"
+      },
+      {
+        "en": "Is the one receiving and drinking the drink the targeted woman from Reference Image 3?"
+      },
+      {
+        "en": "Is the drink being handed over and drunk the targeted drink from Reference Image 2?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does one character hand over a drink to another character in the video?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a character receive the drink in the video?"
+      },
+      {
+        "en": "Does a character take a sip of the drink in the video?"
+      }
+    ]
+  },
+  "multi_reference_composition/017": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted male character from Reference Image 1 appear in the video as the same person?"
+      },
+      {
+        "en": "Does the targeted book from Reference Image 2 appear in the video as the same book?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the striped pattern and color of the character's suit consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the cover pattern and color scheme of the book consistent with Reference Image 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the targeted male character from Reference Image 1 who opens and closes the book?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character open the book and look at its contents?"
+      },
+      {
+        "en": "Does the character subsequently close the book?"
+      }
+    ]
+  },
+  "multi_reference_composition/018": {
+    "RF-C01": [
+      {
+        "en": "Does the located man from Reference Image 1 appear in the video and is he the same person?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, facial features, and glasses consistent with Reference Image 1?"
+      },
+      {
+        "en": "Does the located bed from Reference Image 2 appear in the video and is it the same bed?"
+      },
+      {
+        "en": "Does the located scene from Reference Image 3 appear in the video and is it the same scene?"
+      },
+      {
+        "en": "Are the dense green leaves, dark tree trunks, and rocks in the video consistent with Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person sitting on the bed the located man from Reference Image 1?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the selected character sit down on the referenced bed during the video?"
+      }
+    ]
+  },
+  "multi_reference_composition/019": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear in the video and remain the same person?"
+      },
+      {
+        "en": "Does the targeted wreath from Reference Image 2 appear and remain the same item?"
+      },
+      {
+        "en": "Does the targeted cartoon character from Reference Image 3 appear and remain the same character?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 4 appear and remain the same scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the action performed by the cartoon character from Reference Image 3?"
+      },
+      {
+        "en": "Is the action received by the woman from Reference Image 1?"
+      },
+      {
+        "en": "Is the placed item the wreath from Reference Image 2?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does a character place an item onto another character's head in the video?"
+      }
+    ]
+  },
+  "multi_reference_composition/020": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted ancient man from Reference Image 1 appear in the video as the same person?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Does the targeted top from Reference Image 2 appear in the video as the same item?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 3 appear in the video as the same scene?"
+      },
+      {
+        "en": "Are the red curtains, glowing dot matrix screen, and black tabletop consistent with Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the unfolding performed by the targeted ancient man from Reference Image 1, not other men in it?"
+      },
+      {
+        "en": "Is the targeted top from Reference Image 2 held in hands?"
+      },
+      {
+        "en": "Is the background the targeted scene from Reference Image 3?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character unfold the top with both hands?"
+      },
+      {
+        "en": "Does the character sequentially show the front and back of the top?"
+      }
+    ]
+  },
+  "multi_reference_composition/021": {
+    "RF-C01": [
+      {
+        "en": "Is the targeted woman from Reference Image 1 present in the video and the exact same person?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the veil from Reference Image 2 present in the video and the exact same item?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person wearing the veil the targeted woman from Reference Image 1?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character put the veil from Reference Image 2 onto their head during the video?"
+      }
+    ]
+  },
+  "multi_reference_composition/022": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear in the video as the same person?"
+      },
+      {
+        "en": "Does the targeted wine glass from Reference Image 2 appear in the video as the same glass?"
+      },
+      {
+        "en": "Does the targeted woman from Reference Image 3 appear in the video as the same person?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 4 appear in the video as the same scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one who picks up and drinks from the glass the targeted woman from Reference Image 1, not the one from Reference Image 3?"
+      },
+      {
+        "en": "Is the one who takes and shows the glass the targeted woman from Reference Image 3, not the one from Reference Image 1?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does one character take the wine glass from another character's hand in the video?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a character pick up the wine glass and take a sip in the video?"
+      },
+      {
+        "en": "After taking a sip, does the first woman slowly lower the wine glass before handing it over?"
+      },
+      {
+        "en": "Does a character show the wine glass to the camera in the video?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the first character take a sip and slowly lower the glass before handing it to the second character, who then shows it to the camera?"
+      }
+    ]
+  },
+  "multi_reference_composition/023": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted man from Reference Image 1 appear in the video and is he the same person?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Does the targeted drink from Reference Image 2 appear in the video and is it the same one?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 3 appear in the video and is it the same scene?"
+      },
+      {
+        "en": "Are the wooden counter, blue-and-white patterned plates, and chopsticks in the video consistent with Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video use the scene from Reference Image 3 instead of copying the night-market background from Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one drinking the targeted man from Reference Image 1?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character sit down?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character pick up the drink?"
+      },
+      {
+        "en": "Does the character take a sip of the drink?"
+      },
+      {
+        "en": "Does the character put down the drink?"
+      }
+    ]
+  },
+  "multi_reference_composition/024": {
+    "RF-C01": [
+      {
+        "en": "Does the located handbag from Reference Image 1 appear and is it the same one?"
+      },
+      {
+        "en": "Does the located woman from Reference Image 2 appear and is she the same person?"
+      },
+      {
+        "en": "Does the located wine glass from Reference Image 3 appear and is it the same one?"
+      },
+      {
+        "en": "Does the located scene from Reference Image 4 appear and is it the same scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person sitting down and picking up the glass the located woman from Reference Image 2?"
+      },
+      {
+        "en": "Is the handbag carried by the woman the located one from Reference Image 1?"
+      },
+      {
+        "en": "Is the wine glass picked up by the woman the located one from Reference Image 3?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character perform the action of sitting down?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman carrying the selected tote bag on her shoulder as she sits down?"
+      },
+      {
+        "en": "Does the character pick up the wine glass?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the character sitting down and then picking up the wine glass?"
+      }
+    ]
+  },
+  "multi_reference_composition/025": {
+    "RF-C01": [
+      {
+        "en": "Does the selected stack of books from Reference Image 1 appear as the same identifiable stack?"
+      },
+      {
+        "en": "Does the localized bouquet from Reference Image 1 appear and is it the same bouquet?"
+      },
+      {
+        "en": "Does the localized man from Reference Image 2 appear and is he the same person?"
+      },
+      {
+        "en": "Does the backpack from Reference Image 3 appear and is it the same backpack?"
+      },
+      {
+        "en": "Is the scene in the video the same as Reference Image 4?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the man from Reference Image 2 the one carrying the selected stack of books and bouquet?"
+      },
+      {
+        "en": "Is the person wearing the backpack the localized man from Reference Image 2?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character walking?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the character reach the center of the frame?"
+      },
+      {
+        "en": "Does the selected stack being carried consist of three books?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character holding the books in the arms?"
+      },
+      {
+        "en": "Is the character holding the bouquet in the arms?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing the backpack on the back?"
+      }
+    ]
+  },
+  "multi_reference_composition/026": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted bedding from Reference Image 1 appear in the video and is it the same bedding?"
+      },
+      {
+        "en": "Does the targeted girl from Reference Image 2 appear in the video and is she the same person?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features (e.g., red bow) consistent with Reference Image 2?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the light blue background and dark blue plant patterns of the bedding consistent with Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the item being smoothed out the targeted bedding from Reference Image 1?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character walk up to the bedding?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character smooth out the bedding with both hands?"
+      }
+    ]
+  },
+  "multi_reference_composition/027": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted scene from Reference Image 4 appear and is it the same scene?"
+      },
+      {
+        "en": "Does the targeted top from Reference Image 1 appear and is it the same top?"
+      },
+      {
+        "en": "Does the targeted woman from Reference Image 2 appear and is she the same person?"
+      },
+      {
+        "en": "Does the selected bouquet from Reference Image 3 appear as the same identifiable bouquet?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does it keep the Reference Image 2 woman's identity while changing to the Reference Image 1 top?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person wearing the Reference Image 1 top the targeted woman from Reference Image 2?"
+      },
+      {
+        "en": "Is the person holding the Reference Image 3 flowers the targeted woman from Reference Image 2?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character walking forward?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character holding the targeted flowers from Reference Image 3?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing the targeted top from Reference Image 1?"
+      }
+    ]
+  },
+  "multi_reference_composition/028": {
+    "RF-C01": [
+      {
+        "en": "Does the located scene from Reference Image 4 appear and is it the same scene?"
+      },
+      {
+        "en": "Does the located top from Reference Image 1 appear and is it the same top?"
+      },
+      {
+        "en": "Does the located woman from Reference Image 2 appear and is she the same person?"
+      },
+      {
+        "en": "Does the located veil from Reference Image 3 appear and is it the same veil?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the identity of the woman from Reference Image 2 while changing her outfit?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person wearing the top and veil the located woman from Reference Image 2?"
+      },
+      {
+        "en": "Is the woman from Reference Image 2 located in the scene from Reference Image 4?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing a top?"
+      },
+      {
+        "en": "Is the character wearing the veil on their head?"
+      }
+    ]
+  },
+  "multi_reference_composition/029": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear in the video as the same person?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and facial features match Reference Image 1?"
+      },
+      {
+        "en": "Does the targeted bed from Reference Image 2 appear as the same bed (shape, structure, pattern, color)?"
+      },
+      {
+        "en": "Does the stack of books from Reference Image 3 appear as the same identifiable stack?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the placement performed by the targeted woman from Reference Image 1?"
+      },
+      {
+        "en": "Is the item placed on the targeted bed from Reference Image 2?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the woman place the referenced stack of books onto the selected bed?"
+      }
+    ]
+  },
+  "multi_reference_composition/030": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted mascot from Reference Image 1 appear in the video and is it the same mascot?"
+      },
+      {
+        "en": "Does the targeted woman from Reference Image 2 appear in the video and is she the same person?"
+      },
+      {
+        "en": "Does the wreath from Reference Image 3 appear in the video and is it the same wreath?"
+      },
+      {
+        "en": "Are the wooden bookshelves and golden curved structure in the video consistent with Reference Image 4?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one who first lifts the wreath the targeted mascot from Reference Image 1?"
+      },
+      {
+        "en": "Is the one who subsequently takes the wreath the targeted woman from Reference Image 2?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does one character take an item from another character's hands in the video?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does any character lift an item with both hands in the video?"
+      },
+      {
+        "en": "Does any character hold an item in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Do both subjects slowly turn around while holding the wreath in their respective turns?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video present a sequential process of an item being passed between two characters?"
+      }
+    ]
+  },
+  "multi_reference_composition/031": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear and is she the same person?"
+      },
+      {
+        "en": "Does the targeted top from Reference Image 2 appear and is it the same one?"
+      },
+      {
+        "en": "Does the targeted necklace from Reference Image 3 appear and is it the same one?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 4 appear and is it the same scene?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change the clothing while preserving the identity of the woman from Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person wearing the Reference Image 2 top the targeted woman from Reference Image 1?"
+      },
+      {
+        "en": "Is the person wearing the Reference Image 3 necklace the targeted woman from Reference Image 1?"
+      },
+      {
+        "en": "Is the person in the Reference Image 4 scene the targeted woman from Reference Image 1?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video show the character sitting down?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing the targeted top from Reference Image 2?"
+      },
+      {
+        "en": "Is the character wearing the targeted necklace from Reference Image 3?"
+      }
+    ]
+  },
+  "multi_reference_composition/032": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted man from Reference Image 1 appear in the video and is he the same person?"
+      },
+      {
+        "en": "Does the targeted food from Reference Image 2 appear and is it the same food?"
+      },
+      {
+        "en": "Does the apron from Reference Image 3 appear and is it the same apron?"
+      },
+      {
+        "en": "Does the scene from Reference Image 4 appear in the video and is it the same scene?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the man keep his Reference Image 1 identity while wearing the apron from Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person wearing the Reference Image 3 apron the targeted man from Reference Image 1?"
+      },
+      {
+        "en": "Is the person picking up and eating the food the targeted man from Reference Image 1?"
+      },
+      {
+        "en": "Is the food being picked up and eaten the targeted food from Reference Image 2?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character pick up the food?"
+      },
+      {
+        "en": "Does the character take a bite of the food?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing an apron?"
+      }
+    ]
+  },
+  "multi_reference_composition/033": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted man from Reference Image 1 appear in the video and is he the same person?"
+      },
+      {
+        "en": "Does the targeted decanter from Reference Image 2 appear in the video and is it the same one?"
+      },
+      {
+        "en": "Does the targeted wine glass from Reference Image 2 appear in the video and is it the same one?"
+      },
+      {
+        "en": "Does the scene corresponding to Reference Image 3 appear in the video and is it the same scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the pourer the targeted one from Reference Image 1?"
+      },
+      {
+        "en": "Is the pouring vessel the targeted decanter from Reference Image 2?"
+      },
+      {
+        "en": "Is the lifted cup the targeted wine glass from Reference Image 2?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character pick up the decanter?"
+      },
+      {
+        "en": "Does the character pour wine into the wine glass?"
+      },
+      {
+        "en": "Does the character lift the wine glass and take a sip?"
+      }
+    ]
+  },
+  "multi_reference_composition/034": {
+    "RF-C01": [
+      {
+        "en": "Does the grounded girl from Reference Image 1 appear in the video as the same person?"
+      },
+      {
+        "en": "Does the grounded bouquet from Reference Image 2 appear in the video as the same bouquet?"
+      },
+      {
+        "en": "Does the clothing from Reference Image 3 appear in the video as the same item?"
+      },
+      {
+        "en": "Is the scene in the video the same as Reference Image 4?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video keep the grounded girl's identity while changing her clothes to Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one wearing Reference Image 3 the grounded girl?"
+      },
+      {
+        "en": "Is the held item the grounded bouquet from Reference Image 2?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the girl in the video walking forward?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the girl in the video carrying or holding the bouquet?"
+      }
+    ]
+  },
+  "multi_reference_composition/035": {
+    "RF-C01": [
+      {
+        "en": "Does the grounded mascot from Ref Image 1 appear and is it the same one?"
+      },
+      {
+        "en": "Does the selected stack of books from Reference Image 2 appear as the same identifiable stack?"
+      },
+      {
+        "en": "Does the mascot from Ref Image 3 appear and is it the same one?"
+      },
+      {
+        "en": "Does the scene from Ref Image 4 appear and is it the same scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the selected blue mascot from Reference Image 1 the one carrying and handing over the stack of books?"
+      },
+      {
+        "en": "Is the mascot from Reference Image 3 the one receiving the stack of books?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the selected blue water-drop mascot walk forward carrying the stack of books?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the blue mascot hand the stack of books to the mascot from Reference Image 3?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the blue mascot carry the stack of books in its arms?"
+      }
+    ]
+  },
+  "multi_reference_composition/036": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear in the video and is she the same person?"
+      },
+      {
+        "en": "Does the targeted top from Reference Image 2 appear in the video and is it the same top?"
+      },
+      {
+        "en": "Does the crown from Reference Image 3 appear in the video and is it the same crown?"
+      },
+      {
+        "en": "Does the scene from Reference Image 4 appear in the video and is it the same scene?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the woman's identity while changing her clothing to the new top?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person wearing the targeted top from Reference Image 2 the targeted woman from Reference Image 1?"
+      },
+      {
+        "en": "Is the person wearing the crown from Reference Image 3 the targeted woman from Reference Image 1?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the character in the video wear the crown on the head?"
+      },
+      {
+        "en": "Is the character in the video wearing a top?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character in the video turn around slowly?"
+      }
+    ]
+  },
+  "multi_reference_composition/037": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear and is she the same person?"
+      },
+      {
+        "en": "Does the targeted veil from Reference Image 2 appear and is it the same item?"
+      },
+      {
+        "en": "Does the clothing from Reference Image 3 appear and is it the same item?"
+      },
+      {
+        "en": "Does the scene from Reference Image 4 appear and is it the same scene?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video keep the identity of the woman from Reference Image 1 while changing her clothing to Reference Image 3?"
+      },
+      {
+        "en": "Does the video keep the identity of the woman from Reference Image 1 while changing the background to Reference Image 4?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person wearing the clothing from Reference Image 3 the targeted woman from Reference Image 1?"
+      },
+      {
+        "en": "Is the person wearing the veil from Reference Image 2 the targeted woman from Reference Image 1?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character turn around in place?"
+      }
+    ]
+  },
+  "multi_reference_composition/038": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear and is she the same person?"
+      },
+      {
+        "en": "Does the targeted handbag from Reference Image 2 appear and is it the same bag?"
+      },
+      {
+        "en": "Do the sunglasses from Reference Image 3 appear and are they the same sunglasses?"
+      },
+      {
+        "en": "Is the scene in the video the same as Reference Image 4?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person wearing sunglasses and carrying the bag the targeted woman from Reference Image 1, not the other men?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character walking forward?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman carrying the selected tote bag on her shoulder?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing sunglasses?"
+      }
+    ]
+  },
+  "multi_reference_composition/039": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted man from Reference Image 1 appear in the video and is he the same person?"
+      },
+      {
+        "en": "Does the targeted decanter from Reference Image 2 appear in the video and is it the same decanter?"
+      },
+      {
+        "en": "Does the targeted wine glass from Reference Image 2 appear in the video and is it the same wine glass?"
+      },
+      {
+        "en": "Does the coat from Reference Image 3 appear in the video and is it the same coat?"
+      },
+      {
+        "en": "Are the wooden cabinet and stacked patterned porcelain plates in the video consistent with Reference Image 4?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video keep the identity of the targeted man from Reference Image 1 while changing his clothes to Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the targeted man from Reference Image 1 who wears the coat from Reference Image 3?"
+      },
+      {
+        "en": "Is it the targeted man from Reference Image 1 who operates the wine glass and decanter?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character pick up the wine glass and gently swirl it?"
+      },
+      {
+        "en": "Does the character put down the wine glass?"
+      },
+      {
+        "en": "Does the character upright the decanter?"
+      }
+    ]
+  },
+  "multi_reference_composition/040": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted girl from Reference Image 1 appear and is she the same person?"
+      },
+      {
+        "en": "Does the targeted pillow from Reference Image 2 appear and is it the same pillow?"
+      },
+      {
+        "en": "Does the chair from Reference Image 3 appear and is it the same chair?"
+      },
+      {
+        "en": "Does the drink from Reference Image 4 appear and is it the same drink?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 5?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the action performer the targeted girl from Reference Image 1?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character holding a pillow?"
+      },
+      {
+        "en": "Does the character pick up a drink?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the girl sit down on the chair from Reference Image 3?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the girl sit down holding the pillow before lifting the drink?"
+      }
+    ]
+  },
+  "multi_reference_composition/041": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted man from Reference Image 1 appear in the video as the same person?"
+      },
+      {
+        "en": "Does the targeted handbag from Reference Image 2 appear in the video as the same handbag?"
+      },
+      {
+        "en": "Does the targeted blazer from Reference Image 3 appear in the video as the same item?"
+      },
+      {
+        "en": "Does the targeted scene from Reference Image 4 appear in the video as the same scene?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Does the colorful floral pattern of the handbag in the video match Reference Image 2?"
+      },
+      {
+        "en": "Do the blue texture and material of the blazer in the video match Reference Image 3?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video keep the targeted man's identity while changing his clothes to the new style?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person wearing the Reference Image 3 blazer the targeted man from Reference Image 1?"
+      },
+      {
+        "en": "Is the person carrying the Reference Image 2 handbag the targeted man from Reference Image 1?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character first look to the left of the frame and then turn to the right?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the man carrying the selected tote bag on his shoulder?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing a blazer?"
+      }
+    ]
+  },
+  "multi_reference_composition/042": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear and is she the same person?"
+      },
+      {
+        "en": "Does the targeted veil from Reference Image 2 appear as the same veil?"
+      },
+      {
+        "en": "Does the necklace from Reference Image 3 appear as the same necklace?"
+      },
+      {
+        "en": "Is the scene in the video the same as Reference Image 4?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the targeted woman from Reference Image 1 wearing the veil?"
+      },
+      {
+        "en": "Is the targeted woman from Reference Image 1 wearing the necklace?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character walking forward?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing a veil?"
+      },
+      {
+        "en": "Is the character wearing a necklace?"
+      }
+    ]
+  },
+  "multi_reference_composition/043": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted man from Reference Image 1 appear and is he the same person?"
+      },
+      {
+        "en": "Do the targeted books from Reference Image 2 appear and are they the same item?"
+      },
+      {
+        "en": "Does the backpack from Reference Image 3 appear and is it the same item?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as Reference Image 4?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person carrying the backpack and books the targeted man from Reference Image 1?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the character walking?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the character walk to the center of the screen?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the man wearing the referenced backpack on his back?"
+      },
+      {
+        "en": "Is the man carrying the selected stack of books in his arms?"
+      }
+    ]
+  },
+  "multi_reference_composition/044": {
+    "RF-C01": [
+      {
+        "en": "Is the targeted woman from Reference Image 1 present and the same person?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and facial features match Reference Image 1?"
+      },
+      {
+        "en": "Is the targeted top from Reference Image 2 present and the same item?"
+      },
+      {
+        "en": "Is the targeted bouquet from Reference Image 3 present and the same item?"
+      },
+      {
+        "en": "Is the necklace from Reference Image 4 present and the same item?"
+      },
+      {
+        "en": "Is the scene in the video the same as Reference Image 5?"
+      },
+      {
+        "en": "Do the wooden curio shelf, porcelain vases, and wooden square table match Reference Image 5?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video keep the targeted woman's identity from Reference Image 1 while changing her clothes?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the targeted woman from Reference Image 1 the one wearing the targeted top from Reference Image 2?"
+      },
+      {
+        "en": "Is the targeted woman from Reference Image 1 the one wearing the necklace from Reference Image 4?"
+      },
+      {
+        "en": "Is the targeted woman from Reference Image 1 the one holding the targeted bouquet from Reference Image 3?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character perform the action of sitting down?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character holding a bouquet?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing a top?"
+      },
+      {
+        "en": "Is the character wearing a necklace?"
+      }
+    ]
+  },
+  "multi_reference_composition/045": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted man from Reference Image 1 appear as the same person?"
+      },
+      {
+        "en": "Does the selected stack of books from Reference Image 2 appear as the same identifiable stack?"
+      },
+      {
+        "en": "Does the targeted food from Reference Image 3 appear as the same food?"
+      },
+      {
+        "en": "Does the clothing from Reference Image 4 appear as the same clothing?"
+      },
+      {
+        "en": "Does the scene from Reference Image 5 appear as the same scene?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video keep the Reference Image 1 man's identity while changing his clothing?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the targeted man from Reference Image 1 wearing the Reference Image 4 clothing?"
+      },
+      {
+        "en": "Is the book being opened and read one from the stack selected in Reference Image 2?"
+      },
+      {
+        "en": "Is the targeted food from Reference Image 3 being picked up and eaten?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video show the character sitting down?"
+      },
+      {
+        "en": "Does the character perform a reading action?"
+      },
+      {
+        "en": "Does the character perform an eating action?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the man open a book from the selected stack to read?"
+      },
+      {
+        "en": "Does the character pick up the food?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the sequence of reading the book first, then picking up the food?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the character wearing the clothing from Reference Image 4?"
+      }
+    ]
+  },
+  "multi_reference_composition/046": {
+    "RF-C01": [
+      {
+        "en": "Does the targeted mascot from Reference Image 1 appear and is it the same mascot?"
+      },
+      {
+        "en": "Does the targeted wreath from Reference Image 2 appear and is it the same wreath?"
+      },
+      {
+        "en": "Does the targeted food from Reference Image 3 appear and is it the same food?"
+      },
+      {
+        "en": "Does the subject from Reference Image 4 appear in the video and is it the same subject?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 5?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one holding the wreath the targeted mascot from Reference Image 1, not the subject from Reference Image 4?"
+      },
+      {
+        "en": "Is the one holding the food the subject from Reference Image 4, not the targeted mascot from Reference Image 1?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the targeted mascot from Reference Image 1 walking forward?"
+      },
+      {
+        "en": "Is the subject from Reference Image 4 walking?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the subject from Reference Image 4 located next to the targeted mascot from Reference Image 1?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the selected blue mascot hold up the wreath selected in Reference Image 2?"
+      },
+      {
+        "en": "Does the subject from Reference Image 4 carry the selected food alongside the blue mascot?"
+      }
+    ]
+  },
+  "multi_reference_composition/047": {
+    "RF-C01": [
+      {
+        "en": "Does the located woman from Reference Image 1 appear and is she the same person?"
+      },
+      {
+        "en": "Does the located throw pillow from Reference Image 2 appear and is it the same pillow?"
+      },
+      {
+        "en": "Does the located wreath from Reference Image 3 appear and is it the same wreath?"
+      },
+      {
+        "en": "Does the chair from Reference Image 4 appear and is it the same chair?"
+      },
+      {
+        "en": "Does the scene from Reference Image 5 appear and is it the same scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the protagonist the located woman from Reference Image 1?"
+      },
+      {
+        "en": "Does the woman hold up the located wreath from Reference Image 3?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the character holding a throw pillow?"
+      },
+      {
+        "en": "Does the girl raise the selected wreath to show it to the camera?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the girl sit down on the chair from Reference Image 4 while holding the selected pillow?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the character sitting down first, then holding up the wreath?"
+      }
+    ]
+  },
+  "multi_reference_composition/048": {
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same as Reference Image 5?"
+      },
+      {
+        "en": "Does the man grounded in Reference Image 1 appear in the video and is he the same person?"
+      },
+      {
+        "en": "Does the woman grounded in Reference Image 2 appear in the video and is she the same person?"
+      },
+      {
+        "en": "Does the decanter grounded in Reference Image 3 appear and is it the same one (by shape and pattern)?"
+      },
+      {
+        "en": "Does the wine glass grounded in Reference Image 3 appear and is it the same one (by shape and pattern)?"
+      },
+      {
+        "en": "Does the selected stack of books from Reference Image 4 appear as the same identifiable stack?"
+      },
+      {
+        "en": "Does the bouquet grounded in Reference Image 4 appear and is it the same one (by shape and pattern)?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the woman selected from Reference Image 2 the one setting the stack of books and bouquet down beside her?"
+      },
+      {
+        "en": "Is it the man grounded in Reference Image 1 who picks up and hands over the glass?"
+      },
+      {
+        "en": "Is it the woman grounded in Reference Image 2 who takes the glass and nods?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does one character hand a wine glass to another character who then takes it?"
+      },
+      {
+        "en": "Does the character who takes the wine glass nod?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the woman put the selected stack of books down beside her?"
+      },
+      {
+        "en": "Does a character put the bouquet aside?"
+      },
+      {
+        "en": "Does a character pick up the wine glass?"
+      }
+    ]
+  },
+  "multi_reference_composition/049": {
+    "RF-C01": [
+      {
+        "en": "Does the grounded scene from Reference Image 5 appear and is it the same scene?"
+      },
+      {
+        "en": "Does the grounded woman from Reference Image 1 appear and is she the same person?"
+      },
+      {
+        "en": "Does the grounded man from Reference Image 2 appear and is he the same person?"
+      },
+      {
+        "en": "Does the grounded veil from Reference Image 3 appear and is it the one in the reference?"
+      },
+      {
+        "en": "Does the grounded bouquet from Reference Image 4 appear and is it the one in the reference?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one wearing the veil the grounded woman from Reference Image 1, not the man from Reference Image 2?"
+      },
+      {
+        "en": "Is the one handing the bouquet the grounded man from Reference Image 2, not the woman from Reference Image 1?"
+      },
+      {
+        "en": "Is the one receiving the bouquet the grounded woman from Reference Image 1, not the man from Reference Image 2?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the video show one character handing a bouquet to another character?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is a character in the video holding a bouquet?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is a character in the video wearing a veil?"
+      }
+    ]
+  },
+  "multi_reference_composition/050": {
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same as Reference Image 5?"
+      },
+      {
+        "en": "Does the targeted woman from Reference Image 1 appear and is she the same person?"
+      },
+      {
+        "en": "Does the targeted man from Reference Image 2 appear and is he the same person?"
+      },
+      {
+        "en": "Does the targeted drink from Reference Image 3 appear and is it the same drink?"
+      },
+      {
+        "en": "Does the targeted food from Reference Image 4 appear and is it the same food?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is it the targeted woman from Reference Image 1 holding the drink?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the targeted man from Reference Image 2 stand next to the targeted woman from Reference Image 1?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the selected woman lift the drink selected in Reference Image 3?"
+      },
+      {
+        "en": "Does the targeted man from Reference Image 2 hold the targeted food from Reference Image 4?"
+      }
+    ]
+  }
+}

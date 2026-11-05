@@ -1,0 +1,26 @@
+criterion_id,L1_code_in_records,L1,L1_name,L2_code,L2_name,criterion_name,scale
+RF-C01,RF,RF,Reference Fidelity,RF-C,Content Fidelity,Entity / Scene Identity Fidelity,5
+RF-C02,RF,RF,Reference Fidelity,RF-C,Content Fidelity,Surface Fidelity,5
+RF-C03,RF,RF,Reference Fidelity,RF-C,Content Fidelity,Part Fidelity,5
+RF-S01,RF,RF,Reference Fidelity,RF-S,Structure Fidelity,Structural Alignment,5
+RF-S02,RF,RF,Reference Fidelity,RF-S,Structure Fidelity,Constraint-Compatible Completion,5
+RF-M01,RF,RF,Reference Fidelity,RF-M,Motion Fidelity,Action Fidelity,5
+RF-M02,RF,RF,Reference Fidelity,RF-M,Motion Fidelity,Camera Motion Fidelity,5
+RF-P01,RF,RF,Reference Fidelity,RF-P,Style Fidelity,Style Fidelity,5
+RF-N01,RF,RF,Reference Fidelity,RF-N,Narrative Fidelity,Story Structure Fidelity,5
+RF-N02,RF,RF,Reference Fidelity,RF-N,Narrative Fidelity,Continuation State Fidelity,5
+I-D01,I,IR,Instruction Realization,I-D,Reference Factor Disentanglement & Routing,Factor-Carrier Separation,3
+I-D02,I,IR,Instruction Realization,I-D,Reference Factor Disentanglement & Routing,Nuisance / Artifact Suppression,3
+I-D03,I,IR,Instruction Realization,I-D,Reference Factor Disentanglement & Routing,Preserve/Change Factor Partition,3
+I-D04,I,IR,Instruction Realization,I-D,Reference Factor Disentanglement & Routing,Multi-View Identity Unification,3
+I-D05,I,IR,Instruction Realization,I-D,Reference Factor Disentanglement & Routing,Condition-Slot Correspondence,3
+I-E01,I,IR,Instruction Realization,I-E,Target Compliance,Entity Inventory Realization,3
+I-E02,I,IR,Instruction Realization,I-E,Target Compliance,Attribute / State Realization,3
+I-E03,I,IR,Instruction Realization,I-E,Target Compliance,Action Realization,3
+I-E04,I,IR,Instruction Realization,I-E,Target Compliance,Spatial / Quantity Realization,3
+I-E05,I,IR,Instruction Realization,I-E,Target Compliance,Scene / Temporal Setting Realization,3
+I-E06,I,IR,Instruction Realization,I-E,Target Compliance,Inter-Entity Interaction,3
+I-E07,I,IR,Instruction Realization,I-E,Target Compliance,Entity-Object Manipulation,3
+I-E08,I,IR,Instruction Realization,I-E,Target Compliance,Camera Realization,3
+I-E09,I,IR,Instruction Realization,I-E,Target Compliance,Presentation Realization,3
+I-E10,I,IR,Instruction Realization,I-E,Target Compliance,Narrative Progression,3

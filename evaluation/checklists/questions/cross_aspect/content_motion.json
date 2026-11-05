@@ -1,0 +1,3450 @@
+{
+  "mr2v_content_motion/001": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in the reference images?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character consistent with the reference images?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the character's body motion match Reference Video 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid mistakenly including the short hair or gray T-shirt of the actor in the reference video?"
+      },
+      {
+        "en": "Does the video avoid mistakenly including the abandoned graffiti wall or foreground car from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully filter out the subtitles from the reference video?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the subject remain the same character throughout, without changing into a different-looking person?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the video show the spatial relationship of the corridor extending into the distance?"
+      },
+      {
+        "en": "Are broken arches scattered along both sides of the corridor?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does a half-collapsed stone ruin corridor appear in the video?"
+      },
+      {
+        "en": "Do broken arches and a rubble-strewn floor appear in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present the lighting effect of slanting sunlight?"
+      },
+      {
+        "en": "Does the video present the visual effect of sunlight passing through floating dust?"
+      }
+    ]
+  },
+  "mr2v_content_motion/002": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same giant panda as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hair color and recognizable facial features of the character consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the subject sequentially hold the object with both hands, bite it, and then chew, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the mouth opening amplitude and the two-handed holding posture consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the actress's facial features or white T-shirt from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the wooden structure background or bamboo from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles, channel logos, or watermarks from the reference image or video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the giant panda correctly performing the action, rather than other objects in the scene?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do cabinets and a kitchen island appear in the video?"
+      },
+      {
+        "en": "Do tableware and a fruit basket appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the cabinets pale wood and the kitchen island white?"
+      },
+      {
+        "en": "Is the tableware made of ceramic?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the cabinets arranged along the walls and the kitchen island in the center?"
+      },
+      {
+        "en": "Are the ceramic dishes and fruit basket placed on the kitchen island?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video present a modern family kitchen scene?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present the lighting effect of sunlight shining into the room?"
+      }
+    ]
+  },
+  "mr2v_content_motion/003": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features match Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the person sequentially complete the action phases of sawing wood and placing firewood, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the body posture and arm push-pull trajectory during sawing match the reference video?"
+      },
+      {
+        "en": "Do the limb trajectory and range of motion when placing firewood match the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the facial features of the actor from the reference video into the final output?"
+      },
+      {
+        "en": "Does the video avoid bringing the beanie or dark jacket from the reference video into the final output?"
+      },
+      {
+        "en": "Does the video avoid bringing the snowy forest scene from the reference video into the final output?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing subtitles from the reference image or video?"
+      },
+      {
+        "en": "Does the video avoid showing logos or watermarks from the reference image or video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the action from the reference video correctly performed by the subject with Reference Image 1's appearance?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show layered reddish-brown rock walls on both sides of the Martian rift?"
+      },
+      {
+        "en": "Does the video show a valley floor covered with fine sand?"
+      },
+      {
+        "en": "Does distant dust drift beneath a violet sky?"
+      }
+    ]
+  },
+  "mr2v_content_motion/004": {
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in reference images 1-3?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features consistent with reference images 1-3?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the character first wipe a surface facing away, then turn around, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Does the character look to the right side of the frame after turning?"
+      },
+      {
+        "en": "Are the arm's swinging trajectory and amplitude during wiping consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude the modern light-colored clothes of the actor in the reference video?"
+      },
+      {
+        "en": "Does the video exclude the study, bookshelves, or windows from the reference video?"
+      },
+      {
+        "en": "Does the video exclude the facial features and low ponytail of the actor in the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of watermarks, logos, or subtitles from the references?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the character maintain a consistent appearance throughout, without changing into someone else?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the appearance from the reference images correctly applied to the character performing the actions?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do mottled murals appear in the video?"
+      },
+      {
+        "en": "Does a flat stone platform appear in the video?"
+      },
+      {
+        "en": "Do several floor lanterns appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the flat stone platform located in the center of the scene?"
+      },
+      {
+        "en": "Are the floor lanterns lined up along the wall?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a grotto hall?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video show the lighting effect of lanterns illuminating the rough rock walls?"
+      }
+    ]
+  },
+  "mr2v_content_motion/005": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features match Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the character's action sequence follow looking down, looking up, then looking down again, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the hand operation postures and range of motion match the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the actor's face or school uniform?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the classroom background or sewing machine?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, logos, or watermarks from the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the action from the reference video correctly performed by the person from Reference Image 1?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is there a curved observation window with a nebula visible outside?"
+      },
+      {
+        "en": "Is there a silver-gray console in the video?"
+      },
+      {
+        "en": "Is there a metal floor with blue and white indicator lights reflecting on it?"
+      },
+      {
+        "en": "Is the scene set inside a starship cabin?"
+      }
+    ]
+  },
+  "mr2v_content_motion/006": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, facial features, and arm tattoo consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the character in the video first bend down to grab the chair and then lift it, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Does the character grab the chair with both hands and lift it above their head?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including the boy's appearance or light shirt from the reference video?"
+      },
+      {
+        "en": "Does the video avoid including the dilapidated house background from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including the subtitles from the reference video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly have the person from Reference Image 1 lift the chair?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video feature a natural cave and transparent crystal clusters of varying heights?"
+      },
+      {
+        "en": "Is the ground in the video covered by shallow water?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do blue, violet, and orange reflections scatter across the rock walls?"
+      }
+    ]
+  },
+  "mr2v_content_motion/007": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character in the video consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Is the sequence of the pushing and pulling actions consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the limb trajectory and forward leaning extent consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the facial features of the actor from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the white top from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the wooden door or pipas from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly including the channel logos or watermarks from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the Chinese subtitles from the reference video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign the appearance from Reference Image 1 to the acting person?"
+      },
+      {
+        "en": "Does the video correctly assign the pushing and pulling action to this person?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a long wooden table appear in the video?"
+      },
+      {
+        "en": "Do old books appear in the video?"
+      },
+      {
+        "en": "Does pottery appear in the video?"
+      },
+      {
+        "en": "Do candles appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are stacks of old books and pottery arranged along the walls?"
+      },
+      {
+        "en": "Are the candles arranged in rows in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene an underground room built with rough stones?"
+      },
+      {
+        "en": "Does a vaulted ceiling appear in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do rows of candles illuminate the vaulted ceiling?"
+      }
+    ]
+  },
+  "mr2v_content_motion/008": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hair color and identifiable head features of the subject consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the subject first stand and then pounce forward, consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the body posture and limb trajectory of the subject consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the polar bear's appearance from the reference video?"
+      },
+      {
+        "en": "Is the video free of the shallow riverbank scene from the reference video?"
+      },
+      {
+        "en": "Is the video free of the grass and fence background from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles, channel logos, or watermarks from the reference image or video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the subject from Reference Image 1 correctly perform the action from the reference video?"
+      },
+      {
+        "en": "Is the subject correctly placed in the text-specified volcanic plain scene?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a black basalt plain divided by orange-red lava trenches?"
+      },
+      {
+        "en": "Does gray smoke rise from a distant crater?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video show the visual effect of heat waves slightly distorting the horizon?"
+      },
+      {
+        "en": "Do the orange-red lava channels glow?"
+      }
+    ]
+  },
+  "mr2v_content_motion/009": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the exact same subject as in Reference Image 1?"
+      },
+      {
+        "en": "Do the subject's visible coat color, recognizable facial features, and red collar with a bone-shaped tag match Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the subject sequentially look up, jump to catch, and then land, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "When jumping, does the subject show the posture of pushing off with hind legs and extending front paws upward?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the gray cat's appearance from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the indoor background (e.g., sofa) from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles, channel logos, or watermarks from the reference image or video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the subject from Reference Image 1 correctly perform the actions from the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do tall green bamboos appear in the video?"
+      },
+      {
+        "en": "Does a moss-covered stone path appear in the video?"
+      },
+      {
+        "en": "Do shallow channels appear in the video?"
+      },
+      {
+        "en": "Do round stone lanterns appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do the green bamboos grow densely along the stone path?"
+      },
+      {
+        "en": "Do shallow channels and round stone lanterns line the path?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the overall scene an outdoor natural environment?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video show the lighting effect of dappled sunlight filtering through bamboo leaves?"
+      }
+    ]
+  },
+  "mr2v_content_motion/010": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same parrot as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible plumage colors and identifiable facial features of the subject consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the subject follow the action sequence of flying low, touching water, and flying away, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the posture and movement amplitude of the subject touching the water consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly retaining the gray feather features of the original bird from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly retaining the green water or wetland background from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly showing the channel logo or watermark from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly showing the text subtitles from the reference video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the action from the reference video correctly performed by the parrot from Reference Image 1?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video feature a deep blue sea extending to the horizon?"
+      },
+      {
+        "en": "Do steep islands rise in the distance?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video show beams of sunlight shining through low clouds?"
+      },
+      {
+        "en": "Do shafts of sunlight form silver patches on the water?"
+      }
+    ]
+  },
+  "mr2v_content_motion/011": {
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, recognizable facial features, and sapphire crown match Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the stages and sequence of the character's actions match the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the posture, trajectory, and amplitude of the playing hands match the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free of the real face or dress of the actor in the reference video?"
+      },
+      {
+        "en": "Is the video free of the indoor room or windows from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles, channel logos, or watermarks from the reference image or video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the action performed by the character from Reference Image 1, rather than other entities?"
+      },
+      {
+        "en": "Is the ice cave used as the background, rather than the character's clothing or props?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video feature an arched ice cave surrounded by translucent blue ice walls?"
+      },
+      {
+        "en": "Do icicles of varying lengths hang from the top of the scene?"
+      },
+      {
+        "en": "Does snow near the cave entrance reflect cold daylight?"
+      }
+    ]
+  },
+  "mr2v_content_motion/012": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, glasses, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the hand posture, finger trajectory, and amplitude of moving abacus beads consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the action stages and sequence (first moving abacus beads, then revealing the face) consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the young face or appearance of the actor from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the cyan costume, jade bangle, or jade ring from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the original background or table from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly showing subtitles, logos, or watermarks from the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the subject with Reference Image 1's appearance correctly perform the action from the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do sarcophagi appear in the video?"
+      },
+      {
+        "en": "Do square pillars appear in the video?"
+      },
+      {
+        "en": "Do reliefs appear in the video?"
+      },
+      {
+        "en": "Do bronze candle stands appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the sarcophagi and square pillars arranged together in the video?"
+      },
+      {
+        "en": "Are the reliefs located on the wall in the video?"
+      },
+      {
+        "en": "Do the bronze candle stands cast shadows across the floor?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the overall scene match the setting of an underground tomb?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do the candle stands cast shifting shadows across the floor?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do worn reliefs cover the walls?"
+      }
+    ]
+  },
+  "mr2v_content_motion/013": {
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features (e.g., cross scar) consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the action stages and sequence of the character consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the key postures and amplitude of looking up, crying, and mouth movements consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including the female face or short hair of the reference video actor?"
+      },
+      {
+        "en": "Does the video avoid including the light yellow top of the reference video actor?"
+      },
+      {
+        "en": "Does the video avoid including the blurred forest background from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including the subtitles from the reference video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the character from Reference Image 1 correctly perform the actions from the reference video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video feature a black box theater with dark gray curtains and bare wooden floors?"
+      },
+      {
+        "en": "Are rows of empty chairs at the back?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video show a single top light illuminating the central area?"
+      }
+    ]
+  },
+  "mr2v_content_motion/014": {
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Images 1 and 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, hairpins, and recognizable facial features of the character consistent with Reference Images 1 and 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the action stages and chronological order of the character consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the key postures, limb trajectories, and amplitudes of the character's arm swinging and body twisting consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid bringing in the appearance or gray loungewear of the actor from the reference video?"
+      },
+      {
+        "en": "Does the video use the text-specified living-room arrangement rather than copying the reference video's original background layout?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video correctly avoid bringing in subtitles, channel logos, or watermarks from the reference images or video?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the character in the video consistently maintain the same identity without changing into a person with a different appearance at different times?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly have the character from the reference images perform the actions from the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a fabric sofa appear in the video?"
+      },
+      {
+        "en": "Does a round coffee table appear in the video?"
+      },
+      {
+        "en": "Does a light-colored carpet appear in the video?"
+      },
+      {
+        "en": "Do floor-to-ceiling windows appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the fabric sofa and round coffee table placed on opposite sides in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video present a bright living room scene?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the sunlight form clear light patches on the wooden floor in the video?"
+      }
+    ]
+  },
+  "mr2v_content_motion/015": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in reference images 1 and 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and recognizable facial features of the character match reference images 1 and 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the character first walk forward, then lift and swing the object, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the character's arm extension trajectory and body leaning amplitude match the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the actor's face or clothing from the reference video?"
+      },
+      {
+        "en": "Does the video use the text-specified grassy slope, platform, flags, distant ridges, and scattered tents rather than copying the motion video's original background arrangement?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Are the bilingual subtitles at the bottom of the reference video successfully filtered out?"
+      },
+      {
+        "en": "Is the channel logo on the right side of the reference video successfully filtered out?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the character remain the same person throughout, without changing into someone with a different appearance?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the reference action correctly applied to the character from the reference images?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a wooden platform appear in the video?"
+      },
+      {
+        "en": "Do cloth flags appear in the video?"
+      },
+      {
+        "en": "Do posts appear in the video?"
+      },
+      {
+        "en": "Does a mountain ridge appear in the video?"
+      },
+      {
+        "en": "Do tents appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the cloth flags colorful?"
+      },
+      {
+        "en": "Is the wooden platform low?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the wooden platform located in the center of the grassy slope?"
+      },
+      {
+        "en": "Do colored fabric flags connect nearby posts?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show an open grassy slope?"
+      },
+      {
+        "en": "Does the scene feature the lighting atmosphere of afternoon sunlight?"
+      }
+    ]
+  },
+  "mr2v_content_motion/016": {
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in reference images 1 and 2?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with reference images 1 and 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the character's action sequence match the reference video, showing touching chest, pushing, and raising hands, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the character's key poses and limb trajectories consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free from incorrectly including the actor's face, purple top, or denim skirt from the reference video?"
+      },
+      {
+        "en": "Is the video free from incorrectly including the white wall or air conditioner background from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free from subtitles, channel logos, or watermarks from the references?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the subject consistently remain the same character without changing appearance at different times?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the reference movements correctly applied to the character specified in the reference images?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the background show a narrow cave gallery with faded murals on both sides?"
+      },
+      {
+        "en": "Do red wooden rails enclose the central passage?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature warm lighting from niches evenly illuminating the ground?"
+      }
+    ]
+  },
+  "mr2v_content_motion/017": {
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, facial features, and cat ears with bell consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the action stages and sequence of the character consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the key postures, limb trajectories, and action amplitude consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude the facial or identity features of the real girl in the reference video?"
+      },
+      {
+        "en": "Does the video exclude the striped top, pleated skirt, or colorful backpack from the reference video?"
+      },
+      {
+        "en": "Does the video exclude scene elements like the arch, white wall, or white block from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, logos, or watermarks from the references?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a children's playroom with a beige cushioned floor?"
+      },
+      {
+        "en": "Are low shelves filled with blocks and picture books?"
+      },
+      {
+        "en": "Are there a small tent and round colorful cushions by the wall in the video?"
+      }
+    ]
+  },
+  "mr2v_content_motion/018": {
+    "RF-C01": [
+      {
+        "en": "Is the mech in the video the same mech as in Reference Image 1?"
+      },
+      {
+        "en": "Are the head searchlight, orange cockpit, and yellow-black stripes in the video consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the subject sequentially present the action phases of dribbling, running jump, and raising one hand high, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "When jumping, does the subject present the key posture of a single-leg takeoff and one arm raised high?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the human appearance or sportswear of the actor from the reference video?"
+      },
+      {
+        "en": "Does the video avoid copying the reference video's indoor basketball-court setting?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully avoid bringing the Chinese subtitles at the bottom of the reference video into the frame?"
+      },
+      {
+        "en": "Does the video successfully avoid bringing the watermark text in the top frame-left corner of the reference video into the frame?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the action correctly performed by the mech subject rather than other objects in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do the glowing rings in the video surround the edge of the circular black stone platform?"
+      },
+      {
+        "en": "Are the blue nebula and rubble located in the distance, presenting a sense of depth?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does a circular black-stone platform float in space?"
+      },
+      {
+        "en": "Do glowing rings, a blue nebula, and rubble appear in the video?"
+      }
+    ]
+  },
+  "mr2v_content_motion/019": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features of the character consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the action stages and their sequential order of the subject consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the subject's half-squatting posture and forward-reaching arm amplitude consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the actor's facial features or red wetsuit from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the ink-wash background from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly including watermarks, logos, or subtitles from the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the surfing action correctly assigned to the subject from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a surfboard appear in the video?"
+      },
+      {
+        "en": "Does a giant wave appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the giant wave located behind the subject in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set on an open ocean?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the rolling waves eventually engulf the subject in the video?"
+      },
+      {
+        "en": "Does curling white water eventually engulf the surfboard?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject stand with both feet on the surfboard in the video?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the dynamic process of the giant wave swelling, breaking, and engulfing the subject?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject race along the steep face of a wave on the surfboard?"
+      }
+    ]
+  },
+  "mr2v_content_motion/020": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the character sequentially present the actions of raising hands backward, turning, jumping, and throwing, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the body posture and amplitude of turning, jumping, and throwing consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing in the black uniform or back number from the reference video?"
+      },
+      {
+        "en": "Does the video avoid bringing in the grass, wire fence, or billboard from the reference video?"
+      },
+      {
+        "en": "Does the video avoid bringing in the wooden boardwalk, river, or wooden boats from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, logos, or watermarks from the reference materials?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person performing the throwing action exactly the character from Reference Image 1?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the scene show a night salt lake with shallow water reflecting the starry sky?"
+      },
+      {
+        "en": "Are black rocks scattered along the shore in the video scene?"
+      },
+      {
+        "en": "Are low mountains with dark outlines visible in the distance of the scene?"
+      }
+    ]
+  },
+  "mr2v_content_motion/021": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same subject as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible helmet, red plume, cobalt-blue armor, gold trim, and other identifiable features match Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the subject in the video sequentially complete the actions of dribbling and then kicking, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the subject's alternating leg trajectories during dribbling and leg swing amplitude during kicking consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly featuring the face or sportswear of the man from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly featuring the grass, goal, or training cones from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly retaining the Chinese subtitles from the reference video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly have the knight from Reference Image 1 perform the actions from the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do towering stone walls and arched cloisters appear in the video?"
+      },
+      {
+        "en": "Do long banners appear in the video?"
+      },
+      {
+        "en": "Do central flagstones appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do four braziers appear in the video?"
+      },
+      {
+        "en": "Do the long banners hang on the walls in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the overall scene in the video presented as a medieval castle courtyard?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do the four braziers illuminate the central flagstones?"
+      }
+    ]
+  },
+  "mr2v_content_motion/022": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the posture and amplitude of the subject doing a handstand with legs split consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Is the subject's action state of maintaining a handstand balance on supports consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the actor's appearance or gray short-sleeved outfit from the reference video?"
+      },
+      {
+        "en": "Does the video avoid copying the reference video's indoor-gym setting?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the man in white standing by for protection from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the bottom subtitles from Reference Video 1?"
+      },
+      {
+        "en": "Is the video free of the frame-right vertical text watermark from Reference Video 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person performing the handstand exactly the character from Reference Image 1, rather than another character?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do the black stone temple square and multi-tiered steps appear in the video?"
+      },
+      {
+        "en": "Does a circular platform appear in the video?"
+      },
+      {
+        "en": "Do bronze braziers and tall pillars appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the circular platform located in the center of the plaza?"
+      },
+      {
+        "en": "Are the bronze braziers and tall pillars arranged symmetrically on both sides?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the overall scene of the video present the environmental setting of a temple square?"
+      }
+    ]
+  },
+  "mr2v_content_motion/023": {
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the action stages and chronological order of the character consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the trajectory and amplitude of the character's hand clasping and raising consistent with the reference video?"
+      },
+      {
+        "en": "Is the character's speaking mouth movement consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including the real actor's face or black top from the reference video?"
+      },
+      {
+        "en": "Does the video avoid including the doll pattern from the reference video's background?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including subtitles, logos, or watermarks from the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign Reference Image 1 to appearance and the reference video to action?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video feature a studio with a matte black floor?"
+      },
+      {
+        "en": "Are there three dark background boards enclosing the central space?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do two rectangular soft lights cast clear rim light from above?"
+      }
+    ]
+  },
+  "mr2v_content_motion/024": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same person as in reference images 1 and 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character consistent with reference images 1 and 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the sequence of facial expressions and head movements consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the mouth movements and the amplitude of head adjustments consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including the facial features or glasses of the man from the reference video?"
+      },
+      {
+        "en": "Does the video avoid including the black suit and white shirt from the reference video?"
+      },
+      {
+        "en": "Does the video avoid including the green background or background person from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, channel logos, or watermarks from the reference materials?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the subject remain the same character throughout, without changing into another person?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do plants appear in the video?"
+      },
+      {
+        "en": "Does a light wooden bench appear in the video?"
+      },
+      {
+        "en": "Does a high window appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the background wall in the video seamless and curved?"
+      },
+      {
+        "en": "Is the photography studio in the video white?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the high window located on one side of the frame?"
+      },
+      {
+        "en": "Are green plants and a pale wooden bench placed along the wall?"
+      },
+      {
+        "en": "Does daylight enter through the tall side window?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a white studio?"
+      }
+    ]
+  },
+  "mr2v_content_motion/025": {
+    "RF-C01": [
+      {
+        "en": "Does the character in the video match the person shown in Reference Images 1-3?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character in the video consistent with reference images 1-3?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the action stages and chronological order of the subjects in the video consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the key postures, limb trajectories, and action amplitudes of the subjects in the video consistent with the reference video?"
+      },
+      {
+        "en": "Is the physical contact and supporting interaction among multiple subjects in the video consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly introducing the male faces or shorts of the actors from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly introducing the dark water stage background from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid introducing the channel logo from the reference video?"
+      },
+      {
+        "en": "Does the video avoid introducing the watermark from the reference video?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the subject in the video consistently remain the same character without changing into different appearances?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the character from Reference Images 1-3 perform the action shown in Reference Video 1?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does a dark blue underwater hall surrounded by shell-covered stone pillars appear in the video?"
+      },
+      {
+        "en": "Is there a circular mosaic floor in the center of the hall in the video?"
+      },
+      {
+        "en": "Do aquatic plants and fine bubbles drift beneath the arches?"
+      }
+    ]
+  },
+  "mr2v_content_motion/026": {
+    "RF-C01": [
+      {
+        "en": "Is the person on the left side of the video the same character as Reference Image 1?"
+      },
+      {
+        "en": "Is the person on the right side of the video the same character as Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the left character match Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features (e.g., Peking opera makeup) of the right character match Reference Image 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the characters follow the sequence of clapping first, then raising and waving their hands, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the clapping amplitude and hand-waving posture match the reference video?"
+      },
+      {
+        "en": "Do the left and right characters respectively replicate the actions of the corresponding characters in the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the actors' faces or modern casual clothes from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the modern bedroom background from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles, channel logos, or watermarks from the reference image or video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Do the left and right characters correspond to References 1 and 2 respectively, without positional mix-ups?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene a backstage dressing room with a wall-length bulb mirror?"
+      },
+      {
+        "en": "Is there a long table with makeup brushes and glass bottles in the scene?"
+      },
+      {
+        "en": "Are there several rows of different colored costumes hanging on the other side of the scene?"
+      }
+    ]
+  },
+  "mr2v_content_motion/027": {
+    "RF-C01": [
+      {
+        "en": "Does the character corresponding to the performer initially in front in Reference Video 1 have the identity from Reference Image 1 throughout the video?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, facial features, and cross-shaped scar of the character assigned to the initially front performer match Reference Image 1?"
+      },
+      {
+        "en": "Does the character corresponding to the other performer in Reference Video 1 have the identity from Reference Image 2 throughout the video?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, facial features, and goggles of the character assigned to the other performer match Reference Image 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the two characters run forward sequentially as in the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the limb swing amplitude and step trajectory during running match the reference video?"
+      },
+      {
+        "en": "Do the front-to-back distance and relative position between the two characters match the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the actors' appearances or clothing from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the original scene (e.g., square, stone steps) from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid incorrectly including subtitles, logos, or watermarks from the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are References 1 and 2 assigned respectively to the performer initially in front and the other performer, with those identity assignments maintained as they move?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a twilight forest, tall tree trunks, and a narrow stone path?"
+      },
+      {
+        "en": "Does the video show densely growing ferns along the path?"
+      },
+      {
+        "en": "Do glowing fireflies appear among the mist and tree roots?"
+      }
+    ]
+  },
+  "mr2v_content_motion/028": {
+    "RF-C01": [
+      {
+        "en": "Is the character corresponding to the performer initially on the left the same dog as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible coat color and facial features of the character corresponding to the initially left performer consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the character corresponding to the performer initially on the right the same cat as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible coat color and facial features of the character corresponding to the initially right performer consistent with Reference Image 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the frame-left character walk forward and lower its head to approach an object, like in the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Does the frame-right character stand or walk in the background, like in the reference video?"
+      },
+      {
+        "en": "Are the relative positions and action coordination of the left and right characters consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the appearance of the gray and black spotted puppies from the reference video?"
+      },
+      {
+        "en": "Does the video use the text-specified golden grassland rather than copying the motion video's original terrain and layout?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully filter out the Chinese and English subtitles from the reference video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the appearances from Reference Images 1 and 2 assigned to the performers initially on the left and right of Reference Video 1, respectively?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a golden grassland, distant low hills, and flat-topped acacia trees?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present the lighting of a sunset illuminating dry grass from under thin orange clouds?"
+      }
+    ]
+  },
+  "mr2v_content_motion/029": {
+    "RF-C01": [
+      {
+        "en": "Is the person on the right side of the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the person on the right match Reference Image 1?"
+      },
+      {
+        "en": "Is the person on the left side of the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the person on the left match Reference Image 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the person on the frame-left raise one hand, flip the palm, and finally clasp both hands together, as in the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Does the person on the frame-right remain relatively still and look at the person on the frame-left, as in the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the person on the frame-left exclude the curly hair or green suit of the reference video's actor?"
+      },
+      {
+        "en": "Does the person on the frame-right exclude the veiled hat or blue lace outfit of the reference video's actress?"
+      },
+      {
+        "en": "Does the video exclude the original dark background environment of the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video exclude the Chinese subtitles at the bottom of the reference video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the female appearance from Reference Image 1 correctly assigned to the person on the right?"
+      },
+      {
+        "en": "Is the male appearance from Reference Image 2 correctly assigned to the person on the left?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a classic train cabin and deep red velvet seats?"
+      },
+      {
+        "en": "Does the video show a narrow aisle enclosed by walnut wainscoting?"
+      },
+      {
+        "en": "Does the video show brass luggage racks and warm light from kerosene lamps?"
+      }
+    ]
+  },
+  "mr2v_content_motion/030": {
+    "RF-C01": [
+      {
+        "en": "Is the character on the left the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the left character match Reference Image 1?"
+      },
+      {
+        "en": "Is the character on the right the same character as in Reference Image 2?"
+      },
+      {
+        "en": "Do the right character's visible helmet, red plume, cobalt-blue armor, gold trim, and other identifiable features match Reference Image 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the action phases and sequence of the characters match the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the posture, trajectory, and amplitude of the frame-left's punches and frame-right's defense match the reference?"
+      },
+      {
+        "en": "Does the offensive and defensive interaction between the two characters match the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the actors' faces, clothing, or protective gear from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the boxing ring scene or the referee from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully exclude the channel logo and subtitles from the reference video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the appearances of References 1 and 2 correctly assigned to the left and right characters?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the video show the spatial arrangement of multiple layers of arches surrounding the area?"
+      },
+      {
+        "en": "Do rows of torches and red banners line the stone walls beneath the stands?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene a Roman arena with pale sand covering the center?"
+      }
+    ]
+  },
+  "mr2v_content_motion/031": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the upper part of the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the upper person consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the person in the lower part of the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the lower person consistent with Reference Image 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the postures and amplitudes of the upper person hanging upside down and the lower person reaching up consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the relative positions and action coordination of the two interacting via the horizontal bar consistent with the reference video?"
+      },
+      {
+        "en": "Are the stage changes and chronological order of the characters' actions consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the real actors' appearances or clothing (e.g., black t-shirt, striped socks) from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the original gymnasium background from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the Chinese subtitles at the bottom of Reference Video 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly place the character from Reference Image 1 at the top and the character from Reference Image 2 at the bottom?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do thick stone pillars appear in the video?"
+      },
+      {
+        "en": "Does a central platform appear in the video?"
+      },
+      {
+        "en": "Do ropes and metal rings appear in the video?"
+      },
+      {
+        "en": "Does a top skylight appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are ropes and metal rings hanging above the central platform?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the overall scene of the video presented as a tall temple hall?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present the lighting effect of narrow light beams cast from the top skylight?"
+      }
+    ]
+  },
+  "mr2v_content_motion/032": {
+    "RF-C01": [
+      {
+        "en": "Is the person on the left side of the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the person on the right side of the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and recognizable facial features of the left character match Reference Image 1?"
+      },
+      {
+        "en": "Do the right character's visible identifying appearance, orange shell jacket, dark cap, and backpack match Reference Image 2, without requiring facial details that are not visible in the reference?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the walking postures and relative positions of the two characters match the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the trajectories and amplitudes of the characters tossing objects match the reference video?"
+      },
+      {
+        "en": "Do the stages and chronological order of the characters' actions match the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the facial features or clothing (e.g., plaid shirt) of the actors in the reference video?"
+      },
+      {
+        "en": "Does the video follow the text-specified promenade layout instead of copying background details from the motion video that are not requested by the text?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, logos, or watermarks from the reference images or video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Do the appearances of the left and right characters correctly correspond to Reference Images 1 and 2?"
+      },
+      {
+        "en": "Do the frame-left and frame-right characters correctly perform the actions of the corresponding actors in the reference video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Do rows of palm trees line a broad promenade?"
+      },
+      {
+        "en": "Does the video show white low walls and wooden benches extending along the road?"
+      },
+      {
+        "en": "Are glass buildings and a blue sky visible in the distance in the video?"
+      }
+    ]
+  },
+  "mr2v_content_motion/033": {
+    "RF-C01": [
+      {
+        "en": "Is the person on the left side of the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the person on the right side of the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and recognizable facial features of the person on the left match Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and recognizable facial features of the person on the right match Reference Image 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the action posture and amplitude of the person on the frame-left match the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the action posture and trajectory of the person on the frame-right match the reference video?"
+      },
+      {
+        "en": "Do the stages and sequential order of actions of both persons match the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the facial features or clothing of the actors from the reference video?"
+      },
+      {
+        "en": "Does the video follow the text-specified kitchen rather than copying unrequested distinctive background details from the motion video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Did the video successfully filter out subtitles, logos, or watermarks from the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the identity from Reference Image 1 correctly assigned to the person on the left?"
+      },
+      {
+        "en": "Is the identity from Reference Image 2 correctly assigned to the person on the right?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do cabinets and a kitchen island appear in the video?"
+      },
+      {
+        "en": "Do pendant lights appear in the video?"
+      },
+      {
+        "en": "Do a cutting board and dishes appear in the video?"
+      },
+      {
+        "en": "Does a basket of vegetables appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the cabinets light-colored?"
+      },
+      {
+        "en": "Is the kitchen island white?"
+      },
+      {
+        "en": "Do the vegetables appear fresh?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the overall scene of the video an open kitchen?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do pendant lights illuminate the cutting boards, dishes, and basket of fresh vegetables?"
+      }
+    ]
+  },
+  "mr2v_content_motion/034": {
+    "RF-C01": [
+      {
+        "en": "Is the person on the left side of the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features of the person on the left consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the person on the right side of the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features of the person on the right consistent with Reference Image 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the stages and chronological order of the characters' movements consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the limb trajectories and movement amplitudes of the characters consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the facial features or skin color of the actors in the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the clothing or jewelry of the actors in the reference video?"
+      },
+      {
+        "en": "Does the video use the text-specified dining-room setting rather than copying the reference kitchen?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including subtitles, logos, or watermarks from the reference materials?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign the appearance of Reference Image 1 to the person on the left?"
+      },
+      {
+        "en": "Does the video correctly assign the appearance of Reference Image 2 to the person on the right?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a dining table appear in the video?"
+      },
+      {
+        "en": "Do plates, glasses, and condiment dishes appear in the video?"
+      },
+      {
+        "en": "Do low-hanging pendant lamps appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the dining table made of dark wood?"
+      },
+      {
+        "en": "Is the wall light-colored?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the dining table located in the center of the scene?"
+      },
+      {
+        "en": "Are the tableware placed on the dining table?"
+      },
+      {
+        "en": "Are low-hanging pendant lamps above the dining table, with light-colored walls behind it?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in a dining room?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a warm lighting effect?"
+      }
+    ]
+  },
+  "mr2v_content_motion/035": {
+    "RF-C01": [
+      {
+        "en": "Is the character on the left side of the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the left character match Reference Image 1?"
+      },
+      {
+        "en": "Is the character on the right side of the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the right character match Reference Image 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the stages and sequence of the characters' actions match the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the posture and trajectory of the frame-right character placing a hand on the chest and lowering it match the reference video?"
+      },
+      {
+        "en": "Do the posture and trajectory of the frame-left character crossing and then opening hands match the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including the actors' appearances or clothing from the reference video?"
+      },
+      {
+        "en": "Does the video avoid including the blue metal bench or background from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including subtitles, logos, or watermarks from the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the appearances from Ref 1 and Ref 2 correctly assigned to the left and right characters?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a paved path appear in the video?"
+      },
+      {
+        "en": "Does a bench appear in the video?"
+      },
+      {
+        "en": "Do bushes appear in the video?"
+      },
+      {
+        "en": "Do lamps appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the bench in the video made of wood?"
+      },
+      {
+        "en": "Are the bushes in the video neatly trimmed?"
+      },
+      {
+        "en": "Are the lamps in the video silver-gray?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the wooden bench located next to the paved path?"
+      },
+      {
+        "en": "Are the shrubs and lamps behind the bench?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video present a city park setting?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video show afternoon sunlight shining through the tree canopy?"
+      }
+    ]
+  },
+  "mr2v_content_motion/036": {
+    "RF-C01": [
+      {
+        "en": "Is the character on the left side of the video the same as Reference Image 1?"
+      },
+      {
+        "en": "Are the visible facial makeup and recognizable facial features of the left character consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the character on the right side of the video the same as Reference Image 2?"
+      },
+      {
+        "en": "Are the visible duck bill and recognizable facial features of the right character consistent with Reference Image 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the action trajectory and amplitude of the frame-left character consistent with the reference video (frame-left), with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the gestures and limb amplitude of the frame-right character consistent with the reference video (frame-right)?"
+      },
+      {
+        "en": "Are the action stages and sequence of both characters consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the reference actors' appearance or white shirt?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including scene elements like the high table or glasses from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully filter out subtitles, logos, or watermarks from the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign the appearance of Reference Image 1 to the left character?"
+      },
+      {
+        "en": "Does the video correctly assign the appearance of Reference Image 2 to the right character?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do at least two standing microphones appear in the video?"
+      },
+      {
+        "en": "Are the standing microphones placed in the center of the frame?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do soft lights appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene appear as a modern studio interview area?"
+      },
+      {
+        "en": "Is there open space in front of the gray-blue backdrop?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do soft lights evenly illuminate both sides?"
+      }
+    ]
+  },
+  "mr2v_content_motion/037": {
+    "RF-C01": [
+      {
+        "en": "Is the character on the right the same as in Reference Image 1?"
+      },
+      {
+        "en": "Is the character on the left the same as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the right character match Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the left character match Reference Image 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the action phases and sequence of the characters match the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the posture and trajectory of the frame-right character's gestures match the reference video?"
+      },
+      {
+        "en": "Does the listening and interacting posture of the frame-left character match the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including the original actors' appearances or modern clothing from the reference video?"
+      },
+      {
+        "en": "Does the video avoid including the original scene like the city night backdrop from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including subtitles, logos, or watermarks from the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1's character placed on the right and Reference Image 2's on the left?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a curved wooden desk appear in the video?"
+      },
+      {
+        "en": "Do two chairs appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the chairs in the video dark-colored?"
+      },
+      {
+        "en": "Is the backdrop blue with embedded warm light strips?"
+      },
+      {
+        "en": "Is the carpet in the video dark gray?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the carpet laid on the floor?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the overall scene appear as a talk show studio?"
+      }
+    ]
+  },
+  "mr2v_content_motion/038": {
+    "RF-C01": [
+      {
+        "en": "Is the character on the left side of the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the left character consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the character in the center of the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the center character consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the character on the right side of the video the same person as in Reference Image 3?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the right character consistent with Reference Image 3?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the three characters walk forward side by side as in the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Does the frame-left character link arms with the center character as in the reference video?"
+      },
+      {
+        "en": "Does the frame-right character walk with hands folded in front as in the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free from mistakenly including the red brick building background from the reference video?"
+      },
+      {
+        "en": "Is the video free from mistakenly including the actors' appearances or clothing from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free from mistakenly including the subtitles from the reference video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the appearances from Reference Images 1, 2, and 3 correctly assigned to the left, center, and right characters?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does a pale stone path appear in the garden?"
+      },
+      {
+        "en": "Does an arched trellis covered with white flowers appear in the video?"
+      },
+      {
+        "en": "Does a sea of clouds appear in the distant background of the video?"
+      },
+      {
+        "en": "Do low shrubs appear in the garden?"
+      },
+      {
+        "en": "Is the garden located on a sky island?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a lighting atmosphere illuminated by blue moonlight?"
+      }
+    ]
+  },
+  "mr2v_content_motion/039": {
+    "RF-C01": [
+      {
+        "en": "Is the character corresponding to Reference Image 1 in the video the same character as Reference Image 1?"
+      },
+      {
+        "en": "Is the character corresponding to Reference Image 2 in the video the same character as Reference Image 2?"
+      },
+      {
+        "en": "Is the character corresponding to Reference Image 3 in the video the same character as Reference Image 3?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, facial features, and goggles of the character corresponding to Ref 1 consistent with Ref 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, facial features, and cat ears of the character corresponding to Ref 2 consistent with Ref 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features of the character corresponding to Ref 3 consistent with Ref 3?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the action phases and chronological order of the three tracked characters match their corresponding performers in Reference Video 1, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the key postures, limb trajectories, and motion amplitudes of the three tracked characters match their corresponding performers in Reference Video 1?"
+      },
+      {
+        "en": "Do the relative positions and interactions of the three tracked characters match their corresponding performers in Reference Video 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly introducing the facial and identity features of the real children from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly introducing the swimsuits, goggles, or hats from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly introducing the beach, waves, or background crowd from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully filter out the Chinese subtitles at the bottom of the reference video?"
+      },
+      {
+        "en": "Does the video successfully filter out the watermark text on the right side of the reference video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the appearances from Reference Images 1, 2, and 3 used for their corresponding subjects in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a shallow lake shore covered with smooth pebbles and sparse reeds?"
+      },
+      {
+        "en": "Does the video show the reflection of starlight in the shallow water?"
+      },
+      {
+        "en": "Does a wooden pier extend into a lake softened by thin mist?"
+      }
+    ]
+  },
+  "mr2v_content_motion/040": {
+    "RF-C01": [
+      {
+        "en": "Is the character in the center of the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features of the center character consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the character on the left side of the video the same animal as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible fur color and facial features of the left character consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the character on the right side of the video the same animal as in Reference Image 3?"
+      },
+      {
+        "en": "Are the visible fur color and facial features of the right character consistent with Reference Image 3?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the center character embrace the frame-left and frame-right characters with both arms, matching the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the frame-left and frame-right characters raise their outer arms upwards, matching the reference video?"
+      },
+      {
+        "en": "Does the frame-right character break free from the embrace and move downwards later, matching the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the facial features of the actors from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the clothing of the actors from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the background plants and red flowers from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully remove the Chinese subtitles at the bottom of the reference video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the subjects from Reference Images 1, 2, and 3 correctly placed in the center, left, and right?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the video show a spatial structure enclosed by red sandstone arches and carved pillars?"
+      },
+      {
+        "en": "Is there a lotus pond in the center of the scene?"
+      },
+      {
+        "en": "Do marigolds and bronze lamps line the stone paths?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the overall scene of the video match the setting of an Indian temple garden?"
+      }
+    ]
+  },
+  "mr2v_content_motion/041": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in reference images 1/2/3?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and recognizable facial features match reference images 1/2/3?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the action stages and sequence of the character match the frame-left performer in the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the key postures, limb trajectories, and action amplitude match the frame-left performer in the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the male facial features of the frame-left performer from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the blue hoodie or black cap of the frame-left performer?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including scene elements like the riverside plaza or fill lights from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any subtitles, logos, or watermarks from the reference images or video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the scene with the requested one while preserving the reference character's identity?"
+      },
+      {
+        "en": "Does the video remove the other performers while reproducing the frame-left performer's actions?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the character maintain a consistent appearance throughout the video without changing into a different person?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the reference character correctly perform the actions of the left performer from the reference video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a rainy urban rooftop?"
+      },
+      {
+        "en": "Does the video feature a wet concrete floor and glass railings reflecting blue-purple neon lights?"
+      },
+      {
+        "en": "Do ventilation ducts and distant high-rises appear in the background?"
+      }
+    ]
+  },
+  "mr2v_content_motion/042": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same character as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, facial features, and cat-ear headdress match Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the subject's postures and trajectories match the person on the frame-left in the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the subject's action stages and sequence match the person on the frame-left in the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing in the facial features of the male actor on the frame-left?"
+      },
+      {
+        "en": "Does the video avoid bringing in the chef uniform and hat of the actor on the frame-left?"
+      },
+      {
+        "en": "Does the video avoid bringing in the stainless steel industrial kitchen background from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including watermarks, logos, or subtitles from the references?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain Image 1's identity while switching to the frame-left person's actions?"
+      },
+      {
+        "en": "Does the video replicate the frame-left person's actions while switching to the new kitchen scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video have the Image 1 character perform the actions of the frame-left person?"
+      },
+      {
+        "en": "Does the video remove the frame-right performer from the reference video, keeping only one subject?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Do mint green cabinets and pink tiled walls appear in the video?"
+      },
+      {
+        "en": "Are there colorful dishes placed on the central kitchen island in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do the round pendant lamps cast soft warm light?"
+      }
+    ]
+  },
+  "mr2v_content_motion/043": {
+    "RF-C01": [
+      {
+        "en": "Is the mech in the video the same mech as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible head searchlight, orange transparent cabin, and yellow-black stripes of the mech consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the subject's action sequentially go through the stages of fists at chest, forward kick, and leg retraction, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the height and extension amplitude of the subject's kick consistent with the central performer in the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video exclude the real human appearance or white karate uniform of the reference video's actors?"
+      },
+      {
+        "en": "Does the video exclude the wooden floor gymnasium scene from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video exclude any subtitles, logos, or watermarks from the reference image or video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the scene with a wasteland dojo while preserving the mech identity from Reference Image 1?"
+      },
+      {
+        "en": "Does the video remove other performers while reproducing the central performer's action?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the mech accurately perform the action of the central performer in the reference video, rather than the side performers?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does the video feature exactly one mech subject, without any other characters appearing?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video feature a wasteland dojo scene inside an abandoned warehouse?"
+      },
+      {
+        "en": "Are the silver-gray metal floor, training lines, and exposed pipes and beams visible?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do cold overhead lamps illuminate the exposed pipes and beams?"
+      }
+    ]
+  },
+  "mr2v_content_motion/044": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same subject as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and identifiable facial features of the character in the video consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the action stages and sequence of the subject in the video consistent with the person on the frame-right in the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the key postures, limb trajectories, and action amplitude of the subject consistent with the person on the frame-right in the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including the facial appearance or clothing of the boy on the frame-right in the reference video?"
+      },
+      {
+        "en": "Does the video avoid including original scene elements like modern buildings or rubber flooring from the reference video?"
+      },
+      {
+        "en": "Does the video avoid including the bamboo forest or wooden frame background from Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including watermarks, logos, or subtitles from the reference image or video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the subject identity from Reference Image 1 while replacing the action with the reference video's?"
+      },
+      {
+        "en": "Does the video retain the subject identity from Reference Image 1 while replacing the scene with the requested one?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the action of the person on the right in the reference video correctly assigned to the subject?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does only one subject appear in the video, without other performers?"
+      },
+      {
+        "en": "Does a wooden swing appear in the video?"
+      },
+      {
+        "en": "Does a mushroom-roofed pavilion appear in the video?"
+      },
+      {
+        "en": "Does a colorful climbing frame appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene presented as a fairytale playground at the edge of a rainbow forest?"
+      },
+      {
+        "en": "Are the amusement facilities in the video distributed on soft grass?"
+      }
+    ]
+  },
+  "mr2v_content_motion/045": {
+    "RF-C01": [
+      {
+        "en": "Is the character on the left the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the left character match Reference Image 1?"
+      },
+      {
+        "en": "Is the character on the right the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the right character match Reference Image 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the dance movement stages and sequences of the characters match the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the key postures, limb trajectories, and movement amplitudes match the reference video?"
+      },
+      {
+        "en": "Do the movements of the frame-left and frame-right characters correspond to the respective performers in the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the performers' appearances or clothing (e.g., hoodies) from the reference video?"
+      },
+      {
+        "en": "Does the video avoid bringing the original scene (e.g., plaza ground, background lights) from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including any subtitles, logos, or watermarks from the references?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the reference movements while replacing the performers' identities and scene as requested?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign Reference Image 1 to the left character and Reference Image 2 to the right?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Are there exactly two characters in the video, without a third central character?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a rainy rooftop garden enclosed by glass rails?"
+      },
+      {
+        "en": "Do long planters cross the wet floor, with neon reflected in puddles?"
+      },
+      {
+        "en": "Are the outlines of distant high-rise buildings visible in the video?"
+      }
+    ]
+  },
+  "mr2v_content_motion/046": {
+    "RF-C01": [
+      {
+        "en": "Is the person on the left the same as the subject in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and identifiable facial features of the person on the left match Reference Image 1?"
+      },
+      {
+        "en": "Is the person on the right the same as the subject in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and identifiable facial features of the person on the right match Reference Image 2?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Do the posture and trajectory of the frame-left person match the frame-left performer in the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Do the posture and trajectory of the frame-right person match the frame-right performer in the reference video?"
+      },
+      {
+        "en": "Do the stages and sequence of the actions match the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the facial features or clothing of the actors from the reference video?"
+      },
+      {
+        "en": "Does the video use the text-specified workshop layout instead of copying unrequested distinctive background details from the motion video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of any subtitles, logos, or watermarks from the reference materials?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the identities with the reference characters while preserving the actions?"
+      },
+      {
+        "en": "Does the video replace the scene with the newly instructed one while preserving the actions?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Do the subjects from Reference Image 1 and 2 appear on the left and right sides respectively?"
+      },
+      {
+        "en": "Do the left and right characters perform the actions of the corresponding sides in the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Are there exactly two subjects in the video, no more and no less?"
+      },
+      {
+        "en": "Is the central performer from the reference video absent in the generated video?"
+      },
+      {
+        "en": "Do easels, wooden benches, and tool racks appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the easels, wooden workbenches, and tool racks arranged in separate zones?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the scene appear as a handicraft workshop converted from an abandoned warehouse?"
+      },
+      {
+        "en": "Are exposed brick walls and steel beams visible in the scene?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the scene lit by cool skylight?"
+      }
+    ]
+  },
+  "mr2v_content_motion/047": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, facial features, and black beanie match Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the subject's action stages and sequence match the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Does the subject's bending amplitude and key posture match the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid including the facial features of the actor in the reference video?"
+      },
+      {
+        "en": "Does the video avoid including the kimono worn by the actor in the reference video?"
+      },
+      {
+        "en": "Does the video avoid including the Japanese room background from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of subtitles, logos, or watermarks from the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1's appearance correctly applied to the subject performing the action?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject bend deeply forward and catch their breath?"
+      },
+      {
+        "en": "Does the subject pause midway through a run?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video background appear as a mountain trail?"
+      },
+      {
+        "en": "Do the lighting or sky in the video indicate evening time?"
+      }
+    ]
+  },
+  "mr2v_content_motion/048": {
+    "RF-C01": [
+      {
+        "en": "Is the main subject in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, facial features, and right arm tattoo of the character consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the subject reproduce the reference sequence of standing, reaching both arms forward, and drawing the arms inward toward the torso, in the same order, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the posture and range of motion of the subject reaching out forward consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the facial or gender features of the female actor from the reference video into the final output?"
+      },
+      {
+        "en": "Does the video avoid bringing the actor's clothing (e.g., shirt, white pants) from the reference video into the final output?"
+      },
+      {
+        "en": "Does the video avoid bringing the indoor scene, wooden table, or blue and white porcelain vase from the reference video into the final output?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid reproducing subtitles, channel logos, or watermarks from the reference image or video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly apply the appearance from Reference Image 1 to the subject performing the catching action?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a volleyball court appear in the video?"
+      },
+      {
+        "en": "Does a volleyball appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the volleyball in the video white?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the subject in the video facing the camera?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a sunny weather environment?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the action of a teammate throwing a volleyball to the subject occur in the video?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject in the video steadily catch the volleyball?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a bright lighting effect consistent with a sunny day?"
+      }
+    ]
+  },
+  "mr2v_content_motion/049": {
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same person as in reference images 1-3?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with reference images 1-3?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the action stages and chronological order of the subject consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the subject's key postures and limb trajectories consistent with the reference video?"
+      },
+      {
+        "en": "Is the interactive position between the subject and the front object consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the actor's appearance or khaki trench coat from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the little boy or corridor scene from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully exclude subtitles, logos, or watermarks from the reference images or video?"
+      }
+    ],
+    "I-D04": [
+      {
+        "en": "Does the subject consistently remain the same character without changing into a different-looking person?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a small dog appear in the video?"
+      },
+      {
+        "en": "Does a leash appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the small dog wearing a collar in the video?"
+      },
+      {
+        "en": "Is the leash in the video red?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the subject squatting in front of the small dog in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set on a lawn beside a trail in a country park?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject attach the leash to the small dog's collar in the video?"
+      },
+      {
+        "en": "Does the subject cross hands to tie a knot and pull it tight?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject look down at both hands?"
+      }
+    ]
+  },
+  "mr2v_content_motion/050": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, facial features, and thin-framed glasses consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Does the subject reproduce Reference Video 1's already-raised arm posture and its visible small adjustments, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Is the visible range of the subject's arm movement consistent with Reference Video 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the male face or short hair from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the dark sportswear from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the track background or lighting from the reference video?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the trophy from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of watermarks, logos, or subtitles from the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1 used for the subject's appearance and the late-autumn orchard used as the setting?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does an apple tree full of red apples appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the subject standing under the apple tree in the video?"
+      },
+      {
+        "en": "Is the target red apple located on a high branch in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene appear as an apple orchard in late autumn?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject reach out and pick a red apple in the video?"
+      }
+    ]
+  },
+  "mr2v_content_motion/051": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in reference image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and recognizable facial features of the character consistent with reference image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the action stages and sequence of the subject consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the key postures and limb trajectories of the subject consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video successfully exclude the facial features of the actor in the reference video?"
+      },
+      {
+        "en": "Does the video successfully exclude the baseball uniform or cap from the reference video?"
+      },
+      {
+        "en": "Does the video successfully exclude the baseball field background from the reference video?"
+      },
+      {
+        "en": "Does the video successfully exclude the baseball or glove from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully exclude any subtitles, logos, or watermarks from the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the appearance from reference image 1 correctly assigned to the subject throwing confetti?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does colorful confetti appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the colorful confetti thrown high into the air?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video background presented as a festive wedding banquet hall?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the subject perform the action of throwing colorful confetti in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the subject wind up from a sideways stance before throwing the confetti?"
+      }
+    ]
+  },
+  "mr2v_content_motion/052": {
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the subject's visible identifying appearance, orange shell jacket, dark cap, and backpack consistent with Reference Image 1, without requiring facial details that are not visible in the reference?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the action stages and sequence of the subject consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the subject's posture and range of covering the chest consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the reference video actor's facial features into the output?"
+      },
+      {
+        "en": "Does the video avoid bringing the black coat from the reference video into the output?"
+      },
+      {
+        "en": "Does the video avoid bringing the monument or forest from the reference video into the output?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing subtitles from the reference image or video?"
+      },
+      {
+        "en": "Does the video avoid showing logos or watermarks from the reference image or video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the appearance from Reference Image 1 correctly assigned to the subject?"
+      },
+      {
+        "en": "Is the action from the reference video correctly assigned to the subject?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the subject in the video show an expression of pain?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene in the video a hospital waiting area corridor?"
+      }
+    ]
+  },
+  "mr2v_content_motion/053": {
+    "RF-C01": [
+      {
+        "en": "Is the parrot in the video the same parrot as in Reference Image 1?"
+      },
+      {
+        "en": "Are the bird's visible plumage colors, crest, recognizable facial features, and blue leg band consistent with Reference Image 1?"
+      }
+    ],
+    "RF-M01": [
+      {
+        "en": "Are the subject's action phases and chronological order consistent with the reference video, with the corresponding motion's speed and rhythm matching Reference Video 1?"
+      },
+      {
+        "en": "Are the subject's key postures, limb trajectories, and amplitudes consistent with the reference video?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Is the video free from incorrectly including the actress's appearance or gray pajamas from the reference video?"
+      },
+      {
+        "en": "Is the video free from incorrectly including the living room, white sofa, or wooden table from the reference video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free from subtitles, logos, or watermarks from the references?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly have the parrot from Reference Image 1 perform the reference video's actions?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the wooden stage placed in front of a row of high windows?"
+      },
+      {
+        "en": "Is the off-white curtain hanging in the background?"
+      },
+      {
+        "en": "Do green plants frame both sides of the stage?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video feature an indoor wooden stage, tall windows, an ivory curtain, and green plants?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present the lighting effect of sunlight forming neat light bands on the floor?"
+      }
+    ]
+  }
+}

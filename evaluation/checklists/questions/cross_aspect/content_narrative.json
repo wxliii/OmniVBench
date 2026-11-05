@@ -1,0 +1,4323 @@
+{
+  "multi_panel_content_reference/001": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid inheriting the sketch style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly have the person from Reference Image 1 drop the card?"
+      },
+      {
+        "en": "Does the video correctly have the person from Reference Image 2 pick up and return it?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person dropping the card in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, glasses, and facial features of the card-dropper match Reference Image 1?"
+      },
+      {
+        "en": "Is the person picking up the card in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the card-picker match Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video replicate the key event of dropping the card from Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the key event of picking up the card from Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the interaction of exchanging the card from Reference Image 3?"
+      },
+      {
+        "en": "Does the video reproduce the scene in Reference Image 3 in which the two people say goodbye?"
+      },
+      {
+        "en": "Is the event sequence ordered as dropping, picking up, exchanging, and parting?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/002": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorporating the sketch style of Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out the panel borders from Reference Image 2?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the subject from Reference Image 1 perform the actions from Reference Image 2?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features of the character consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video show the character walking to the bookshelf and pulling out a book?"
+      },
+      {
+        "en": "Does the video show the character crouching down to pick up the note?"
+      },
+      {
+        "en": "Does the video show the character unfolding and reading the note?"
+      },
+      {
+        "en": "Does the video show the character looking out the window holding the note?"
+      },
+      {
+        "en": "Do the events in the video occur strictly in the panel order of Reference Image 2?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/003": {
+    "I-D01": [
+      {
+        "en": "Is the sketch style of the storyboard decoupled and not brought into the video?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Are the panel borders of Reference Image 3 filtered out and not brought into the video?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video use the headpiece from Reference Image 2 while preserving the character's identity?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the headpiece from Reference Image 2 correctly worn by the character?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the headpiece in the video the same headpiece as in Reference Image 2?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the headpiece's visible gold material, butterfly decorations, and tassels consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video replicate the event of the character opening the box from Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the event of taking out the origami bird from Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the event of the origami bird flying up from Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the event of the character catching the origami bird from Reference Image 3?"
+      },
+      {
+        "en": "Does the video maintain the sequence of opening the box before taking out the bird?"
+      },
+      {
+        "en": "Does the video maintain the sequence of the bird flying up before being caught?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/004": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully detach from the line-art style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the clothing with Reference Image 2 while preserving the identity of Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the clothing from Reference Image 2 correctly worn by the character from Reference Image 1?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the clothing in the video the same clothing as in Reference Image 2?"
+      },
+      {
+        "en": "Are the green robe, red belt, and floral embroidery consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Is the event of approaching the seedling with a watering can consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the event of squatting to secure the seedling consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the event of watering and standing up to check consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the chronological order of the key events consistent with Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/005": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully avoid inheriting the sketch style of reference 5?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully remove the grid borders from reference 5?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject of reference 1 correctly assigned as the initial person by the table?"
+      },
+      {
+        "en": "Is the subject of reference 3 correctly assigned as the person entering with a box?"
+      },
+      {
+        "en": "Is the subject of reference 4 correctly assigned as the person joining later?"
+      },
+      {
+        "en": "Is the scene of reference 2 correctly assigned as the story space?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the first person studying the puzzle on the table?"
+      },
+      {
+        "en": "Does the second person walk in carrying a small box?"
+      },
+      {
+        "en": "Does the second person put down a new puzzle piece?"
+      },
+      {
+        "en": "Do the three people compare, rotate, and assemble the puzzle pieces together?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person at the table in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the story space in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Is the person entering with a box in the video the same person as in Reference Image 3?"
+      },
+      {
+        "en": "Is the person joining later in the video the same person as in Reference Image 4?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video replicate the first person studying puzzles from Reference Image 5?"
+      },
+      {
+        "en": "Does the video replicate the second person joining with a box from Reference Image 5?"
+      },
+      {
+        "en": "Does the video replicate the third person joining later from Reference Image 5?"
+      },
+      {
+        "en": "Does the video replicate the three people assembling puzzles together from Reference Image 5?"
+      },
+      {
+        "en": "Does the video replicate the three people nodding to each other from Reference Image 5?"
+      },
+      {
+        "en": "Do the video events strictly follow the spatial panel order of Reference Image 5?"
+      },
+      {
+        "en": "Does the video maintain the logical relationship of characters joining sequentially and cooperating?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/006": {
+    "I-D01": [
+      {
+        "en": "Is the video successfully decoupled, without inheriting the sketch style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly place the person from Reference Image 1 into the scene from Reference Image 2?"
+      },
+      {
+        "en": "Are the actions from Reference Image 3 executed by the person from Reference Image 1 in the video?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and recognizable facial features match Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Do the bird-and-flower wallpaper, blue patterned drawer cabinet, and gold-framed painting match Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video show the character entering the room and walking towards the cabinet?"
+      },
+      {
+        "en": "Does the video show a close-up shot of the character adjusting the frame with both hands?"
+      },
+      {
+        "en": "Does the video show the character stepping back and nodding?"
+      },
+      {
+        "en": "Do the events in the video strictly follow the grid order of Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/007": {
+    "I-D01": [
+      {
+        "en": "Does the video exclude the facial or identity features of the original character in Reference Image 1?"
+      },
+      {
+        "en": "Does the video exclude the dark background environment from Reference Image 2?"
+      },
+      {
+        "en": "Does the video exclude the original dark blue outfit from Reference Image 3?"
+      },
+      {
+        "en": "Does the video exclude the sketch style of Reference Image 4?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out the panel borders from Reference Image 4?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video keep the character identity of Reference Image 3 while changing to the outfit of Reference Image 1?"
+      },
+      {
+        "en": "Does the video keep the plot of Reference Image 4 while replacing the subject with the character from Reference Image 3?"
+      },
+      {
+        "en": "Does the video keep the entrance setting of Reference Image 4 while replacing it with the structure of Reference Image 2?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the outfit from Reference Image 1 correctly worn by the character, rather than applied to other objects?"
+      },
+      {
+        "en": "Is the structural element from Reference Image 2 used as the entrance, rather than as an accessory or background?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 3?"
+      },
+      {
+        "en": "Are the subject's visible facial features, hair, and other unreplaced identifying traits consistent with Reference Image 3, allowing only the changes or coverage required by the armor from Reference Image 1?"
+      },
+      {
+        "en": "Is the outfit in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the outfit's silver armor, red accents, and glowing parts consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the structural element in the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Are the structural element's blue glowing double rings, inner wavy texture, and outer dot matrix consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video reproduce the key event of the subject approaching and testing the spatial entrance in Reference Image 4?"
+      },
+      {
+        "en": "Does the video reproduce the story structure of the hall returning to calm after the subject passes through?"
+      },
+      {
+        "en": "Does the event sequence in the video strictly follow the left-to-right, row-by-row panel order in Reference Image 4?"
+      },
+      {
+        "en": "Does the video maintain the causal relationship of the entrance surface rippling after the subject tests it?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/008": {
+    "I-D01": [
+      {
+        "en": "Is the video successfully decoupled, without inheriting the sketch style of Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out the panel borders of Reference Image 2 without bringing them into the frame?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly apply the identity from Reference Image 1 to the subject in the storyboard?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the character's visible hairstyle, hair color, and facial features match Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the story structure in the video match the storyboard in Reference Image 2?"
+      },
+      {
+        "en": "Does the event sequence in the video match the panel order in Reference Image 2?"
+      },
+      {
+        "en": "Do the causal relationships of events in the video match Reference Image 2?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/009": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully remove the sketch style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video successfully filter out the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video place the character from Reference Image 2 into the scene from Reference Image 1?"
+      },
+      {
+        "en": "Does the video make the character from Reference Image 2 perform the actions from Reference Image 3?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same character as in Reference Image 2?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features (e.g., forehead ornament) consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the red smoke and black spike structures in the video consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Is the plot of the character walking towards the marker consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the plot of the character shielding from wind consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the plot of pressing a hand on the marker consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the plot of ripples spreading on the ground consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the plot of the character looking far away consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the sequence of events consistent with the panel order in Reference Image 3?"
+      },
+      {
+        "en": "Is the causal relationship between pressing the marker and ground ripples consistent with Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/010": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully avoid bringing the line-art style of Reference Image 3 into the final output?"
+      },
+      {
+        "en": "Does the video successfully avoid bringing the pure white background of Reference Image 1 into the final output?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the grid border lines from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly place the character from Reference Image 1 into the scene from Reference Image 2?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the mahogany window frames, curio shelves, and porcelains in the video consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video show the subject entering the room with a document and walking towards the table?"
+      },
+      {
+        "en": "Does the video show the subject putting the document down?"
+      },
+      {
+        "en": "Does the video show the subject pausing by the window and listening?"
+      },
+      {
+        "en": "Does the video show the subject turning around to look at the room?"
+      },
+      {
+        "en": "Do the events in the video occur strictly in the order of Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/011": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully decouple from the sketch style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out the grid border lines from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the person performing the actions exactly the character from Reference Image 1?"
+      },
+      {
+        "en": "Is the object being operated on exactly the storage cabinet from Reference Image 2?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the person open the upper part of the cabinet?"
+      },
+      {
+        "en": "Does the person pull open the lower drawer of the cabinet?"
+      },
+      {
+        "en": "Does the person search inside the drawer?"
+      },
+      {
+        "en": "Does the person hold up a small key?"
+      },
+      {
+        "en": "Does the person close the drawer?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the cabinet in the video the same object as in Reference Image 2?"
+      },
+      {
+        "en": "Are the dark gray sheet metal, louvered vents, and drawers consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Is the event of the subject walking towards the cabinet reproduced in the video?"
+      },
+      {
+        "en": "Is the event of the subject opening the upper door to look inside reproduced?"
+      },
+      {
+        "en": "Is the event of the subject opening the lower drawer to search reproduced?"
+      },
+      {
+        "en": "Is the event of the subject finding and holding up a small key reproduced?"
+      },
+      {
+        "en": "Is the event of the subject closing the drawer reproduced in the video?"
+      },
+      {
+        "en": "Does the event sequence strictly follow the panel order in Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/012": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully detach from the line art style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out the grid lines and borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the character from Reference Image 1 correctly placed in the scene from Reference Image 2?"
+      },
+      {
+        "en": "Are the actions from Reference Image 3 performed by the character from Reference Image 1?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features of the character consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Are the red sofa, blue low table, and potted plant consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video replicate the key events of organizing items and opening the door in Reference Image 3?"
+      },
+      {
+        "en": "Does the video present events following the left-to-right, top-to-bottom panel order of Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/013": {
+    "I-D01": [
+      {
+        "en": "Does the video decouple from Reference Image 2's line art style, without inheriting its sketch style?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out Reference Image 2's panel borders without bringing them into the frame?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly have Reference Image 1's character perform Reference Image 2's actions?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Does the character's visible hairstyle, hair color, and recognizable facial features (e.g., red forehead mark) match Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the event of the character walking with a tray match Reference Image 2?"
+      },
+      {
+        "en": "Does the event of the wind blowing the cloth match Reference Image 2?"
+      },
+      {
+        "en": "Does the event of the character catching and covering the cloth match Reference Image 2?"
+      },
+      {
+        "en": "Does the sequence of walking first then the cloth being blown match Reference Image 2?"
+      },
+      {
+        "en": "Does the sequence of the cloth being blown first then covered match Reference Image 2?"
+      },
+      {
+        "en": "Does the sequence of covering the cloth first then continuing walking match Reference Image 2?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/014": {
+    "I-D01": [
+      {
+        "en": "Is the video free from the sketch style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free from the panel borders of Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject from Reference Image 1 placed in the scene from Reference Image 2?"
+      },
+      {
+        "en": "Does the subject from Reference Image 1 perform the actions from Reference Image 3?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the subject in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the thick chains and ruined stone pillars in the video consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Is the event of the subject ducking under the beam consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the event of the subject crossing the gap consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the event of the subject looking back consistent with Reference Image 3?"
+      },
+      {
+        "en": "Are the shot scales and subject positions in the video consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the sequence of events in the video consistent with Reference Image 3?"
+      },
+      {
+        "en": "Are the causal and transitional relationships of actions consistent with Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/015": {
+    "I-D01": [
+      {
+        "en": "Does the video decouple from the sketch style of Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the panel borders from Reference Image 2?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign the character from Reference Image 1 to perform the actions from Reference Image 2?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features (e.g., pearl earrings) consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Is the event of the character picking up the card from the floor consistent with Reference Image 2?"
+      },
+      {
+        "en": "Does the subject place the card on the display plinth and step back?"
+      },
+      {
+        "en": "Is the sequence of events in the video consistent with Reference Image 2?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/016": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the white background or mannequin features from Reference Image 1?"
+      },
+      {
+        "en": "Does the video avoid incorrectly copying the black clothing or background from Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out the panel borders from Reference Image 3 without including them?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change to Reference Image 1's clothing while preserving the subject's identity?"
+      },
+      {
+        "en": "Does the video reconstruct into a non-sketch style while preserving the action sequence?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the subject from Reference Image 2 wear Reference Image 1's clothing and perform the actions?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, facial features, and large hoop earrings consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the outfit in the video the same outfit as in Reference Image 1?"
+      },
+      {
+        "en": "Are the one-shoulder design and pleated texture of the outfit consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Is the event of the character walking down the aisle consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the event of the character receiving the envelope consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the event of the character reading the card consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the event of the character looking towards the stage consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the chronological order of the events in the video consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the interactive relationship between the envelope sender and the character consistent with Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/017": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly inheriting the line-art style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid including the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the person's identity while changing the clothing to the new style?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly have the person from Reference Image 1 wear the clothing from Reference Image 2?"
+      },
+      {
+        "en": "Does the video correctly have the person from Reference Image 1 perform the actions from Reference Image 3?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the character in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the clothing in the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible style and detailed features of the clothing consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video replicate the plot of the character sitting at the desk noticing the curtain blowing?"
+      },
+      {
+        "en": "Does the video replicate the process of the character standing up and walking towards the balcony door?"
+      },
+      {
+        "en": "Does the video replicate the plot of the character looking outside and closing the balcony door?"
+      },
+      {
+        "en": "Do the events in the video occur sequentially according to the panel order in Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/018": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid inheriting the sketch style of Reference Image 4?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out the panel lines and borders from Reference Image 4?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the glasses from Reference Image 2 correctly worn on the character's face?"
+      },
+      {
+        "en": "Is the character correctly placed in the scene from Reference Image 1?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character pick up the route card from the adjacent seat?"
+      },
+      {
+        "en": "Does the character unfold the route card?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the character gesture forward after looking out of the window?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the beige leather seats and wood-grain door trims in the video consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the glasses in the video the same glasses as in Reference Image 2?"
+      },
+      {
+        "en": "Is the metal round frame in the video consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the character in the video the same character as in Reference Image 3?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features in the video consistent with Reference Image 3?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video reproduce the event of the character picking up and reading the folded card from Reference Image 4?"
+      },
+      {
+        "en": "Does the video reproduce the event of the character looking out the window and gesturing forward from Reference Image 4?"
+      },
+      {
+        "en": "Is the event sequence in the video completely consistent with the panel order in Reference Image 4?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/019": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the line-art style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out the panel borders of Reference Image 3 from the output?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video change to Reference Image 2's clothing while preserving Reference Image 1's identity?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 2's clothing correctly worn by the subject from Reference Image 1?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the clothing in the video the same clothing as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, facial features, and glasses of the character consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the black fabric, long sleeves, and button front of the clothing consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and story structure in the video consistent with Reference Image 3?"
+      },
+      {
+        "en": "Are the character's positions and actions in the video consistent with Reference Image 3?"
+      },
+      {
+        "en": "Are the shot scales in the video consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the sequence of events in the video consistent with the panel order in Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/020": {
+    "I-D01": [
+      {
+        "en": "Does the video break away from the line art style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video assign the person from Reference Image 1 as the character entering with a folder?"
+      },
+      {
+        "en": "Does the video assign the person from Reference Image 2 as the character waiting at the table?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a folder appear in the video?"
+      },
+      {
+        "en": "Does a table appear in the video?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a character enter carrying a folder?"
+      },
+      {
+        "en": "Do the characters put down and open the folder?"
+      },
+      {
+        "en": "Does a character point to a specific spot inside the folder?"
+      },
+      {
+        "en": "Does a character close the folder and hand it back?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person carrying the folder in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the first subject match Reference Image 1?"
+      },
+      {
+        "en": "Is the person waiting at the table in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the second subject match Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video replicate the event of walking to the table with a folder in Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the event of putting down the folder at the table in Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the event of one person pointing at the folder's content in Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the event of the other person nodding in Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the event of hands closing the folder in Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the event of the two people exchanging the folder in Reference Image 3?"
+      },
+      {
+        "en": "Do the events in the video occur in the exact order of 1 to 6 in Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/021": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the black-and-white sketch style of Reference Image 4?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 4?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject from Reference Image 1 correctly assigned as the seated person?"
+      },
+      {
+        "en": "Is the subject from Reference Image 2 correctly assigned as the standing person?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the sitting character in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the standing character in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 3?"
+      },
+      {
+        "en": "Are the red armchair, stacked boxes, and white square table consistent with Reference Image 3?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video reproduce the key event of the standing man leaning over to question from Reference Image 4?"
+      },
+      {
+        "en": "Does the video reproduce the structure of the camera finally cutting to the sitting man from Reference Image 4?"
+      },
+      {
+        "en": "Does the video follow the sequence of Reference Image 4, showing questioning first and reaction last?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/022": {
+    "I-D01": [
+      {
+        "en": "Is the video free of the storyboard art style from Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly place the woman from Reference Image 2 into the scene from Reference Image 1?"
+      },
+      {
+        "en": "Does the video correctly make the woman from Reference Image 2 perform the actions from Reference Image 3?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the red-and-white floral carpet, steps, and floor lanterns in the video consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the woman in the video the same woman as in Reference Image 2?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Is the woman's appearance event in the video consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the woman's rolling event in the video consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the event of the woman completing her pose in the video consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the sequence of events in the video consistent with Reference Image 3?"
+      },
+      {
+        "en": "Does the video reproduce the action beats shown in panels 1, 7, and 8 of Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/023": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid inheriting the black-and-white ink style of Reference Image 4?"
+      },
+      {
+        "en": "Does the video avoid incorrectly copying the blank background of Reference Image 4?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 4?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign the appearance of Reference Image 1 to the large animal?"
+      },
+      {
+        "en": "Does the video correctly assign the appearance of Reference Image 2 to the falling man?"
+      },
+      {
+        "en": "Does the video correctly assign the actions of Reference Image 4 to the corresponding characters?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the large animal in the video the same animal as in Reference Image 1?"
+      },
+      {
+        "en": "Is the man in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Is the forest scene in the video the same scene as in Reference Image 3?"
+      },
+      {
+        "en": "Are the animal's visible fur color and identifiable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 2?"
+      },
+      {
+        "en": "Are the large purple leaves, pink canopies, and thick trunks consistent with Reference Image 3?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video replicate the event of the man falling to the ground as in Reference Image 4?"
+      },
+      {
+        "en": "Does the video replicate the event of the bear standing by the fallen man as in Reference Image 4?"
+      },
+      {
+        "en": "Does the video replicate the action of the bear reaching out to push the man as in Reference Image 4?"
+      },
+      {
+        "en": "Does the video replicate the story structure of the camera shifting to a top-down view as in Reference Image 4?"
+      },
+      {
+        "en": "Does the video maintain the event sequence of falling first then checking as in Reference Image 4?"
+      },
+      {
+        "en": "Does the video maintain the sequence of pushing first then the camera pulling up as in Reference Image 4?"
+      },
+      {
+        "en": "Is the relative positioning between the bear and the man consistent with Reference Image 4?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/024": {
+    "I-D01": [
+      {
+        "en": "Does the video exclude the storyboard art style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Ref 1 assigned as the large subject and Ref 2 as the opposing character?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the large subject in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the armed character in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features of the large subject consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and facial features of the armed character consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the relative positions of the characters consistent with Reference Image 3?"
+      },
+      {
+        "en": "Are the actions of the characters consistent with Reference Image 3?"
+      },
+      {
+        "en": "Are the shot scale and camera angle consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the sequence of events consistent with Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/025": {
+    "I-D01": [
+      {
+        "en": "Does the video disentangle the storyboard's drawing style — neither carrying over line art or sketch strokes, nor treating the storyboard's flat single-colour placeholder figures (used there only to tell characters apart) as the actual clothing or appearance of the subjects?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 2?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the identity from Reference Image 1 correctly assigned to the character sitting and talking?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video reproduce the event of someone carrying another person into the scene from Reference Image 2?"
+      },
+      {
+        "en": "Does the video reproduce the event of the woman sitting at the desk and turning around from Reference Image 2?"
+      },
+      {
+        "en": "Does the video reproduce the event of the medical staff talking with the woman from Reference Image 2?"
+      },
+      {
+        "en": "Does the video reproduce the event of the woman standing up from Reference Image 2?"
+      },
+      {
+        "en": "Do the events in the video occur in the sequential order shown in Reference Image 2?"
+      },
+      {
+        "en": "Does the video maintain the spatial relationship of the standing medical staff interacting with the woman from Reference Image 2?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/026": {
+    "I-D01": [
+      {
+        "en": "Does the video break away from the storyboard art style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the character identity from Reference Image 2 correctly assigned to the acting subject?"
+      },
+      {
+        "en": "Is the scene from Reference Image 1 correctly assigned as the background environment?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same as in Reference Image 2?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the scene in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the glowing lanterns, red flowers, and bamboo frames consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video replicate the plot of two people standing and communicating from Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the key event of reaching out and holding hands from Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the close-up to medium shot to close-up structure from Reference Image 3?"
+      },
+      {
+        "en": "Does the video follow Reference Image 3's order, showing communication first, then holding hands?"
+      },
+      {
+        "en": "Does the video maintain the face-to-face interactive character relationship from Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/027": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing in the line-art style of Reference Image 3?"
+      },
+      {
+        "en": "Does the video avoid bringing in the background environment of Reference Image 1?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign the woman from Reference Image 1 as the subject performing actions?"
+      },
+      {
+        "en": "Does the video correctly assign the scene from Reference Image 2 as the background?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the radial wall clock, square wall lamp, and chandelier in the video consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Is the event of showing the wall clock consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the event of the character looking up and conversing consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the event of the character preparing ingredients consistent with Reference Image 3?"
+      },
+      {
+        "en": "Does the video show the subject taking ingredients out of the pot and placing them on a plate, as depicted in the final storyboard panels?"
+      },
+      {
+        "en": "Is the chronological order of events in the video consistent with Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/028": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly incorporating the background environment of Reference Image 1?"
+      },
+      {
+        "en": "Does the video avoid incorrectly incorporating the storyboard art style of Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 2?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video apply the character from Reference Image 1 to the actions and positions in Reference Image 2?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and identifiable facial features of the character in the video consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Is the event of the close-up blade and dripping water in the video consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the event of the person standing before the dead tree in the video consistent with Reference Image 2?"
+      },
+      {
+        "en": "Does the video reproduce the depicted water droplets breaking apart and running along the blade in panels 5 and 6?"
+      },
+      {
+        "en": "Is the event of water dripping from the sword tip in the video consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the sequence of events in the video consistent with the storyboard order in Reference Image 2?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/029": {
+    "I-D01": [
+      {
+        "en": "Does the video exclude the original background scenes from References 1 and 2?"
+      },
+      {
+        "en": "Does the video exclude the storyboard art style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video assign the subjects from References 1 and 2 to the correct character slots?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the lying person in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the attending person in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and identifiable facial features of the lying person consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the visible hairstyle, hair color, and identifiable facial features of the attending person consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video replicate the plot of the attending person leaning over to check from Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the plot of approaching with a slender object from Reference Image 3?"
+      },
+      {
+        "en": "Does the video replicate the plot of continuing to guard nearby from Reference Image 3?"
+      },
+      {
+        "en": "Does the video maintain the sequence of first leaning over then approaching to inspect from Reference Image 3?"
+      },
+      {
+        "en": "Does the video maintain the relationship of one lying down and one attending from Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/030": {
+    "I-D01": [
+      {
+        "en": "Does the video decouple from the storyboard style of reference image 4 without copying it?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 4?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the three reference subjects correctly assigned to the corresponding character slots?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are there exactly three characters in the video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a table appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set indoors?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the young man in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the young man match Reference Image 1?"
+      },
+      {
+        "en": "Is the middle-aged man in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the middle-aged man match Reference Image 2?"
+      },
+      {
+        "en": "Is the older woman in the video the same person as in Reference Image 3?"
+      },
+      {
+        "en": "Do the visible hairstyle, hair color, and facial features of the older woman match Reference Image 3?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video reproduce the story structure of three people dining from Reference Image 4?"
+      },
+      {
+        "en": "Does the video reproduce the key events of characters eating and interacting from Reference Image 4?"
+      },
+      {
+        "en": "Does the sequence of actions in the video match the order in Reference Image 4?"
+      },
+      {
+        "en": "Does the video maintain the relative seating arrangement of the three characters from Reference Image 4?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/031": {
+    "I-D01": [
+      {
+        "en": "Does the video decouple from the line-art style of Reference Image 2 without copying its style?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 2?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video assign the bride from Reference Image 1 to the bride's position in the storyboard?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the bride in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, facial features, and lace headpiece consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Do the bride and groom face each other as depicted in Reference Image 2?"
+      },
+      {
+        "en": "Does the video replicate the key event of guests clapping from Reference Image 2?"
+      },
+      {
+        "en": "Does the video replicate the close-up of hands and bouquet from Reference Image 2?"
+      },
+      {
+        "en": "Do the events in the video occur in the sequential order shown in Reference Image 2?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/032": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the storyboard line-art style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video place the man from Reference Image 1 into the scene from Reference Image 2?"
+      },
+      {
+        "en": "Are the subject appearance and setting taken from Reference Images 1 and 2, while Reference Image 3 supplies the plot, actions, and shot order?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 2?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Are the gray brick wall, wooden door, and red-leaf plant in the video consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video show one person approaching the entrance while another watches from the foreground, as in Reference Image 3?"
+      },
+      {
+        "en": "Is the event of the man looking aside in a close-up consistent with Reference Image 3?"
+      },
+      {
+        "en": "Does the video follow Reference Image 3's panel order, showing the approach to the entrance before the close-up of the foreground observer looking aside?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/033": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly copying the storyboard art style of Reference Image 2?"
+      },
+      {
+        "en": "Does the video avoid incorrectly copying the character appearances from Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video filter out the panel borders from Reference Image 2?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1's identity applied to the main character in the storyboard?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Is the plot in the video consistent with Reference Image 2?"
+      },
+      {
+        "en": "Are the characters' actions consistent with Reference Image 2?"
+      },
+      {
+        "en": "Are the characters' positions consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the camerawork in the video consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the sequence of events consistent with Reference Image 2?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/034": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully exclude the storyboard art style of Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 2?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video assign Reference Image 2's actions and positioning to Reference Image 1's subject?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the woman in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the plot and key actions in the video consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the sequence of actions and shots in the video consistent with Reference Image 2?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/035": {
+    "I-D01": [
+      {
+        "en": "Is the video free from the simple line-drawing style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the identity of the man in Reference Image 2 correctly assigned to the male character being interacted with?"
+      },
+      {
+        "en": "Is the chair in Reference Image 1 correctly assigned to the seat in the scene?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man from Reference Image 2 seated on the chair from Reference Image 1 during the face-tending interaction?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same person as in Reference Image 2?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 2?"
+      },
+      {
+        "en": "Is the chair in the video the same object as in Reference Image 1?"
+      },
+      {
+        "en": "Are the dark gray upholstered backrest and golden metal frame consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video reproduce the key event in Reference Image 3 in which the woman uses a small handheld tool to wipe or tend to the man's face?"
+      },
+      {
+        "en": "Does the video show the woman moving the tool away and withdrawing her hand after tending to the man’s face, as in Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/036": {
+    "I-D01": [
+      {
+        "en": "Is the video free of the storyboard art style from Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 2?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video have the subject from Reference Image 1 perform the actions from Reference Image 2?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features (e.g., glasses) consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video reproduce the plot of the man holding a cup from Reference Image 2?"
+      },
+      {
+        "en": "Does the video maintain the close-up shot of the character from Reference Image 2?"
+      },
+      {
+        "en": "Does the man look down at the small rectangular object held in his free hand while still holding the cup?"
+      },
+      {
+        "en": "Does the man look back up after briefly looking down at the handheld object?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/037": {
+    "I-D01": [
+      {
+        "en": "Is the video free from the storyboard art style of Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 2?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Did the video correctly apply Reference Image 1 to the scene and Reference Image 2 to actions?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the scene in the video the same scene as in Reference Image 1?"
+      },
+      {
+        "en": "Are the wooden table, barred window, and blue wall object in the video consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video show one person at the table and another standing nearby?"
+      },
+      {
+        "en": "Does the video follow the panel order of Reference Image 2, including the person at the table holding a cup and reaching toward the bottles?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/038": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorporating the line-art style of Reference Image 3?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 3?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the action from Reference Image 3 correctly assigned to the person from Reference Image 1?"
+      },
+      {
+        "en": "Is the potted plant from Reference Image 2 used as an office furnishing rather than as the manipulated object in the storyboard?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the person in the video the same as Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and facial features consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the potted plant in the video the same as Reference Image 2?"
+      },
+      {
+        "en": "Are the tall white pot and broad green leaves consistent with Reference Image 2?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Are the key events and story structure consistent with Reference Image 3?"
+      },
+      {
+        "en": "Is the event order in the video consistent with Reference Image 3?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/039": {
+    "I-D01": [
+      {
+        "en": "Is the video free of the stick-figure or line-art style from Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 2?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the actions from Reference Image 2 correctly assigned to the man from Reference Image 1?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same person as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and recognizable facial features consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video reproduce the event of the man washing hands from Reference Image 2?"
+      },
+      {
+        "en": "Does the video reproduce the event of the man turning away from the sink from Reference Image 2?"
+      },
+      {
+        "en": "Does the video reproduce the man facing the wall and raising his hand from Reference Image 2?"
+      },
+      {
+        "en": "Do the events in the video follow the storyboard order in Reference Image 2?"
+      }
+    ]
+  },
+  "multi_panel_content_reference/040": {
+    "I-D01": [
+      {
+        "en": "Is the video free of the storyboard art style from Reference Image 2?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the panel borders from Reference Image 2?"
+      },
+      {
+        "en": "Is the final video free of all text, subtitles, numbers, logos, watermarks, and timestamps?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video have the man from Reference Image 1 perform the actions from Reference Image 2?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the man in the video the same man as in Reference Image 1?"
+      },
+      {
+        "en": "Are the character's visible hairstyle, hair color, and identifiable facial features consistent with Reference Image 1?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video reproduce the key event of the man paddling from Reference Image 2?"
+      },
+      {
+        "en": "Do the arm motions follow the storyboard panels in spatial order: top-left, top-right, bottom-left, then bottom-right?"
+      }
+    ]
+  },
+  "multi_story_ref/001": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 3 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 4 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 5, allowing the viewpoint and story changes requested in the instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the gathering story while using subjects and scenes from reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video use Reference Image 5 as background without misapplying its elements to subjects?"
+      }
+    ]
+  },
+  "multi_story_ref/002": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 3, allowing the viewpoint and story changes requested in the instructions?"
+      },
+      {
+        "en": "Does the object assigned from Reference Image 4 preserve the selected object's identity and recognizable shape and appearance in its instructed use?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace characters, background, and object with reference images while retaining the story structure?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the subject from Reference Image 1 participate in the assigned shared-object holding interaction?"
+      },
+      {
+        "en": "Does the subject from Reference Image 2 perform the assigned other role in the shared-object grip/release interaction?"
+      },
+      {
+        "en": "Is the supermarket shelf from Reference Image 3 correctly assigned as the background scene?"
+      },
+      {
+        "en": "Is the box from Reference Image 4 used as the shared story object in the holding-and-release interaction?"
+      }
+    ]
+  },
+  "multi_story_ref/003": {
+    "RF-C01": [
+      {
+        "en": "Does the clothing assigned from Reference Image 1 preserve the referenced garment's identifiable design and appearance when worn as instructed?"
+      },
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 2, allowing the viewpoint and story changes requested in the instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 3 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the orange fabric and octagonal patterns of the clothing consistent with Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject, clothing, and background with the new content specified by the reference images while retaining the plot of the reference video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly apply the clothing from Reference Image 1 to the subject specified by Reference Image 3?"
+      },
+      {
+        "en": "Does the video correctly use Reference Image 2 as the background scene rather than as other elements?"
+      }
+    ]
+  },
+  "multi_story_ref/004": {
+    "RF-C01": [
+      {
+        "en": "Does the clothing assigned from Reference Image 1 preserve the referenced garment's identifiable design and appearance when worn as instructed?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 3 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the material, color, and edge stitching pattern of the white coat in the video consistent with Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the traveling structure while replacing the subjects and scene?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the coat from Reference Image 1 worn by the woman from Reference Image 2?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is one of the subjects wearing a white coat in the video?"
+      }
+    ]
+  },
+  "multi_story_ref/005": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 2, allowing the viewpoint and story changes requested in the instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject and background with new references while retaining the plot?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are Reference Images 1 and 2 correctly assigned to the subject and background respectively without mismatch?"
+      }
+    ]
+  },
+  "multi_story_ref/006": {
+    "RF-C01": [
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 1, allowing the viewpoint and story changes requested in the instructions?"
+      },
+      {
+        "en": "Does the clothing assigned from Reference Image 2 preserve the referenced garment's identifiable design and appearance when worn as instructed?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 3 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 4 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the visible white fabric and subtle patterns of the clothing consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subjects, background, and clothing with new content while retaining the plot?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the subject from Reference Image 3 correctly assigned as the searching role outside the door?"
+      },
+      {
+        "en": "Is the subject from Reference Image 4 correctly assigned as the discovered role inside the door?"
+      },
+      {
+        "en": "Is the clothing from Reference Image 2 correctly worn by the subject from Reference Image 3?"
+      },
+      {
+        "en": "Is the scene from Reference Image 1 correctly used as the background for the story?"
+      }
+    ]
+  },
+  "multi_story_ref/007": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subjects with those specified in the reference images while retaining the plot of the reference video?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1 consistently used for one of the two embracing subjects?"
+      },
+      {
+        "en": "Is Reference Image 2 consistently used for the other embracing subject, without swapping identities during the interaction?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two new subjects appear in the video?"
+      }
+    ]
+  },
+  "multi_story_ref/008": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the original plot while using the new subjects from the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the one initiating the effect played by Reference Image 1, not Reference Image 2?"
+      },
+      {
+        "en": "Is the one receiving the effect played by Reference Image 2, not Reference Image 1?"
+      }
+    ]
+  },
+  "multi_story_ref/009": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the clothing assigned from Reference Image 2 preserve the referenced garment's identifiable design and appearance when worn as instructed?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 3 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the material, texture, pattern, and color of the suit jacket worn by the character consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subjects and clothing with the reference images while retaining the narrative structure?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the suit jacket from Reference Image 2 correctly worn by a subject rather than appearing as background?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two subjects appear in the video?"
+      },
+      {
+        "en": "Does a suit jacket appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is one of the subjects in the video wearing a suit jacket?"
+      }
+    ]
+  },
+  "multi_story_ref/010": {
+    "RF-C01": [
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 1, allowing the viewpoint and story changes requested in the instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 3 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the characters and scene while retaining the walking relationship?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are Reference Images 3 and 2 assigned to characters, and Image 1 to the background?"
+      }
+    ]
+  },
+  "multi_story_ref/011": {
+    "RF-C01": [
+      {
+        "en": "Does the clothing assigned from Reference Image 1 preserve the referenced garment's identifiable design and appearance when worn as instructed?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Do the dark base color and pinstripe pattern of the clothing match Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject and clothing with new ones while retaining the original plot?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the clothing from Reference Image 1 correctly worn by the subject from Reference Image 2?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the standing subject in the video wearing a suit jacket?"
+      }
+    ]
+  },
+  "multi_story_ref/012": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the accessory assigned from Reference Image 2 preserve the selected accessory's identity and recognizable appearance when worn as instructed?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the material and color of the silver-white beads and colored pendant beads of the necklace consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject with Reference Image 1 and add Reference Image 2's necklace while retaining the crying action?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the necklace from Reference Image 2 correctly worn by the subject specified by Reference Image 1?"
+      }
+    ]
+  },
+  "multi_story_ref/013": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 2, allowing the viewpoint and story changes requested in the instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject and background with reference images while retaining the action?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video assign Reference Image 1 to the subject and Reference Image 2 to the background?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video present a classical indoor background?"
+      }
+    ]
+  },
+  "multi_story_ref/014": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 2, allowing the viewpoint and story changes requested in the instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the side-by-side watching structure while replacing the subject and scene with the reference images?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the subject features of Reference Image 1 applied only to the main character, without incorrectly appearing in the background?"
+      },
+      {
+        "en": "Are the sofa environment features of Reference Image 2 applied only to the background, without incorrectly appearing on the characters?"
+      }
+    ]
+  },
+  "multi_story_ref/015": {
+    "RF-C01": [
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 1, allowing the viewpoint and story changes requested in the instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 3 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subjects and background with new ones while retaining the original plot?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video assign Reference Image 2 as the main subject and Reference Image 3 as the other?"
+      },
+      {
+        "en": "Does the video use Reference Image 1 as background without misapplying its elements to characters?"
+      }
+    ]
+  },
+  "multi_story_ref/016": {
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the object assigned from Reference Image 2 preserve the selected object's identity and recognizable shape and appearance in its instructed use?"
+      },
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 3, allowing the viewpoint and story changes requested in the instructions?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Do the skin and hair colors of the foreground subject match Reference Image 1?"
+      },
+      {
+        "en": "Do the golden dragon head and brown wood grain of the wiped object match Reference Image 2?"
+      },
+      {
+        "en": "Do the green trees and orange clouds in the background match Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video keep the wiping action while changing the subject to Reference Image 1?"
+      },
+      {
+        "en": "Does the video keep the wiped object while changing it to Reference Image 2?"
+      },
+      {
+        "en": "Does the video keep the waking action while changing the background to Reference Image 3?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1 correctly used as the wiping subject rather than the background subject?"
+      },
+      {
+        "en": "Is Reference Image 2 correctly used as the wiped object rather than other props?"
+      },
+      {
+        "en": "Is Reference Image 3 correctly used as the background rather than a foreground element?"
+      }
+    ]
+  },
+  "multi_story_ref/017": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 2, allowing the viewpoint and story changes requested in the instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subjects and background with the reference images while retaining the plot?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the elderly man specified in Reference Image 1 correctly presented as the main subject?"
+      },
+      {
+        "en": "Is the ward specified in Reference Image 2 correctly presented as the background?"
+      }
+    ]
+  },
+  "multi_story_ref/018": {
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Does the clothing assigned from Reference Image 1 preserve the referenced garment's identifiable design and appearance when worn as instructed?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 3 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the white fabric, black dashed stitching, and black thin belt of the coat consistent with Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the arm-touching plot while replacing the characters with new subjects?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the female lead wearing the coat from Reference Image 1, rather than the male lead?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the female lead in the video wearing a coat?"
+      }
+    ]
+  },
+  "multi_story_ref/019": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subjects with new ones while retaining the plot of examining an object?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the subjects from the two reference images correctly assigned without role swapping?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two subjects and a table appear in the video?"
+      }
+    ]
+  },
+  "multi_story_ref/020": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 2, allowing the viewpoint and story changes requested in the instructions?"
+      },
+      {
+        "en": "Does the accessory assigned from Reference Image 3 preserve the selected accessory's identity and recognizable appearance when worn as instructed?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject, background, and accessory with new ones while retaining the original story structure?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign Reference Images 1, 2, and 3 as subject, background, and accessory without mismatch?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main subject in the video wearing a helmet?"
+      }
+    ]
+  },
+  "multi_story_ref/021": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Do the metal material and surface patterns of the mask match Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the main subject with Reference Image 1 while retaining the questioning plot?"
+      }
+    ]
+  },
+  "multi_story_ref/022": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the material and texture of the main subject's gray Chinese-style jacket consistent with Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the subject identity of Reference Image 1 while adopting the narrative actions from the reference video?"
+      }
+    ]
+  },
+  "multi_story_ref/023": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ]
+  },
+  "multi_story_ref/024": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subjects with those from the reference images while retaining the confrontation story structure?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the subjects from Reference Image 1 and 2 correctly assigned as the two confronting parties?"
+      }
+    ]
+  },
+  "multi_story_ref/025": {
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 3, allowing the viewpoint and story changes requested in the instructions?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Is the pink cloud-patterned fabric of the main subject in the video consistent with Reference Image 1?"
+      },
+      {
+        "en": "Do the fur collar and visible shoulder-panel details of the other subject match Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subjects and background with the reference images while preserving the story logic?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign Reference Images 1 and 2 as the subjects performing the narrative actions?"
+      },
+      {
+        "en": "Does the video correctly assign Reference Image 3 as the background of the story?"
+      }
+    ]
+  },
+  "multi_story_ref/026": {
+    "RF-C01": [
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 1, allowing the viewpoint and story changes requested in the instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 3 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Does the woman's clothing in the video retain the sequin material and dark red color from Reference Image 3?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the background and subjects with the reference images while retaining the item-removing and hand-interaction logic?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign Reference Image 1 as the background and Images 2 and 3 as subjects without mismatch?"
+      }
+    ]
+  },
+  "multi_story_ref/027": {
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject with a new one while preserving the original narrative?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a counter appear in the video?"
+      },
+      {
+        "en": "Do ingredients appear in the video?"
+      },
+      {
+        "en": "Does a container appear in the video?"
+      }
+    ]
+  },
+  "multi_story_ref/028": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the clothing assigned from Reference Image 2 preserve the referenced garment's identifiable design and appearance when worn as instructed?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the visible blue material and edge patterns of the clothing in the video consistent with Reference Image 2?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject with the one specified in Reference Image 1 while retaining the story structure of Reference Video 1?"
+      },
+      {
+        "en": "Does the video replace the clothing with the one specified in Reference Image 2 while retaining the story structure of Reference Video 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the clothing from Reference Image 2 correctly worn by the subject specified in Reference Image 1 in the video?"
+      }
+    ]
+  },
+  "multi_story_ref/029": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the story structure of leaning over to check while replacing the main subject with the new one from Reference Image 1?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      },
+      {
+        "en": "Does another lying subject appear in the video?"
+      }
+    ]
+  },
+  "multi_story_ref/030": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 3 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Do the specified visible materials, textures, patterns, and colors match the subjects’ assigned content references, excluding explicitly replaced factors?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subjects and scenes while retaining the story logic?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are the subjects specified by Reference Images 1, 2, and 3 correctly assigned as diners?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do exactly three subjects appear in the video?"
+      },
+      {
+        "en": "Do a table and food appear in the video?"
+      }
+    ]
+  },
+  "multi_story_ref/031": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subjects with those from the reference images while retaining the wedding interaction structure?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly assign the subjects from Reference Image 1 and 2 as the wedding couple without role mismatch?"
+      }
+    ]
+  },
+  "multi_story_ref/032": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the visible pink-and-white color scheme and surface textures of the character's clothing consistent with Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject with the new one from Reference Image 1 while retaining the plot of the reference video?"
+      }
+    ]
+  },
+  "multi_story_ref/033": {
+    "RF-C01": [
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 1, allowing the viewpoint and story changes requested in the instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject and background with reference images while retaining the walking and calling plot?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the content of Reference Image 1 correctly used as the background, rather than the subject?"
+      },
+      {
+        "en": "Is the content of Reference Image 2 correctly used as the main subject, rather than a passerby?"
+      }
+    ]
+  },
+  "multi_story_ref/034": {
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject with Reference Image 1 while preserving the original storyline?"
+      }
+    ]
+  },
+  "multi_story_ref/035": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subjects with those from the reference images while retaining the wiping and conversing plot?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Does the video correctly have the subject from Reference Image 2 wipe the subject from Reference Image 1 without role reversal?"
+      }
+    ]
+  },
+  "multi_story_ref/036": {
+    "RF-C01": [
+      {
+        "en": "Does the generated background preserve the scene identity and recognizable layout specified by Reference Image 1, allowing the viewpoint and story changes requested in the instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the object assigned from Reference Image 3 preserve the selected object's identity and recognizable shape and appearance in its instructed use?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video retain the story logic while replacing the subject with Reference Image 2?"
+      },
+      {
+        "en": "Does the video retain the story logic while replacing the background with Reference Image 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is Reference Image 1 correctly applied as the background rather than the subject?"
+      },
+      {
+        "en": "Is Reference Image 3 correctly applied as a scene object rather than the subject?"
+      }
+    ]
+  },
+  "multi_story_ref/037": {
+    "RF-C01": [
+      {
+        "en": "Does the clothing assigned from Reference Image 1 preserve the referenced garment's identifiable design and appearance when worn as instructed?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 2 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      },
+      {
+        "en": "Does the subject assigned from Reference Image 3 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Do the material, texture, and pattern of the clothing worn by the subject sitting, holding a cup, and drinking in the video match Reference Image 1?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subjects and clothing with those specified in the reference images while retaining the story structure of Reference Video 1?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Is the clothing from Reference Image 1 correctly worn by the subject specified by Reference Image 2?"
+      }
+    ]
+  },
+  "multi_story_ref/038": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject with the new one specified in Reference Image 1 while preserving the plot of viewing and tearing the paper?"
+      }
+    ]
+  },
+  "multi_story_ref/039": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject with the person from Reference Image 1 while retaining the hand-washing action?"
+      }
+    ],
+    "I-D05": [
+      {
+        "en": "Are features from Reference Image 1 applied only to the acting subject, without mismatching the background?"
+      }
+    ]
+  },
+  "multi_story_ref/040": {
+    "RF-C01": [
+      {
+        "en": "Does the subject assigned from Reference Image 1 preserve that subject's identity and recognizable physical features, excluding factors explicitly replaced by other references or instructions?"
+      }
+    ],
+    "RF-N01": [
+      {
+        "en": "Does the video preserve the reference video's story structure — character relationships, key events and their order?"
+      }
+    ],
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific setting, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific character appearance, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific costume design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating Reference Video 1’s specific prop design, except where an assigned content reference explicitly requires it?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the color palette of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      },
+      {
+        "en": "Does the video avoid copying or closely imitating the camera composition of Reference Video 1, while following the assigned content references when visual information conflicts?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Has the video filtered out the burned-in subtitles, channel logos, watermarks and timestamps from the reference video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video replace the subject with Reference Image 1 while retaining the floating action?"
+      }
+    ]
+  }
+}

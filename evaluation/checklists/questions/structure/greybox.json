@@ -1,0 +1,1391 @@
+{
+  "greybox/001": {
+    "I-D01": [
+      {
+        "en": "Is the video free of the rough 3D pre-visualization texture from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the shot number and timestamp text from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a tent appear in the video?"
+      },
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Do two women appear in the video?"
+      },
+      {
+        "en": "Does a stage appear in the video?"
+      },
+      {
+        "en": "Do bystanders appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the tent green and adorned with lanterns?"
+      },
+      {
+        "en": "Is the man wearing a teal shirt with a pink stripe?"
+      },
+      {
+        "en": "Is one of the women in the video purple-haired and wearing a yellow and blue top?"
+      },
+      {
+        "en": "Is the other woman in the video wearing a yellow jacket and green shorts?"
+      },
+      {
+        "en": "Does the foreground man have dark hair?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the man and the purple-haired woman standing side by side in the foreground?"
+      },
+      {
+        "en": "Is the other woman standing on the stage in the background?"
+      },
+      {
+        "en": "Are the bystanders located around the scene?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show a sunny market scene?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action style?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are positions and shot scales of the foreground duo, background woman, and bystanders consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are orientations and body postures of the foreground duo and background woman consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Is the relative spatial relationship among foreground characters, background woman, and bystanders consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/002": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid the rough 3D layout texture and gray background from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the shot number and timestamp text from the bottom of the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do a market and tents appear in the video?"
+      },
+      {
+        "en": "Do a man and a purple-haired woman appear in the video?"
+      },
+      {
+        "en": "Do a stage and another woman appear in the video?"
+      },
+      {
+        "en": "Do bystanders appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the tents green and adorned with lanterns?"
+      },
+      {
+        "en": "Is the man wearing a teal shirt with a pink stripe?"
+      },
+      {
+        "en": "Is the purple-haired woman wearing a yellow and blue top?"
+      },
+      {
+        "en": "Is the woman in the back wearing a yellow jacket and green shorts?"
+      },
+      {
+        "en": "Are the colors in the video vibrant?"
+      },
+      {
+        "en": "Does the foreground man have dark hair?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Do the man and purple-haired woman stand side by side in the foreground?"
+      },
+      {
+        "en": "Is another woman standing on the stage in the background?"
+      },
+      {
+        "en": "Are the bystanders distributed around the scene?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video show sunny weather?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a high-quality realistic 3D animation rendering style?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are positions and shot scales of the foreground couple and background woman consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are orientations and body postures of the foreground couple and background woman consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are relative spatial relationships among the foreground couple and background woman consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/003": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing in the purple, simple geometric texture from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video avoid showing the shot numbers, parameters, and prompt text from the reference?"
+      },
+      {
+        "en": "Does the video avoid showing the picture-in-picture (motion capture footage) from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do giant claws appear in the video?"
+      },
+      {
+        "en": "Do glowing particles appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the claws in the video have a dark, skeletal appearance?"
+      },
+      {
+        "en": "Are the claws covered with glowing, lava-like red-orange veins?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background a sky densely covered with dark clouds?"
+      },
+      {
+        "en": "Is there a dark and gloomy water surface below?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is there bright blue light piercing through the clouds?"
+      },
+      {
+        "en": "Does the video present a high-quality realistic 3D animated rendering style?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the position and size of the claw consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the orientation and posture of the claw consistent with the reference throughout the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Do the glowing particles float near the claw structures?"
+      }
+    ]
+  },
+  "greybox/004": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the 3D pre-vis texture like flat color blocks from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a woman appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have silver long hair in a low ponytail?"
+      },
+      {
+        "en": "Is the man in the video wearing a dark gray shirt?"
+      },
+      {
+        "en": "Is the man in the video wearing earrings?"
+      },
+      {
+        "en": "Does the woman have long teal hair in a high ponytail?"
+      },
+      {
+        "en": "Is the woman in the video wearing a pink off-shoulder top?"
+      },
+      {
+        "en": "Does the silver-haired man have fair skin?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background abstract radial wavy lines in orange, pink, and white?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action style?"
+      },
+      {
+        "en": "Is the lighting in the video bright?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the positions and shot scales of the male and female characters consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the orientations and postures of the male and female characters consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Is the relative spatial relationship between the male and female characters consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the viewing angle and camera movement consistent with the reference throughout the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman standing behind the man?"
+      }
+    ]
+  },
+  "greybox/005": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the low-poly or flat-shaded pre-visualization texture from the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a woman appear in the video?"
+      },
+      {
+        "en": "Do earrings appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have silver long hair in a low ponytail?"
+      },
+      {
+        "en": "Is the man in the video wearing a dark gray shirt?"
+      },
+      {
+        "en": "Does the woman have long teal hair in a high ponytail?"
+      },
+      {
+        "en": "Is the woman in the video wearing a pink off-shoulder top?"
+      },
+      {
+        "en": "Does the silver-haired man have fair skin?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman located behind the man in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background abstract radial wavy lines in orange, pink, and white?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a high-quality realistic 3D animated rendering style?"
+      },
+      {
+        "en": "Is the lighting in the video bright?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the positions and shot scales of the man and woman consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the orientations and body postures of the man and woman consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Is the relative spatial relationship between the man and woman consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the viewing angle and camera movement consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/006": {
+    "I-D01": [
+      {
+        "en": "Does the video not show the 3D layout texture from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Does the video not show the text, frame numbers, and timestamps from the reference?"
+      },
+      {
+        "en": "Does the video not show the white framing lines from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Do two women appear in the video?"
+      },
+      {
+        "en": "Does a staircase structure appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have red hair?"
+      },
+      {
+        "en": "Is the man in the video wearing a red jacket and a dark shirt?"
+      },
+      {
+        "en": "Is the man in the video wearing a black belt?"
+      },
+      {
+        "en": "Do both women in the video have dark hair?"
+      },
+      {
+        "en": "Are both women in the video wearing dark suits?"
+      },
+      {
+        "en": "Is one of the women in the video wearing glasses?"
+      },
+      {
+        "en": "Is one of the dark-haired women wearing a red tie?"
+      },
+      {
+        "en": "Does the man's dark shirt have a pattern?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the two women in the video located next to the man?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set outdoors?"
+      },
+      {
+        "en": "Is the background of the video a blue sky with white clouds?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action style?"
+      },
+      {
+        "en": "Is the lighting in the video bright?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are positions and shot scales of the central man and side characters consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are orientations and body postures of the central man and side characters consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Is the relative spatial relationship between the central man and side characters consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Is the low-angle observation perspective consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/007": {
+    "I-D01": [
+      {
+        "en": "Is the video free of the rough 3D layout texture from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the shot, frame numbers, and timestamp text from the reference?"
+      },
+      {
+        "en": "Is the video free of the white viewfinder frame lines from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Do two women appear in the video?"
+      },
+      {
+        "en": "Does a staircase structure appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man in the video have red hair?"
+      },
+      {
+        "en": "Is the man in the video wearing a red jacket?"
+      },
+      {
+        "en": "Is the man in the video wearing a dark shirt?"
+      },
+      {
+        "en": "Is the man in the video wearing a black belt?"
+      },
+      {
+        "en": "Do both women in the video have dark hair?"
+      },
+      {
+        "en": "Are both women in the video wearing dark suits?"
+      },
+      {
+        "en": "Is one of the women in the video wearing glasses?"
+      },
+      {
+        "en": "Is one of the dark-haired women wearing a red tie?"
+      },
+      {
+        "en": "Does the man's dark shirt have a pattern?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the two women located next to the man in the video?"
+      },
+      {
+        "en": "Is the staircase structure located in the background of the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set outdoors?"
+      },
+      {
+        "en": "Do blue sky and white clouds appear in the background of the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a high-quality realistic 3D animation rendering style?"
+      },
+      {
+        "en": "Is the lighting in the video bright?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are positions and shot scales of the central man and side characters consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are orientations and body postures of the central man and side characters consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Is the relative spatial relationship among the central man and side characters consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the viewing angle (low angle) and camera movement consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/008": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the 3D animatic texture and grayish-white background from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Is the man wearing armor in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man have long, straight, dark hair, pale skin, and sharp facial contours?"
+      },
+      {
+        "en": "Does the armor have a dark, leather-like appearance?"
+      },
+      {
+        "en": "Does the armor have silver metal textures on the shoulders and neck?"
+      },
+      {
+        "en": "Does the man have light-colored eyes?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background of the video appear blurred?"
+      },
+      {
+        "en": "Does the video present a live-action cinematic style?"
+      },
+      {
+        "en": "Is the man's face illuminated by soft lighting?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Do rough rocks appear in the background?"
+      },
+      {
+        "en": "Do glowing orange-gold horizontal structures appear in the background?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Is the position and shot scale of the man consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the orientation and posture of the man consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/009": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the gray background and 3D previz texture from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Is the man wearing armor in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the man have long, straight, dark hair and pale skin?"
+      },
+      {
+        "en": "Does the man have sharp facial contours?"
+      },
+      {
+        "en": "Does the armor have a dark, leather-like appearance?"
+      },
+      {
+        "en": "Does the armor have silver metal textures on the shoulders and neck?"
+      },
+      {
+        "en": "Does the man have light-colored eyes?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Do rough rocks appear in the background?"
+      },
+      {
+        "en": "Are there glowing orange-gold horizontal structures in the background?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video feature a high-quality realistic 3D animation rendering style?"
+      },
+      {
+        "en": "Is the man's face illuminated by soft lighting?"
+      },
+      {
+        "en": "Is the background out of focus?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Is the position and shot scale of the black-haired man consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the head orientation and posture of the black-haired man consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/010": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the 3D pre-visualization texture from the reference?"
+      },
+      {
+        "en": "Does the video remove the ruins and floating stones in the reference background?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does another character appear in the video?"
+      },
+      {
+        "en": "Do buildings appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the front man have black hair and dark eyebrows?"
+      },
+      {
+        "en": "Is the foreground man wearing a dark high-collared garment?"
+      },
+      {
+        "en": "Does the back character have red hair and animal ears?"
+      },
+      {
+        "en": "Is the back character wearing a white fur collar?"
+      },
+      {
+        "en": "Are the buildings glowing gold?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the black-haired man with thick eyebrows located in the foreground?"
+      },
+      {
+        "en": "Is the red-haired character with animal ears behind the front man?"
+      },
+      {
+        "en": "Are the glowing golden buildings located in the background?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background presented as a dark starry sky?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action style?"
+      },
+      {
+        "en": "Does cold purple ambient light appear in the video?"
+      },
+      {
+        "en": "Do warm golden highlights appear on the characters' faces?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the positions and shot scales of the foreground man and background character consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the orientations and body postures of the foreground man and background character consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Is the relative spatial relationship between the foreground man and background character consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/011": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the grayish-white 3D model texture from the reference video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man located in the front appear in the video?"
+      },
+      {
+        "en": "Does a character located in the back appear in the video?"
+      },
+      {
+        "en": "Do buildings appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the front man have black hair and dark eyebrows?"
+      },
+      {
+        "en": "Is the foreground man wearing a dark high-collared garment?"
+      },
+      {
+        "en": "Does the back character have red hair and animal ears?"
+      },
+      {
+        "en": "Is the back character wearing a white fur collar?"
+      },
+      {
+        "en": "Are the background buildings glowing gold?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video presented as a dark starry sky?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a high-quality realistic 3D animation rendering style?"
+      },
+      {
+        "en": "Does the video contain cool purple ambient light?"
+      },
+      {
+        "en": "Do the characters' faces in the video have warm golden highlights?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are positions and shot scales of the foreground man and background figure consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are orientations and postures of the foreground man and background figure consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Is the relative spatial relationship of the two figures consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/012": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing in the rough 3D previz texture from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the grid and alphanumeric labels from the reference background?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a main man appear in the video?"
+      },
+      {
+        "en": "Do exactly three other men appear in the video?"
+      },
+      {
+        "en": "Do floating rocks appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the main man in the video have long dark hair?"
+      },
+      {
+        "en": "Is the main man in the video wearing a red hair accessory?"
+      },
+      {
+        "en": "Is the main man wearing a white robe with teal and gold accents?"
+      },
+      {
+        "en": "Are the other three men wearing red and green robes?"
+      },
+      {
+        "en": "Are the floating rocks reddish-brown and fragmented?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the other three men located behind the main man in the video?"
+      },
+      {
+        "en": "Do the shattered floating rocks form a massive vertical swirl in the background?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a gloomy dark gray sky?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action style?"
+      },
+      {
+        "en": "Is the lighting in the video dim?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the position and scale of the foreground and three background men consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the orientation and posture of the foreground and three background men consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Is the relative spatial relationship among the foreground and three background men consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/013": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid retaining the 3D pre-visualization scene texture from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the grid lines from the reference?"
+      },
+      {
+        "en": "Is the video free of the large alphanumeric characters from the reference?"
+      },
+      {
+        "en": "Is the video free of the coordinate axis markers from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a male protagonist appear in the video?"
+      },
+      {
+        "en": "Do exactly three other men appear in the video?"
+      },
+      {
+        "en": "Do floating rocks appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the protagonist have long dark hair?"
+      },
+      {
+        "en": "Is the protagonist wearing a red hair accessory?"
+      },
+      {
+        "en": "Is the protagonist wearing a white robe with teal and gold accents?"
+      },
+      {
+        "en": "Are the three other men wearing red and green robes?"
+      },
+      {
+        "en": "Do the floating rocks have a shattered appearance?"
+      },
+      {
+        "en": "Are the floating rocks reddish-brown?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the three other men located behind the protagonist?"
+      },
+      {
+        "en": "Do the shattered floating rocks form a massive vertical swirl in the background?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background a gloomy, dark gray sky?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a high-quality realistic 3D animation rendering style?"
+      },
+      {
+        "en": "Is the video dimly lit?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the positions and shot scales of the dark-haired man and three men consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the orientations and body postures of the dark-haired man and three men consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the relative spatial relationships among the dark-haired man, three men, and floating rocks consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/014": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the background's blockout texture and the hair's 3D look from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Is a young woman present in the video?"
+      },
+      {
+        "en": "Does the woman in the video have short bangs?"
+      },
+      {
+        "en": "Is the woman wearing a dangling earring?"
+      },
+      {
+        "en": "Does the earring hang from a chain?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the woman's skin fair?"
+      },
+      {
+        "en": "Does the woman have dark, long eyelashes?"
+      },
+      {
+        "en": "Does the woman have soft pink blush?"
+      },
+      {
+        "en": "Are the woman's lips soft pink?"
+      },
+      {
+        "en": "Are the woman's short bangs dark?"
+      },
+      {
+        "en": "Are the woman's short bangs slightly messy?"
+      },
+      {
+        "en": "Is the dangling earring made of bright cyan crystal?"
+      },
+      {
+        "en": "Is the earring's chain golden?"
+      },
+      {
+        "en": "Are the woman's eyes initially closed?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video dark?"
+      },
+      {
+        "en": "Are complex black and gold circular patterns visible in the background?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action style?"
+      },
+      {
+        "en": "Does the video feature soft lighting?"
+      },
+      {
+        "en": "Is the patterned background out of focus?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the position and shot scale of the woman consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the orientation and posture of the woman consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/015": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the gray 3D pre-visualization textured background from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      },
+      {
+        "en": "Is the woman wearing a dangling earring?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video have fair skin?"
+      },
+      {
+        "en": "Does the woman in the video have long dark eyelashes?"
+      },
+      {
+        "en": "Does the woman in the video have soft pink blush and lips?"
+      },
+      {
+        "en": "Does the woman have short, dark, slightly messy bangs framing her face?"
+      },
+      {
+        "en": "Is the dangling earring a bright cyan crystal pendant on a gold chain?"
+      },
+      {
+        "en": "Are the woman's eyes initially closed?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Are complex black and gold circular patterns visible in the dark background?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a high-quality realistic 3D animated rendering style?"
+      },
+      {
+        "en": "Is there soft lighting highlighting the woman's delicate facial features?"
+      },
+      {
+        "en": "Is the patterned background out of focus?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the woman's position and shot scale consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the woman's head orientation and facial posture consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/016": {
+    "I-D01": [
+      {
+        "en": "Does the video not show the gray 3D model texture from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the grid lines from the reference?"
+      },
+      {
+        "en": "Is the video free of the watermark in the bottom frame-right corner of the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Are there two main silhouetted figures, one larger and one smaller, above the body-like shadows on the ground?"
+      },
+      {
+        "en": "Does a rock pile appear in the video?"
+      },
+      {
+        "en": "Are there body-like dark shadows scattered on the ground below?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Do the figures in the video appear as silhouettes?"
+      },
+      {
+        "en": "Is the figure on the left side of the screen burly?"
+      },
+      {
+        "en": "Is the other figure slight in build?"
+      },
+      {
+        "en": "Is the other figure suspended in the air?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background sky interwoven with dark red and orange?"
+      },
+      {
+        "en": "Are there churning clouds in the background of the video?"
+      },
+      {
+        "en": "Is the ground below rugged?"
+      },
+      {
+        "en": "Is the ground below dim?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the frame-left figure extend an arm connecting to the other's neck?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a live-action style?"
+      },
+      {
+        "en": "Is there a bright light from behind the two figures creating a strong backlight?"
+      },
+      {
+        "en": "Is the video dominated by intense red, orange, and black colors?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the positions and shot scales of the burly and suspended figures consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the orientations and body postures of the two figures consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Is the relative spatial relationship between the figures and rock pile consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/017": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid the gray 3D model texture with grid lines from the reference?"
+      }
+    ],
+    "I-D02": [
+      {
+        "en": "Is the video free of the watermark from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two characters appear in the video?"
+      },
+      {
+        "en": "Does a pile of rocks appear in the video?"
+      },
+      {
+        "en": "Do dark shadows resembling bodies appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the characters in the video presented as silhouettes?"
+      },
+      {
+        "en": "Is the character on the left side of the screen burly?"
+      },
+      {
+        "en": "Is the character on the right side of the screen slight in build?"
+      },
+      {
+        "en": "Is the character on the right side of the screen suspended in the air?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the characters positioned on the pile of rocks?"
+      },
+      {
+        "en": "Are the body-like dark shadows scattered on the ground below?"
+      },
+      {
+        "en": "Does the dazzling bright light shine from directly behind the two characters?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background a fiery sky with intertwined dark red and orange, and rolling clouds?"
+      },
+      {
+        "en": "Is the ground below rugged and dim?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the frame-left character extend an arm and connect with the frame-right character's neck?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a high-quality realistic 3D animation rendering style?"
+      },
+      {
+        "en": "Does the video feature a strong backlight effect?"
+      },
+      {
+        "en": "Is the video dominated by intense red, orange, and black colors?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the positions and shot scales of the two characters consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the orientations and postures of the two characters consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Is the relative spatial relationship between the two characters consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the viewing angle and camera movement consistent with the reference throughout the video?"
+      }
+    ]
+  },
+  "greybox/018": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the rough 3D previz texture and low-fidelity features of the reference?"
+      },
+      {
+        "en": "Does the video remove the flat, line-art rendering style of the hair from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do multiple tornadoes appear in the video?"
+      },
+      {
+        "en": "Does a figure's back appear in the foreground of the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the tornado in the video gray and massive?"
+      },
+      {
+        "en": "Does the foreground figure from the back have long, straight black hair?"
+      },
+      {
+        "en": "Is the foreground character wearing light-colored clothing with metallic gold details on the shoulders?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the floating figure emit bright purple light?"
+      },
+      {
+        "en": "Does the video present a live-action cinematic style?"
+      },
+      {
+        "en": "Is the lighting in the video dim?"
+      },
+      {
+        "en": "Is the overall color tone mainly cold blue, gray, and purple light?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video set in a dark forest?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are the position and shot scale of the floating figure and foreground back consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the orientation and body posture of the floating figure and foreground back consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Is the relative spatial relationship between the floating figure and foreground back consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the viewing angle and camera movement consistent with the reference throughout the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the dark-clothed figure suspended between the tornado funnels?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Do the tornado funnels swirl?"
+      }
+    ]
+  },
+  "greybox/019": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the rough 3D previz texture and simple mapping from the reference?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do multiple massive tornadoes appear in the video?"
+      },
+      {
+        "en": "Does a human figure appear in the video?"
+      },
+      {
+        "en": "Does a character's back appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the tornado in the video gray?"
+      },
+      {
+        "en": "Does the foreground back have long, straight black hair?"
+      },
+      {
+        "en": "Is the foreground character wearing light-colored clothing with metallic gold details on the shoulders?"
+      },
+      {
+        "en": "Does the human figure in the video maintain a hovering state?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the human figure emit bright purple light?"
+      },
+      {
+        "en": "Does the video present a high-quality realistic 3D animation rendering style?"
+      },
+      {
+        "en": "Is the lighting in the video dim?"
+      },
+      {
+        "en": "Is the video's color tone mainly cold blue, gray, and purple light?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the tornado in the video show a dynamic of spiraling upwards?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the back located in the foreground of the frame?"
+      },
+      {
+        "en": "Is the dark-clothed figure suspended between the tornado funnels?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video's scene set in a dark forest?"
+      }
+    ],
+    "RF-S01": [
+      {
+        "en": "Are positions and shot scales of the floating figure and foreground back consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are orientations and postures of the floating figure and foreground back consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Is the spatial relationship between the floating figure and foreground back consistent with the reference throughout the video?"
+      },
+      {
+        "en": "Are the viewing angle and camera movement consistent with the reference throughout the video?"
+      }
+    ]
+  }
+}

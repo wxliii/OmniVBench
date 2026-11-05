@@ -1,0 +1,2322 @@
+{
+  "object/001": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully avoid showing the Chinese-style long gown from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a scarf appear in the video?"
+      },
+      {
+        "en": "Does a wooden coat rack appear in the video?"
+      },
+      {
+        "en": "Does a hand appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the scarf in the video appear to be fluttering?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is there an action of a hand picking up the scarf in the video?"
+      },
+      {
+        "en": "Does the hand shake the scarf open in the air in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a close-up shot to present the scene?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Does the video show the lighting effect of sunlight shining on the fabric?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Is the pattern on the scarf in the video the same pattern as on the gown in Reference Image 1?"
+      },
+      {
+        "en": "Are the circular outline, golden color, and internal motifs of the pattern consistent with Reference Image 1?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the scarf draped over a wooden coat rack?"
+      }
+    ]
+  },
+  "object/002": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully decouple from the pure white background of the reference image without bringing it into the frame?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a person appear in the video?"
+      },
+      {
+        "en": "Does a smartphone appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the person wearing a camouflage military uniform?"
+      },
+      {
+        "en": "Is the smartphone silver?"
+      },
+      {
+        "en": "Is the person wearing the hat on their head?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the person show an expression of smiling and listening?"
+      },
+      {
+        "en": "Does the person subsequently make the action of speaking?"
+      },
+      {
+        "en": "Is the person's expression focused while speaking?"
+      },
+      {
+        "en": "Does the person's gaze move?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a bright outdoor environment?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background of the video present a blurred effect?"
+      },
+      {
+        "en": "Does the video present a realistic style?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the person hold the silver smartphone to their right ear with their right hand to make a call?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video presented in a close-up shot?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the hat in the video the same as in Reference Image 1?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the black felt material and yellow backing consistent with Reference Image 1?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Is the silver badge component on the hat consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/003": {
+    "I-D01": [
+      {
+        "en": "Is the video free of the sofa entity or its wooden frame structure from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a soldier appear in the video?"
+      },
+      {
+        "en": "Does a flag appear in the video?"
+      },
+      {
+        "en": "Does a stone tower appear in the video?"
+      },
+      {
+        "en": "Do dark clouds appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the flag appear to be flapping violently in the wind?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set on a stone tower of an ancient castle?"
+      },
+      {
+        "en": "Does the sky show a gloomy weather condition with rolling dark clouds?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the soldier forcefully waving the flag?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a low-angle shot?"
+      },
+      {
+        "en": "Does the camera show a slow zoom-in movement?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present an epic-style visual atmosphere?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the visible blue-and-white color scheme and floral style of the flag's pattern consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/004": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid directly showing the flat, whole piece of fabric as in the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a handbag appear in the video?"
+      },
+      {
+        "en": "Does a wooden stall appear in the video?"
+      },
+      {
+        "en": "Does a hand appear in the video?"
+      },
+      {
+        "en": "Do fruits appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video scene depict a farmers' market?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Do the crowd and fruits in the background appear blurred?"
+      },
+      {
+        "en": "Does the video present a realistic style?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a hand reach into the frame and grasp the handle of the handbag?"
+      },
+      {
+        "en": "Does the hand lift the handbag up?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the body of the handbag sway when lifted?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera pan upwards in the video?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Is the fabric pattern of the handbag in the video the same as Reference Image 1?"
+      },
+      {
+        "en": "Are the visible blue background, pinkish-red flowers, and green leaves on the handbag's pattern consistent with Reference Image 1?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the tote bag initially placed on a wooden stall?"
+      }
+    ]
+  },
+  "object/005": {
+    "I-D01": [
+      {
+        "en": "Is the reference drawing used as a pattern on the mug?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a mug appear in the video?"
+      },
+      {
+        "en": "Does a wooden desk appear in the video?"
+      },
+      {
+        "en": "Does a hand appear in the video?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the mug placed on the wooden desk?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Are there sunlight shadows cast through blinds on the desk?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the hand grasp the handle of the mug?"
+      },
+      {
+        "en": "Does the hand lift the mug up?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a close-up shot to show the mug?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background of the video gradually become blurred?"
+      },
+      {
+        "en": "Does the video present a realistic style?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Is the pattern on the mug in the video the same as Reference Image 1?"
+      },
+      {
+        "en": "Are the visible line style, characters, and balloons in the pattern consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/006": {
+    "I-D01": [
+      {
+        "en": "Did the video only extract the material without incorrectly generating the container doors from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a mailbox appear in the video?"
+      },
+      {
+        "en": "Does a person appear in the video?"
+      },
+      {
+        "en": "Do scattered debris appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the scene set in a gloomy and dilapidated outdoor courtyard?"
+      },
+      {
+        "en": "Is rainy weather clearly visible in the video?"
+      },
+      {
+        "en": "Does the ground appear muddy?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the person walk towards the mailbox?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the person reach out and open the door of the mailbox?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Does the light blue metal material of the mailbox in the video match Reference Image 1?"
+      },
+      {
+        "en": "Do the reddish-brown rust spots on the mailbox in the video match Reference Image 1?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera record the interaction smoothly and slowly?"
+      }
+    ]
+  },
+  "object/007": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid the pure white background or flat display seen in the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      },
+      {
+        "en": "Does an indoor sofa appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman have dark brown curly hair?"
+      },
+      {
+        "en": "Does the woman have exquisite makeup?"
+      },
+      {
+        "en": "Is the woman wearing a dress?"
+      },
+      {
+        "en": "Is the woman wearing jewelry?"
+      },
+      {
+        "en": "Is the woman in a sitting posture?"
+      },
+      {
+        "en": "Are the woman's hands folded on her lap?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the woman talking?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does a red and white wall appear in the background?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background wall appear blurred?"
+      },
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Is the lighting in the video bright and soft?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman holding a small white handbag in her hand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video maintain a fixed camera shot?"
+      },
+      {
+        "en": "Does the video use a medium shot composition?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the clothing worn by the woman in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the black-and-white design and the white bow on the chest consistent with Reference Image 1?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the woman positioned on the indoor sofa?"
+      }
+    ]
+  },
+  "object/008": {
+    "I-D01": [
+      {
+        "en": "Is the video free of the circular wooden carved window or screen structure from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a child appear in the video?"
+      },
+      {
+        "en": "Does a large kite appear in the video?"
+      },
+      {
+        "en": "Does a kite string appear in the video?"
+      },
+      {
+        "en": "Do clouds appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the child perform the action of letting go?"
+      },
+      {
+        "en": "Does the kite shoot up into the sky?"
+      },
+      {
+        "en": "Does the kite soar among the clouds?"
+      },
+      {
+        "en": "Does the kite string appear to vibrate?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does a grassy field appear in the video scene?"
+      },
+      {
+        "en": "Is the background of the video a blue sky?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the child holding the large kite?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera tilt upward to follow the kite into the sky?"
+      },
+      {
+        "en": "Does the camera track the movement trajectory of the kite?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Does sunlight illuminate the pattern on the kite?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Is the pattern on the kite in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible golden dragon and cloud patterns on the kite consistent with Reference Image 1?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the kite string taut?"
+      }
+    ]
+  },
+  "object/009": {
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid retaining the pure white background of the reference image, generating a new scene instead?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a female character appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the female character's expression change from a smile to focused and affectionate?"
+      },
+      {
+        "en": "Does the female character emerge from behind the statue and walk towards its front?"
+      },
+      {
+        "en": "Does the female character lean forward and gaze?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the subjects (character or statue) in the video located by a window?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set indoors?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video feature camera cuts between the character and the statue?"
+      },
+      {
+        "en": "Is the camera movement accompanied by slight panning, tilting, or zooming?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a classical realistic style?"
+      },
+      {
+        "en": "Is the lighting in the video soft?"
+      },
+      {
+        "en": "Does the video create a quiet and nostalgic atmosphere?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show the complete event process of the female character walking towards the statue and changing her expression?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the object in the video the same object as in Reference Image 1?"
+      },
+      {
+        "en": "Are the white marble material, female bust, and classical pleated clothing consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/010": {
+    "I-D01": [
+      {
+        "en": "Is the reference material applied to the cup?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a cup appear in the video?"
+      },
+      {
+        "en": "Does a picnic table appear in the video?"
+      },
+      {
+        "en": "Does a hand appear in the video?"
+      },
+      {
+        "en": "Does steam or hot air appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the picnic table made of wood?"
+      },
+      {
+        "en": "Is the hand in the video wearing a glove?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does a thick plume of steam rise from the cup and dissipate in the air?"
+      },
+      {
+        "en": "Does the hand reach into the frame?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the cup placed on the picnic table?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a campsite?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the hand grasp the cup?"
+      },
+      {
+        "en": "Does the hand lift the cup?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video feature a slow push-in camera movement?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the visual style of the video realistic?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Is the metal material and surface luster of the cup in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/011": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully remove the hairstyle and other unspecified ornaments from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video correctly transform the retained ornaments into drawer handles without presenting them as hair accessories?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do a dressing table and drawers appear in the video?"
+      },
+      {
+        "en": "Does a hand appear in the video?"
+      },
+      {
+        "en": "Does a lining appear inside the drawer?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Does the dressing table have at least two narrow drawers?"
+      },
+      {
+        "en": "Is an ornament installed as a handle on each of the two drawers?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the dressing table feature a dark solid wood material?"
+      },
+      {
+        "en": "Are the drawers in the video narrow drawers?"
+      },
+      {
+        "en": "Is the drawer lining made of dark red velvet material?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the video presented in a realistic style?"
+      },
+      {
+        "en": "Does the video present a lighting atmosphere of dim warm light?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a hand grasp the handle of the drawer on the right side of the screen in the video?"
+      },
+      {
+        "en": "Does the hand slowly pull the drawer open?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a close-up view?"
+      },
+      {
+        "en": "Does the camera push forward slightly?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the drawer handles in the video the same objects as the side ornaments in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible branch-like structures and tassel pendants of the drawer handles consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/012": {
+    "I-D01": [
+      {
+        "en": "Is the reference material used for the vintage telephone?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a hand appear in the video?"
+      },
+      {
+        "en": "Does a retro telephone appear in the video?"
+      },
+      {
+        "en": "Does a table appear in the video?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the video show a hand picking up the telephone receiver?"
+      },
+      {
+        "en": "Does the hand bring the receiver close to an ear in the video?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a close-up shot?"
+      },
+      {
+        "en": "Does the camera move up slightly following the hand's movement?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Does sunlight reflect off the glossy telephone body?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Is the white ceramic material of the retro telephone in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/013": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully avoid incorrectly carrying over the pure white background from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a person appear in the video?"
+      },
+      {
+        "en": "Does a stone bench appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the person sitting on the bench?"
+      },
+      {
+        "en": "Are the person's hands folded and resting on their lap?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the person's head turn slightly to look to one side?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a park environment?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background of the video appear blurred?"
+      },
+      {
+        "en": "Does the video present a realistic photography style?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the person holding the object from the reference image?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera remain static in the video?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the object in the video the same as the one in Reference Image 1?"
+      },
+      {
+        "en": "Are the black circular outline and golden dollar sign of the object consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/014": {
+    "I-D01": [
+      {
+        "en": "Is the video free of the handbag shape or structure from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a carpet appear in the video?"
+      },
+      {
+        "en": "Does a cat appear in the video?"
+      },
+      {
+        "en": "Does a foot appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the cat in the video white?"
+      },
+      {
+        "en": "Is the foot in the video wearing a home slipper?"
+      },
+      {
+        "en": "Does the carpet have a slightly curled-up corner?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the cat stretch its body?"
+      },
+      {
+        "en": "Does the cat roll over?"
+      },
+      {
+        "en": "Does a foot walk into the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a living room?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the foot step on and flatten the curled-up corner of the carpet?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the camera shot from a low angle?"
+      },
+      {
+        "en": "Does the camera pan slowly?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a peaceful and warm style and atmosphere?"
+      },
+      {
+        "en": "Does the video feature striped sunlight shadows cast through blinds?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Is the pattern on the carpet in the video the same as the pattern in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible colorful plant leaf textures on the carpet consistent with Reference Image 1?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the white cat located on the rug?"
+      },
+      {
+        "en": "Is the patterned rug located in the center of the living room?"
+      }
+    ]
+  },
+  "object/015": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid bringing the pure white background from the reference image into the scene?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a man appear in the video?"
+      },
+      {
+        "en": "Does a transparent goblet appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the goblet contain amber-colored liquid?"
+      },
+      {
+        "en": "Is the man wearing the necklace around his neck?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man show surprise and awe?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Do stairs covered with a red carpet appear in the background?"
+      },
+      {
+        "en": "Do black railings appear in the background?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the man engage in conversation after showing surprise and awe?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the man holding the transparent goblet containing amber liquid in his right hand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a close-up?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background of the video appear slightly blurred?"
+      },
+      {
+        "en": "Does the video present a realistic live-action style?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the necklace in the video the same necklace as in Reference Image 1?"
+      },
+      {
+        "en": "Are the round beads, colored spacer beads, and large oval pendant in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/016": {
+    "I-D01": [
+      {
+        "en": "Does the video apply the material as a bed canopy without mistakenly retaining the shape of the veil from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      },
+      {
+        "en": "Does an orange cat appear in the video?"
+      },
+      {
+        "en": "Do a bed canopy and a quilt appear in the video?"
+      },
+      {
+        "en": "Does a floor-to-ceiling window appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the bed canopy sway gently in the wind in the video?"
+      },
+      {
+        "en": "Does the young woman approach with a smile?"
+      },
+      {
+        "en": "Does the young woman make a gesture of looking down?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the orange cat located on the quilt?"
+      },
+      {
+        "en": "Is the orange cat located beneath the bed canopy?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a bedroom?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the young woman reach out and lift the bed canopy?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Does the video show the lighting effect of sunlight shining into the room?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Is the white translucent tulle material of the bed canopy in the video consistent with Reference Image 1?"
+      },
+      {
+        "en": "Is the lace edge texture of the bed canopy in the video consistent with Reference Image 1?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the orange cat sleeping?"
+      }
+    ]
+  },
+  "object/017": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the pure white background of the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a girl appear in the video?"
+      },
+      {
+        "en": "Does a boy appear in the video?"
+      },
+      {
+        "en": "Does a black backpack appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the girl on the left side of the screen turn sideways?"
+      },
+      {
+        "en": "Does the girl on the left side of the screen close her eyes?"
+      },
+      {
+        "en": "Does the girl on the left side of the screen stick out her tongue and make a funny face?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the boy on the right side of the screen maintain a standing posture?"
+      },
+      {
+        "en": "Is the girl on the left side of the screen wearing a backpack?"
+      },
+      {
+        "en": "Is the boy on the right side of the screen wearing a backpack?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the girl located on the left side of the screen?"
+      },
+      {
+        "en": "Is the boy located on the right side of the screen?"
+      },
+      {
+        "en": "Is the boy on the right side of the screen facing away from the camera?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video an outdoor street?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video background present a blurred effect?"
+      },
+      {
+        "en": "Does the video present a realistic live-action style?"
+      },
+      {
+        "en": "Is the lighting in the video bright and natural?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Is the girl on the left side of the screen talking to the boy on the right?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a medium shot?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the backpack worn by the girl in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the pink body, brown handle and zippers, and front pocket consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/018": {
+    "I-D01": [
+      {
+        "en": "Is the reference pattern printed on the canvas tote bag?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do a canvas tote bag and a wooden park bench appear in the video?"
+      },
+      {
+        "en": "Do trees appear in the video?"
+      },
+      {
+        "en": "Do a hand and a book appear in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the handle of the tote bag show a gentle swaying motion?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in an outdoor park environment?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a hand unzip the tote bag?"
+      },
+      {
+        "en": "Does the hand take a book out of the tote bag?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video start with a close-up shot of the tote bag?"
+      },
+      {
+        "en": "Does the camera slowly pull back from the tote bag to reveal the trees and dappled sunlight?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Are there shifting light and shadows cast through leaves on the tote bag?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Is the pattern on the tote bag in the video the same pattern as in Reference Image 1?"
+      },
+      {
+        "en": "Are the red star, torch, and lettering of the pattern on the tote bag consistent with Reference Image 1?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the canvas tote bag initially resting on the wooden park bench?"
+      }
+    ]
+  },
+  "object/019": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the jar shape or structure from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a door appear in the video?"
+      },
+      {
+        "en": "Do torches on the wall appear in the video?"
+      },
+      {
+        "en": "Does a hand wearing a leather glove appear in the video?"
+      },
+      {
+        "en": "Do floating fine dust particles appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a dim stone corridor?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the leather-gloved hand slowly push the heavy door open?"
+      },
+      {
+        "en": "Is the door pushed open, gradually widening the gap?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot composition?"
+      },
+      {
+        "en": "Does the camera slightly push forward in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is the overall style of the video realistic?"
+      },
+      {
+        "en": "Do flickering, flowing highlights appear on the door surface?"
+      },
+      {
+        "en": "Does dazzling golden light pour out from the door gap?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Is the material of the door in the video the same as Reference Image 1?"
+      },
+      {
+        "en": "Are the visible reddish-copper base, hammered texture, and verdigris on the door consistent with Reference Image 1?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the heavy door positioned at the end of the stone corridor?"
+      }
+    ]
+  },
+  "object/020": {
+    "I-D01": [
+      {
+        "en": "Is the video free of the character's face or hairstyle from the reference image?"
+      },
+      {
+        "en": "Is the video free of other hair accessories from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video only retain the central ornament without placing it on a head?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a hand appear in the video?"
+      },
+      {
+        "en": "Does a jewelry box appear in the video?"
+      },
+      {
+        "en": "Does a cushion appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the jewelry box have the appearance of carved mahogany?"
+      },
+      {
+        "en": "Is the cushion dark red with a velvet texture?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the ornament placed alone on the cushion inside the jewelry box?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Is there sunlight slanting in through the window lattice in the video?"
+      },
+      {
+        "en": "Does the video present a classical realistic style?"
+      },
+      {
+        "en": "Does sunlight glint across the ornament?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the video show a hand opening the jewelry box?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a close-up shot?"
+      },
+      {
+        "en": "Does the camera show a slight forward pushing movement?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the accessory in the video the same as the one in the center of the hair bun in Reference Image 1?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Are the gold metal finish and the central gemstone's color and translucent appearance consistent with the selected central ornament in Reference Image 1?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Are the radiating openwork gold segments and the curved branching base consistent with the selected central ornament in Reference Image 1?"
+      }
+    ]
+  },
+  "object/021": {
+    "I-D01": [
+      {
+        "en": "Is the video free of the ancient-style hairstyle or hair accessories shown at the top of the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a character appear in the video?"
+      },
+      {
+        "en": "Does a wooden bench appear in the video?"
+      },
+      {
+        "en": "Does a wide-brimmed straw hat appear in the video?"
+      },
+      {
+        "en": "Do tree leaves appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the wide-brimmed straw hat in the video solid-colored?"
+      },
+      {
+        "en": "Is the character sitting on the wooden bench?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a park environment?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character wrap the necklace around the crown of the straw hat?"
+      },
+      {
+        "en": "Does the character lift the finished straw hat and slowly rotate it for inspection?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera gradually push forward in the video?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Is there dappled sunlight passing over the surface of the straw hat in the video?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the video show the dynamic process of a gentle breeze blowing the surrounding leaves?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the video show a coherent action progression from wrapping the necklace to lifting the straw hat for inspection?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the necklace in the video the same as the one (below the hairstyle) in Reference Image 1?"
+      },
+      {
+        "en": "Are the pearl chain and colored bead pendants of the necklace consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/022": {
+    "I-D01": [
+      {
+        "en": "Is the pure white background from the reference image removed in the video?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a middle-aged man appear in the video?"
+      },
+      {
+        "en": "Does a boy appear in the video?"
+      },
+      {
+        "en": "Does pink paper appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the middle-aged man wearing a dark green short-sleeved Polo shirt?"
+      },
+      {
+        "en": "Is the boy facing away from the camera?"
+      },
+      {
+        "en": "Is the middle-aged man sitting on the steps?"
+      },
+      {
+        "en": "Is the selected watch worn on the middle-aged man's left wrist?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man first look down at the pink paper and then look up?"
+      },
+      {
+        "en": "Does the middle-aged man look towards the right side of the frame after looking up?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the boy located on the right side of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set at the entrance of a convenience store?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the middle-aged man and the boy show interaction of having a conversation?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the middle-aged man holding pink paper in his hand?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the watch in the video the same as in Reference Image 1?"
+      }
+    ],
+    "RF-C02": [
+      {
+        "en": "Does the black strap, white dial, and silver case color match Reference Image 1?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Do the round case and strap outline of the watch match Reference Image 1?"
+      }
+    ]
+  },
+  "object/023": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid copying the reference image's blank product-display background while placing the characters inside the car?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do two characters appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the man on the right side of the screen wearing a black suit jacket?"
+      },
+      {
+        "en": "Is the man on the right side of the screen wearing a white clerical collar shirt underneath?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man on the right side of the screen turn his head to look forward?"
+      },
+      {
+        "en": "Does the man on the right side of the screen open his mouth to speak?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Are the characters located inside the vehicle?"
+      },
+      {
+        "en": "Is the man in the suit located on the right side of the screen?"
+      },
+      {
+        "en": "Is the other companion located on the left side of the screen?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the man on the right side of the screen initially gaze at the companion on the left side?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a medium close-up?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a cinematic style?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the car in the video the same car as in Reference Image 1?"
+      },
+      {
+        "en": "Are the visible red body, convertible structure, and silver trims of the car consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/024": {
+    "I-D01": [
+      {
+        "en": "Is the video free from the pure white background of the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      },
+      {
+        "en": "Does a man in a suit appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the young woman wearing a white tweed coat?"
+      },
+      {
+        "en": "Does the young woman look sad with slightly red eyes?"
+      },
+      {
+        "en": "Does the man in the suit have a serious expression?"
+      },
+      {
+        "en": "Is the brooch pinned to the young woman's chest?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the young woman opening her mouth to speak?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man in a suit standing behind and to the left of the young woman?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a close-up view?"
+      },
+      {
+        "en": "Does the camera remain fixed without obvious movement?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Does the lighting show a natural and soft outdoor effect?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the brooch in the video the same as the one in Reference Image 1?"
+      },
+      {
+        "en": "Are the central large pearl, petal-shaped outline, and diamond-studded texture of the brooch consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/025": {
+    "I-D01": [
+      {
+        "en": "Does the video remove the pure white background of the reference image without bringing it into the new scene?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a person (the protagonist) appear in the video?"
+      },
+      {
+        "en": "Does a black bag appear in the video?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the video background present an indoor clothing store scene?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the protagonist look down and take the box out of the black bag?"
+      },
+      {
+        "en": "Does the protagonist hold the box up in front of them with one hand to display it?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "After taking out the box, does the protagonist look up?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the shot in the video a close-up?"
+      },
+      {
+        "en": "Is the camera kept fixed (without obvious panning, tilting, or zooming)?"
+      },
+      {
+        "en": "Does the camera focus on the protagonist's actions?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic live-action style?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the box in the video the same as in Reference Image 1?"
+      },
+      {
+        "en": "Are the beige body and gold edge consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/026": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully remove the suitcase body, lock, and other hardware from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video correctly install the retained reference handle onto the new drawer carrier?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Do kitchen cabinets and drawers appear in the video?"
+      },
+      {
+        "en": "Does a hand appear in the video?"
+      },
+      {
+        "en": "Does tableware appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Are the kitchen cabinets light sage green?"
+      },
+      {
+        "en": "Is the drawer wide and made of wood?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the tableware inside the drawer neatly arranged?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set in a kitchen environment?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does a hand grasp the handle of the drawer in the video?"
+      },
+      {
+        "en": "Does the hand smoothly pull open the drawer?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a close-up view?"
+      },
+      {
+        "en": "Does the camera move slightly downward as the drawer is pulled open?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Does the lighting in the video present a soft morning light effect?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Is the drawer handle in the video the same handle as in Reference Image 1?"
+      },
+      {
+        "en": "Are the blue-and-white patterned curved grip and metal bases of the handle consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/027": {
+    "I-D01": [
+      {
+        "en": "Does the video exclude the wooden cabinet from the reference image?"
+      },
+      {
+        "en": "Does the video exclude the control knobs from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video successfully replace the body with a new speaker while retaining the reference grille?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a hand appear in the video?"
+      },
+      {
+        "en": "Does a small button appear on the speaker in the video?"
+      },
+      {
+        "en": "Does an indicator light appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the speaker in the video matte dark blue?"
+      },
+      {
+        "en": "Is the desktop in the video made of concrete?"
+      }
+    ],
+    "I-E10": [
+      {
+        "en": "Does the indicator light turn on after the hand presses the top button?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the video show a hand placing the speaker on the desktop?"
+      },
+      {
+        "en": "Does the video show a hand pressing the button on the speaker?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the camera present the product from a three-quarter perspective?"
+      },
+      {
+        "en": "Does the camera move in an arc around the product?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic product showcase style?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Is the speaker grille in the video the same grille as in Reference Image 1?"
+      },
+      {
+        "en": "Are the golden rounded frame and mesh structure of the speaker grille consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/028": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully decouple from the original reference carrier, without showing the incense burner body, lid, or legs from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video correctly distinguish between the preserved and modified elements (only keeping the finial without mistakenly retaining other parts of the incense burner)?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a jewelry box appear in the video?"
+      },
+      {
+        "en": "Does a hand appear in the video?"
+      },
+      {
+        "en": "Does a ring appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the jewelry box present the appearance attributes of dark carved mahogany?"
+      },
+      {
+        "en": "Does the inside of the box present the material and color of a dark red velvet lining?"
+      },
+      {
+        "en": "Does the jewelry box have a hinged lid?"
+      },
+      {
+        "en": "Does the wooden jewelry box have a polished surface?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the video show the action of a hand grasping the knob and lifting the box lid?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a close-up view?"
+      },
+      {
+        "en": "Does the camera show a slight forward pushing movement?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a classical realistic visual style?"
+      },
+      {
+        "en": "Does the video show the lighting effect of warm candlelight flowing on the wooden surface?"
+      }
+    ],
+    "RF-C03": [
+      {
+        "en": "Is the knob in the video the same object as the finial in Reference Image 1?"
+      },
+      {
+        "en": "Are the multi-layered lotus shape and golden metallic texture of the knob consistent with Reference Image 1?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is a single ring visible inside the jewelry box?"
+      }
+    ]
+  },
+  "object/029": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid showing the female character from the reference image?"
+      },
+      {
+        "en": "Does the video avoid showing the orange sportswear from the reference image?"
+      },
+      {
+        "en": "Does the video avoid showing the riverside walkway scene from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video successfully replace the wearer's identity and clothing while preserving the watch's features?"
+      },
+      {
+        "en": "Does the video successfully replace the background scene while preserving the watch's features?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a middle-aged man appear in the video?"
+      },
+      {
+        "en": "Does a boy appear in the video?"
+      },
+      {
+        "en": "Does pink paper appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the middle-aged man wearing a dark green short-sleeved Polo shirt?"
+      },
+      {
+        "en": "Is the middle-aged man sitting on the steps?"
+      },
+      {
+        "en": "Is the selected watch worn on the middle-aged man's left wrist?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the middle-aged man first look down and then look up?"
+      },
+      {
+        "en": "Does the middle-aged man look towards the right side of the frame after looking up?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the boy located on the right side of the frame?"
+      },
+      {
+        "en": "Is the boy facing away from the camera?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene located at the entrance of a convenience store?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Do the middle-aged man and the boy show interaction as if they are having a conversation?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the middle-aged man holding the pink paper in his hand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot?"
+      },
+      {
+        "en": "Does the camera remain fixed (without obvious camera movement)?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Does the lighting in the video present a natural light effect?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the object worn by the man the same watch as in Reference Image 1?"
+      },
+      {
+        "en": "Are the black strap and white round dial consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/030": {
+    "I-D01": [
+      {
+        "en": "Does the video successfully avoid incorrectly including the elderly male figure or the burgundy suit from the reference image?"
+      },
+      {
+        "en": "Does the video successfully avoid incorrectly including the indoor gallery background from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video successfully replace the wearer with the new character required by the prompt while retaining the accessory from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      },
+      {
+        "en": "Does a man wearing a suit appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the young woman wearing a white tweed coat?"
+      },
+      {
+        "en": "Does the young woman look sad with slightly red eyes?"
+      },
+      {
+        "en": "Does the man in the suit have a serious expression?"
+      },
+      {
+        "en": "Is an accessory worn on the chest of the young woman?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the young woman opening her mouth to speak?"
+      }
+    ],
+    "I-E04": [
+      {
+        "en": "Is the man in the suit standing behind the young woman?"
+      },
+      {
+        "en": "Is the man in the suit located on the left side of the frame?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video scene set outdoors?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot with a close-up view?"
+      },
+      {
+        "en": "Does the camera remain fixed (without obvious movement)?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Does the lighting in the video appear natural and soft?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the accessory worn on the woman's chest in the video the same accessory as in Reference Image 1?"
+      },
+      {
+        "en": "Are the flower-shaped outline and pearl decorations of the accessory consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/031": {
+    "I-D01": [
+      {
+        "en": "Does the video avoid incorrectly including the old man's facial features or white beard from the reference image?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the brown coat or black scarf from the reference image?"
+      },
+      {
+        "en": "Does the video avoid incorrectly including the train station background from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video successfully replace the character, clothing, and scene while retaining the hat from the reference image?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a character appear in the video?"
+      },
+      {
+        "en": "Does a smartphone appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Is the main character wearing a camouflage military uniform?"
+      },
+      {
+        "en": "Is the smartphone silver?"
+      },
+      {
+        "en": "Is the main character wearing the hat on their head?"
+      },
+      {
+        "en": "Does the character have a focused expression while speaking?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Does the character hold the silver smartphone to the right ear?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the main character show a change from smiling and listening to speaking?"
+      },
+      {
+        "en": "Does the main character's gaze move?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the video background a bright outdoor environment?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the video background have a blurred effect?"
+      },
+      {
+        "en": "Does the video present a realistic style?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a close-up shot?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the hat in the video the same hat as in Reference Image 1?"
+      },
+      {
+        "en": "Are the black hat body, yellow-backed badge, and leather edging in the video consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/032": {
+    "I-D01": [
+      {
+        "en": "Is the mannequin from the reference image absent in the video?"
+      },
+      {
+        "en": "Are the indoor furnishings (like fabric racks) from the reference image absent in the video?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video successfully replace the wearer and background while preserving the reference dress?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young woman appear in the video?"
+      },
+      {
+        "en": "Does a sofa appear in the video?"
+      },
+      {
+        "en": "Does a small white handbag appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the woman in the video have dark brown curly hair?"
+      },
+      {
+        "en": "Does the woman in the video have exquisite makeup?"
+      },
+      {
+        "en": "Is the woman in the video sitting on a sofa?"
+      },
+      {
+        "en": "Does the woman in the video have her hands folded on her lap?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Is the woman in the video talking?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Is the background of the video a red and white wall?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background wall in the video appear blurred?"
+      },
+      {
+        "en": "Does the video present a realistic style?"
+      },
+      {
+        "en": "Is the lighting in the video bright and soft?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the woman in the video holding a small white handbag in her hand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Does the video use a medium shot composition?"
+      },
+      {
+        "en": "Does the camera remain static in the video?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the dress in the video the same dress as in Reference Image 1?"
+      },
+      {
+        "en": "Are the black-and-white design and the large white bow on the dress consistent with Reference Image 1?"
+      }
+    ]
+  },
+  "object/033": {
+    "I-D01": [
+      {
+        "en": "Does the video correctly avoid bringing in the white-haired elderly woman from the reference image?"
+      },
+      {
+        "en": "Does the video correctly avoid bringing in the green clothes or flower shop background from the reference image?"
+      }
+    ],
+    "I-D03": [
+      {
+        "en": "Does the video successfully replace the character, action, and scene while preserving the reference necklace?"
+      }
+    ],
+    "I-E01": [
+      {
+        "en": "Does a young man appear in the video?"
+      },
+      {
+        "en": "Does a transparent goblet appear in the video?"
+      },
+      {
+        "en": "Do stairs and railings appear in the video?"
+      }
+    ],
+    "I-E02": [
+      {
+        "en": "Does the goblet contain amber-colored liquid?"
+      },
+      {
+        "en": "Are the stairs covered with a red carpet?"
+      },
+      {
+        "en": "Are the railings black?"
+      },
+      {
+        "en": "Is the man wearing a long necklace around his neck?"
+      }
+    ],
+    "I-E03": [
+      {
+        "en": "Does the man show an expression of surprise and exclamation?"
+      }
+    ],
+    "I-E06": [
+      {
+        "en": "Does the man subsequently show actions or expressions of talking to someone?"
+      }
+    ],
+    "I-E05": [
+      {
+        "en": "Does the background feature a staircase with a red carpet and black railings?"
+      }
+    ],
+    "I-E07": [
+      {
+        "en": "Is the man holding the clear stemmed glass of amber liquid in his right hand?"
+      }
+    ],
+    "I-E08": [
+      {
+        "en": "Is the video shot in a close-up (focusing on the upper body of the character)?"
+      }
+    ],
+    "I-E09": [
+      {
+        "en": "Does the background of the video show a slightly blurred depth of field effect?"
+      },
+      {
+        "en": "Does the video present a realistic live-action style?"
+      }
+    ],
+    "RF-C01": [
+      {
+        "en": "Is the long necklace in the video the same long necklace as in Reference Image 1?"
+      },
+      {
+        "en": "Are the brown beads, colored spacer beads, and large oval pendant consistent with Reference Image 1?"
+      }
+    ]
+  }
+}
